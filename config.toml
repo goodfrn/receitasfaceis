@@ -1,12 +1,12 @@
-baseURL = "https://recettes-blog-test.pages.dev/"
-languageCode = "fr"
-title = "Testt"
+baseURL = "receitas-faceis.org/"
+languageCode = "pt-BR"
+title = "Receitas Fáceis"
 
 ############################################################################### 
 #  Pagination, taxonomies, permaliens 
 ###############################################################################
 [pagination]
-  pagerSize = 12
+  pagerSize = 20
 
 [taxonomies]
   category = "categories"
@@ -77,7 +77,7 @@ title = "Testt"
 #  Paramètres personnalisables
 ###############################################################################
 [params]
-  description   = "Recettes maison faciles et gourmandes"
+  description = "Receitas caseiras fáceis e deliciosas para o dia a dia"
   defaultImage  = "/img/cover-default.jpg"
   twitterHandle = "@TonCompteX"
 
