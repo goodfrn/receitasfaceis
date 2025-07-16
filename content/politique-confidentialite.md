@@ -1,0 +1,4 @@
+---
+layout: "legal/politique-confidentialite"
+---
+
