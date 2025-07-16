@@ -1,4 +1,4 @@
-baseURL = "receitas-faceis.org/"
+baseURL = "https://receitas-faceis.org/"
 languageCode = "pt-BR"
 title = "Receitas Fáceis"
 
