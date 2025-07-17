@@ -245,7 +245,7 @@ components:
   cta_buttons:
     pin_label: "Fixar"
     pin_aria_label: "Salvar no Pinterest"
-    share_label: "Compartilhar"
+    share_label: "Enviar"
     share_aria_label: "Compartilhar esta receita"
     print_label: "Imprimir"
     print_aria_label: "Imprimir receita"
