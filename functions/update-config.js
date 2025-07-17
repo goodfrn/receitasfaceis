@@ -347,7 +347,10 @@ const SAFE_FIELDS = [
   'components.cta_buttons.print_label',
   'components.cta_buttons.print_aria_label',
   'components.cta_buttons.copy_link',
-
+  'components.cta_buttons.email',      
+  'components.cta_buttons.save_label',     
+  'components.cta_buttons.link_copied',    
+  
   // 🏷️ SYSTÈME DE CATÉGORIES (version simple)
   'categories_system.site_type',
   'categories_system.main_section', 
