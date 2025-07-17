@@ -243,16 +243,16 @@ components:
     recipe_emoji: 🍽️
     time_emoji: ⏱️
   cta_buttons:
-    pin_label: Pin
-    pin_aria_label: Save to Pinterest
-    share_label: Share
-    share_aria_label: Share this recipe
-    print_label: Print
-    print_aria_label: Print recipe
-    copy_link: Copy link
-    email: Email
-    save_label: Save
-    link_copied: Lien copié !
+    pin_label: "Fixar"
+    pin_aria_label: "Salvar no Pinterest"
+    share_label: "Compartilhar"
+    share_aria_label: "Compartilhar esta receita"
+    print_label: "Imprimir"
+    print_aria_label: "Imprimir receita"
+    copy_link: "Copiar link"
+    email: "Email"
+    save_label: "Salvar"
+    link_copied: "Link copiado!"
     share_subject: "Découvrez cette recette :"
   share_menu:
     copy_link: Copier le lien
