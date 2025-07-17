@@ -115,16 +115,16 @@ recipe_page:
     faq: "Perguntas frequentes"
     related: "Você também vai gostar"
     discover: "Inspiração gastronômica"
-    view_all_recipes: "Voir toutes les recettes →"
+    view_all_recipes: "Ver todas as receitas →"
   summary_labels:
-    prep: "Prep:"
-    cook: "Cook:"
+    prep: "Preparo:"
+    cook: "Cozimento:"
     total: "Total:"
-    servings: "Servings:"
-    cuisine: "Cuisine:"
-  chef_note_title: Note de la cheffe
-  about_sidebar_title: Qui suis-je ?
-  about_sidebar_text: Je suis Amelia, passionnée de chimie et de cuisine. J'adore tester des recettes, comprendre les réactions et les rendre délicieuses, accessibles… et parfois un peu magiques.
+    servings: "Porções:"
+    cuisine: "Culinária:"
+  chef_note_title: "Nota da chef"
+  about_sidebar_title: "Quem sou eu?"
+  about_sidebar_text: "Sou Julia, apaixonada por culinária e pelos sabores do Brasil. Adoro testar receitas, entender os ingredientes e torná-las deliciosas, acessíveis... e às vezes um pouco mágicas."
   sectionsTitle:
     ingredients_note: "Sobre os ingredientes"
     instructions_note: "Dicas de preparo"
