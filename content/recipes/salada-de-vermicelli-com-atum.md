@@ -12,7 +12,7 @@ author: "Julia"
 prepTime: PT35M
 cookTime: PT4M
 totalTime: PT39M
-recipeYield: 4 a 6
+recipeYield: 4
 categories: ["Saladas"]
 tags:
 - "salada"
