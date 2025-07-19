@@ -7,7 +7,7 @@
   "image": [ "{{ .Site.BaseURL }}{{ .Params.image }}" ],
   "author": {
     "@type": "Person",
-    "name": "{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}" 
+    "name": "{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}"
   },
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "description": "{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}",
