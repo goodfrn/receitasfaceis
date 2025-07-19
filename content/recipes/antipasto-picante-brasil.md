@@ -25,7 +25,7 @@ keywords:
 - "sabor brasileiro"
 breadcrumb: ["Home", "Recipes", "Lanches e Petiscos"]
 nutrition: 
- calories: "180"
+ calories: "180" 
  fatContent: "16g"
  carbohydrateContent: "5g"
  proteinContent: "1g"
