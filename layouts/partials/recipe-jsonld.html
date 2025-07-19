@@ -61,9 +61,9 @@
   {{- with .Params.nutrition }},
   "nutrition": {
     "@type": "NutritionInformation"
-    {{- with .calories }}, "calories": "{{ . }}"{{ end }}
-    {{- with .carbohydrateContent }}, "carbohydrateContent": "{{ . }}"{{ end }}
+    {{- with .calories }}, "calories": {{ . | default 0 | int }}{{ end }}
     {{- with .fatContent }}, "fatContent": "{{ . }}"{{ end }}
+    {{- with .carbohydrateContent }}, "carbohydrateContent": "{{ . }}"{{ end }}
     {{- with .proteinContent }}, "proteinContent": "{{ . }}"{{ end }}
   }
   {{- end }}
