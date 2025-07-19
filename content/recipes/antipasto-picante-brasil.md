@@ -12,7 +12,7 @@ author: "Julia"
 prepTime: PT40M
 cookTime: PT10M
 totalTime: PT50M
-recipeYield: 3 copos médios
+recipeYield: 3
 categories: ["Lanches e Petiscos"]
 tags:
 - "aperitivo"
