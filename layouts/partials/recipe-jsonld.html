@@ -14,7 +14,8 @@
   "prepTime": "{{ .Params.prepTime }}",
   "cookTime": "{{ .Params.cookTime }}",
   "totalTime": "{{ .Params.totalTime }}",
-  "recipeYield": "{{ with .Params.recipeYield }}{{ . }}{{ else }}{{ "" }}{{ end }}",
+  {{- $yield := .Params.recipeYield | replaceRE "[^0-9]" "" }}
+  {{- if $yield }}"recipeYield": {{ $yield | int }},{{ else }}"recipeYield": "",{{ end }}
   "recipeCategory": "{{ with .Params.categories }}{{ index . 0 }}{{ else }}{{ "" }}{{ end }}",
   "recipeCuisine": "{{ with .Params.cuisine }}{{ . }}{{ else }}{{ "" }}{{ end }}",
   "keywords": [
