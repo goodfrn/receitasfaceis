@@ -12,7 +12,7 @@ author: "Julia"
 prepTime: PT10M
 cookTime: PT25M
 totalTime: PT35M
-recipeYield: 4 porções
+recipeYield: 4
 categories: ["Acompanhamentos"]
 tags:
 - "mexicana"
