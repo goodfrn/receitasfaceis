@@ -12,7 +12,7 @@ author: "Julia"
 prepTime: PT20M
 cookTime: PT4H
 totalTime: PT4H20M
-recipeYield: 6
+recipeYield: "6 porções"
 categories: ["Carnes"]
 tags:
 - "comfort food"
