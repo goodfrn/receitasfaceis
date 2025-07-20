@@ -12,7 +12,7 @@ author: "Julia"
 prepTime: PT20M
 cookTime: PT25M
 totalTime: PT45M
-recipeYield: 4 porções
+recipeYield: 4
 categories: ["Pratos Principais"]
 tags:
 - "receitas"
