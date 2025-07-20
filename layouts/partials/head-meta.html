@@ -4,6 +4,8 @@
 {{ $description := cond (isset .Params "description") .Params.description .Site.Params.description }}
 {{ $image       := cond (isset .Params "image") (index .Params.image 0) .Site.Params.defaultImage }}
 
+
+<meta name="p:domain_verify" content="5613e98c0cb18d3bf799a481374becb3"/>
 <!-- OpenGraph -->
 <meta property="og:type"        content="{{ if .IsHome }}website{{ else if eq .Section "recipes" }}article{{ else }}website{{ end }}">
 <meta property="og:title"       content="{{ $title }}">
