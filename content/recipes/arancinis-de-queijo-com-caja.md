@@ -12,7 +12,7 @@ author: "Julia"
 prepTime: PT50M
 cookTime: PT55M
 totalTime: PT1H45M
-recipeYield: 60 unidades
+recipeYield: 60 
 categories: ["Lanches e Petiscos"]
 tags:
 - "aperitivo"
