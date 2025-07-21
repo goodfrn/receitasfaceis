@@ -44,11 +44,13 @@
 
 <!-- Google Analytics -->
 {{ if .Site.Params.analytics.ga4 }}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.analytics.ga4 }}"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MH344REJEX"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', '{{ .Site.Params.analytics.ga4 }}');
+
+  gtag('config', 'G-MH344REJEX');
 </script>
 {{ end }}
