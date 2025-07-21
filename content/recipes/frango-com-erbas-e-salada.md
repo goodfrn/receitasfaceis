@@ -1,0 +1,95 @@
+---
+title: "Frango com Ervas e Salada Crocante"
+slug: "frango-com-erbas-e-salada"
+description: "Frango assado com ervas frescas, salpicado com cebolinha e tomilho no lugar do alecrim. Molho feito com manteiga, farinha, caldo de galinha, alho, mel e vinagre de maçã substituindo o vinagre de vinho branco. Salada com alface, chalotas fritas, mostarda Dijon no lugar da mostarda à antiga, cebola roxa picada, alcaparras, e tempero clássico. Fritura rápida para a chalota ficar crocante. Temperos intensos. Texturas que contrastam. Tempo ajustado para forno, molho engrossando mais rápido. Receita para 6 porções."
+metaDescription: "Frango com Ervas e Salada Crocante, uma receita saborosa que combina frango assado e salada refrescante. Sabor intenso e texturas contrastantes."
+ogDescription: "Delicie-se com Frango com Ervas e Salada Crocante, uma união perfeita de ingredientes frescos e técnicas simples. Sabor que encanta."
+focusKeyphrase: "frango com ervas"
+date: 2025-07-21
+draft: false
+image: frango-com-erbas-e-salada.png
+author: "Julia"
+prepTime: PT45M
+cookTime: PT1H10M
+totalTime: PT1H55M
+recipeYield: "6 porções"
+categories: ["Aves"]
+tags:
+- "frango"
+- "salada"
+- "receitas fáceis"
+- "culinária"
+- "almoço"
+keywords:
+- "receita de frango"
+- "prato principal"
+- "culinária francesa"
+breadcrumb: ["Home", "Recipes", "Aves"]
+nutrition: 
+ calories: "420"
+ fatContent: "25g"
+ carbohydrateContent: "12g"
+ proteinContent: "38g"
+ingredients:
+- "=== Frango ==="
+- "1 frango de aproximadamente 1,3 kg"
+- "5 ml (1 c. chá) de sal fino"
+- "20 ml (1 c. sopa) de azeite de oliva"
+- "2 cebolinhas verdes picadas finamente"
+- "30 ml (2 c. sopa) de salsa fresca picada"
+- "2,5 ml (1/2 c. chá) de tomilho fresco picado"
+- ""
+- "=== Molho ==="
+- "30 ml (2 c. sopa) de manteiga sem sal"
+- "25 ml (2 c. sopa) de farinha de trigo não industrializada"
+- "900 ml (3 3/4 xícaras) de caldo de galinha concentrado"
+- "4 dentes de alho picados"
+- "7 ml (1 1/2 c. chá) de mel"
+- "5 ml (1 c. chá) de vinagre de maçã"
+- ""
+- "=== Salada ==="
+- "Óleo de girassol para fritar"
+- "2 chalotas cortadas em rodelas finas"
+- "35 g (1/4 xícara) de farinha de trigo não industrializada"
+- "45 ml (3 c. sopa) de azeite de oliva extra virgem"
+- "15 ml (1 c. sopa) de mostarda Dijon"
+- "5 ml (1 c. chá) de alcaparras picadas"
+- "1 cebola roxa pequena picada fina"
+- "180 g (6 xícaras) de folhas de alface sortidas"
+- "Sal e pimenta-do-reino moída a gosto"
+instructions:
+- "=== Preparação do Frango ==="
+- "Pré-aqueça o forno a 205 °C ajustando a grade para o meio."
+- "Coloque o frango numa assadeira. Espalhe o sal por toda pele, pressionando, especialmente nas coxas e peitos. Deixe descansar por 16 minutos para absorver."
+- "Passe o azeite em toda superfície com as mãos. Misture cebolinha, salsa e tomilho. Passe essa mistura sobre o frango. Tempere com pimenta-do-reino. Leve ao forno por cerca de 1 hora e 10 minutos ou até a temperatura interna atingir 79 °C no osso da coxa."
+- ""
+- "=== Molho ==="
+- "Enquanto o frango assa, derreta a manteiga numa panela em fogo alto. Junte a farinha e mexa sempre até ganhar cor dourada leve, quase âmbar."
+- "Acrescente o caldo de galinha e mexa sem parar para não empelotar."
+- "Adicione alho, mel e vinagre de maçã. Abaixe o fogo e deixe reduzir sem parar de mexer por 25 minutos, até engrossar. Tempere com sal e pimenta a gosto."
+- "Mantenha em temperatura baixa."
+- ""
+- "=== Salada e Chalotas ==="
+- "Numa panela pequena, coloque o óleo de girassol até a altura de 2,5 cm e aqueça até 180 °C."
+- "Passe as rodelas de chalota na farinha e retire o excesso batendo suavemente. Frite até dourar e ficar crocante, cerca de 2 minutos. Tire para papel absorvente e tempere com sal e pimenta do reino. Reserve."
+- "Numa tigela grande, misture azeite, mostarda Dijon, alcaparras e cebola roxa. Tempere com pitada de sal e pimenta. Acrescente as folhas de alface e as chalotas fritas, misturando delicadamente para não murchar."
+- ""
+- "=== Montagem Final ==="
+- "Assim que o frango estiver pronto, retire o excesso de gordura da assadeira com uma colher e junte ao molho para intensificar o sabor."
+- "Corte o frango em porções e sirva acompanhado da salada crocante e o molho quente."
+introduction: "Frango com ervas frescas, pele crocante. Salada com textura e sabor fortes, chalotas fritas, mostarda Dijon e alcaparras. Molho que combina manteiga e caldo de galinha, toque de mel e vinagre de maçã. Tropas brigando pelo prato. Cebolas verdes no frango, cebola roxa na salada. Assar frango no ponto, suculento. Chalotas em farinha superfina, estalar no óleo quente. Molho engrossando devagar, aroma subindo. Prato clássico com truques simples e ajustes para sabor do Brasil. Tempo contado, atenção na cozinha. Não tem segredo, só jeito. Fácil errar no sal ou fritura, mas se acertar, elogios garantidos. Receita para reunião tranquila, comida que junta. Prato principal, quarta-feira, almoço rápido ou domingo especial. Saudável, sem alergênicos. Ajustes para toque nacional, familiar. Cheiro de casa, sabor de festa."
+ingredientsNote: "Frango médio é melhor pra assar no forno de casa. Um pouco menos pesado que os 1,8 kg originais, para garantir cozimento uniforme e pele mais crocante. O sal é reduzido para controlar o salgado; azeite de oliva extra virgem traz aroma e hidratação à pele. Troquei o alecrim pelo tomilho fresco para um aroma mais leve e menos resinento, combinando com a salsa fresca. No molho, a farinha é levemente aumentada para espessar mais rápido e o fundo de veau substituído por caldo de galinha caseiro — mais fácil de achar aqui. Vinagre de maçã dá um toque mais adocicado e menos ácido que o vinho. Na salada, substiti a mostarda à antiga pela Dijon, mais comum no Brasil, que junta cremosidade e um toque levemente picante. As chalotas fritas estão envoltas em menos farinha, facilitando a crocância sem empapar. O óleo de girassol é mais neutro para fritar sem alterar aroma. Cebola roxa no lugar da cebola verde acrescenta crocância e cor na salada. Alface, a gosto, dica usar variedades que aguentem mistura e mantenham crocância, tipo mimosa ou americana. Sal e pimenta a gosto, claro, mas cuidado pra não exagerar com os dois. Tudo pensado para facilitar aí na cozinha e garantir sabor intenso e textura envolvente."
+instructionsNote: "O frango precisa descansar com o sal para que a pele absorva e fique crocante depois. Não pule essa etapa. Depois do tempero com azeite e ervas, atenção para não exagerar na quantidade, o objetivo é ressaltar o sabor natural, não cobrir. No forno, temperatura mais alta inicial e tempo ligeiramente reduzido para evitar ressecamento, fique de olho. Para o molho, a farinha deve ser dourada devagar e mexida sem parar para não queimar — fique perto. A adição do caldo precisa ser feita aos poucos, mexendo para evitar grumos. No final, o mel e o vinagre trouxeram equilíbrio, então ajuste sal e pimenta no fim. Para fritar as chalotas, óleo deve estar quente, mas não fumegando para não queimar a farinha. A chalota frita deve estar dourada mas não preta, para garantir crocância e sabor adocicado. Use papel toalha para escorrer o excesso de óleo e sempre tempere imediatamente. A salada deve ser misturada delicadamente para não murchar a alface e preservar as texturas. O molho só deve ser incorporado depois que o frango estiver pronto e seu caldo recolhido para evitar gordura excessiva. Sirva imediatamente para manter crocância e temperatura do prato. Essa sequência garante equilíbrio, sabor e apresentação sem complicar demais."
+tips:
+- "Frango precisa de sal antes de assar. Deixe por 16 minutos. Isso vai ajudar a pele a ficar crocante. Sal é essencial. Sem exagerar. Equilíbrio."
+- "Azeite é seu amigo. Passe em toda superfície do frango. Mistura de ervas frescas aromatiza. Cuidado com a quantidade. Quer ressaltar o sabor."
+- "Molho deve ser monitorado. Não pode empelotar. Faça devagar, mexendo sem parar. Farinha queima fácil. Adicionar caldo aos poucos. Garanta espessura."
+- "Chalotas devem ser crocantes. Quente, mas não fumegante o óleo. Frite rapidamente. Apenas 2 minutos. Papel toalha para retirar excesso. Temperar ao sair do óleo."
+- "Salada é prática. Combine azeite, mostarda e alcaparras. Misture delicadamente. Não amasse a alface. Folhas crocantes são essenciais. Textura é fundamental."
+faq:
+- "q: Qual a melhor forma de armazenar o frango? a: Pode ser em recipiente hermético. Geladeira por até 3 dias. Ou congele se não usar rápido."
+- "q: Como evitar que o molho fique ralo? a: Farinha precisa dourar primeiro. Mexa sempre para não grudar. Ajuste no final com sal e pimenta."
+- "q: Como garantir que a chalota fique bem crocante? a: O óleo deve estar na temperatura certa. Frite rápido. E retire o excesso de óleo imediatamente."
+- "q: Posso trocar a mostarda Dijon por outra? a: Sim, mas a Dijon traz picância e cremosidade. Outras mostardas podem mudar sabor. Mas use o que tiver."
+
+---
