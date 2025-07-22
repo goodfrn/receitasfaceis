@@ -82,7 +82,7 @@ title = "Receitas Fáceis"
   twitterHandle = "@TonCompteX"
 
 [params.analytics]
-  ga4 = ""
+  ga4 = "G-MH344REJEX"
 
 [params.ui]
   primary     = "#0f52ba"
