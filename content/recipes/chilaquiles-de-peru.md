@@ -1,0 +1,95 @@
+---
+title: "Chilaquiles de Peru"
+slug: "chilaquiles-de-peru"
+description: "Chilaquiles com peru, usando um caldo aromático delicioso. Pimenta chipotle substitui guajillo, adicionando toque defumado. Caju no lugar do creme 15% e queijo prato para derreter bem. A salsa leva um toque de páprica defumada. Preparação mais rápida, cozimento ajustado. Serve até 7 pessoas. Uma reinterpretação mexicana-brasileira da receita tradicional, fácil de preparar e rica em sabores terrosos e frescos com coentro e abacate."
+metaDescription: "Chilaquiles de Peru. Prato mexicano-brasileiro de nachos com peru, pimenta chipotle e creme de caju, delicioso e fácil de preparar"
+ogDescription: "Descubra os chilaquiles de peru. Uma combinação perfeita de sabores com nachos, pimenta chipotle e um toque de creme de caju."
+focusKeyphrase: "Chilaquiles de Peru"
+date: 2025-07-22
+draft: false
+image: chilaquiles-de-peru.png
+author: "Julia"
+prepTime: PT40M
+cookTime: PT1H25M
+totalTime: PT2H05M
+recipeYield: "7 porções"
+categories: ["Pratos Principais"]
+tags:
+- "mexicano"
+- "brasileiro"
+- "comfort food"
+- "nutritivo"
+keywords:
+- "receita chilaquiles"
+- "cozinha mexicana"
+- "prato com peru"
+breadcrumb: ["Home", "Recipes", "Pratos Principais"]
+nutrition: 
+ calories: "420"
+ fatContent: "25g"
+ carbohydrateContent: "32g"
+ proteinContent: "28g"
+ingredients:
+- "=== Caldo de Peru ==="
+- "1 cebola média, sem casca"
+- "4 cravos-da-índia"
+- "1 coxa de peru, bem lavada"
+- "1 cenoura média, descascada"
+- "1 talo de salsão"
+- "6 dentes de alho, descascados"
+- "5 ramos de coentro fresco"
+- "1 folha de louro"
+- "1 ramo de tomilho fresco"
+- "=== Molho Chile ==="
+- "25 g de pimenta chile chipotle seca"
+- "350 ml de caldo do peru fervente"
+- "10 dentes de alho, descascados"
+- "3 ramos de tomilho fresco"
+- "2 paus de canela de 9 cm"
+- "1 colher de chá de páprica defumada"
+- "=== Chilaquiles ==="
+- "1 pacote de 350 g de nachos de milho sem sal"
+- "900 ml de peru cozido desfiado"
+- "450 ml de molho chile"
+- "120 ml de creme de caju (feito com castanha-de-caju hidratada e batida)"
+- "600 ml de queijo prato ralado"
+- "1 abacate fatiado"
+- "1 tomate picado em cubos"
+- "70 ml de cebola picada"
+- "120 ml de creme de leite fresco ou crème fraîche"
+- "80 ml de coentro fresco picado"
+instructions:
+- "=== Preparo do caldo de peru ==="
+- "Picote a cebola com os cravos, coloque numa panela grande junto com o peru, cenoura, salsão, alho, coentro, louro e tomilho."
+- "Cubra com cerca de 5,5 litros de água fria. Leve ao fogo alto e, quando ferver, retire a espuma com uma escumadeira."
+- "Deixe cozinhar em fogo baixo, panela semiaberta, por aproximadamente 1h05, até o peru ficar macio, quase soltando do osso."
+- "Coe o caldo e reserve. Desosse a carne do peru para o preparo do prato."
+- "=== Molho chile ==="
+- "Em frigideira seca, toste as pimentas chipotle por cerca de 50 segundos, retire os cabinhos e as sementes conforme preferir."
+- "Coloque as pimentas num recipiente e cubra com o caldo quente do peru, deixando infundir por 18 minutos. Coe depois e reserve o líquido."
+- "Na mesma frigideira, toste os dentes de alho, os ramos de tomilho e os paus de canela até liberar aroma, por volta de 3 minutos."
+- "No liquidificador, bata as pimentas, alho, tomilho, canela e o caldo reservado até obter um molho bem liso."
+- "Passe por uma peneira fina para eliminar resíduos. Acrescente a páprica defumada e ajuste o sal. Reserve."
+- "=== Montagem dos chilaquiles ==="
+- "Aqueça o forno a 185ºC com a grade posicionada no centro."
+- "Num refratário quadrado de 28 cm, coloque metade dos nachos, distribua a carne de peru, metade do molho chile e espalhe metade do creme de caju."
+- "Cubra com o restante dos nachos, o restante do molho e do creme."
+- "Finalize com o queijo prato ralado. Leve ao forno por cerca de 14 minutos até derreter e borbulhar."
+- "Retire do forno e decore com fatias de abacate, cubos de tomate, cebola picada, uma colher do creme de leite e o coentro fresco."
+- "Sirva imediatamente, acompanhado de uma bebida gelada ou limonada com hortelã."
+introduction: "Começa com peru cozinhando no caldo que leva cebola com cravo, cenoura, salsão e alho, mais um pouco de ervas frescas. Mistura o defumado da pimenta chipotle, que substitui a clássica guajillo, acrescentando uma nota intensa. Creme feito de castanhas, mais leve e com sabor de noz, cremosa na medida certa. Queijo prato entra pra envolver e gratinar, deixando tudo cremoso e atraente. Camadas de nachos, peru e molho que se intercalam, assado por cerca de 14 minutos, até o queijo derreter. Na hora de servir, abacate fresco, cebola e tomates dão toque fresco, complementado por coentro e mais uma camada de creme de leite. É quente, acolhedor, templo de sabores e texturas. Prato para dividir em reunião de amigos, todo mundo aproveita, lambuzando os dedos e pedindo mais. Sem frescura, só sabor e simplicidade feitas com alma."
+ingredientsNote: "Cebola com cravo amarra o caldo com perfume natalino, aquele aroma. Cenoura e salsão adicionam corpo e leve doçura, equilíbrio para o tempero mais pesado do alho e especiarias. O peru tem que estar bem lavado para não amargar. Substituí guajillo por chipotle para aquele toque defumado que lembra fogueira em festa junina, versão sul-americana na conexão. O creme é diferente, fiz feito de castanha-de-caju hidratada, uma alternativa vegana e com sabor amanteigado. Queijo prato é aquele que derrete fácil, brasileiro e presença garantida em lanches e pratos tradicionais, mais suave que cheddar intenso. Tomate fresco e cebola trazem crocância e frescor, o equilíbrio necessário para não ficar pesado. A salsa tem que ficar lisinha, passada para tirar qualquer pedacinho duro, assim o molho escorre bem sobre as tortilhas. É receita de mão suja, aquela que envolve dedo no molho e abacate, sem frescura."
+instructionsNote: "O caldo precisa ir sem pressa ao fogo, se não o peru vai ficar duro, aquela carne fibrosa ruim de mastigar. Espumar é fundamental para um caldo claro, sabor limpo. Na hora de tostar os pimentas, cuidado para não queimar, pimenta queimada amarga todo o molho. O tempo de infusão do chile cozido no caldo quente é importante para extrair sabor sem exagerar no picante. O molho batido no liquidificador deve ficar bem liso, nada de restos grossos, assim a textura fica cremosa na hora de montar. A montagem no refratário é em camadas, para que as tortilhas absorvam o molho e o creme e fiquem macias por dentro, mas mantendo alguma crocância. O forno não pode passar de 15 minutos, senão o queijo e o creme secam demais. No fim, a decoração tem que ser fresca, para equilibrar a textura cremosa e pesada. Sirva assim que tirar do forno, frio perde a graça, principalmente com o creme e o abacate, que oxidam rápido. Em versões para festa, faça o molho e o caldo com antecedência. Depois junte tudo pouco antes de servir, aqueça no forno."
+tips:
+- "Caldo de peru precisa ser feito com paciência. Água fria, cebola, cravo, e outros. Espuma com escumadeira. Cozimento em fogo baixo. Cuidado, se não fica duro. Isso faz a diferença."
+- "Pimenta chipotle é a chave. Tostada na frigideira, mas não queime. Depois, molho com caldo quente. Infusão por 18 minutos. Todo sabor vem aqui. Textura é importante. Liso é o ideal."
+- "Montagem é em camadas. Nachos, carne, molho. Refratário de 28 cm, vai no forno. A 185ºC. Não demore, queijo seca. Em 14 minutos fica no ponto. Borbulhando, dourado."
+- "Finalização faz a diferença. Abacate picado, frescor. Tomate, cebola também. Coentro picado traz vida. Creme de leite fresco no final. Sirva quente, sabor intenso. Com bebida gelada combina."
+- "Não faça tudo no último minuto. Caldo pode ser feito antes. Molho chipotle também. Monte na hora, com tudo quente. Assim tem sabor na hora de servir. Faça com carinho."
+faq:
+- "q: Como funciona o preparo do caldo de peru? a: Cozimento longo, ingredientes frescos. Cebola com cravo, cenoura e salsão. Água e ervas fazem o sabor. Remova a espuma para clareza."
+- "q: O que substituir se não encontrar pimenta chipotle? a: Pimenta seca similar pode ser usada. Mas chipotle é defumado. Misturar com páprica talvez. Lembre-se, picância da pimenta aumenta."
+- "q: Chilaquiles podem ser armazenados? a: Sobras duram na geladeira, mas textura muda. Nachos ficam moles. Reaquecer no forno ajuda. Se possível, monte fresco para melhor resultado."
+- "q: Como variar a receita? a: Pode adicionar frango ou carne moída. Se preferir, colocar mais legumes. Experimente outros queijos, dependendo do que tem. A base é a mesma, mas criatividade é sempre bem-vinda."
+
+---
