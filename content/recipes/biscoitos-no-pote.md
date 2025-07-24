@@ -12,7 +12,7 @@ author: "Julia"
 prepTime: PT25M
 cookTime: PT14M
 totalTime: PT39M
-recipeYield: "1 pote 20 biscoitos"
+recipeYield: "20 biscoitos"
 categories: ["Lanches e Petiscos"]
 tags:
 - "biscoitos"
