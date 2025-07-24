@@ -1,5 +1,5 @@
 ---
-title: "Biscoitos no Pote" 
+title: "Biscoitos no Pote"
 slug: "biscoitos-no-pote"
 description: "Mistura seca em camadas que vira biscoito. Farinha, açúcar mascavo, chocolate e aveia. Camadas no pote de vidro. Sem ovo, sem leite, sem nozes. Troca na farinha e chocolate. Meio pão de forma e aveia em floco normal. Passos bagunçados, tempo ligeiro mudou. Rápido, doce, prático. Presente com etiqueta explicativa. Fácil para crianças e quem não manja muito. Coisa simples, gostinho caseiro."
 metaDescription: "Biscoitos no Pote, camadas de sabor em um vidro. Prático, gostoso, perfeito para presentear, sabor caseiro e rápido de fazer."
