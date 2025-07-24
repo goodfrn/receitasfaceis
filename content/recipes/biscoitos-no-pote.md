@@ -43,7 +43,7 @@ instructions:
 - "Espalhe as gotas de chocolate meio amargo, distribuindo para formar uma camada visível."
 - "Por cima, aveia em flocos mais grossos. Pote quase cheio ainda falta o toque final."
 - "Jogue as sementes de girassol torradas por cima. Dá crocância, inesperado e legal."
-- "Feche o pote bem fechado. Coloque uma etiqueta explicando: "Misture o conteúdo em uma tigela, adicione 60 ml óleo vegetal e 60 ml água, mexa até formar massa, modele bolinhas, asse em forno 180°C por 14 minutos"."
+- "Feche o pote bem fechado. Coloque uma etiqueta explicando, Misture o conteúdo em uma tigela, adicione 60 ml óleo vegetal e 60 ml água, mexa até formar massa, modele bolinhas, asse em forno 180°C por 14 minutos"
 - "Opcional: depois de assar, passar biscoitos em canela com açúcar para dar tempero brasileiro."
 - "Aproveite, bagunçado, simples, rápido, biscoito quase caseiro."
 introduction: "Biscoito em pote. Camada sobre camada. Nada complicado. Você separa, empilha, presenteia. Coisa prática para quem gosta de cozinhar rápido tentando parecer gourmet. Troca a farinha normal por integral, mais saudável. Chocolate preferido meio amargo, mais forte, menos doce. Aveia trocada para flocos grossos, mais textura. Semente de girassol entra para um twist crocante e inesperado, muda padrão. Pote é de 1 litro, não de meio, fica mais volumoso, visual legal. Receita restrita, sem ovo e lácteos, classifica bem para veganos e intolerantes. O tempo de forno leve redução, 14 minutos, deixa biscoito macio por dentro."
