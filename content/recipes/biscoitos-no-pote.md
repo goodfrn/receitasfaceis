@@ -37,7 +37,7 @@ ingredients:
 - "100 g aveia em flocos grossos"
 - "30 g semente de girassol torrada"
 instructions:
-- " Pegue um pote de vidro transparente, 1 litro, limpo e seco. Comece com a farinha integral, jogue direto no fundo, espalhe bem."
+- "Pegue um pote de vidro transparente, 1 litro, limpo e seco. Comece com a farinha integral, jogue direto no fundo, espalhe bem."
 - "Depois, bicarbonato e sal, não esqueça o sal. Misture as três coisas secas só no pote, sem raspar as laterais."
 - "Agora a camada do açúcar mascavo. Pressione levemente com uma colher pra ficar compactado, mas não apalpado."
 - "Espalhe as gotas de chocolate meio amargo, distribuindo para formar uma camada visível."
