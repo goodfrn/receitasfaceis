@@ -58,7 +58,7 @@
       {{- end -}}
     ]
   }
-  {{- with .Params.nutrition }},
+  {{- with .Params.nutrition }}, 
   "nutrition": {
     "@type": "NutritionInformation"
     {{- $cal := .calories | replaceRE "[^0-9]" "" }}
