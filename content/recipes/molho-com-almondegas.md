@@ -1,0 +1,96 @@
+---
+title: "Molho com Almôndegas à Tia Nancy"
+slug: "molho-com-almondegas"
+description: "Molho robusto de tomates com alho e ervas, almôndegas misturando carne bovina e suína, realçado com ervas frescas. Salsicha italiana fatiada integra o molho, cozinhando lentamente para sabor profundo. Ideal para massas longas. Quantidades ajustadas, ingredientes trocados para toque diferente, preparo um pouco alterado para textura e aroma únicos."
+metaDescription: "Molho com Almôndegas à Tia Nancy é um prato robusto. Combina tomate, alho e ervas com almôndegas suculentas e salsicha calabresa. Perfeito para massas."
+ogDescription: "Experimente o Molho com Almôndegas à Tia Nancy. Uma receita rica em sabor, com tomates, ervas e almôndegas de carne. Ideal para o almoço em família."
+focusKeyphrase: "Molho com Almôndegas à Tia Nancy"
+date: 2025-07-28
+draft: false
+image: molho-com-almondegas.png
+author: "Julia"
+prepTime: PT50M
+cookTime: PT2H30M
+totalTime: PT3H20M
+recipeYield: "45 almôndegas"
+categories: ["Massas e Risotos"]
+tags:
+- "cozinha caseira"
+- "receitas de família"
+- "prato principal"
+- "massas"
+keywords:
+- "receita italiana"
+- "massa"
+- "culinária brasileira"
+breadcrumb: ["Home", "Recipes", "Massas e Risotos"]
+nutrition: 
+ calories: "350"
+ fatContent: "18g"
+ carbohydrateContent: "15g"
+ proteinContent: "28g"
+ingredients:
+- "=== MOLHO ==="
+- "6 dentes de alho, picados finos"
+- "45 ml (3 colheres de sopa) de azeite extravirgem"
+- "2 latas de 800 ml de tomates pelados italianos"
+- "4 latas pequenas de 150 ml de extrato de tomate"
+- "1 litro (4 copos) de água filtrada"
+- "1 folha de louro fresca"
+- "5 salsichas calabresas defumadas"
+- "100 ml (meia xícara) de manjericão fresco cortado em tirinhas"
+- "Sal grosso e pimenta preta moída na hora"
+- "=== ALMÔNDEGAS ==="
+- "700 ml (3 xícaras) de pão italiano em cubos pequenos"
+- "300 ml (1 e 1/4 xícara) de água fervente"
+- "700 g de carne moída bovina"
+- "700 g de carne moída suína"
+- "4 dentes de alho picados bem pequenos"
+- "4 ovos caipiras"
+- "200 ml (1 xícara) de queijo parmesão ralado na hora"
+- "80 ml (1/3 xícara) de salsinha fresca picada"
+- "15 ml (3 colheres de chá) de sal marinho"
+- "Pimenta do reino preta a gosto"
+- "80 ml (1/3 xícara) de azeite extravirgem"
+instructions:
+- "=== PREPARO DO MOLHO ==="
+- "1. Na panela grande, dourar o alho no azeite até perfumar, uns 2 minutos."
+- "2. Abrir as latas de tomate pelado, esmagar os tomates com as mãos ou colher de pau direto na panela."
+- "3. Adicionar o extrato de tomate, água, folha de louro. Misturar bem."
+- "4. Tempere com sal grosso e pimenta no moinho."
+- "5. Levar à fervura, baixar o fogo e deixar cozinhar lentamente por uns 50 minutos. Mexer de vez em quando."
+- "6. Em outra panela, cozinhar as salsichas calabresas por 7 minutos em água fervente. Escorrer, cortar em rodelas de 1 cm."
+- "=== PREPARO DAS ALMÔNDEGAS ==="
+- "7. No bowl grande, colocar os cubos de pão, regar com água quente, deixar absorver por 3 minutos."
+- "8. Espremer pão para tirar o excesso de líquido."
+- "9. Juntar ao pão as carnes moídas, alho, ovos, parmesão, salsinha, sal e pimenta."
+- "10. Misturar tudo com as mãos até incorporar bem, não exagerar para não ficar duro."
+- "11. Com ajuda de duas colheres, formar bolinhas de mais ou menos 40 ml (2 colheres de sopa bem cheias)."
+- "12. Em frigideira grande, aquecer metade do azeite, dourar as almôndegas aos poucos - uns 8 a 10 por vez - até ficarem bem seladas por fora, uns 6 minutos girando para dourar todos os lados."
+- "13. Transferir almôndegas e rodelas de salsicha para panela do molho."
+- "14. Cozinhar em fogo baixo por cerca de 1h20, mexendo suavemente para não quebrar as almôndegas."
+- "15. 10 minutos antes do fim, adicionar o manjericão fresco, dar última mexida."
+- "16. Ajustar sal e pimenta, desligar o fogo."
+- "17. Servir com massa longa como espaguete, talharim, ou até polenta cremosa."
+- "=== DICAS EXTRAS ==="
+- "Molho pode ser feito no dia anterior e guardado na geladeira, só juntar às almôndegas na hora de finalizar o cozimento."
+- "Salsicha calabresa defumada dá um toque diferente e sabor mais forte."
+- "Tempo do cozimento das almôndegas pode variar, importante que fiquem macias por dentro e firmes por fora."
+- "O parmesão pode ser substituído por queijo coalho ralado se quiser algo mais brasileiro."
+- "Misturar bem a carne com pão hidratado é chave para almôndegas suculentas e leves."
+introduction: "Esses sabores, este molho grosso, pedaços de salsicha fatiada, almôndegas que estalam na frigideira no azeite quente. Combinação de carne moída de boi e suína, pão hidratado pra dar liga sem perder maciez. Ralado parmesão, alho sozinho e transformado, branco, dourando no azeite. Folha de louro perfume, tomate italiano descascado esmagado, cozido até o vermelho virar intenso. Salsinha no final verde fresquinha. Manjericão substitui o que antes era manjericão, final que junta tudo e arremata o sabor. Prato familiar, almoço espaçado, domingo de cozinheira que adora mexer na panela, virar o cheiro do corredor ao quarto. Serve com espaguete ou polenta pra completar, robusto, raiz, bem brazuca do dedo sujo de molho. Receita modificada, com tempos ajustados, ingredientes trocados pra bom sabor. Cumpre seu papel, mata fome e aquece coração."
+ingredientsNote: "Importante preparar os ingredientes com calma. Alho picado fino libera aroma sem ficar muito agressivo. Tomate pelado italiano, de lata, mais doce e menos ácido que o tomate nacional comum. O extrato de tomate ajuda a engrossar e dar cor ao molho. A folha de louro é fundamental pra dar aquele aroma marcante, mas não deixa muito tempo pra não amargar. A salsicha calabresa defumada trocou a salsicha italiana da receita original, traduz um sabor mais familiar aqui pro Brasil, algo mais marcante. Pão italiano deve estar bem fresco, para hidratar uniformemente com a água quente. Á água precisa estar quase fervendo para amolecer o pão, mas não banalizar a textura no molho. O parmesão pode ser trocado por outro queijo duro, mas o queijo ralado sempre fresco muda tudo no sabor e no aroma. A salsinha fresca substitui o persil para dar um toque mais típico daqui, verde e refrescante. Sal grosso na quantidade certa faz toda diferença, não exagera, para não esconder o sabor natural da carne. Pimenta do reino moída na hora é imbatível. O azeite extravirgem aquece com o alho e não deixa a gordura pesada no prato, hidrata a carne e sela as almôndegas com elegância. Tudo deve estar pronto e medido para a execução ser rápida e eficiente sem estresse."
+instructionsNote: "O passo a passo foi alterado para tirar um pouco do ritmo tradicional, deixando as etapas mais segmentadas e com tempos ajustados. Primeiro uma pré-base do molho com alho e tomates, deixando os tomates bem amassados para extrair melhor o sabor. A salsicha é cozida em água para tirar o excesso de gordura e depois frita com as almôndegas para dar textura. A hidratação do pão em água quente é rápida, só 3 minutos, para garantir que a mistura fique ligeira e aerada, não pesada. Misturar os ingredientes das almôndegas com as mãos é essencial para sentir a textura e evitar que fique pastoso. A fritura em porções pequenas garante cor e crocância por fora sem ressecar o interior. A cocção final lenta, longuíssima chamando ao sabor concentrado, no fogo baixo, mexendo com cuidado para não desmanchar as bolas. Só no final o manjericão entra, para preservar o aroma fresco e intenso. E o ajuste do tempero de sal e pimenta deve ser delicado, afinal a salsicha já é salgada. Essa organização evita que se perca detalhe do molho, com camadas de sabor que se constroem devagar."
+tips:
+- "Aqueça bem o azeite e o alho. Dourar é essencial. Deixa aroma intenso. Atenção pro alho não queimar. Queimado amarga. Salsicha defumada é grande. Cozinhe primeiro, senão a gordura excessiva. Escorra bem antes de fritar. Usar mãos para misturar a carne, isso é chave. Sem exagero, muito cuidado. Para almôndegas leves."
+- "Almôndegas precisam ser seladas bem. Parar pra girar, dourar todos os lados. Frigideira grande ajuda, não apertar. Trabalhe em porções. Fogo médio alto é bom. Fogo baixo no molho. Pra absorver os sabores, deixar tudo um tempo."
+- "Manjericão no final. Não cozinhe muito. Frescor, aroma se perde. Ajuste sal e pimenta antes de servir. Salsicha já é salgada. Tenha cuidado. Molho pré-preparado é possível, melhora sabor. Feito com calma, peça de amor."
+- "Pão precisa ser fresco, esse é o truque. Umidade perfeita, não deixar encharcar. Água quente é boa. Umidade deixa leve. Almôndega também, isso é crucial. Não murcha, fica suculenta. Observe o tempo de cozimento. Quero intensificar, esses sabores."
+- "Misturas de carnes, muda textura. Se preferir, troque por só carne suína ou só bovina. Isso altera tudo. O queijo, parmesão especial, sempre fresco. Opções de queijos duros, mas frescor é o que faz a diferença. Essas escolhas fazem um prato especial."
+faq:
+- "q: Quais são as melhores carnes para almôndegas? a: Mistura de carne bovina e suína resulta ideal. A textura agradece. Frango é alternativa popular também, mas muda sabor. Pode trocar. Aconselho manter proporção das carnes."
+- "q: Como armazenar o molho? a: Pode guardar na geladeira. Durabilidade de até três dias. Também pode congelar. Porções facilitam o aquecimento. Não esqueça de etiquetar. Dá tempo, prática de cozinha prática."
+- "q: O que fazer se as almôndegas ficarem duras? a: Primeira questão é mistura. Sempre cuidado, não amassar muito. Hidratação do pão ajuda. Se ainda duras, adicione água na massa. O mesmo vale pro cozimento. Lembre-se de temperatura baixa."
+- "q: Posso usar outro tipo de queijo? a: Sim, queijo coalho é brasileira opção. Textura e sabor um pouco diferentes. Experiência nova. Queijo curado também serve, mas frescor faz bem ao prato. Foque em usar sempre frescos."
+
+---
