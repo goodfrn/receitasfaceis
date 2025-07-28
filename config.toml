@@ -1,4 +1,4 @@
-baseURL = "https://www.receitas-faceis.org/"
+baseURL = "https://receitas-faceis.org/"
 languageCode = "pt-BR"
 title = "Receitas Fáceis"
 
@@ -11,6 +11,8 @@ title = "Receitas Fáceis"
 [taxonomies]
   category = "categories"
   tag      = "tags"
+
+
 
 [permalinks]
   recipes = "/recipes/:slug/"
@@ -52,6 +54,8 @@ title = "Receitas Fáceis"
     baseName = "robots"
     isPlainText = true
     notAlternative = true
+
+canonifyURLs = false
 
 [minify]
   # autres options…
