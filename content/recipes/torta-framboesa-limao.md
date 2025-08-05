@@ -1,0 +1,95 @@
+---
+title: "Torta Framboesa e Limão"
+slug: "torta-framboesa-limao"
+description: "Torta com massa crocante feita com farinha e manteiga, recheio ácido doce de limão e geleia de framboesa, finalizada com chantilly e framboesas frescas. Combina texturas e sabores contrastantes, resultando em sobremesa refrescante. As quantidades foram ajustadas para balancear doçura e acidez; manteiga substituída parcialmente por óleo de coco para um toque diferente. Técnica do pré-assamento evita massa encharcada; uso de peneira na mistura garante cremosidade sem grumos."
+metaDescription: "Descubra a Torta Framboesa e Limão; combinação perfeita entre doce e ácido com massa crocante e recheio cremoso"
+ogDescription: "Experimente a Torta Framboesa e Limão; sobremesa refrescante e deliciosa com camadas de textura e sabor; aprenda a receita"
+focusKeyphrase: "torta de framboesa e limão"
+date: 2025-08-05
+draft: false
+image: torta-framboesa-limao.png
+author: "Julia"
+prepTime: PT45M
+cookTime: PT30M
+totalTime: PT1H15M
+recipeYield: "8 porções"
+categories: ["Sobremesas"]
+tags:
+- "sobremesa"
+- "torta"
+- "framboesa"
+- "limão"
+- "refrescante"
+keywords:
+- "receita de torta"
+- "torta caseira"
+- "dessert francês"
+breadcrumb: ["Home", "Recipes", "Sobremesas"]
+nutrition: 
+ calories: "320"
+ fatContent: "22g"
+ carbohydrateContent: "28g"
+ proteinContent: "5g"
+ingredients:
+- "=== Massa ==="
+- "270 ml farinha de trigo não refinada (1 ⅛ xícara)"
+- "12 ml açúcar (2 colheres de chá)"
+- "1 ml sal (⅕ colher de chá)"
+- "110 g manteiga sem sal gelada, cortada em cubos"
+- "1 ovo inteiro"
+- "12 ml suco de limão fresco (2 colheres de chá)"
+- "2,5 ml extrato de baunilha (½ colher de chá)"
+- "15 ml óleo de coco extra virgem (1 colher de sopa) - substitui parte da manteiga"
+- ""
+- "=== Recheio ==="
+- "100 ml açúcar (⅓ xícara + 1 colher de chá)"
+- "10 ml amido de milho (2 colheres de chá)"
+- "150 ml geleia de framboesa (¾ xícara)"
+- "100 ml suco de limão fresco (⅓ xícara + 1 colher de chá)"
+- "3 ovos grandes"
+- "110 g manteiga gelada em cubos"
+- "1 pitada de canela em pó (opcional, toque especial)"
+- ""
+- "=== Chantilly ==="
+- "110 ml creme de leite fresco 35% (⅓ xícara + 2 colheres de sopa)"
+- "20 ml açúcar de confeiteiro (2 colheres de sopa)"
+- "Framboesas frescas para decorar (opcional)"
+instructions:
+- "=== Massa ==="
+- "No processador, junte farinha, açúcar, sal. Pulsar algumas vezes só para misturar. Adicione manteiga e óleo de coco gelados. Pulsar até virar uma farofa grosseira, pedaços do tamanho de ervilha pequena. Nada de derreter gordura; textura é tudo aqui. Quebre o ovo, junte suco de limão e baunilha; pulse até começar a formar massa — sem virar bola. Se muito seca, pingue água gelada aos poucos, só até conseguir juntar — massa não pode ficar pegajosa ou grudar nas mãos."
+- "Transfira para bancada enfarinhada, forme um retângulo achatado, cubra com filme plástico e deixa gelar na geladeira uns 40 minutos. Evita encolher na hora de abrir."
+- "Depois, enfarinhe o plano, abra com rolo a uns 3 mm, corte no tamanho de forma retangular 33x10cm. Forre a forma com a massa, bordeiras caprichadas. Faça furinhos com garfo no fundo para evitar bolhas. Geladeira 30 minutos no mínimo. Massa gelada sempre."
+- "Pré-aqueça forno a 210 ºC, coloque grade na base do forno para distribuir calor."
+- "Cubra fundo com papel manteiga e grãos (feijão cru, arroz). 'Assar às cegas' pra deixar crocante a base. Uns 17 minutos, retirar papel e pesos; deixar dourar mais 5 minutos. Massa deve estar firme, levemente dourada, não úmida nem queimada. Tire do forno e esfriar mínimo 15 minutos."
+- ""
+- "=== Recheio ==="
+- "Misture açúcar, amido de milho e pitada de canela numa tigela. Na panela, junte esses secos, geleia, suco de limão e os ovos batidos. Mexa vigorosamente com fouet fora do fogo até misturar, depois leve ao fogo médio. Mexa tudo, observe virar uma mistura cremosa, sem grumos, que começa a engrossar: borbulhas pequenas surgindo na borda são sinal para tirar do fogo rápido. Não deixe ferver muito ou ovos coagularão rápido demais."
+- "Passe essa mistura por uma peneira fina para garantir textura lisa; descarte grumos e pelotinhas."
+- "Adicione cubos de manteiga gelada. Misture com espátula até ela derreter totalmente, criando brilho intenso e textura aveludada."
+- "Despeje cuidadosamente no fundo da massa já fria. Volte para forno a 185 ºC e asse por cerca de 12 minutos; recheio deve firmar dos lados e ainda tremer levemente no centro, textura tipo pudim mole. Retire, deixe esfriar, depois refrigere por no mínimo 2 horas — firme, mas cremoso e refrescante."
+- ""
+- "=== Chantilly ==="
+- "Com batedeira, bata creme de leite gelado junto com açúcar até formar picos firmes. Cuidado para não bater demais e virar manteiga."
+- "Coloque chantilly em saco de confeitar com bico canelado, decore superfície da torta com elegância meio rústica, sem perfeição, pois contraste com textura lisa do recheio fica visualmente interessante."
+- "Finalize com framboesas frescas por cima, para um toque ácido e cor vibrante — opcional, mas quase obrigatório."
+- ""
+- "Sirva gelado. Aroma cítrico invade cozinha no corte; crocância da coroa e cremosidade do recheio fazem combinação boa demais pra ignorar."
+- "Se faltar tempo, massa pode ser feita dia anterior, chantilly também; só mantem refrigeração e monta antes de servir."
+- "Substituição: se não gostar de óleo de coco, pode usar toda manteiga, mas textura menos 'levemente' quebradiça, mais tradicional. Gosto pessoal."
+- "Para evitar massa murcha, massa gelada é lei. Nunca pule esse passo. E os furinhos no fundo ? Farão diferença na crocância final."
+introduction: "Misturar o ácido vibrante do limão com a doçura delicada da framboesa foi um jogo de paciência e experiência. A crocância da massa, que carrego nas mãos desde a farinha até o forno, me ensinou a importância da textura. O ponto do recheio, nem muito firme, nem mole demais, é um segredo que só o olho atento e o toque firme revelam. Chantilly fresco esconde atrás do visual simples um mundo de técnica e timing, crucial para equilibrar a sobremesa. E aquelas framboesas frescas espalhadas em cima? Toque final que dá cor, textura e sabor, quase obrigatório para deixar a torta viva na boca e no olhar."
+ingredientsNote: "Trocar parte da manteiga por óleo de coco equilibra gordura sem pesar muito o sabor nem perder crocância na massa. Atenção na temperatura dos ingredientes — tudo gelado sempre! Suco de limão fresquinho muda tudo, suco de caixinha deixa perfume artificial. A geléia preferi usar caseira, menos doce, mais azeda; caso só tenha industrial, vale reduzir açúcar no recheio para seu paladar. Canela é opcional, mas achei que valoriza canto escondido do limão. O açúcar pode ser demerara para versão menos processada, mantendo cor e sabor equilibrados. Creme para chantilly precisa estar bem frio, não adianta tentar bater creme em temperatura ambiente. Use açúcar de confeiteiro para evitar textura arenosa."
+instructionsNote: "Massa jamais deve ser trabalhada demais para não ficar dura. Pulsar rápido no processador é ideal para controlar temperatura da manteiga. Gelar massa depois de aberta dá descanso à glúten e impede encolhimento. Assar 'às cegas' evita que o fundo fique encharcado. Misturar com fouet e peneirar o recheio evita ovos cozidos ou pedaços firmes; textura cremosa é chave, virar como um custard antes que ferva em demasia. Adicionar manteiga gelada no final do recheio cria brilho e suavidade. Assar recheio em temperatura um pouco mais baixa (185 ºC) faz diferença na firmeza ideal, sem ressecar. Chantilly: textura em picos firmes, mas não rígidos, perfeito para decorar e harmonizar com acidez."
+tips:
+- "Massa deve ficar fria, sempre. Sinto que se não gelar, encolhe. Recipiente de trabalho também, não esquece! Na hora de processar, rápido, não deixa a manteiga derreter. Isso é crucial."
+- "Se a massa grudar, dá pra corrigir. Água gelada sempre, mas só um pouco. Se passar do ponto, vira desastre. Em vez de grudar nas mãos, você quer uma massa que quase se solta. Detalhe: nada de deixar ela muito seca."
+- "Sobre o recheio: peneirar é tudo. Você não quer grumos. Aquela textura cremosa que envolve é o objetivo. Misturar bem, mas não deixar ferver muito. Observação: quem descuida, vira ovos mexidos. Não deixe!"
+- "Chantilly também tem suas manhas. Creme de leite muito frio. Quando bate, não pode virar manteiga. A textura ideal é fundamental pra harmonizar. E, por favor, açúcar de confeiteiro; não arrisca ser grumoso."
+- "Se o tempo apertar, faça a massa um dia antes. Refrigerar é a chave. Monta na hora da festa. E se não tiver óleo de coco? Use manteiga toda, mas a textura vai mudar. Inicialmente, fica crocante, mas pode não ter a mesma leveza."
+faq:
+- "q: Como é a textura da massa? a: A massa crocante é essencial. Se não estiver bem fria, vai encolher. Trabalhe rápido e mantenha tudo gelado. O resultado é uma massa leve."
+- "q: E o que fazer se o recheio empelotar? a: Se notar que a mistura não está homogênea, peneire. Isso ajuda a eliminar grumos. Fique atento ao fogo; não deixe ferver muito. Isso coagula rápido."
+- "q: Como armazenar a torta? a: Geladeira é o local ideal. Se sobrar, cobre bem com filme. Mantém por até 3 dias. Assim, textura e frescor se mantêm. E a base? Não deixe umidade entrar."
+- "q: Tem alternativas de ingredientes? a: Trocar a geléia de framboesa por outra pode acontecer. Use a de morango. Sucos também podem ser substituídos, mas deve escolher bem."
+
+---
