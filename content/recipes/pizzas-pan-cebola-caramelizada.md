@@ -1,0 +1,96 @@
+---
+title: "Pizzas Pan Cebola Caramelizada"
+slug: "pizzas-pan-cebola-caramelizada"
+description: "Versão adaptada de pizza estilo pan com massa fermentada no frio, recheio inspirado em sopa de cebola francesa, usando cebola roxa para um toque mais doce e vinho tinto para profundidade. Massa combinando farinha comum com farinha de centeio para textura e sabor. Queijos modificados, gruyère trocado por queijo prato, dando cremosidade e um sabor conhecido no Brasil. Tratamento cuidadoso da cebola, caramelizando até dourar bem, finalizado com tomilho fresco. Leves ajustes nos tempos para respeitar fermentação e garantir crocância. Receita prática para fornos domésticos sem função convecção, com dicas para lidar com fermentação e controle de umidade. Produz seis pizzas de 15 cm, porções individuais, perfeitas para reunião com a família ou amigos."
+metaDescription: "Pizzas Pan Cebola Caramelizada - Experimente essa versão deliciosa com cebola roxa e vinho tinto, crocante por fora e macia por dentro."
+ogDescription: "Desfrute de Pizzas Pan Cebola Caramelizada com uma massa perfeita e um recheio de cebola roxa, equilibrando sabores intensos com um toque doce."
+focusKeyphrase: "Pizza Pan Cebola Caramelizada"
+date: 2025-08-06
+draft: false
+image: pizzas-pan-cebola-caramelizada.png
+author: "Julia"
+prepTime: PT50M
+cookTime: PT30M
+totalTime: PT1H20M
+recipeYield: "6 pizzas pequenas de 15 cm"
+categories: ["Lanches e Petiscos"]
+tags:
+- "pizza"
+- "comfort food"
+- "receitas para amigos"
+keywords:
+- "pizza"
+- "culinária"
+- "receitas práticas"
+breadcrumb: ["Home", "Recipes", "Lanches e Petiscos"]
+nutrition: 
+ calories: "490"
+ fatContent: "22g"
+ carbohydrateContent: "56g"
+ proteinContent: "25g"
+ingredients:
+- "=== Massa ==="
+- "350 ml (1 ½ xícara) de água gelada"
+- "1 colher de sopa (15 ml) de fermento biológico seco instantâneo"
+- "400 g (3 xícaras) de farinha de trigo comum"
+- "100 g (⅔ xícara) de farinha de centeio"
+- "1 colher de chá (5 ml) de sal"
+- "=== Recheio ==="
+- "800 g (5 xícaras) de cebola roxa em fatias finas"
+- "70 ml (3 colheres de sopa) de azeite de oliva extra virgem"
+- "1 colher de chá de noz moscada ralada na hora"
+- "1/2 colher de chá de pimenta do reino branca moída na hora"
+- "200 ml (¾ xícara) de vinho tinto seco"
+- "1 envelope (55 g) de mistura para sopa de cebola"
+- "1 envelope (45 g) para molho tipo barbecue (substituindo a poutine)"
+- "500 g (5 xícaras) de mussarela ralada"
+- "600 g (6 xícaras) de queijo prato ralado"
+- "6 raminhos de tomilho fresco, folhas apenas"
+instructions:
+- "=== Massa ==="
+- "Misture a água gelada com o fermento em uma jarra pequena, espere 3 minutos até começar a ativar (bolhinhas). Se não borbulhar, descarte, fermento velho dá ruim."
+- "Em uma tigela grande, junte as farinhas e o sal, misture para distribuir. Vá adicionando a mistura de água e fermento aos poucos, mexendo com colher de pau até começar a formar uma massa quase grudenta, faça rápido para não desenvolver glúten demais desde o começo."
+- "Cubra com pano e deixe descansar 20 minutos. Esse descanso hidrata farinhas e facilita sova."
+- "Sove a massa em bancada levemente enfarinhada por cerca de 6 minutos até ficar elástica, macia, mas ainda pegajosa. Se grudar nas mãos, pode polvilhar um pouco mais de farinha, mas pouca, a massa precisa segurar umidade para a estrutura da pan pizza."
+- "Unte um recipiente com azeite, coloque massa dentro, cubra com filme plástico e manda pra geladeira por 20 horas. Libera sabores, melhora fermentação, permite fermentação lenta para crosta mais saborosa."
+- "=== Dividir e crescer ==="
+- "Retire da geladeira, divida a massa em 6 pedaços iguais, boleie cada um, polvilhe levemente farinha sob as bolas, disponha numa assadeira. Cubra com pano úmido e deixe descansar em ambiente levemente aquecido (25 a 28 ºC) por 65 a 70 minutos ou até que dobre de tamanho."
+- "Unte formas redondas de 15 cm com azeite, abra cada bola com as mãos empurrando suavemente para se encaixar sem força nas formas. Cubra novamente com pano úmido, repouse por 1 hora para uma segunda fermentação, criando bolhas que deixam a massa aerada e crocante nas bordas."
+- "=== Recheio ==="
+- "Enquanto massa fermenta, coloque panela no fogo médio, azeite quente, adicione cebola fatiada, noz moscada, pimenta branca. Tampe e deixe amolecer por 6 minutos, mexendo de vez em quando para não queimar."
+- "Destampe, aumente fogo para médio-alto e mexa sem parar para caramelizar as cebolas. Use essa técnica para obter aquela cor âmbar típica e doçura intensa. Se as cebolas começarem a grudar no fundo, adicione um fio de água ou vinho para desgrudar sem apagar a cocção."
+- "Em um copo, misture vinho tinto com temperos da sopa de cebola e o molho barbecue. Essa troca é meu toque: molho barbecue dá um contraponto agridoce e defumado que casou perfeitamente com a cebola."
+- "Despeje a mistura na panela, mexa e deixe engrossar o molho cozinhando até textura de pasta solta, consegue perceber na cor e na redução. Apague o fogo e transfira para uma tigela, deixe amornar e leve à geladeira até esfriar totalmente, por pelo menos 2 horas."
+- "=== Montagem e forno ==="
+- "Preaqueça o forno a 220 ºC, bandeja no nível mais baixo do forno ajuda a crosta ficar crocante, sem queime embaixo. Não uso convecção, então precisa de calor direto forte e paciência."
+- "Para cada pizza, espalhe 3/4 de xícara do creme de cebola sobre a massa, não exagere para não molhar demais."
+- "Coloque queijo mussarela nas bordas, espalhando bem para criar uma crosta derretida com sabor suave."
+- "No centro, distribua o queijo prato que tem sabor mais pronunciado e textura cremosa, fica top no recheio."
+- "Finalize com as folhas de tomilho para aroma herbal, uma pitada no visual e na boca."
+- "Asse entre 18 e 23 minutos observando o dourado dos queijos, aquele ponto onde eles borbulham e começam a formar aquela crosta levemente caramelizada."
+- "Retire do forno, deixe descansar 5 minutos para firmar antes de desenformar e servir. Massa quente demais rasga fácil."
+- "=== Dicas práticas e adaptações ==="
+- "Meio que abuso da farinha de centeio: dá sabor terroso e ajuda na absorção da umidade sem pesar a massa. Se não tiver, pode trocar por farinha integral."
+- "Nozes e ovos aqui excluídos para receita veg-friendly, mas nada impede de adicionar um pouquinho de creme vegetal se quiser enriquecer."
+- "Se fermentar demais e passar do ponto, massa fica ácida e difícil de abrir, nesse caso vale sovar rápido só pra redistribuir o gás e fazer pequenas pizzas mudança visual."
+- "Se não tiver forno não-convecção, abaixe um pouco a temperatura e aumente o tempo, quase dobrando na última etapa, até o queijo dourar e massa ficar crocante no fundo. Forno torra rápido, sempre fica atento."
+- "Quando usar fermento instantâneo, temperatura da água fria ajuda na fermentação longa e sabor melhor – água quente ativa muito rápido fermento, perde sabor."
+- "Cebola roxa caramelizada é mais doce e menos agressiva que branca, combina melhor com toque adocicado do vinho tinto."
+- "Se exagerar no molho, massa pode molhar e ficar pesada, cuidado para espalhar uniformemente e não demais."
+- "Na hora de abrir massa, somente use as mãos, rolo pode esgotar bolhas, perde textura característica das pan pizzas."
+introduction: "Já fiz diversas versões de pan pizza, e nada iguala uma massa bem fermentada no frio – o sabor se constrói aos poucos. Trocando a farinha branca por centeio temos uma textura que segura bem o recheio úmido dessa sopa de cebola transformada em pizza. Cebola roxa veio do acaso, mas abriu um caminho de sabor mais complexo, menos agressivo, ótimo para quem não suporta gosto forte de cebola tradicional. De volta à cozinha, vinho tinto substitui o branco, influencia no ideal equilíbrio entre doce, ácido e um toque robusto. O queijo prato aqui substitui o gruyère porque derrete bem, tem aquele creme prolongado que sustenta cada mordida sem esmagar a massa. No fundo, sempre uma pizza que respeita seu tempo, com olho no visual do queijo bem gratinado e massa levemente dourada, crocante nas bordas, macia no miolo."
+ingredientsNote: "Use farinha de qualidade, preferencialmente não refinada. O centeio traz aroma e sabor, enriquecendo a massa fermentada por 20 horas no frio, criando bolhas pequenas e consistentes. Pimenta branca dá um toque sem interferir na coloração do recheio. Noz moscada ralada na hora traz perfume mais vivo. O vinho tinto substitui o branco para um sabor mais encorpado, facilmente encontrado em supermercados. No lugar da mistura para molho à poutine, outro ingrediente comum no Brasil é o molho barbecue, que adiciona uma leve acidez e defumação que funciona surpreendentemente com a cebola caramelizada. O queijo prato é um clássico nacional, derrete e gratina bem. Mussarela além de sabor e elasticidade. Tomilho fresco dá frescor ao sabor intenso da cebola, não omita."
+instructionsNote: "A chave está no método de fermentação: aplicação de repouso na geladeira por 20 horas permite que o fermento trabalhe lentamente, elevando sabor e textura. Sovar corretamente (6 minutos) é indispensável para desenvolver glúten, garantindo elasticidade e característica da pan pizza. Dividir a massa, formar bolas e descansar em ambiente ligeiramente úmido aquece a massa para que dobre de tamanho, preparando para a modelagem final no molde untado. Na caramelização, cobrir no início ajuda a cebola amaciar, depois destampar e acelerar a reação de caramelização com fogo maior realça sabor e cor – não esqueça de mexer para não queimar! A mistura dos líquidos com os temperos e o molho barbecue fornece fonte de umidade e sabor que engrossa até virar uma pasta, fundamental para não afogar a massa. Durante montagem, atenção no equilíbrio do recheio para garantir textura final certa, sem pesar ou umedecer demais. No forno, observar visual dos queijos como indicador principal e deixar a pizza descansar ligeiramente antes de desenformar evita rompimento da massa."
+tips:
+- "Use farinha de centeio se conseguir - dá sabor maravilhoso. Se não, integral pode ajudar. Cuidado com a quantidade. Quer um gosto forte na massa, mas não pesado. Mistura bem."
+- "Quando você sova, não pode ser muito tempo. Tem que ser rápido. Senão, massa endurece. Gruda um pouco? Polvilhe farinha na ponta dos dedos. Assim, não seca mas mantém a umidade."
+- "Fique de olho na cebola enquanto carameliza. O cheiro vai mudar, vai ficar adocicado. O ponto é quando ela estiver bem dourada, quase com cor âmbar. Isso leva tempo, não atrapalhe mexendo demais."
+- "No forno, observe bem como os queijos derretem. Quando começar a borbulhar e dourar, é hora de ficar atento. Esses minutos a mais ou a menos fazem diferença. Não deixe queimar."
+- "Mistura para sopa de cebola pode ser difícil de encontrar. Use temperos à sua escolha, mas mantenha o vinho. Ele vai amolecer a cebola e equilibrar doce com ácido. Funciona."
+faq:
+- "q: Como sei se a massa está boa? a: Olhe para a textura. Se estiver lisa e um pouco grudenta, está. Acolchoada é um bom sinal, humidade é amiga aqui."
+- "q: E se a cebola não caramelizar? a: Aumente o fogo e não tampe a panela. Mexa com calma. Tem que soltar o açúcar, é esse o truque para aquele aspecto dourado."
+- "q: Minha pizza ficou murcha. O que fazer? a: Verifique o molho. Muito molho pode pesar. Use uma camada fina e saborosa. Deixe a massa descansar antes de montar."
+- "q: Posso fazer a massa de véspera? a: Sim, a massa de um dia para o outro é boa. Mais sabor. Frio é o segredo. Um truque, não deixe fermentar demais. Siga o horário."
+
+---
