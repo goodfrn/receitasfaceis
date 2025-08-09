@@ -1,0 +1,95 @@
+---
+title: "Quiche de Brócolis com Bacon e Parmesão"
+slug: "quiche-brocolis-bacon"
+description: "Quiche salgada com crosta caseira de farinha integral e manteiga, recheio de brócolis refogado com bacon crocante e toque de parmesão. mistura cremosa de ovos, leite e amido de milho para dar liga perfeita e evitar o bolo de ovo. Assar até o centro firmar sem ressecar bordas. Ideal para almoço ou lanche reforçado, serve 4 a 5 pessoas. Inclui dicas para crosta mais crocante e substituição do bacon por linguiça ou presunto."
+metaDescription: "Quiche de Brócolis com Bacon e Parmesão é uma delícia saudável, perfeita para almoços ou lanches. Experimente esta combinação irresistível."
+ogDescription: "Delicie-se com esta Quiche de Brócolis com Bacon e Parmesão. Uma opção saborosa e nutritiva que encanta em qualquer refeição."
+focusKeyphrase: "quiche de brócolis"
+date: 2025-08-09
+draft: false
+image: quiche-brocolis-bacon.png
+author: "Julia"
+prepTime: PT35M
+cookTime: PT1H5M
+totalTime: PT1H40M
+recipeYield: "4-5 porções"
+categories: ["Pratos Principais"]
+tags:
+- "quiche"
+- "vegetais"
+- "lanche"
+- "fácil"
+keywords:
+- "quiche"
+- "brócolis"
+- "bacon"
+- "parmigiano"
+- "massa integral"
+breadcrumb: ["Home", "Recipes", "Pratos Principais"]
+nutrition: 
+ calories: "320"
+ fatContent: "22g"
+ carbohydrateContent: "18g"
+ proteinContent: "15g"
+ingredients:
+- "=== Massa ==="
+- "280 ml (1 1/8 xícara) de farinha de trigo integral"
+- "115 g de manteiga gelada em cubinhos"
+- "55 ml (1/4 xícara) de água gelada"
+- ""
+- "=== Recheio ==="
+- "3 tiras de bacon cortadas em tirinhas finas"
+- "30 ml (2 colheres de sopa) de azeite extra virgem"
+- "1 cebola média fatiada em meia-lua"
+- "900 ml (3 1/2 xícaras) de floretes de brócolis frescos"
+- "2 dentes de alho picadinhos"
+- "8 g (1 colher de sopa) de amido de milho"
+- "280 ml (1 1/8 xícara) de leite integral"
+- "4 ovos grandes"
+- "180 g (1 xícara) de queijo parmesão ralado fino"
+- "sal e pimenta do reino a gosto"
+- "1 pitada de noz-moscada ralada (opcional)"
+instructions:
+- "=== Massa ==="
+- "1. Comece batendo a farinha integral com a manteiga no processador com pulsos curtos. Precisa ficar com textura de areia úmida, pedaços do tamanho de ervilhas pequenas. Muito processar aquece e derrete a manteiga. Atenção aqui."
+- "2. Acrescente a água gelada aos poucos, apenas até a massa se agregar. Tem que ser pegajosa, mas firme para abrir. Se precisar, mais uma colher de água, mas com cuidado para não passar do ponto."
+- "3. Retire e forme um disco. Polvilhe farinha na bancada e abra com o rolo até uns 3 mm. Unte a forma de quiche de 25 cm, ajeite a massa cobrindo toda a forma, dê aquela dobradinha na borda pra firmar melhor. Vai dar crosta crocante e firme, sem ficar fina demais."
+- "4. Leve à geladeira por 25 minutos. Se estiver com pressa, congelar por 12 minutos funciona, mas geladeira é melhor pra não deformar."
+- "5. Pré-aqueça o forno a 210 °C com a grade na parte inferior para favorecer a base crocante."
+- "6. Cubra a massa com papel manteiga ou alumínio, espalhe feijões ou arroz cru para blindar. O ponto é que a massa fique com borda ligeiramente dourada, firme, sem furar. Deixe no forno por cerca de 18 minutos. Tire o papel e os pesos; reserve."
+- "7. Abaixe o forno para 175 °C – o cozimento final vai ser mais gentil evitando ressecar."
+- ""
+- "=== Recheio ==="
+- "8. Em uma frigideira grande, vire o azeite e aqueça bem. Frite o bacon até ficar dourado e crocante. Sabe aquele cheirinho que dá na cozinha? É hora de ter atenção para não queimar. Se preferir, substitua por linguiça fina ou presunto magro fatiado em tirinhas para um toque diferente."
+- "9. Junte a cebola fatiada, refogue até dourar – interessa ficar translúcida e meio caramelizada, melhor sabor. Aí coloca o brócolis, bem lavado e separado em pequenos buquês. mexa lentamente por 3 a 4 minutos para ele ficar al dente mas ainda vibrante e verde."
+- "10. Coloque o alho picado e refogue rápido; não deixa queimar para evitar amargor. Tempere com bastante sal e pimenta do reino moída na hora. Noz-moscada entra aqui para dar aquele aroma que faz a quiche se destacar, mas é opcional."
+- "11. Retire do fogo e distribua uniformemente dentro da crosta pré-assada. Não aperte demais para não comprimir os vegetais nem soltar água depois."
+- "12. Em uma tigela média, misture o amido de milho com o leite até dissolver completamente, evitando grumos – pode usar um batedor manual. Adicione os ovos e bata com veemência para incorporar ar e garantir textura leve. Junte o parmesão ralado e misture bem."
+- "13. Feche esse creme por cima do brócolis com cuidado, espalhando para alcançar todos os cantos. Se passar da borda, cuidado na hora de tirar para não escorrer massa crua queimada."
+- "14. Leve para assar a 175 °C por aproximadamente 35 a 40 minutos. A dica é observar: o centro deve estar firme ao toque mas com pequena elasticidade, bordas levemente douradas e não pegajosas."
+- "15. Tire do forno, espere pelo menos 12 minutos até amornar – o recheio vai completar o cozimento nestes minutos e ficará mais firme, cortando melhor e evitando que escorregue."
+- ""
+- "=== Dicas e Substituições ==="
+- "Se a crosta não tiver crocante como queria, assar com um carregamento seco (semente, peso) e forno quente na posição baixa faz milagres. Caso a massa fique muito quebradiça, deixe a manteiga um pouco menos fria na próxima vez ou trabalhe a massa com cuidado para não sobreaquecer. Pode trocar o parmesão por muçarela de búfala quando quer algo mais suave e derretido."
+- "Se o brócolis soltar muita água, refogue em fogo alto para evaporar logo, segura a massa e não fica encharcado. Evite colocar sal antes da hora porque ele extrai água dos legumes."
+- "Para deixar a massa com sabor extra, pode colocar uma pitada de ervas finas na farinha antes de misturar com a manteiga. Atenção: mexer demais a massa faz a glútenização, a crosta fica dura."
+- "O segredo do recheio cremoso é o amido de milho combinado com ovos e leite – eles dão liga sem virar omelete seco."
+- ""
+- "Experimentar com a gordura: use óleo de coco ou manteiga clarificada para variações interessantes, lembrando que muda aroma. Nos últimos testes, meu preferido foi azeite para o bacon + manteiga na massa, sabor equilibrado."
+- "A quiche pode ser servida morna ou à temperatura ambiente — fica super versátil para almoço em família ou lanche em reunião."
+- "Com umas saladas verdes e um vinho branco levinho, fica um banquete simples e gostoso."
+introduction: "Quiche me lembra aquelas tardes de domingo em família, massa crocante abrigando um recheio generoso de brócolis com bacon, coroado por queijo parmesão que derrete na boca. Aprendi que a crosta perfeita não é só questão de receita, mas de técnica e paciência. O que mais me cativa é o casamento do sabor rústico do brócolis com o toque salgado do bacon dourado, e a textura cremosa que só a mistura de ovos, leite e amido pode dar. Quando coloco no forno, o aroma invade a casa, abre o apetite e anuncia que demorou, mas que valeu a espera. Abaixo, segredos e ajustes para reproduzir essa beleza, mesmo quando o tempo anda curto ou ingredientes não cooperam."
+ingredientsNote: "A farinha integral dá uma textura mais rústica e sabor marcante à massa, mas pode ser substituída por farinha branca comum ou até metade dela para uma massa mais delicada. A manteiga geladinha é crucial para a crocância, não tem jeitinho, derrete rápido nas mãos, o que pode endurecer a massa. A água deve estar gelada para ajudar a massa a manter a consistência. No recheio, apesar do bacon ser tradicional, linguiça defumada ou até presunto magro dão caráter diferente e ficam igualmente ótimos. O parmesão ralado na hora é recompensador; substitua por muçarela para uma textura mais elástica e suave. O amido de milho estabiliza o recheio; ignorá-lo pode resultar numa quiche ‘furada’ com superfície irregular."
+instructionsNote: "Abrir a massa já resfriada facilita o manuseio, massa mole insiste em grudar e rasgar. O segredo da pré-assada está em não tirar a massa do forno antes da borda estar com leve dourado, isso evita que o fundo encharque. Na hora de refogar o bacon, a temperatura do azeite tem que estar alta para garantir crocância, e a cebola entra para balancear o sabor e adoçar levemente. Para o brócolis ficar com cor vibrante, refogue rápido e evite tampar a panela, assim ele mantém textura. O recheio deve ser despejado delicadamente para não desmanchar o legumes. A cocção final depende do forno e do ponto visual, invista no teste do palito e toque no centro, eles fazem toda a diferença. O descanso após o forno não é pedido por acaso — além de reduzir queimadura bucal, ajuda o recheio a firmar, fundamental para fatias limpas."
+tips:
+- "Usar farinha integral na massa dá sabor rústico e mais saúde. Malhar a manteiga e a farinha no processador é a chave. Não passe do ponto. A água gelada entra por último. Se a massa ficar quebrando ou grudando? Suavize a manteiga, um pouco mais amolecida na próxima vez. Se a crosta não estiver crocante, preste atenção nos pesos. Feijões ou arroz como peso evita que a massa encharque."
+- "Na hora de refogar o bacon, frite em azeite bem quente. Isso é crucial. Sinta o cheirinho que toma conta da casa. Depois que o bacon fica dourado? Adicione a cebola. Essa combinação é cama para o sabor. Depois entre com o brócolis, bem picado, mexa rápido, tudo al dente. Cuidado com o alho na frigideira. Ele queima rápido e amarga a mistura."
+- "Misturar o amido de milho no leite é um movimento esperto. Ele estabiliza o recheio, não quer quiche ‘furada’. E se usar queijo? Parmesão é firme. Mas muçarela deixa a textura molinha. Tem que misturar bem a mistura de ovos e leite, evite o omelete seco. Se exagerar na mistura, vai ficar esquisito. O teste do palito é seu amigo. Olhe o centro e a borda, é firme mas não seca."
+- "Depois de assar, não corte logo. Deixe descansar. Isso firma o recheio, dá textura legal até para servir. O sabor? Combinações são infinitas. Pode adicionar alho-poró ou até espinafre, vão bem juntos. No lugar do bacon, que tal presunto? Ou até linguiça defumada? Mude tudo, mas mantenha o balanceamento. No final, um vinho branco leve acompanha bem. Simples mas cheio de carinho."
+faq:
+- "q: Quiche ficou mole? a: Precisa olhar a cocção. Se o forno tava quente, pode ter secado demais. E se parou em excesso? Voltou ao forno é uma opção, mas a paciência é a alma do negócio."
+- "q: Como conservar a quiche? a: Pode guardar na geladeira. Faça isso em um pote fechado, para evitar ressecamento. Ou congele. Uma boa opção, mas assar de novo. Olhar a crosta é crucial."
+- "q: É possível usar outros legumes? a: Sim. Espinafre, abobrinha ou até cenoura entram. Mude conforme a estação. Mas fique atento ao excesso de água, eles soltam. Tempere bem pra não perder o gosto."
+- "q: Quiche pode ser feita com antecipação? a: Sim. Preparar a massa um dia antes? Perfeito. E o recheio já deixado pronto? Melhora o sabor. Cuidado, não descongele muito tempo no forno, pode ressecar."
+
+---
