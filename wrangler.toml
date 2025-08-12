@@ -1,3 +1,4 @@
+hugo --gc --minify
 name = "blog-config-api"
 main = "functions/update-config.js"
 compatibility_date = "2024-01-01"

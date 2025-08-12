@@ -70,15 +70,15 @@
           {{ $img := resources.Get (printf "images/%s" .) }}
           {{ if $img }}
             {{/* Générer WebP + Fallback JPG */}}
-            {{ $webp := $img.Fill "800x600 q80 webp" }}
-            {{ $fallback := $img.Fill "800x600 q85" }}
+            {{ $webp := $img.Fill "800x600 q65 webp" }}
+            {{ $fallback := $img.Fill "800x600 q70" }}
             
             <picture>
               <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
               <img src="{{ $fallback.RelPermalink }}" 
                    alt="{{ $.Title }}" 
                    class="rounded-2xl shadow-lg w-full h-auto object-cover"
-                   loading="eager"
+                   loading="lazy"
                    width="800" 
                    height="600">
             </picture>
@@ -278,8 +278,8 @@
               {{ range . }}
                 {{ if strings.Contains . "q:" }}
                   {{ $parts := split . "a:" }}
-                  {{ $question := index $parts 0 | replaceRE "q:\\s*" "" | strings.TrimSpace }}
-                  {{ $answer := index $parts 1 | strings.TrimSpace }}
+                  {{ $question := index $parts 0 | replaceRE "q:\\s*" "" | trim " " }}
+                  {{ $answer := index $parts 1 | trim " " }}
                   
                   <details class="p-5 bg-stone-50 border border-stone-200 rounded-lg shadow-sm">
                     <summary class="font-medium cursor-pointer text-stone-800 hover:text-stone-900">

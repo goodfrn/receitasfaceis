@@ -4,7 +4,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 concurrency:
@@ -56,7 +56,7 @@ jobs:
       - name: Build site
         run: |
           echo "🚀 Building Hugo site..."
-          hugo --gc --minify
+          hugo --minify
           echo "✅ Build complete!"
           
       - name: Debug cache after build
@@ -66,8 +66,15 @@ jobs:
           echo "Number of generated images:"
           find resources/_gen -name "*.webp" 2>/dev/null | wc -l || echo "0"
           
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: public
+          path: './public'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+find content/ -name "*.md" | wc -l
