@@ -54,11 +54,10 @@ tips:
 - "Tempo de infusão é a chave. Deixe a jarra na geladeira, observe as cores mudando. Se o tom não ficar rosado, precisa esperar mais. E não amasse as folhas ao mexer, só um toque. Cubos de gelo ajudam, mas não muito. Água filtrada é fundamental."
 - "Se não aguardar as 24 horas, aí sim, pode ficar amarga. Erva-doce feneque murcha e amarga rápido. Guarde em recipiente bem fechado. Ao servir, evitamos coar. Folhas e frutas na bebida fazem diferença. Criar uma experiência sensorial é o que vale."
 - "Se não tiver tempo, prepare a água aromatizada com frutas mais ácidas, como framboesas. A acidez pode equilibrar todo o resultado. Mas cuidado: dependendo da fruta, o sabor pode ficar intenso demais. Mistura é tudo, mas é bom provar."
-- "faq": ["q: Como posso armazenar a água aromatizada? a: Sempre em recipiente fechado. Nunca exposta ao calor. Fruta e folhas amargam. Por 24 horas, no máximo. O sabor vai mudar. Melhor fazer na hora. Para gelar rápido, cubos de gelo ajudam, mas cuidado."
+faq:
+- "q: Como posso armazenar a água aromatizada? a: Sempre em recipiente fechado. Nunca exposta ao calor. Fruta e folhas amargam. Por 24 horas, no máximo. O sabor vai mudar. Melhor fazer na hora. Para gelar rápido, cubos de gelo ajudam, mas cuidado."
 - "q: O que fazer se não tiver erva-doce? a: Use manjericão ou alecrim. O sabor vai ser quelito diferente. Porém vale a pena experimentation. Leveza é o que buscamos. Frutas também alteram o sabor. Pense em alternativas e teste."
 - "q: Minha água aromatizada ficou sem sabor. E agora? a: Pode ser tempo, e temperatura. Água gelada é requisito. Deixe mais tempo na geladeira. Se não, mude os ingredientes da próxima vez. Frutas e ervas frescas sempre são melhores."
 - "q: Morangos congelados são bons? a: Claramente, mas elas diluem bastante. Em vez disso, pegue frescos. Senão o aroma se esvai. Se não tiver, use outra fruta para testar. Mas não espere muito: sabores podem mudar rapidamente."
-faq:
-- ""
 
 ---
