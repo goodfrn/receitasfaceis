@@ -1,0 +1,96 @@
+---
+title: "Torta Mirtilo e Chocolate"
+slug: "torta-mirtilo-chocolate"
+description: "Combinação de crosta crocante feita com bolacha de chocolate e toque de flor de sal, creme de chocolate amargo enriquecido com blueberries frescos, chantilly saborizado com chocolate branco e geleia aveludada de mirtilo com textura firme e brilho natural. Uma sobremesa que brinca com texturas e sabores intensos sem nozes e com toque de frutas frescas para decorar. Técnica que prioriza sinais visuais e táteis para dominar o ponto ideal em cada etapa, garantindo equilíbrio entre doçura e amargor."
+metaDescription: "Torta Mirtilo e Chocolate é uma deliciosa combinação de crosta crocante, recheio de chocolate amargo e frutas frescas. Uma sobremesa que encanta."
+ogDescription: "Experimente a Torta Mirtilo e Chocolate, com camadas de sabores intensos e texturas únicas. Uma sobremesa espectacular para seu próximo evento."
+focusKeyphrase: "Torta Mirtilo e Chocolate"
+date: 2025-08-23
+draft: false
+image: torta-mirtilo-chocolate.png
+author: "Julia"
+prepTime: PT50M
+cookTime: PT35M
+totalTime: PT1H25M
+recipeYield: "10 porções"
+categories: ["Sobremesas"]
+tags:
+- "dessert"
+- "chocolate"
+- "frutas"
+- "torta"
+keywords:
+- "torta mirtilo"
+- "chocolate amargo"
+- "receita sobremesa"
+breadcrumb: ["Home", "Recipes", "Sobremesas"]
+nutrition: 
+ calories: "325"
+ fatContent: "22g"
+ carbohydrateContent: "29g"
+ proteinContent: "5g"
+ingredients:
+- "=== Crosta ==="
+- "200 g (1 xícara e meia) de bolacha de chocolate triturada"
+- "25 ml (1 colher e meia de sopa) de açúcar mascavo"
+- "70 g (5 colheres de sopa) de manteiga sem sal, derretida"
+- "1 pitada generosa de flor de sal"
+- "=== Creme de Chocolate Preto ==="
+- "150 g (1 xícara) de mirtilos frescos"
+- "200 g de chocolate amargo 60%, picado"
+- "230 ml (1 xícara menos 2 colheres) de creme de leite fresco 35% para bater"
+- "120 ml (meio copo) de leite integral"
+- "50 g (1/4 xícara) de açúcar refinado"
+- "3 gemas grandes"
+- "=== Chantilly de Chocolate Branco ==="
+- "50 g chocolate branco picado"
+- "150 ml de creme de leite fresco 35% para bater"
+- "=== Geleia de Mirtilo ==="
+- "6 ml (1 colher de chá plus 1/4) de gelatina em pó sem sabor"
+- "30 ml (2 colheres de sopa) de água gelada"
+- "12 ml (2 colheres de chá) de amido de milho"
+- "30 g (2 colheres de sopa) de açúcar"
+- "=== Montagem ==="
+- "50 g mirtilos frescos"
+- "40 g amoras frescas (opcional)"
+- "Flores comestíveis para decorar (opcional)"
+instructions:
+- "=== Crosta ==="
+- "1. Forre uma forma de torta de fundo removível de 27 cm com papel manteiga na base para facilitar. Pré-aqueça forno a 175°C com a grade central posicionada."
+- "2. Misture a bolacha moída, o açúcar mascavo, manteiga derretida e a pitada de flor de sal num bowl médio. Use dedos ou parte de um copo para pressionar firme essa mistura no fundo e um pouco nas laterais da forma. Não deixe falhas para a crosta não desmanchar depois."
+- "3. Asse por aproximadamente 13–14 minutos até começar a soltar aroma de chocolate tostado. O toque sutil da flor de sal precisa ser perceptível no cheiro. Retire do forno e deixe esfriar uns 25 minutos antes de colocar o recheio."
+- "=== Creme de Chocolate Preto ==="
+- "4. Lave os mirtilos e coloque-os distribuídos por cima da crosta já fria. Distribuir por igual evita que o chocolate afunde demais só num ponto."
+- "5. Em tigela coloque o chocolate picado. Reserve."
+- "6. Em panela média, em fogo baixo, misture creme de leite, leite, açúcar e gemas. Mexa firme com fouet para não embolar e não deixar ferver — a ideia é engrossar levemente, como quando faz um creme inglês, até dar para riscar o fundo com a colher, sem formar grumos ou talhar."
+- "7. Retire do fogo e imediatamente despeje sobre o chocolate. Espere 3 minutos sem mexer — o calor começa a derreter o chocolate vagarosamente. Depois mexa com o fouet até tudo ficar aveludado e homogêneo. Se sobrou algum pedaço, bate rápido com mixer de mão para garantir textura lisa e uniforme."
+- "8. Despeje essa mistura cuidadosamente por cima dos mirtilos já na crosta. Leve para gelar cobrindo com filme plástico rente à superfície para evitar película. Deixe por cerca de 2 horas até firmar quase que totalmente."
+- "=== Chantilly de Chocolate Branco ==="
+- "9. Coloque o chocolate branco picado numa tigela. Aqueça o creme de leite até quase ferver e despeje sobre o chocolate. Espere um minuto para a fusão acontecer, então mexa devagar com fouet até derreter e incorporar tudo. Cubra com filme e leve à geladeira por pelo menos 2 horas, isso deixa a mistura fria mas densa para bater depois."
+- "=== Geleia de Mirtilo ==="
+- "10. Hidrate a gelatina no total de 30 ml água fria e deixe 5 minutos para inchar."
+- "11. Misture o amido no açúcar e numa panela pequena leve os mirtilos frescos com esse açúcar ao fogo médio. Mexa até o açúcar dissolver e os frutos começarem a soltar líquido. Dá para sentir no cheiro o azedinho fresco misturado ao doce."
+- "12. Bata com mixer de mão ou liquidificador até virar purê homogêneo, depois passe por uma peneira fina para tirar cascas e sementes. Retorne o purê à panela. Misture o amido e cozinhe mexendo até engrossar, textura de mingau leve, que gruda meio pouco na colher."
+- "13. Fora do fogo, incorpore a gelatina hidratada até dissolver completamente. Espere esfriar uns 7 minutos até que não esteja quente para não furar a camada de creme quando for aplicada."
+- "14. Distribua cuidadosamente sobre a camada de chocolate preto já firme. Use uma espátula para espalhar e alisar com delicadeza evitando misturar as camadas. Leve à geladeira para gelificar por pelo menos 1 hora até firmar."
+- "=== Montagem ==="
+- "15. Bata a mistura de chantilly de chocolate branco com batedeira em velocidade média para formar picos suaves mas bem definidos. Evite ultrapassar o ponto para não talhar o creme em manteiga."
+- "16. Coloque esse chantilly num saco de confeitar com bico canelado e faça picos decorativos na torta."
+- "17. Finalize com mirtilos, amoras frescas para textura crocante extra e flores comestíveis para cor e frescor."
+- "Guarde coberto em geladeira e consuma em até 3 dias para evitar que a crosta amoleça ou a geléia perca o brilho natural."
+introduction: "Misturar crosta de bolacha com flor de sal, creme cremoso de chocolate amargo e frutas frescas com chantilly branco com chocolate só não é diferente da minha aventura culinária que já rolou umas dez tentativas até encontrar o ponto. O interessante é perceber como o sabor do mirtilo se intensifica e abraça o amargor do chocolate, enquanto a geleia dá aquela textura lisa e brilhante que dá vontade de mexer só de olhar. Para quem se aventura em casa, é fundamental conhecer o timing da gelatina e não deixar o creme talhar. Essa receita traduz bem o equilíbrio entre técnica e sensibilidade, onde olhar, sentir e cheirar valem mais que cronometrar tudo. Se usar chocolate meio amargo ou ao leite, muda o resultado, o amargo tem que ser marcante para evitar um doce sem graça, por isso mantenha essa proporção."
+ingredientsNote: "Reduzi a quantidade de bolacha para tirar do excesso pesado, aumentei um pouco o charme da gelatina para garantir fixação. Troquei o açúcar branco da crosta por mascavo para trazer um toque mais caramelizado, mais profundo. Substituí o chocolate 58% por 60% porque acho que casa melhor com o mirtilo. Na chantilly, aumentei um pouco o creme para facilitar o batimento, chocolate branco nem sempre derrete fácil; importante deixar esfriar direito para o chantilly não manchar ou cortar. A gelatina hidratada junto, sempre com amido para dar textura. Mirtilo fresco é obrigatório, pois o processado perde esse perfume e crocância na boca. Quebre a regra do tradicional quando trocar o tipo de chocolate, ajuste a doçura a olho – se ficar claro demais, põe menos açúcar. Nunca economize na flor de sal, é ela que faz a crosta ganhar personalidade. Mantenha tudo gelado antes de bater chantilly para firmar bem e não virar manteiga."
+instructionsNote: "A ordem reorganizada funciona melhor para controlar múltiplas etapas sem que o creme de chocolate ou a geleia endureçam antes da hora. Primeiro sempre aqueça e asse a crosta para garantir firmeza antes de meter o recheio. Misture gemas fora do fogo para evitar coagulação, virou ovo mexido já era o creme. A espera do chocolate derretendo na mistura quente do creme é sacrilégio para alguns, mas fico aqui garantindo textura impecável. O ponto do creme é mais visual do que tempo — quando engrossar, riscar o fundo com colher limpa e o creme criar uma leve camada na superfície sem empelotar, pronto. A gelatina precisa hidratar quietinha, misturar fora do calor forte para não perder força. Na geleia, o amido é rico aliado para firmeza e brilho. Fazendo tudo na sequência e com frio constante, temperos e tempos balanceiam entre si sem atropelos. O chantilly bate melhor depois que o chocolate branco em creme esfriar, caso contrário apressa a manteiga e bagunça tudo. Guardar sob filme na geladeira evita gosto de geladeira e pele no creme. Saco de confeitar é minha mão direita para decoração - mesmo irregular fica charmoso. Flores e frutas garantem frescor e cor, combinam com tudo."
+tips:
+- "As bolachas devem ser esmagadas bem, nada de pedaços grandes, misture com manteiga derretida. O açúcar mascavo dá um gosto mais caramelizado. Hidratação da gelatina, não esqueça. Tempo é crucial."
+- "Material da forma é importante, fundo removível facilita. Lembre-se de ter papel manteiga. Não deixe falhas na crosta. Pressione bem. Aroma de chocolate tostado é sinal que está pronto."
+- "Quando derreter o chocolate, paciência. O calor do creme é suficiente. Se deixar ferver, estraga tudo. Misture até tudo ficar homogêneo, siga o aspecto visual. Grumos são um erro."
+- "Na geleia, realmente precisa usar mirtilo fresco. O textura e sabor são outros. Amido é sua força ali. Textura de mingau. Espere esfriar antes de aplicar sobre o creme, não quebre camadas."
+- "Bata o chantilly até picos suaves, não passe do ponto. Sempre deixe tudo frio. Mistura aquecida na hora de montar pode dar problema. Use bico canelado, mesmo que a decoração fique irregular tem seu charme."
+faq:
+- "q: Qual o melhor chocolate para usar? a: Chocolate amargo é essencial. Procure 60% no mínimo. Outros podem deixar a receita muito doce, é uma batalha de sabores."
+- "q: Como posso armazenar a torta? a: Pode cobrir com filme e guardar na geladeira. Consuma em três dias. Mas fique de olho, a crosta não pode ficar mole. Crispiness é chave."
+- "q: Posso usar outra fruta no lugar do mirtilo? a: Pode sim. Mas, cuidado. Sabores e acidez mudam o resultado. Frutas como framboesa funcionam mas não perdem muito da textura."
+- "q: E se o creme talhar? a: Tente batê-lo com mixer. Se não funcionar, considere começar do zero. Mas manter o calor controlado ao misturar é fundamental, lembre-se."
+
+---
