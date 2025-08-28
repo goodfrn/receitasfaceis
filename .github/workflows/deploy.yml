@@ -1,6 +1,6 @@
 name: Deploy to GitHub Pages + Cloudflare (Optimized)
 on:
-  push:
+  push: 
     branches: [ main ]
   workflow_dispatch:
 permissions:
