@@ -1,0 +1,96 @@
+---
+title: "Crudo de Truta com Canela e Arroz Estourado"
+slug: "crudo-de-truta"
+description: "Prato leve e vibrante com finas lâminas de truta curada em mistura salgada e adocicada, aromatizado por vinagrete de cranberry e finalizado com arroz selvagem estourado para crocância. Tem variações fundamentais para texturas e sabores frescos, com toques de creme e mostarda para equilibrar, além de fatias delicadas de legumes que dão frescor e cor. Ideal para entradas sofisticadas sem glúten, lactose ou ovos, que também aceitam ajustes simples na bancada, como troca de óleo e ingredientes, garantindo flexibilidade na cozinha."
+metaDescription: "Crudo de Truta com Canela e Arroz Estourado é uma entrada leve, fresca e cheia de texturas. Um prato incrível e colorido que vai surpreender."
+ogDescription: "Experimente Crudo de Truta com Canela e Arroz Estourado. Sabor leve e vibrante com um toque crocante que não pode faltar."
+focusKeyphrase: "Crudo de Truta"
+date: 2025-09-23
+draft: false
+image: crudo-de-truta.png
+author: "Julia"
+prepTime: PT30M
+cookTime: PT15M
+totalTime: PT45M
+recipeYield: "4 porções"
+categories: ["Entradas"]
+tags:
+- "gourmet"
+- "sem glúten"
+- "culinária saudável"
+keywords:
+- "truta curada"
+- "prato contemporâneo"
+- "gastronomia brasileira"
+breadcrumb: ["Home", "Recipes", "Entradas"]
+nutrition: 
+ calories: "230"
+ fatContent: "14g"
+ carbohydrateContent: "10g"
+ proteinContent: "18g"
+ingredients:
+- "25 ml (1 e 2/3 colher de sopa) de sal"
+- "28 ml (1 e 2/3 colher de sopa) de açúcar mascavo"
+- "320 g de filé de truta sem pele, em uma peça só (ou filé de tilápia para toque mais suave)"
+- "=== Vinagrete de cranberry (oxicoco) ==="
+- "35 ml (2 colheres de sopa) de vinagre de maçã"
+- "20 g (3 colheres de sopa) de cranberries frescas ou congeladas picadas"
+- "28 ml (1 e 2/3 colher de sopa) de óleo de semente de uva ou azeite extra virgem"
+- "12 ml (3/4 colher de sopa) de mel, ajustável no final para sabor"
+- "=== Arroz estourado ==="
+- "70 ml (1/3 xícara) de óleo vegetal para fritura"
+- "35 g (2 colheres de sopa) de arroz integral selvagem"
+- "=== Guarnição ==="
+- "60 ml (1/4 xícara) de creme de leite fresco ou creme azedo"
+- "12 ml (3/4 colher de sopa) de mostarda Dijon tradicional"
+- "1 pepino japonês fatiado com mandolina em lâminas bem finas"
+- "1 rabanete cortado em fatias finíssimas"
+- "6 cranberries inteiras descongeladas e cortadas em rodelas"
+- "Folhas de manjericão pequeno para decorar"
+instructions:
+- "=== Marinada e Cura do Peixe ==="
+- "1. Misture sal e açúcar mascavo num pote."
+- "2. Coloque a truta num refratário, lado plano pra baixo. Salpique a mistura encima, aperte pra aderir. Cubra com filme plástico. Leve à geladeira por 50 minutos. Se passar 1 hora e 15, também dá, mas cuidado para não ficar chewy."
+- "3. Enxágue o peixe rapidamente em água fria até tirar todo o sal. Remova o excesso de umidade com papel toalha."
+- "4. Na tábua, afie a faca com ângulo de 30 graus. Corte a truta em tiras finíssimas contra a fibra para manter maciez. Arrume numa travessa fria, cubra com filme. Guardar na geladeira até usar, podendo ficar até 24h sem perder frescor."
+- "=== Vinagrete de Cranberry ==="
+- "5. Enquanto isso, leve vinagre e cranberries picadas para ferver em fogo médio. Quando começar a borbulhar, desligue e deixe amornar por 35 minutos. Pode ferver pouco e deixar as frutas perderem firmeza, o ideal é extrair só aroma e acidez."
+- "6. Coe o líquido numa peneira para retirar caroços e polpa. Descarte ou use pour compostagem as fibras das cranberries."
+- "7. Misture no vinagre coado o óleo e o mel até homogeneizar. Prove e ajuste a doçura colocando mais mel se achar necessário. Reserve na geladeira até a montagem."
+- "=== Arroz Estourado ==="
+- "8. Forre uma assadeira com papel absorvente. Prepare uma tigela resistente ao calor com uma peneira dentro para escorrer o arroz."
+- "9. Aqueça o óleo numa panela funda até atingir cerca de 190°C – ajuste pelo cheiro de óleo quente, cuidado pra não fumegar. Jogue o arroz selvagem e mexa com rapidez; ele vai começar a estourar ao largo do fogo. O barulho é seu indicativo pra desligar imediatamente e escorrer rápido, antes de queimar."
+- "10. Transfira o arroz para a assadeira, espalhe bem e polvilhe uma pitada de sal. Espere esfriar, vai ficar crocante. Guarde em pote fechado fora da geladeira por até 1 semana."
+- "=== Montagem ==="
+- "11. Misture creme e mostarda em tigela pequena até obter uma textura lisa, sem quebrar o creme. Pode usar saco de confeitar para aplicar como pontos elegantes. Se não tiver, uma colher serve bem."
+- "12. Distribua as lâminas de peixe no centro das cumbucas geladas – sempre gelar a louça pra manter frescor do prato."
+- "13. Regue com vinagrete de cranberry generosamente, para dar brilho e umidade."
+- "14. Faça pequenos dollops do creme com mostarda no topo."
+- "15. Polvilhe o arroz estourado para textura e crocante, ele é a única coisa que equilibra o molhado do creme e do vinagrete."
+- "16. Arrume sobre o peixe as fatias de pepino, rabanete e rodelas de cranberries, jogando pétalas verdes de manjericão no final para aroma e cor."
+- "17. Sirva imediatamente para evitar que o arroz murche."
+- "=== Dicas e Substituições ==="
+- "Se truta fresca não estiver disponível, tilápia firme ou linguado fino funcionam – só preste atenção na textura para cortar bem fininho. Troque o mel por xarope de agave para versões veganas. Para o creme, iogurte grego bem espesso é uma alternativa, porém perca parte daquele toque amanteigado clássico."
+- "Na falta de canela fresca (cranberry), use geleia de amora natural para o vinagrete, vai dar aquela acidez frutada mais suave. O arroz pode ser substituído por quinoa inflada para crocância diferente."
+- "No preparo do peixe, nunca deixe ele mais de 1 hora na cura para evitar ficar salgado demais e alterar sabor natural."
+- "Cortar o peixe contra a fibra é crucial – fiz errado uma vez, ficou duro, quase desperdício."
+- "Para acelerar limpeza, deixe o peixe 10 minutos no freezer antes de cortar, favorece fatias finas."
+- "Ao fritar arroz, observe o som estourando – se parar rápido, desligue para não queimar e amargar."
+- "Paciência para cortar os legumes com mandolina é santo remédio, facilita apresentação e textura."
+- "O balanceamento do vinagrete na acidez é pessoal. Sempre prove e ajuste antes de montar. Mel muito forte mata o frescor."
+introduction: "Cura suave, delicadeza do peixe cru cortado com precisão. O toque ácido e adocicado do vinagrete de cranberry dá vida, enquanto o arroz estourado traz crocância inesperada. A montagem olha para o frescor na paleta de cores: verde do manjericão, vermelho rubi das frutas, brancura sutil das fatias de rabanete e pepino. Não é só entrada, é um treinamento para entender texturas contrapostas. Misturar ingredientes e técnicas de diferentes cozinhas aos poucos me levou aqui. O segredo? Respeitar o peixe, usar temperatura baixa e olhar na hora de cortar. Visual e aroma antes de provar – aí o sucesso."
+ingredientsNote: "Sal e açúcar mascavo curam o peixe rapidamente sem tirar maciez, mas controle o tempo para evitar excesso de sal. Trazer truta, mas tilápia funciona – ajuste cortes e texturas. Vinagrete feito com cranberries frescas ou congeladas; no Brasil, oxicoco é substituto padrão, mas não funciona igual a cranberry tradicional. Óleo de semente de uva neutro é melhor que azeite pra não roubar sabor, mas azeite extra-virgem pode substituir para perfil mais rústico. No arroz estourado, arroz selvagem faz estouradinho incrível, porém arroz integral ou quinoa pipoca diferente; cuidado com temperatura do óleo para não queimar. Para guarnição, creme de leite fresco é clássico, mas creme azedo ou iogurte grego podem entrar. Mostarda à Dijon, mas use mostarda rústica se gostar de grão, implica mais textura."
+instructionsNote: "Cura do peixe pede atenção no tempo e na remoção do sal; enxágue bem para não prevalecer o salgado. Fatiar contra a fibra garante maciez e apresentação delicada, faca afiada é obrigação. Ferver vinagre e cranberries para extrair sabor, deixar amornar e coar evita pedaços indesejados que quebram textura. Vinagrete exige prova para equilibrar mel e acidez – muito doce perde contraste. O arroz estourado pede foco no barulho: quando parar de estourar, retire do óleo antes que amargue. Secar em papel absorvente e salgar na hora. Na montagem, louça fria até o último minuto mantém frescor; a disposição das fatias e guarnições importa visualmente, mas o toque final é o creme com mostarda, aplicável a gosto com saco de confeitar para jogo de texturas."
+tips:
+- "Para a cura da truta, tempo é essencial. Sal e açúcar mascavo fazem milagre na maciez. Mas nada de exagero. Caso contrário, textura fica estranha. Enxágue sempre bem depois."
+- "Corte do peixe importante. Contra a fibra facilita; maciez perfeita. A faca precisa estar bem afiada. Já tentei cortar com faca cega, resultado decepcionante. Prefira sempre lâminas finas."
+- "O vinagrete deve ter o equilíbrio certo. Experimente. Se necessário, adicione mais mel ou vinagre. O ideal é acidez equilibrada. Vinagre muito doce estraga o frescor do prato."
+- "Arroz estourado precisa de atenção. Ao estourar, é barulho que conta. Se parar rápido, desligue o fogo. E depois escorra rápido. O tempo é crucial para não amargar."
+- "Em substituições, tilápia é ótima para variar. Já usei, funciona bem. Para o vinagrete, geleia de amora é boa opção. Lembre-se de ajustar a acidez."
+faq:
+- "q: Quanto tempo deixar o peixe na cura? a: O ideal é até 1 hora. Mais que isso, fica salgado. Mas até 1h15 dá. Enxágue bem após a cura."
+- "q: Posso usar outro peixe? a: Sim, tilápia funciona bem. Mas fique atento à textura. Fatiar fininho é essencial. Linguado também é bom."
+- "q: Como armazenar o prato? a: Guarde separado. Arroz estourado fora da geladeira. O peixe precisa de frio. Pode durar até 24h, mas frescor é melhor."
+- "q: Como saber se o arroz estourou direito? a: O som é seu guia. Se não ouvir mais estalos, retire do óleo. Se queimar, amargo é certo. Fica atenção ampla."
+
+---
