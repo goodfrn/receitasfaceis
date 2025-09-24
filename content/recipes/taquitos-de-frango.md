@@ -1,0 +1,97 @@
+---
+title: "Taquitos de Frango com Guacamole"
+slug: "taquitos-de-frango"
+description: "Taquitos recheados com frango bem temperado e queijo tex-mex, enrolados em tortillas macias e dourados na frigideira até ficar crocante. Servidos com guacamole cremoso de abacate com toque de limão e pimenta jalapeño, acompanhados de alface crocante, salsa e creme azedo. Versão rápida, simples, sem nozes e ovos, com ingredientes ajustados para mais sabor e textura. Ideal para almoço ou jantar informal. Receita pensada para quem busca sabor intenso sem complicação, com truques para evitar que as tortillas se abram, e dicas para deixar o recheio mais úmido e saboroso, mesmo se sobrar frango de outra preparação."
+metaDescription: "Taquitos de Frango com Guacamole são a escolha perfeita para um almoço divertido e cheio de sabor. Experimente e surpreenda."
+ogDescription: "Coma Taquitos de Frango crocantes, com guacamole cremoso. Sabor e textura em cada mordida. Ideal para um lanche ou jantar."
+focusKeyphrase: "taquitos de frango"
+date: 2025-09-24
+draft: false
+image: taquitos-de-frango.png
+author: "Julia"
+prepTime: PT20M
+cookTime: PT20M
+totalTime: PT40M
+recipeYield: "4 porções"
+categories: ["Lanches e Petiscos"]
+tags:
+- "mexicana"
+- "fácil"
+- "recheados"
+- "aperitivos"
+- "frango"
+keywords:
+- "taquitos"
+- "frango"
+- "comida mexicana"
+breadcrumb: ["Home", "Recipes", "Lanches e Petiscos"]
+nutrition: 
+ calories: "350"
+ fatContent: "22g"
+ carbohydrateContent: "15g"
+ proteinContent: "25g"
+ingredients:
+- "=== Guacamole ==="
+- "1 abacate grande maduro, descascado e sem caroço"
+- "1 limão taiti, só o suco fresco"
+- "1 cebola verde picada"
+- "1/2 pimenta jalapeño, sem sementes e picada fininha"
+- "sal a gosto"
+- "pimenta do reino moída a gosto"
+- ""
+- "=== Taquitos ==="
+- "350 g de peito de frango cozido e desfiado ou picado grosseiramente"
+- "90 g (aprox 1 xícara) queijo prato ralado (substitui o tex-mex, mais fácil de achar e derrete bem)"
+- "2 cebolinhas picadas bem finas"
+- "10 tortillas de trigo pequenas (cerca de 14 cm de diâmetro)"
+- "2 colheres de sopa de óleo de canola ou outro de sabor neutro"
+- "sal e pimenta do reino moída na hora"
+- ""
+- "=== Acompanhamentos opcionais ==="
+- "Alface americana rasgada fina"
+- "Salsa fresca caseira ou comprada"
+- "Creme azedo ou iogurte natural para substituir"
+instructions:
+- "=== Guacamole ==="
+- "Começo esmagando o abacate com garfo até virar uma pasta rústica, sem deixar virar purê. Importante pra manter textura."
+- "Adiciono o suco do limão fresco logo depois, que evita escurecer e traz acidez que equilibra a gordura do abacate."
+- "Misturo a cebola verde e a jalapeño picadinha, que dão sabor e cutucam no ardido – cuidado pra não exagerar aqui."
+- "Temperar com sal e pimenta do reino na medida."
+- "Deixo reservado enquanto preparo os taquitos, ideal pra misturar sabores e conservar frescor."
+- "=== Taquitos ==="
+- "Misturo a carne de frango com o queijo ralado e a cebolinha."
+- "Salpico sal e pimenta, sem medo – o queijo é suave, então caprichar no tempero é essencial."
+- "Misturo com as mãos; não apenas para incorporar, mas pra criar uma massa meio grudenta que ajuda a rechear e selar."
+- "Essa textura melhora a fixação do recheio na tortilla e evita que escape durante a fritura."
+- "Pra enrolar as tortillas, aqueço rapidamente cada uma no microondas por 10 segundos, tornando elas maleáveis e evitando que rachem."
+- "Coloco aproximadamente 3 colheres de sopa da mistura na parte inferior de cada tortilla, espalho e seguro firme."
+- "Enrolo apertando bem e espeto um palito de dente ou uso uma brocheta longa atravessando cinco unidades alinhadas para não abrir na hora da fritura."
+- "Se notar recheio escapando das pontas, empurro com os dedos para dentro, sem medo de apertar demais."
+- "Na frigideira grande antiaderente, aqueço metade do óleo em fogo médio."
+- "Coloco metade dos taquitos e deixo fritar até dourar cada lado, geralmente 2 a 3 minutos por lado, até criar crostinha firme, dourada e que resiste bem à manipulação. Ouvir o chiado é sinônimo de óleo na temperatura certa."
+- "Retiro com cuidado, removo os palitos ou brochetas, e termino fritando os lados abertos para fechar bem, mais uns 2 minutos para garantir."
+- "Escorro em papel absorvente para tirar excesso de gordura."
+- "Repetir o processo com o restante dos taquitos, adicionando mais óleo se necessário."
+- "Sirvo quente, em prato grande, com alface americana por cima para contrastar textura e temperatura, ao lado guacamole cremoso, um molho de salsa fresca e creme azedo ou iogurte natural, que funciona como contraponto refrescante e azedinho."
+- "=== Dicas e ajustes ==="
+- "Frango até pode ser substituído por carne moída temperada, mas atenção à textura para não ficar seco."
+- "O queijo prato derrete melhor e dá sabor mais aportuguesado, se não achar o tex-mex."
+- "Se a tortilla não enrolar direito, aqueça mais um pouco antes, evita romper."
+- "Pode congelar os taquitos já enrolados, mas recomendo fritar direto para manter crocância."
+- "Guacamole feito na hora é melhor, mas dá pra guardar tampado com filme plástico grudado pra evitar oxidar e escurecer."
+- "Se não gosta de muito ardido, reduza a pimenta jalapeño ou substitua por dedo-de-moça sem sementes."
+introduction: "Já mexi com várias receitas de taquitos na busca pelo sabor autêntico sem derramar recheio ou deixar pesado demais. A mistura do frango com queijo cria uma textura que cola legal, e o segredo de aquecer as tortillas antes facilita na hora do enrolar. Guacamole com abacate maduro e aquele toque cítrico do limão faz o contraste entre cremoso e ácido, tudo isso temperado com jalapeño que provoca sem dominar. Essa receita não é só um petisco, é quase um lab de sabores e de técnica na frigideira, onde ouvir o chiado certo e ver a cor dourada ajuda a acertar sempre na textura crocante e recheio suculento. Dá pra brincar com substituições e ainda sair com um prato cheio de personalidade e jeito brasileiro de aproveitar sabores mexicanos."
+ingredientsNote: "No lugar do queijo tex-mex que pode ser complicado de achar por aqui, uso o queijo prato ralado fino, que derrete fácil e tem sabor suave que dá liga ao frango. Frango cozido que sobra de outra refeição tá ótimo, só temperar bem para não ficar insosso. A tortilla tem que ser macia e pouco seca, senão vai rachar na hora de enrolar, se precisar passa rápido na frigideira antes para amolecer. Jalapeño é para quem curte pimentinha, mas pode trocar por um dedo-de-moça ou só substituir por pimenta do reino se quiser algo menos agressivo. Guacamole feito com pouco limão pode oxidar rápido, por isso esprema só o suficiente, senão fica muito azedo e perde cremosidade. O óleo recomendado é de canola ou girassol pela neutralidade, mas qualquer óleo vegetal serve, só não usar azeite comum porque queima rápido."
+instructionsNote: "Misturar o recheio à mão é crucial, não só para distribuir bem os ingredientes, mas para criar uma textura pegajosa que facilita o enrolar e evita vazamentos na fritura. Tortillas pré-aquecidas são a chave para manter maleabilidade, se pular essa etapa vai acabar com burracos ou rasgos. Enrolar firme e espetar com palito ou fazer aquelas brochetas de cinco ajuda a manter a forma e permetir virar na frigideira sem medo de abrir. Fritura no fogo médio é o marco para não queimar por fora e deixar cru por dentro, o óleo deve ficar quente, mas não fumegante – o chiado consistente é sinal certo. Depois da metade da fritura, tirar os palitos e dourar os lados abertos fecha o recheio numa crostinha uniforme e dourada. Retirar e escorrer em papel é indispensável para evitar oleosidade demais, que empapa e pesa. Servir com guacamole e acompanhamentos frescos fecha o prato com equilíbrio de sabores e textura."
+tips:
+- "Não exagere no suco de limão. É importante equilibrar a acidez do guacamole. O abacate deve ser maduro, macio, mas não pastoso. Use cebola verde picada bem fininha. Isso faz diferença na textura. Jalapeño é opcional se não gosta do picante. Regule o sal. Misturar tudo à mão ajuda a conservar a textura."
+- "Aqueça as tortillas antes de enrolar. Isso evita que rachem. Coloque no micro-ondas por poucos segundos. Não exagere, senão ficam secas. Ao rechear, pressione levemente os lados, faça isso com cuidado. Os palitos vão ajudar a manter o formato na fritura. Atenção ao fogo. Médio é ideal para não queimar fora e ficar cru dentro."
+- "Ao fritar, não sobrecarregue a frigideira. Isso impede que fiquem crocantes. Quer um truque? Escorra bem antes de servir. Papel absorvente é fundamental. Pague atenção no chiado – deve ser constante. Isso indica a temperatura certa do óleo. Após dourar um lado, vire com cuidado para não abrir."
+- "Se a mistura estiver seca, ajuste com um pouco de creme ou iogurte. O queijo prato é ótimo por derreter. Se quiser, use carne moída bem temperada, mas cuidado com a umidade. A tortilha não pode ser dura. Experimente antes de enrolar. Se precisar, passe pela frigideira rapidamente para amolecer."
+faq:
+- "q: Como evitar que o recheio escape? a: Pressione a tortillas ao enrolar. Use palitos ou brochetas. Aqueça bem antes. Se notar vazando, aperte novamente."
+- "q: Posso usar outro tipo de queijo? a: Sim. Queijo muçarela também derrete bem. O importante é manter a umidade. O prato não pode ficar seco."
+- "q: Como guardar os leftovers? a: Coloque em recipiente hermético. O guacamole oxida rápido. Dica? Use filme plástico grudado. Ajuda a manter frescura."
+- "q: E se não tiver pimenta jalapeño? a: Pode pular ou usar pimenta do reino. Não gosta do ardido? Dedo-de-moça é uma alternativa. Ajuste a seu gosto."
+
+---
