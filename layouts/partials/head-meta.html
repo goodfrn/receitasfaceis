@@ -33,7 +33,9 @@
 <meta name="twitter:card"        content="summary_large_image">
 <meta name="twitter:title"       content="{{ $title }}">
 <meta name="twitter:description" content="{{ $description }}">
-<meta name="twitter:image"       content="{{ $image | absURL }}">
+{{ if ne .Section "recipes" }}
+  <meta name="twitter:image"     content="{{ $image | absURL }}">
+{{ end }}
 <meta name="twitter:site"        content="@{{ .Site.Params.twitter }}">
 <meta name="twitter:creator"     content="@{{ with .Params.authorTwitter }}{{ . }}{{ else }}{{ .Site.Params.twitter }}{{ end }}">
 
