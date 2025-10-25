@@ -259,8 +259,8 @@
               {{ range . }}
                 {{ if strings.Contains . "q:" }}
                   {{ $parts := split . "a:" }}
-                  {{ $question := index $parts 0 | replaceRE "q:\\s*" "" | trim " " }}
-                  {{ $answer := index $parts 1 | trim " " }}
+                  {{ $question := index $parts 0 | replaceRE "q:\\s*" "" }}
+                  {{ $answer := index $parts 1 }}
                   
                   <details class="p-5 bg-stone-50 border border-stone-200 rounded-lg shadow-sm">
                     <summary class="font-medium cursor-pointer text-stone-800 hover:text-stone-900">
