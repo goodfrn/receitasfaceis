@@ -7,7 +7,7 @@ ogDescription: "Descubra o caranguejo na manteiga quente. Uma combinação de sa
 focusKeyphrase: "caranguejo na manteiga quente"
 date: 2025-09-28
 draft: false
-image: caranguejo-na-manteiga-quente.png
+image: caranguejo-na-manteiga-quente.jpg
 author: "Julia"
 prepTime: PT28M
 cookTime: PT17M

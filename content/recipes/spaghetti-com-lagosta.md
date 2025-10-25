@@ -7,7 +7,7 @@ ogDescription: "Descubra uma receita incrível de Spaghetti com Lagosta. Simples
 focusKeyphrase: "Spaghetti com Lagosta"
 date: 2025-08-18
 draft: false
-image: spaghetti-com-lagosta.png
+image: spaghetti-com-lagosta.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT55M

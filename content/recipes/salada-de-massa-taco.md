@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Massa Taco com Guacamole. Refrescante e 
 focusKeyphrase: "Salada de Massa Taco"
 date: 2025-10-06
 draft: false
-image: salada-de-massa-taco.png
+image: salada-de-massa-taco.jpg
 author: "Julia"
 prepTime: PT23M
 cookTime: PT9M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Rouille com Toque de Páprica - um molho colorido 
 focusKeyphrase: "Rouille com Toque de Páprica"
 date: 2025-09-27
 draft: false
-image: rouille-com-toque-de-paprica.png
+image: rouille-com-toque-de-paprica.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT0M

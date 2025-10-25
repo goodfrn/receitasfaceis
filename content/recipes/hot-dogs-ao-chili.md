@@ -7,7 +7,7 @@ ogDescription: "Experimente Hot-dogs ao Chili com Queijo; uma combinação únic
 focusKeyphrase: "Hot-dogs ao Chili com Queijo"
 date: 2025-09-29
 draft: false
-image: hot-dogs-ao-chili.png
+image: hot-dogs-ao-chili.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT45M

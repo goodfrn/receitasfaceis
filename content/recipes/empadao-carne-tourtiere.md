@@ -7,7 +7,7 @@ ogDescription: "Descubra o empadão de carne com pimentão vermelho e novos temp
 focusKeyphrase: "empadão de carne"
 date: 2025-07-19
 draft: false
-image: empadao-carne-tourtiere.png
+image: empadao-carne-tourtiere.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT1H

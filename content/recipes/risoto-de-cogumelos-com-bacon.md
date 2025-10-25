@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Risoto de Cogumelos com Bacon, um prato que comb
 focusKeyphrase: "risoto de cogumelos com bacon"
 date: 2025-08-08
 draft: false
-image: risoto-de-cogumelos-com-bacon.png
+image: risoto-de-cogumelos-com-bacon.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

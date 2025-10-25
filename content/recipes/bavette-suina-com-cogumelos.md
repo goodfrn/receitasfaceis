@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar Bavette Suína com Cogumelos e Figos, uma com
 focusKeyphrase: "Bavette Suína com Cogumelos e Figos"
 date: 2025-08-08
 draft: false
-image: bavette-suina-com-cogumelos.png
+image: bavette-suina-com-cogumelos.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

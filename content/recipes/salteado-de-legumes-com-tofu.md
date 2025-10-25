@@ -7,7 +7,7 @@ ogDescription: "Experimente o salteado de legumes com tofu. Rápido, leve e nutr
 focusKeyphrase: "salteado de legumes com tofu"
 date: 2025-07-25
 draft: false
-image: salteado-de-legumes-com-tofu.png
+image: salteado-de-legumes-com-tofu.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

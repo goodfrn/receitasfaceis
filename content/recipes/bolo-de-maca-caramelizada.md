@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo de Maçã Caramelizada com Maple. A combinaç
 focusKeyphrase: "Bolo de Maçã Caramelizada"
 date: 2025-08-02
 draft: false
-image: bolo-de-maca-caramelizada.png
+image: bolo-de-maca-caramelizada.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT1H25M

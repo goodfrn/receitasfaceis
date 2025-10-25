@@ -7,7 +7,7 @@ ogDescription: "Experimente essa deliciosa Salada de Camarão Grelhado; um prato
 focusKeyphrase: "Salada de Camarão Grelhado"
 date: 2025-08-10
 draft: false
-image: salada-de-camaro-grelhado.png
+image: salada-de-camaro-grelhado.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

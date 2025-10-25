@@ -7,7 +7,7 @@ ogDescription: "Prepare a Salada de Repolho Roxo e Maçã. Refrescante, crocante
 focusKeyphrase: "Salada de Repolho Roxo e Maçã"
 date: 2025-08-08
 draft: false
-image: salada-repolho-roxo-maca.png
+image: salada-repolho-roxo-maca.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT0M

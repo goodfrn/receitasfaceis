@@ -7,7 +7,7 @@ ogDescription: "Vinaigrettes Brasileiras Variações oferecem molhos para todos 
 focusKeyphrase: "vinaigrette brasileira"
 date: 2025-07-23
 draft: false
-image: vinaigrettes-brasileiras.png
+image: vinaigrettes-brasileiras.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT5M

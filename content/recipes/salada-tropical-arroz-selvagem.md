@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada Tropical de Arroz Selvagem uma mistura colo
 focusKeyphrase: "Salada Tropical de Arroz Selvagem"
 date: 2025-08-07
 draft: false
-image: salada-tropical-arroz-selvagem.png
+image: salada-tropical-arroz-selvagem.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Cogumelos e Cebolas na Manteiga, o sabor intenso desse acompanha
 focusKeyphrase: "Cogumelos e Cebolas na Manteiga"
 date: 2025-10-23
 draft: false
-image: cogumelos-e-cebolas-na-manteiga.png
+image: cogumelos-e-cebolas-na-manteiga.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT9M

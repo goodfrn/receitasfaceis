@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer bouchês tofu laqueados. Crocantes, com molh
 focusKeyphrase: "bouchês tofu laqueados"
 date: 2025-08-04
 draft: false
-image: bouches-tofu-laqueados.png
+image: bouches-tofu-laqueados.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

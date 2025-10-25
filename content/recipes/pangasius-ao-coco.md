@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Pangasius ao Coco com Gengibre, uma combinação 
 focusKeyphrase: "Pangasius ao Coco com Gengibre"
 date: 2025-08-17
 draft: false
-image: pangasius-ao-coco.png
+image: pangasius-ao-coco.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT22M

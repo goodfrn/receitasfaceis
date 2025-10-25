@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Listrada de Maple. Uma combinação delicios
 focusKeyphrase: "Torta Listrada de Maple"
 date: 2025-08-15
 draft: false
-image: torta-listrada-de-maple.png
+image: torta-listrada-de-maple.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT40M

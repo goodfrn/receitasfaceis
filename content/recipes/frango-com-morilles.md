@@ -7,7 +7,7 @@ ogDescription: "Experimente o Frango com Morilles. Cogumelos exóticos e frango 
 focusKeyphrase: "Frango com Morilles"
 date: 2025-09-27
 draft: false
-image: frango-com-morilles.png
+image: frango-com-morilles.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H20M

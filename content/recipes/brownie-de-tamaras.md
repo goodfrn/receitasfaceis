@@ -7,7 +7,7 @@ ogDescription: "Experimente o Brownie de Tâmaras Sem Glúten, um doce saudável
 focusKeyphrase: "brownie de tâmaras sem glúten"
 date: 2025-10-07
 draft: false
-image: brownie-de-tamaras.png
+image: brownie-de-tamaras.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

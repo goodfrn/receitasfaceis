@@ -7,7 +7,7 @@ ogDescription: "Experimente Medalhões de Porco com Molho de Tangerina. Uma comb
 focusKeyphrase: "Medalhões de Porco com Molho de Tangerina"
 date: 2025-07-24
 draft: false
-image: medalhoes-de-porco-com-molho-de-tangerina.png
+image: medalhoes-de-porco-com-molho-de-tangerina.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT13M

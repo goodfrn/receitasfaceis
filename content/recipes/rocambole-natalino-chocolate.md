@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Rocambole Natalino de Chocolate. Um bolo enrola
 focusKeyphrase: "rocambole natalino de chocolate"
 date: 2025-07-18
 draft: false
-image: rocambole-natalino-chocolate.png
+image: rocambole-natalino-chocolate.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT15M

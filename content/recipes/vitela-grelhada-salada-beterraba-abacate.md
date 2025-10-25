@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar vitela grelhada com salada de beterraba e aba
 focusKeyphrase: "vitela grelhada"
 date: 2025-08-14
 draft: false
-image: vitela-grelhada-salada-beterraba-abacate.png
+image: vitela-grelhada-salada-beterraba-abacate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

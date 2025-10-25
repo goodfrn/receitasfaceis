@@ -7,7 +7,7 @@ ogDescription: "Sabor marcante do Rôti de Surlonge Grelhado com um molho rico e
 focusKeyphrase: "Rôti de Surlonge Grelhado"
 date: 2025-07-20
 draft: false
-image: roti-de-surlonge-grelhado.png
+image: roti-de-surlonge-grelhado.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT28M

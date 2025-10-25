@@ -7,7 +7,7 @@ ogDescription: "Prepare Mini Espetinhos Frango César, uma delícia de petisco q
 focusKeyphrase: "Mini Espetinhos Frango César"
 date: 2025-08-05
 draft: false
-image: mini-espetinhos-frango-cesar.png
+image: mini-espetinhos-frango-cesar.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT25M

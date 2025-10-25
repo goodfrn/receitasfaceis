@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sangria Vermelha com um toque tropical. Refrescant
 focusKeyphrase: "Sangria Vermelha com Toque Tropical"
 date: 2025-09-28
 draft: false
-image: sangria-vermelha-toque-tropical.png
+image: sangria-vermelha-toque-tropical.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

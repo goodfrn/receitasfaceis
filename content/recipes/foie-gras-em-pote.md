@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar Foie Gras em Pote com rum escuro. Um petisco 
 focusKeyphrase: "Foie Gras em Pote"
 date: 2025-07-19
 draft: false
-image: foie-gras-em-pote.png
+image: foie-gras-em-pote.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT45M

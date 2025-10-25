@@ -7,7 +7,7 @@ ogDescription: "Espetinhos de Frango com Chorizo, sabor na grelha robusto. Acomp
 focusKeyphrase: "Espetinhos de Frango com Chorizo"
 date: 2025-09-25
 draft: false
-image: espetinhos-de-frango.png
+image: espetinhos-de-frango.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT17M

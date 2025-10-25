@@ -7,7 +7,7 @@ ogDescription: "Cuscuz Tunisiano com Peixe. Combinação de sabores do norte da 
 focusKeyphrase: "Cuscuz Tunisiano com Peixe"
 date: 2025-08-09
 draft: false
-image: cuscuz-tunisiano-com-peixe.png
+image: cuscuz-tunisiano-com-peixe.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

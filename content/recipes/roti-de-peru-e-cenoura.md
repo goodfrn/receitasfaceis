@@ -7,7 +7,7 @@ ogDescription: "Experimente Roti de Peru e Cenoura. Um preparo recheado, com leg
 focusKeyphrase: "Roti de Peru e Cenoura"
 date: 2025-07-19
 draft: false
-image: roti-de-peru-e-cenoura.png
+image: roti-de-peru-e-cenoura.jpg
 author: "Julia"
 prepTime: PT1H5M
 cookTime: PT1H35M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pão de Brioche com Ervas e Queijos. Perfeito para
 focusKeyphrase: "Pão de Brioche com Ervas e Queijos"
 date: 2025-07-27
 draft: false
-image: pao-de-brioche-com-ervas.png
+image: pao-de-brioche-com-ervas.jpg
 author: "Julia"
 prepTime: PT60M
 cookTime: PT45M

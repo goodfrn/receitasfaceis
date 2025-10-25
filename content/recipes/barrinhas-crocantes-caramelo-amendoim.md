@@ -7,7 +7,7 @@ ogDescription: "Barrinhas Crocantes de Caramelo e Amendoim com camadas de sabor.
 focusKeyphrase: "Barrinhas Crocantes de Caramelo e Amendoim"
 date: 2025-07-24
 draft: false
-image: barrinhas-crocantes-caramelo-amendoim.png
+image: barrinhas-crocantes-caramelo-amendoim.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT40M

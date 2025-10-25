@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Pasta com pimentões assados e aspargos. Uma expl
 focusKeyphrase: "Pasta com pimentões assados"
 date: 2025-08-12
 draft: false
-image: pasta-com-pimentoes-assados.png
+image: pasta-com-pimentoes-assados.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

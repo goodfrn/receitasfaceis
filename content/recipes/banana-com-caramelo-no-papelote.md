@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Banana com Caramelo no Papelote. Sabor intenso e 
 focusKeyphrase: "banana com caramelo no papelote"
 date: 2025-07-20
 draft: false
-image: banana-com-caramelo-no-papelote.png
+image: banana-com-caramelo-no-papelote.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Cenouras Sous Vide com Manteiga. Um jeito difere
 focusKeyphrase: "Cenouras Sous Vide"
 date: 2025-08-04
 draft: false
-image: cenouras-sous-vide.png
+image: cenouras-sous-vide.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT35M

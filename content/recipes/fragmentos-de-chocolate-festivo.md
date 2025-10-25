@@ -7,7 +7,7 @@ ogDescription: "Delicioso Fragmentos de Chocolate Festivo, combinação de choco
 focusKeyphrase: "Fragmentos de Chocolate Festivo"
 date: 2025-07-24
 draft: false
-image: fragmentos-de-chocolate-festivo.png
+image: fragmentos-de-chocolate-festivo.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT10M

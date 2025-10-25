@@ -7,7 +7,7 @@ ogDescription: "Experimente gougères com um toque brasileiro, feitas com queijo
 focusKeyphrase: "gougères brasileiras"
 date: 2025-09-25
 draft: false
-image: gougeres-com-toque-brasileiro.png
+image: gougeres-com-toque-brasileiro.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H

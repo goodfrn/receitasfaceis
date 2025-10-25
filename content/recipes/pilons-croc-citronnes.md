@@ -7,7 +7,7 @@ ogDescription: "Coxinhas de frango crocantes, gergelim caramelizado, molho pican
 focusKeyphrase: "pilons croc’ citronnés"
 date: 2025-07-28
 draft: false
-image: pilons-croc-citronnes.png
+image: pilons-croc-citronnes.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um Macarrão Gratinado com Carne e Queijo que va
 focusKeyphrase: "Macarrão Gratinado com Carne e Queijo"
 date: 2025-09-30
 draft: false
-image: macarrao-gratinado-carne-queijo.png
+image: macarrao-gratinado-carne-queijo.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT50M

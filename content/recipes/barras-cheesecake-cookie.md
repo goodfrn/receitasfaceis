@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Barras Cheesecake Cookie uma explosão de sa
 focusKeyphrase: "Barras Cheesecake Cookie"
 date: 2025-10-21
 draft: false
-image: barras-cheesecake-cookie.png
+image: barras-cheesecake-cookie.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

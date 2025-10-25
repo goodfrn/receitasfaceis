@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Bolinha Crocante de Chocolate. Sobremesa vegana 
 focusKeyphrase: "Bolinha Crocante de Chocolate"
 date: 2025-07-30
 draft: false
-image: bolinha-crocante-chocolate.png
+image: bolinha-crocante-chocolate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

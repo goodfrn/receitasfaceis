@@ -7,7 +7,7 @@ ogDescription: "Experimente esta combinação incrível com sorvete, manteiga de
 focusKeyphrase: "Sundae Manteiga de Amendoim e Geleia"
 date: 2025-08-14
 draft: false
-image: sundae-manteiga-de-amendoim.png
+image: sundae-manteiga-de-amendoim.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT15M

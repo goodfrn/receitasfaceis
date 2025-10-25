@@ -7,7 +7,7 @@ ogDescription: "Experimente um penne apimentado com camarão que mistura tomate 
 focusKeyphrase: "penne apimentado com camarão"
 date: 2025-07-25
 draft: false
-image: penne-apimentado-com-camarao.png
+image: penne-apimentado-com-camarao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

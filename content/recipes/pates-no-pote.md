@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita Pâtes no Pote. Uma combinação deliciosa de
 focusKeyphrase: "Pâtes no Pote"
 date: 2025-08-08
 draft: false
-image: pates-no-pote.png
+image: pates-no-pote.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT11M

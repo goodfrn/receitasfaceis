@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Sanduíches de Mousse de Tangerina, uma s
 focusKeyphrase: "Sanduíches de Mousse de Tangerina"
 date: 2025-08-10
 draft: false
-image: sanduiches-de-mousse-de-tangerina.png
+image: sanduiches-de-mousse-de-tangerina.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

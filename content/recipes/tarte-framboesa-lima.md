@@ -7,7 +7,7 @@ ogDescription: "Experimente a Tarte framboesa limão twist, uma combinação irr
 focusKeyphrase: "Tarte framboesa limão twist"
 date: 2025-08-05
 draft: false
-image: tarte-framboesa-lima.png
+image: tarte-framboesa-lima.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Biscoitos espelhados cítricos com sabor equilibrado e visual in
 focusKeyphrase: "biscoitos espelhados cítricos"
 date: 2025-08-20
 draft: false
-image: biscoitos-espelhados-citricos.png
+image: biscoitos-espelhados-citricos.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

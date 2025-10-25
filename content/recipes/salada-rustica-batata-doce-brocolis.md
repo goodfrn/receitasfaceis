@@ -7,7 +7,7 @@ ogDescription: "Descubra a salada rústica com batata-doce e brócolis, uma expl
 focusKeyphrase: "salada rústica com batata-doce"
 date: 2025-08-05
 draft: false
-image: salada-rustica-batata-doce-brocolis.png
+image: salada-rustica-batata-doce-brocolis.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT35M

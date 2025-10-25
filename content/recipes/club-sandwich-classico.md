@@ -7,7 +7,7 @@ ogDescription: "Prepare um Club Sandwich Clássico com Ovos e bacon crocante; id
 focusKeyphrase: "Club Sandwich Clássico com Ovos"
 date: 2025-09-27
 draft: false
-image: club-sandwich-classico.png
+image: club-sandwich-classico.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT20M

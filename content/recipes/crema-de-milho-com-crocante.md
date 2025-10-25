@@ -7,7 +7,7 @@ ogDescription: "Experimente a Crema de Milho com Crocante, uma sobremesa brasile
 focusKeyphrase: "crema de milho"
 date: 2025-09-29
 draft: false
-image: crema-de-milho-com-crocante.png
+image: crema-de-milho-com-crocante.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT20M

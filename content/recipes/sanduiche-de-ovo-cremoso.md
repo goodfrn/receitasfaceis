@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sanduíche de Ovo Cremoso com Ervas, um lanche pr�
 focusKeyphrase: "sanduíche de ovo cremoso"
 date: 2025-07-28
 draft: false
-image: sanduiche-de-ovo-cremoso.png
+image: sanduiche-de-ovo-cremoso.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

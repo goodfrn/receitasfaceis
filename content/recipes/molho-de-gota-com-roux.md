@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Molho de Gota com Roux, um acompanhamento perfei
 focusKeyphrase: "molho de gota"
 date: 2025-10-22
 draft: false
-image: molho-de-gota-com-roux.png
+image: molho-de-gota-com-roux.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT17M

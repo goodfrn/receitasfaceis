@@ -7,7 +7,7 @@ ogDescription: "Uma receita de Trempette de queijo de cabra como você nunca viu
 focusKeyphrase: "Trempette de queijo de cabra"
 date: 2025-08-13
 draft: false
-image: trempette-queijo-cabra-legumes.png
+image: trempette-queijo-cabra-legumes.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Receita de Guédilles de Frango Picante. O sabor perfeito: frang
 focusKeyphrase: "Guédilles de Frango Picante"
 date: 2025-08-05
 draft: false
-image: guedilles-frango-picante.png
+image: guedilles-frango-picante.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT17M

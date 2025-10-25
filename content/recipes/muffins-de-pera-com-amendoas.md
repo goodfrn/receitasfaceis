@@ -7,7 +7,7 @@ ogDescription: "Prepare Muffins de Pera com Amêndoas, uma receita simples e del
 focusKeyphrase: "Muffins de Pera com Amêndoas"
 date: 2025-09-30
 draft: false
-image: muffins-de-pera-com-amendoas.png
+image: muffins-de-pera-com-amendoas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT28M

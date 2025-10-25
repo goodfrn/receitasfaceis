@@ -7,7 +7,7 @@ ogDescription: "Experimente os Biscoitos Crocantes de Aveia, com leite de coco e
 focusKeyphrase: "Biscoitos Crocantes de Aveia"
 date: 2025-08-19
 draft: false
-image: biscoitos-crocantes-aveia.png
+image: biscoitos-crocantes-aveia.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

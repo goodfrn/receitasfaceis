@@ -7,7 +7,7 @@ ogDescription: "Experimente o Frango Crocante com Mel. Uma combinação perfeita
 focusKeyphrase: "Frango Crocante com Mel"
 date: 2025-10-22
 draft: false
-image: frango-crocante-com-mel.png
+image: frango-crocante-com-mel.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT28M

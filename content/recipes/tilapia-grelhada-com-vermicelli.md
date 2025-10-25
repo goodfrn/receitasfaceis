@@ -7,7 +7,7 @@ ogDescription: "Tilápia grelhada com vermicelli e salsa de abacaxi, um prato sa
 focusKeyphrase: "tilápia grelhada"
 date: 2025-08-03
 draft: false
-image: tilapia-grelhada-com-vermicelli.png
+image: tilapia-grelhada-com-vermicelli.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

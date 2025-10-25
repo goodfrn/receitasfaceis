@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa Marroquina de Leguminosas com um toque brasileir
 focusKeyphrase: "Sopa Marroquina de Leguminosas"
 date: 2025-08-10
 draft: false
-image: sopa-marroquina-leguminosas.png
+image: sopa-marroquina-leguminosas.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT1H

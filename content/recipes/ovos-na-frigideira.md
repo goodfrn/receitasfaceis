@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar ovos na frigideira fondue. Prático, ráp
 focusKeyphrase: "Ovos na frigideira fondue"
 date: 2025-07-28
 draft: false
-image: ovos-na-frigideira.png
+image: ovos-na-frigideira.jpg
 author: "Julia"
 prepTime: PT2M
 cookTime: PT9M

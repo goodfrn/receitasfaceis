@@ -7,7 +7,7 @@ ogDescription: "Experimente as Nozes Picantes Assadas, um petisco irresistível 
 focusKeyphrase: "Nozes Picantes Assadas"
 date: 2025-07-18
 draft: false
-image: nozes-picantes-assadas.png
+image: nozes-picantes-assadas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT17M

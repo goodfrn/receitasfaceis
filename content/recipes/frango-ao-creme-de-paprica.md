@@ -7,7 +7,7 @@ ogDescription: "Experimente o Frango ao Creme de Páprica. Frango empanado, croc
 focusKeyphrase: "Frango ao Creme de Páprica"
 date: 2025-10-16
 draft: false
-image: frango-ao-creme-de-paprica.png
+image: frango-ao-creme-de-paprica.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT20M

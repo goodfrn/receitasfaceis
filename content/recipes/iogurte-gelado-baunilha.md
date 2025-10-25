@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com um Iogurte Gelado de Baunilha Cremoso. Uma sobrem
 focusKeyphrase: "iogurte gelado de baunilha cremoso"
 date: 2025-08-12
 draft: false
-image: iogurte-gelado-baunilha.png
+image: iogurte-gelado-baunilha.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT25M

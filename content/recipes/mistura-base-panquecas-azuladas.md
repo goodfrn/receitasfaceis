@@ -7,7 +7,7 @@ ogDescription: "Mistura Base Panquecas Azuladas, prática e versátil. Transform
 focusKeyphrase: "Mistura Base Panquecas Azuladas"
 date: 2025-08-08
 draft: false
-image: mistura-base-panquecas-azuladas.png
+image: mistura-base-panquecas-azuladas.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT6M

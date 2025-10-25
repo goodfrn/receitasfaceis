@@ -7,7 +7,7 @@ ogDescription: "Descubra o Bolo Chiclete Colorido, uma delícia com balas de gom
 focusKeyphrase: "Bolo Chiclete Colorido"
 date: 2025-08-17
 draft: false
-image: bolo-chiclete-colorido.png
+image: bolo-chiclete-colorido.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT50M

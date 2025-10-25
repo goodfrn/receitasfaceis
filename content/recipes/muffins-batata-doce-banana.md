@@ -7,7 +7,7 @@ ogDescription: "Experimente os muffins de batata-doce e banana. Recheados de sab
 focusKeyphrase: "muffins de batata-doce e banana"
 date: 2025-07-21
 draft: false
-image: muffins-batata-doce-banana.png
+image: muffins-batata-doce-banana.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

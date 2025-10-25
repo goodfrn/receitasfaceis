@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pão Banana Chocolate com Toque Canela, uma receit
 focusKeyphrase: "Pão Banana Chocolate"
 date: 2025-08-08
 draft: false
-image: pao-banana-chocolate-canela.png
+image: pao-banana-chocolate-canela.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

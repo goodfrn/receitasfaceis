@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada Fattouche com Lentilhas. Fresca, nutritiva e p
 focusKeyphrase: "salada fattouche com lentilhas"
 date: 2025-07-28
 draft: false
-image: salada-fattouche-com-lentilhas.png
+image: salada-fattouche-com-lentilhas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

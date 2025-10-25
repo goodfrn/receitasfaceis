@@ -7,7 +7,7 @@ ogDescription: "Experimente a Maionese com Toque Agridoce; uma opção cremosa e
 focusKeyphrase: "maionese agridoce vegana"
 date: 2025-08-05
 draft: false
-image: maionese-com-toque-agri-doce.png
+image: maionese-com-toque-agri-doce.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Trempette Grega Curiosa, uma mistura leve com mora
 focusKeyphrase: "Trempette Grega Curiosa"
 date: 2025-09-30
 draft: false
-image: trempette-grega-curiosa.png
+image: trempette-grega-curiosa.jpg
 author: "Julia"
 prepTime: PT32M
 cookTime: PT0M

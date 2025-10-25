@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo de Rosquinhas Colorido com camadas de rosquin
 focusKeyphrase: "Bolo de Rosquinhas Colorido"
 date: 2025-08-16
 draft: false
-image: bolo-de-rosquinhas-colorido.png
+image: bolo-de-rosquinhas-colorido.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT0M

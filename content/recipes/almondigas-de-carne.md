@@ -7,7 +7,7 @@ ogDescription: "Almôndegas de carne com cenoura. Receita caseira simples e deli
 focusKeyphrase: "almôndegas de carne com cenoura"
 date: 2025-07-20
 draft: false
-image: almondigas-de-carne.png
+image: almondigas-de-carne.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT22M

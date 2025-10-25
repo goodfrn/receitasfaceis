@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Nozes Torradas no micro-ondas. Receita rápi
 focusKeyphrase: "Nozes Torradas Micro"
 date: 2025-07-28
 draft: false
-image: nozes-torradas-micro.png
+image: nozes-torradas-micro.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT4M

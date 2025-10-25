@@ -7,7 +7,7 @@ ogDescription: "Deliciosas almôndegas com orzo, uma combinação perfeita de sa
 focusKeyphrase: "almôndegas com orzo"
 date: 2025-07-19
 draft: false
-image: almondedas-com-orzo.png
+image: almondedas-com-orzo.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

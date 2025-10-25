@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de aspargos crocantes com molho verde que une
 focusKeyphrase: "aspargos crocantes com molho verde"
 date: 2025-08-17
 draft: false
-image: aspargos-crocantes-com-molho-verde.png
+image: aspargos-crocantes-com-molho-verde.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT15M

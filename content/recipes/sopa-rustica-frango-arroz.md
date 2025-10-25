@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sopa Rústica de Frango com Arroz. Um prato caseir
 focusKeyphrase: "Sopa Rústica de Frango com Arroz"
 date: 2025-09-29
 draft: false
-image: sopa-rustica-frango-arroz.png
+image: sopa-rustica-frango-arroz.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

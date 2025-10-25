@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um Coquetel Maçã-Camomila aromático e lev
 focusKeyphrase: "Coquetel Maçã-Camomila"
 date: 2025-08-07
 draft: false
-image: coquetel-maca-camomila.png
+image: coquetel-maca-camomila.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT7M

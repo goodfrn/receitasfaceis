@@ -7,7 +7,7 @@ ogDescription: "Frango picante com melão e linguiça, fusão de frescor e tempe
 focusKeyphrase: "frango picante com melão"
 date: 2025-08-05
 draft: false
-image: frango-picante-com-melao.png
+image: frango-picante-com-melao.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

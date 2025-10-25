@@ -7,7 +7,7 @@ ogDescription: "Experimente o sanduíche napolitano forno. Recheio cremoso e cro
 focusKeyphrase: "sanduíche napolitano forno"
 date: 2025-07-19
 draft: false
-image: sanduiche-napolitano-forno.png
+image: sanduiche-napolitano-forno.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT3M

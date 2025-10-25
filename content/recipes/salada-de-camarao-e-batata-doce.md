@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de camarão e batata-doce, combinação suc
 focusKeyphrase: "Salada de camarão e batata-doce"
 date: 2025-08-17
 draft: false
-image: salada-de-camarao-e-batata-doce.png
+image: salada-de-camarao-e-batata-doce.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

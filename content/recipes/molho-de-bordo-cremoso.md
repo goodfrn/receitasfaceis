@@ -7,7 +7,7 @@ ogDescription: "Experimente o Molho de Bordo Cremoso, perfeito para acompanhar s
 focusKeyphrase: "molho de bordo cremoso"
 date: 2025-07-21
 draft: false
-image: molho-de-bordo-cremoso.png
+image: molho-de-bordo-cremoso.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT12M

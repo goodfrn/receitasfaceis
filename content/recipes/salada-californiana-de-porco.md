@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada Californiana de Porco. Uma mistura de carnes, 
 focusKeyphrase: "salada californiana de porco"
 date: 2025-08-01
 draft: false
-image: salada-californiana-de-porco.png
+image: salada-californiana-de-porco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT12M

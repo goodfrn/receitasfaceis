@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar Endívias Recheadas com Ovo e Bacon, uma entr
 focusKeyphrase: "endívias recheadas"
 date: 2025-09-12
 draft: false
-image: endivias-recheadas-ovo-bacon.png
+image: endivias-recheadas-ovo-bacon.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT20M

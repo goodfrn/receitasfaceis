@@ -7,7 +7,7 @@ ogDescription: "Experimente esta receita de gaufres de aveia e amêndoas. Uma ab
 focusKeyphrase: "gaufres de aveia e amêndoas"
 date: 2025-08-13
 draft: false
-image: gaufres-de-aveia-e-amendoas.png
+image: gaufres-de-aveia-e-amendoas.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT20M

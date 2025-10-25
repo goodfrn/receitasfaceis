@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Raviolis de Espinafre e Bacalhau com massa leve 
 focusKeyphrase: "Raviolis de Espinafre e Bacalhau"
 date: 2025-08-07
 draft: false
-image: raviolis-espinafre-bacalhau.png
+image: raviolis-espinafre-bacalhau.jpg
 author: "Julia"
 prepTime: PT1H35M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Experimente esses Biscoitos Chewy com Twix. A combinação ideal
 focusKeyphrase: "Biscoitos Chewy com Twix"
 date: 2025-10-21
 draft: false
-image: biscoitos-chewy-twix.png
+image: biscoitos-chewy-twix.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT13M

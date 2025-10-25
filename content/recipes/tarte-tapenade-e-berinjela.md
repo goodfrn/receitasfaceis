@@ -7,7 +7,7 @@ ogDescription: "Experimente a Tarte Tapenade e Peixe — uma receita leve e ráp
 focusKeyphrase: "Tarte Tapenade e Peixe"
 date: 2025-08-09
 draft: false
-image: tarte-tapenade-e-berinjela.png
+image: tarte-tapenade-e-berinjela.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

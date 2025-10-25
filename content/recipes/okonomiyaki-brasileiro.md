@@ -7,7 +7,7 @@ ogDescription: "Experimente o okonomiyaki brasileiro: repolho, bacon e camarão 
 focusKeyphrase: "okonomiyaki brasileiro"
 date: 2025-09-28
 draft: false
-image: okonomiyaki-brasileiro.png
+image: okonomiyaki-brasileiro.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

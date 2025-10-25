@@ -7,7 +7,7 @@ ogDescription: "Experimente salada crocante com aspargos frescos e atum em conse
 focusKeyphrase: "salada crocante com aspargos e atum"
 date: 2025-08-09
 draft: false
-image: salada-crocante-aspargos-atun.png
+image: salada-crocante-aspargos-atun.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT10M

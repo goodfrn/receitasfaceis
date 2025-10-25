@@ -7,7 +7,7 @@ ogDescription: "Experimente Pitas com Salada de Frango e Arroz Selvagem. Receiti
 focusKeyphrase: "pitas com salada de frango"
 date: 2025-09-28
 draft: false
-image: pitas-com-salada-de-frango.png
+image: pitas-com-salada-de-frango.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT52M

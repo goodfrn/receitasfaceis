@@ -7,7 +7,7 @@ ogDescription: "Experimente os Churros Salgados Brasileiros, envoltos em queijo 
 focusKeyphrase: "Churros Salgados Brasileiros"
 date: 2025-08-08
 draft: false
-image: churros-salgados-brasileiros.png
+image: churros-salgados-brasileiros.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Danoises de Ricota com Twist. Uma sobremesa croc
 focusKeyphrase: "Danoises de Ricota com Twist"
 date: 2025-07-21
 draft: false
-image: danoises-de-ricota.png
+image: danoises-de-ricota.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

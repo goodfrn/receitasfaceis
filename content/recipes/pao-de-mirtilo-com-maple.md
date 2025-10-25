@@ -7,7 +7,7 @@ ogDescription: "Descubra a combinação incrível do Pão de Mirtilo com Maple, 
 focusKeyphrase: "Pão de Mirtilo com Maple"
 date: 2025-09-25
 draft: false
-image: pao-de-mirtilo-com-maple.png
+image: pao-de-mirtilo-com-maple.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Porto Refrescante com Twist Cítrico. Simples, 
 focusKeyphrase: "Porto Refrescante com Twist Cítrico"
 date: 2025-08-01
 draft: false
-image: porto-refrescante-twist-citrico.png
+image: porto-refrescante-twist-citrico.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT1M

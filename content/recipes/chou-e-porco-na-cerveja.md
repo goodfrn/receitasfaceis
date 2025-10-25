@@ -7,7 +7,7 @@ ogDescription: "Experimente Chou e Porco na Cerveja, um prato saboroso que combi
 focusKeyphrase: "Chou e Porco na Cerveja"
 date: 2025-07-20
 draft: false
-image: chou-e-porco-na-cerveja.png
+image: chou-e-porco-na-cerveja.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H40M

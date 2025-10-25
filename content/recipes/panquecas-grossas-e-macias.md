@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Panquecas Grossas e Macias com um toque de b
 focusKeyphrase: "Panquecas Grossas e Macias"
 date: 2025-07-23
 draft: false
-image: panquecas-grossas-e-macias.png
+image: panquecas-grossas-e-macias.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT45M

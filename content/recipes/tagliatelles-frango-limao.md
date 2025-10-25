@@ -7,7 +7,7 @@ ogDescription: "Aprecie um prato inovador com frango, tagliatelles e especiarias
 focusKeyphrase: "Tagliatelles ao frango e limão"
 date: 2025-07-23
 draft: false
-image: tagliatelles-frango-limao.png
+image: tagliatelles-frango-limao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

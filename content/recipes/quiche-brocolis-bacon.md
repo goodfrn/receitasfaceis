@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com esta Quiche de Brócolis com Bacon e Parmesão. U
 focusKeyphrase: "quiche de brócolis"
 date: 2025-08-09
 draft: false
-image: quiche-brocolis-bacon.png
+image: quiche-brocolis-bacon.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H5M

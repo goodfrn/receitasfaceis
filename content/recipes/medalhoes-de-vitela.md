@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita dos medalhões de vitela com tomates e asparg
 focusKeyphrase: "medalhões de vitela"
 date: 2025-08-15
 draft: false
-image: medalhoes-de-vitela.png
+image: medalhoes-de-vitela.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT20M

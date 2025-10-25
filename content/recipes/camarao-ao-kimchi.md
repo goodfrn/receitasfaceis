@@ -7,7 +7,7 @@ ogDescription: "Experimente o Camarão ao kimchi picante um prato vibrante com t
 focusKeyphrase: "Camarão ao kimchi picante"
 date: 2025-07-20
 draft: false
-image: camarao-ao-kimchi.png
+image: camarao-ao-kimchi.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT10M

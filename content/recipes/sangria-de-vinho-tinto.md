@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer sangria de vinho tinto com frutas frescas. Refre
 focusKeyphrase: "sangria de vinho tinto"
 date: 2025-09-28
 draft: false
-image: sangria-de-vinho-tinto.png
+image: sangria-de-vinho-tinto.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT6M

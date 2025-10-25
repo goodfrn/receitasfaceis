@@ -7,7 +7,7 @@ ogDescription: "Experimente hambúrgueres de salmão crocantes que fogem do trad
 focusKeyphrase: "hambúrguer de salmão"
 date: 2025-10-11
 draft: false
-image: hamburgueres-de-salmao.png
+image: hamburgueres-de-salmao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

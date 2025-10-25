@@ -7,7 +7,7 @@ ogDescription: "Experimente Lombo de Porco com Salada Cremosa, uma mistura de sa
 focusKeyphrase: "lombo de porco"
 date: 2025-08-06
 draft: false
-image: lombo-de-porco-com-salada-cremosa.png
+image: lombo-de-porco-com-salada-cremosa.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT25M

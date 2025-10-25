@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Carrés de Cordeiro Mel e Cítricos, uma 
 focusKeyphrase: "Carrés de Cordeiro"
 date: 2025-08-16
 draft: false
-image: carres-de-cordeiro-mel-e-citricos.png
+image: carres-de-cordeiro-mel-e-citricos.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

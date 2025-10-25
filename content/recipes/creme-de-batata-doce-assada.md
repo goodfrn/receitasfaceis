@@ -7,7 +7,7 @@ ogDescription: "Experimente o Creme de Batata Doce Assada. Uma mistura irresist√
 focusKeyphrase: "Creme de Batata Doce Assada"
 date: 2025-07-21
 draft: false
-image: creme-de-batata-doce-assada.png
+image: creme-de-batata-doce-assada.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT30M

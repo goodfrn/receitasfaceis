@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com a Salada de Camarão Estilo Tartare: arroz sushi,
 focusKeyphrase: "salada de camarão estilo tartare"
 date: 2025-08-12
 draft: false
-image: salada-de-camaro.png
+image: salada-de-camaro.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT25M

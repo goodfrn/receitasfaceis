@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa de Tomate Assado, uma receita rica e cheia de sa
 focusKeyphrase: "sopa de tomate assado"
 date: 2025-08-07
 draft: false
-image: sopa-de-tomate-assado.png
+image: sopa-de-tomate-assado.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT30M

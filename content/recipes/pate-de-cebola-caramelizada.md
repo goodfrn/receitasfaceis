@@ -7,7 +7,7 @@ ogDescription: "Experimente o Patê de Cebola Caramelizada com Iogurte. Cremoso 
 focusKeyphrase: "Patê de Cebola Caramelizada"
 date: 2025-09-23
 draft: false
-image: pate-de-cebola-caramelizada.png
+image: pate-de-cebola-caramelizada.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

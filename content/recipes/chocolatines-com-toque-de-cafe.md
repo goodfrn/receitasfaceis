@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer chocolatines francesas com chocolate e café; um
 focusKeyphrase: "chocolatines com toque de café"
 date: 2025-08-10
 draft: false
-image: chocolatines-com-toque-de-cafe.png
+image: chocolatines-com-toque-de-cafe.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

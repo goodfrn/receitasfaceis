@@ -7,7 +7,7 @@ ogDescription: "Experimente o Panini com Presunto e Queijo, um lanche rápido qu
 focusKeyphrase: "Panini com Presunto e Queijo"
 date: 2025-08-11
 draft: false
-image: panini-com-presunto-e-queijo.png
+image: panini-com-presunto-e-queijo.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT12M

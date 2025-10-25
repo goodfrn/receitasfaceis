@@ -7,7 +7,7 @@ ogDescription: "Prepare uma Bisteca Suína Recheada Grelhada suculenta. Descubra
 focusKeyphrase: "Bisteca Suína Recheada Grelhada"
 date: 2025-10-17
 draft: false
-image: bisteca-suina-recheada.png
+image: bisteca-suina-recheada.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT20M

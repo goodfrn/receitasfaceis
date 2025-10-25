@@ -7,7 +7,7 @@ ogDescription: "Experimente o Molho com Almôndegas à Tia Nancy. Uma receita ri
 focusKeyphrase: "Molho com Almôndegas à Tia Nancy"
 date: 2025-07-28
 draft: false
-image: molho-com-almondegas.png
+image: molho-com-almondegas.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT2H30M

@@ -7,7 +7,7 @@ ogDescription: "Descubra tartines versáteis e saborosas para prontos cafés da 
 focusKeyphrase: "tartines rápido café da manhã"
 date: 2025-08-08
 draft: false
-image: tartines-para-dejeuner.png
+image: tartines-para-dejeuner.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT4M

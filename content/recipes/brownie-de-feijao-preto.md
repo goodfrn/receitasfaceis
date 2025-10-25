@@ -7,7 +7,7 @@ ogDescription: "Experimente o Brownie de Feijão Preto. Receita nutritiva que su
 focusKeyphrase: "brownie de feijão preto"
 date: 2025-08-13
 draft: false
-image: brownie-de-feijao-preto.png
+image: brownie-de-feijao-preto.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT27M

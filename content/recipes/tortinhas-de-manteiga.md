@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Tortinhas de Manteiga Canadense com uma massa pe
 focusKeyphrase: "Tortinhas de Manteiga Canadense"
 date: 2025-10-10
 draft: false
-image: tortinhas-de-manteiga.png
+image: tortinhas-de-manteiga.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

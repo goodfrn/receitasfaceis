@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um ovo pochê perfeito com vinagre de vinho 
 focusKeyphrase: "ovo pochê"
 date: 2025-10-16
 draft: false
-image: ovo-poche-com-toque-de-limao.png
+image: ovo-poche-com-toque-de-limao.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT3M30S

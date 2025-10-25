@@ -7,7 +7,7 @@ ogDescription: "Experimente o Latte Chaí Cremoso Tropical; uma bebida envolvent
 focusKeyphrase: "Latte Chaí Cremoso Tropical"
 date: 2025-08-03
 draft: false
-image: latte-chai-cremoso-tropical.png
+image: latte-chai-cremoso-tropical.jpg
 author: "Julia"
 prepTime: PT8M
 cookTime: PT15M

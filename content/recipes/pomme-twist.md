@@ -7,7 +7,7 @@ ogDescription: "Descubra o Pomme Twist, um coquetel que mistura maçã, vermute 
 focusKeyphrase: "coquetel Pomme Twist"
 date: 2025-08-11
 draft: false
-image: pomme-twist.png
+image: pomme-twist.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

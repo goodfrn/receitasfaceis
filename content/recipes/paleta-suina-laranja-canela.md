@@ -7,7 +7,7 @@ ogDescription: "Experimente a Paleta Suína Laranja Canela com uma combinação 
 focusKeyphrase: "paleta suína laranja canela"
 date: 2025-07-18
 draft: false
-image: paleta-suina-laranja-canela.png
+image: paleta-suina-laranja-canela.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT3H10M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Bochechas de Vitela ao Cacau. Sabor profun
 focusKeyphrase: "bochechas de vitela"
 date: 2025-07-19
 draft: false
-image: bochechas-de-vitela-ao-cacau.png
+image: bochechas-de-vitela-ao-cacau.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT3H10M

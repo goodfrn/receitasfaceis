@@ -7,7 +7,7 @@ ogDescription: "Aprecie o Macarrão à Amatriciana com Cebola, feito com bacon c
 focusKeyphrase: "Macarrão à Amatriciana"
 date: 2025-07-27
 draft: false
-image: macarrao-a-amatriciana.png
+image: macarrao-a-amatriciana.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

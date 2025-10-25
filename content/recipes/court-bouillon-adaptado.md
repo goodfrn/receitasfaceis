@@ -7,7 +7,7 @@ ogDescription: "Explore o court-bouillon adaptado. Uma base arom√°tica que real√
 focusKeyphrase: "court-bouillon"
 date: 2025-08-02
 draft: false
-image: court-bouillon-adaptado.png
+image: court-bouillon-adaptado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Manteiga de Pera com Gengibre. Rica em sabores, id
 focusKeyphrase: "Manteiga de Pera com Gengibre"
 date: 2025-09-19
 draft: false
-image: manteiga-de-pera-com-gengibre.png
+image: manteiga-de-pera-com-gengibre.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT3H10M

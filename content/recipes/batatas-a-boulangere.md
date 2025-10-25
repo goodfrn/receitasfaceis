@@ -7,7 +7,7 @@ ogDescription: "Batatas à Boulangère adaptada é uma deliciosa receita que com
 focusKeyphrase: "Batatas à Boulangère adaptada"
 date: 2025-09-28
 draft: false
-image: batatas-a-boulangere.png
+image: batatas-a-boulangere.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT2H45M

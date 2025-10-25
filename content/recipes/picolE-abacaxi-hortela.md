@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Picolé Abacaxi Hortelã. Uma receita vegana del
 focusKeyphrase: "Picolé Abacaxi Hortelã"
 date: 2025-07-21
 draft: false
-image: picolE-abacaxi-hortela.png
+image: picolE-abacaxi-hortela.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT3M

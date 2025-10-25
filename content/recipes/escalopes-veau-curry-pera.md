@@ -7,7 +7,7 @@ ogDescription: "Deliciosos escalopes de vitela com curry e molho cremoso de pera
 focusKeyphrase: "escalopes de vitela com curry"
 date: 2025-09-23
 draft: false
-image: escalopes-veau-curry-pera.png
+image: escalopes-veau-curry-pera.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT17M

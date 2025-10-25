@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Cookies Grandes que misturam farinha de trigo e b
 focusKeyphrase: "Cookies Grandes com Toque de Manteiga de Amendoim"
 date: 2025-10-22
 draft: false
-image: cookies-grandes-manteiga-amendoim.png
+image: cookies-grandes-manteiga-amendoim.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer tilápia poêlé com um molho cítrico quentinho
 focusKeyphrase: "tilápia poêlé"
 date: 2025-08-02
 draft: false
-image: tilapia-pole-com-vinaigrette.png
+image: tilapia-pole-com-vinaigrette.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT10M

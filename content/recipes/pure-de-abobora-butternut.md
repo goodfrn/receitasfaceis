@@ -7,7 +7,7 @@ ogDescription: "Experimente o Purê de abóbora butternut. Textura cremosa, sabo
 focusKeyphrase: "purê de abóbora butternut"
 date: 2025-08-12
 draft: false
-image: pure-de-abobora-butternut.png
+image: pure-de-abobora-butternut.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT30M

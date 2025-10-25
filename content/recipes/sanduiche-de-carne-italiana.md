@@ -7,7 +7,7 @@ ogDescription: "Sanduíche de Carne Italiana na Slow Cooker, carne desfiada com 
 focusKeyphrase: "sanduíche de carne italiana"
 date: 2025-10-20
 draft: false
-image: sanduiche-de-carne-italiana.png
+image: sanduiche-de-carne-italiana.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT4H15M

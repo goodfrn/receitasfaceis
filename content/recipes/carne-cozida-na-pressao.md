@@ -7,7 +7,7 @@ ogDescription: "Quem ama carne com sabor leve e fresco? Carne Cozida na Pressão
 focusKeyphrase: "carne cozida na pressão"
 date: 2025-08-02
 draft: false
-image: carne-cozida-na-pressao.png
+image: carne-cozida-na-pressao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H20M

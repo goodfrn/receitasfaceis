@@ -7,7 +7,7 @@ ogDescription: "Experimente a Barra Smoosh Crocante, uma combinação de biscoit
 focusKeyphrase: "Barra Smoosh Crocante"
 date: 2025-10-16
 draft: false
-image: barra-smoosh-crocante.png
+image: barra-smoosh-crocante.jpg
 author: "Julia"
 prepTime: PT27M
 cookTime: PT0M

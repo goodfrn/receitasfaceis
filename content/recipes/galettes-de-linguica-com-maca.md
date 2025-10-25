@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Galettes de Linguiça com Toque de Maçã,
 focusKeyphrase: "galettes de linguiça"
 date: 2025-08-16
 draft: false
-image: galettes-de-linguica-com-maca.png
+image: galettes-de-linguica-com-maca.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pudim de Pão com Pêssego, uma combinação perfe
 focusKeyphrase: "Pudim de Pão com Pêssego"
 date: 2025-10-08
 draft: false
-image: pudim-de-pao-com-pessego.png
+image: pudim-de-pao-com-pessego.jpg
 author: "Julia"
 prepTime: PT4H
 cookTime: PT1H5M

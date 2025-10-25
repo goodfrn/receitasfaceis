@@ -7,7 +7,7 @@ ogDescription: "Ensopado de boi com grão; um prato saboroso e rústico, ideal p
 focusKeyphrase: "ensopado de boi com grão"
 date: 2025-09-05
 draft: false
-image: ensopado-de-boi-com-grao.png
+image: ensopado-de-boi-com-grao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT7H30M

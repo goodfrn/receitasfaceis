@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Framboesa e Limão; sobremesa refrescante e 
 focusKeyphrase: "torta de framboesa e limão"
 date: 2025-08-05
 draft: false
-image: torta-framboesa-limao.png
+image: torta-framboesa-limao.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT30M

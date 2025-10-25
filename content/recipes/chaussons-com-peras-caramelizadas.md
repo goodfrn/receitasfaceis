@@ -7,7 +7,7 @@ ogDescription: "Os Chaussons com Peras Caramelizadas são um deleite absoluto; o
 focusKeyphrase: "Chaussons com Peras Caramelizadas"
 date: 2025-08-13
 draft: false
-image: chaussons-com-peras-caramelizadas.png
+image: chaussons-com-peras-caramelizadas.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT1H

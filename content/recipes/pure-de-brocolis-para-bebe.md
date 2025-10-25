@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um delicioso purê de brócolis para o seu bebê
 focusKeyphrase: "Purê de Brócolis para Bebê"
 date: 2025-09-26
 draft: false
-image: pure-de-brocolis-para-bebe.png
+image: pure-de-brocolis-para-bebe.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT9M

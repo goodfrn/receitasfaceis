@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o petit gâteau invertido de pera, um bolo que co
 focusKeyphrase: "petit gâteau invertido de pera"
 date: 2025-08-12
 draft: false
-image: petit-gateau-invertido-pera.png
+image: petit-gateau-invertido-pera.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT55M

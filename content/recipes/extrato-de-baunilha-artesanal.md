@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer seu próprio Extrato de Baunilha Artesanal. Fava
 focusKeyphrase: "extrato de baunilha artesanal"
 date: 2025-10-16
 draft: false
-image: extrato-de-baunilha-artesanal.png
+image: extrato-de-baunilha-artesanal.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

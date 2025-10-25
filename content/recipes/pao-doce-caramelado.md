@@ -7,7 +7,7 @@ ogDescription: "Experimente este Pão Doce Caramelado com Maple e Mirtilos, uma 
 focusKeyphrase: "Pão Doce Caramelado com Maple e Mirtilos"
 date: 2025-09-29
 draft: false
-image: pao-doce-caramelado.png
+image: pao-doce-caramelado.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT50M

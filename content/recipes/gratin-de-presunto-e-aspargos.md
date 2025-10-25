@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar um delicioso Gratin de Presunto e Aspargo
 focusKeyphrase: "Gratin de Presunto e Aspargos"
 date: 2025-08-05
 draft: false
-image: gratin-de-presunto-e-aspargos.png
+image: gratin-de-presunto-e-aspargos.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT12M

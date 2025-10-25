@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sopa de Amêijoas Cremosa, uma combinação rica d
 focusKeyphrase: "Sopa de Amêijoas Cremosa"
 date: 2025-07-24
 draft: false
-image: sopa-de-ameijoas-cremosa.png
+image: sopa-de-ameijoas-cremosa.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

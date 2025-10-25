@@ -7,7 +7,7 @@ ogDescription: "Experimente o bife com tomilho e alecrim. Uma receita simples qu
 focusKeyphrase: "bife com tomilho e alecrim"
 date: 2025-07-19
 draft: false
-image: bife-com-tomilho-e-alecim.png
+image: bife-com-tomilho-e-alecim.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT18M

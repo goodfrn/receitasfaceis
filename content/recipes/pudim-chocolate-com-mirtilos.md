@@ -7,7 +7,7 @@ ogDescription: "Descubra o Pudim Chocolate com Mirtilos. Bolo úmido e cobertura
 focusKeyphrase: "Pudim Chocolate com Mirtilos"
 date: 2025-07-24
 draft: false
-image: pudim-chocolate-com-mirtilos.png
+image: pudim-chocolate-com-mirtilos.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

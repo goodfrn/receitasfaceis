@@ -7,7 +7,7 @@ ogDescription: "Descubra a deliciosa Torta Merengue de Chocolate com Café que u
 focusKeyphrase: "torta merengue de chocolate com café"
 date: 2025-10-06
 draft: false
-image: torta-merengue-chocolate-cafe.png
+image: torta-merengue-chocolate-cafe.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT20M

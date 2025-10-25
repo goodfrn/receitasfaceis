@@ -7,7 +7,7 @@ ogDescription: "Experimente o Feijão Branco ao Forno com Ovos, uma combinação
 focusKeyphrase: "Feijão Branco ao Forno"
 date: 2025-09-27
 draft: false
-image: feijao-branco-ovos-forno.png
+image: feijao-branco-ovos-forno.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H25M

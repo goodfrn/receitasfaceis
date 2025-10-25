@@ -7,7 +7,7 @@ ogDescription: "Descubra a combinação de iogurte grego, quinoa crocante e rom�
 focusKeyphrase: "Bowl de Iogurte Grego com Quinoa Crocante"
 date: 2025-09-24
 draft: false
-image: bowl-de-iogurte-grego.png
+image: bowl-de-iogurte-grego.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT9M

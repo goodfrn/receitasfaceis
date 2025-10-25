@@ -7,7 +7,7 @@ ogDescription: "Tagliatelle com funcho e crocante. Massa com uva passa e croûto
 focusKeyphrase: "tagliatelle com funcho"
 date: 2025-07-19
 draft: false
-image: tagliatelle-com-funcho.png
+image: tagliatelle-com-funcho.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

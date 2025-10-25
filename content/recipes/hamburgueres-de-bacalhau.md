@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Hambúrgueres de Bacalhau Crocante; recei
 focusKeyphrase: "Hambúrgueres de Bacalhau Crocante"
 date: 2025-08-07
 draft: false
-image: hamburgueres-de-bacalhau.png
+image: hamburgueres-de-bacalhau.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

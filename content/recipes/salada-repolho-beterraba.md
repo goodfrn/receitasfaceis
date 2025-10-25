@@ -7,7 +7,7 @@ ogDescription: "Uma salada refrescante que mistura repolho, beterraba e romã, i
 focusKeyphrase: "salada de repolho beterraba"
 date: 2025-09-29
 draft: false
-image: salada-repolho-beterraba.png
+image: salada-repolho-beterraba.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT0M

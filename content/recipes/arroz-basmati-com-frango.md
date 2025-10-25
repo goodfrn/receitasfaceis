@@ -7,7 +7,7 @@ ogDescription: "Experimente arroz basmati com frango. Receita prática e leve, p
 focusKeyphrase: "arroz basmati com frango"
 date: 2025-07-21
 draft: false
-image: arroz-basmati-com-frango.png
+image: arroz-basmati-com-frango.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

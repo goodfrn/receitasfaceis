@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar essas delícias geladas com castanhas de 
 focusKeyphrase: "Cake Pops de Aniversário"
 date: 2025-10-06
 draft: false
-image: cake-pops-aniversario.png
+image: cake-pops-aniversario.jpg
 author: "Julia"
 prepTime: PT1H5M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo Chiffon Laranja com Gengibre; leve e com um t
 focusKeyphrase: "bolo chiffon laranja"
 date: 2025-08-02
 draft: false
-image: bolo-chiffon-laranja-gengibre.png
+image: bolo-chiffon-laranja-gengibre.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT50M

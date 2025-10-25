@@ -7,7 +7,7 @@ ogDescription: "Frango ao Riesling Cremoso a opção perfeita para um almoço ac
 focusKeyphrase: "Frango ao Riesling Cremoso"
 date: 2025-08-18
 draft: false
-image: frango-riesling-cremoso.png
+image: frango-riesling-cremoso.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H10M

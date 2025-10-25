@@ -7,7 +7,7 @@ ogDescription: "Experimente o Arroz Apimentado ao Chili. Uma receita que combina
 focusKeyphrase: "Arroz Apimentado ao Chili"
 date: 2025-07-19
 draft: false
-image: arroz-apimentado-ao-chili.png
+image: arroz-apimentado-ao-chili.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT25M

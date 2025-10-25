@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Bolo Quadriculado com Caramelo, uma mistura de 
 focusKeyphrase: "Bolo Quadriculado com Caramelo"
 date: 2025-09-26
 draft: false
-image: bolo-quadriculado-com-caramelo.png
+image: bolo-quadriculado-com-caramelo.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT35M

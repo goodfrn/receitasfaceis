@@ -7,7 +7,7 @@ ogDescription: "Salada de milho e feijão é uma explosão de cores e sabores. P
 focusKeyphrase: "salada colorida de milho e feijão"
 date: 2025-08-19
 draft: false
-image: salada-colorida-milho-feijao.png
+image: salada-colorida-milho-feijao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

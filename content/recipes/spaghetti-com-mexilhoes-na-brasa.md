@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de espaguete com mexilhões na brasa, um prat
 focusKeyphrase: "espaguete com mexilhões na brasa"
 date: 2025-08-19
 draft: false
-image: spaghetti-com-mexilhoes-na-brasa.png
+image: spaghetti-com-mexilhoes-na-brasa.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o sabor leve do Velouté de Abobrinha. Uma sopa cremosa
 focusKeyphrase: "Velouté de Abobrinha"
 date: 2025-09-27
 draft: false
-image: veloute-de-abobrinha.png
+image: veloute-de-abobrinha.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

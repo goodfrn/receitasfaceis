@@ -7,7 +7,7 @@ ogDescription: "Descubra o prato que encanta pela simplicidade e sabor ousado Or
 focusKeyphrase: "orechiettes com linguiça"
 date: 2025-09-28
 draft: false
-image: orechiettes-com-linguica-e-brocolis-rabe.png
+image: orechiettes-com-linguica-e-brocolis-rabe.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Arroz com limão e mel, uma combinação deliciosa qu
 focusKeyphrase: "arroz com limão e mel"
 date: 2025-08-08
 draft: false
-image: arroz-com-limao-e-mel.png
+image: arroz-com-limao-e-mel.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT28M

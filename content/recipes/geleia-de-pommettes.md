@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Geléia de Pommettes com um toque de gengibre fr
 focusKeyphrase: "geléia de pommettes"
 date: 2025-09-29
 draft: false
-image: geleia-de-pommettes.png
+image: geleia-de-pommettes.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H5M

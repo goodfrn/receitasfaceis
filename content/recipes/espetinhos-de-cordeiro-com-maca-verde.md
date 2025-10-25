@@ -7,7 +7,7 @@ ogDescription: "Experimente os Espetinhos de Cordeiro com Maçã Verde, sabor r�
 focusKeyphrase: "Espetinhos de Cordeiro com Maçã Verde"
 date: 2025-08-13
 draft: false
-image: espetinhos-de-cordeiro-com-maca-verde.png
+image: espetinhos-de-cordeiro-com-maca-verde.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT23M

@@ -7,7 +7,7 @@ ogDescription: "Cenouras marinadas com um toque de gengibre e coentro. Práticas
 focusKeyphrase: "cenouras marinadas"
 date: 2025-07-26
 draft: false
-image: cenouras-marinadas-rapidas.png
+image: cenouras-marinadas-rapidas.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

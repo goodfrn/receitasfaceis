@@ -7,7 +7,7 @@ ogDescription: "Descubra a Poutine Vegetal Rústica, uma deliciosa combinação 
 focusKeyphrase: "Poutine Vegetal Rústica"
 date: 2025-08-06
 draft: false
-image: poutine-vegetal-rustica.png
+image: poutine-vegetal-rustica.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT50M

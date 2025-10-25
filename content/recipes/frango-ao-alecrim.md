@@ -7,7 +7,7 @@ ogDescription: "Descubra a combinação deliciosa de frango grelhado e pimentõe
 focusKeyphrase: "Frango ao Alecrim"
 date: 2025-08-08
 draft: false
-image: frango-ao-alecrim.png
+image: frango-ao-alecrim.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

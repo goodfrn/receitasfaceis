@@ -7,7 +7,7 @@ ogDescription: "Saboreie Magret de Pato com Molho de Vinho e Chocolate. Uma comb
 focusKeyphrase: "Magret de Pato"
 date: 2025-07-21
 draft: false
-image: magret-de-pato-molho-chocolate.png
+image: magret-de-pato-molho-chocolate.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

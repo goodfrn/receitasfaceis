@@ -7,7 +7,7 @@ ogDescription: "Experimente trufas de pão de mel. Recheio de chocolate, especia
 focusKeyphrase: "trufas de pão de mel"
 date: 2025-07-29
 draft: false
-image: trufas-de-pao-de-mel.png
+image: trufas-de-pao-de-mel.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT10M

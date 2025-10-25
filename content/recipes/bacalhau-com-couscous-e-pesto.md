@@ -7,7 +7,7 @@ ogDescription: "Experimente Bacalhau com Couscous e Pesto; um prato que traz fre
 focusKeyphrase: "Bacalhau com Couscous"
 date: 2025-09-27
 draft: false
-image: bacalhau-com-couscous-e-pesto.png
+image: bacalhau-com-couscous-e-pesto.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT11M

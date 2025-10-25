@@ -7,7 +7,7 @@ ogDescription: "Descubra a Tarte Bagel com Salmão, uma combinação perfeita de
 focusKeyphrase: "Tarte Bagel com Salmão"
 date: 2025-08-01
 draft: false
-image: tarte-bagel-salmao.png
+image: tarte-bagel-salmao.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

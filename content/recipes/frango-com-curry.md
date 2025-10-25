@@ -7,7 +7,7 @@ ogDescription: "Experimente essa combinação de frango, curry e legumes crocant
 focusKeyphrase: "Frango com Curry"
 date: 2025-09-24
 draft: false
-image: frango-com-curry.png
+image: frango-com-curry.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT18M

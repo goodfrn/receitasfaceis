@@ -7,7 +7,7 @@ ogDescription: "Uma receita incrível: Rôti de Peru com Abacaxi. Um prato que m
 focusKeyphrase: "Rôti de Peru com Abacaxi"
 date: 2025-08-08
 draft: false
-image: roti-de-peru-com-abacaxi.png
+image: roti-de-peru-com-abacaxi.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT2H40M

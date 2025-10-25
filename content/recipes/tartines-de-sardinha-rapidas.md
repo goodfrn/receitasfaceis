@@ -7,7 +7,7 @@ ogDescription: "Tartines de sardinha twist - uma combinação rústica de sabore
 focusKeyphrase: "tartines de sardinha"
 date: 2025-08-06
 draft: false
-image: tartines-de-sardinha-rapidas.png
+image: tartines-de-sardinha-rapidas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT12M

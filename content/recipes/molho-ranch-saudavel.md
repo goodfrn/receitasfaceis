@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Molho Ranch Saudável Novo; ideal pra saladas e 
 focusKeyphrase: "molho ranch saudável"
 date: 2025-10-22
 draft: false
-image: molho-ranch-saudavel.png
+image: molho-ranch-saudavel.jpg
 author: "Julia"
 prepTime: PT3M
 cookTime: PT4M

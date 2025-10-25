@@ -7,7 +7,7 @@ ogDescription: "Experimente o ragu de carne com um toque especial, uma receita q
 focusKeyphrase: "ragu de carne"
 date: 2025-08-18
 draft: false
-image: ragu-de-carne.png
+image: ragu-de-carne.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT1H40M

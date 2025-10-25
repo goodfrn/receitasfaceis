@@ -7,7 +7,7 @@ ogDescription: "Macarrão com Queijo Cremoso, uma delícia reconfortante. Sabor 
 focusKeyphrase: "Macarrão com Queijo Cremoso"
 date: 2025-08-05
 draft: false
-image: macarrao-com-queijo-cremoso.png
+image: macarrao-com-queijo-cremoso.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT35M

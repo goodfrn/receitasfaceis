@@ -7,7 +7,7 @@ ogDescription: "Barrinhas de Cookie com M&M's: uma deliciosa mistura de doces e 
 focusKeyphrase: "Barrinhas de Cookie com M&M's"
 date: 2025-10-17
 draft: false
-image: barrinhas-de-cookie-com-mms.png
+image: barrinhas-de-cookie-com-mms.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT28M

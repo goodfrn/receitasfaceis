@@ -7,7 +7,7 @@ ogDescription: "Experimente a paella na abóbora espaguete. Um prato único que 
 focusKeyphrase: "Paella na abóbora espaguete"
 date: 2025-08-19
 draft: false
-image: paella-na-abobora-espaguete.png
+image: paella-na-abobora-espaguete.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT1H5M

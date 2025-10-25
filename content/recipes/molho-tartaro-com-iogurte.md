@@ -7,7 +7,7 @@ ogDescription: "Descubra o Molho Tártaro com Iogurte; perfeito pra acompanhar p
 focusKeyphrase: "Molho Tártaro com Iogurte"
 date: 2025-09-30
 draft: false
-image: molho-tartaro-com-iogurte.png
+image: molho-tartaro-com-iogurte.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

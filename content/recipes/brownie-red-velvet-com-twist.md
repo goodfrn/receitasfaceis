@@ -7,7 +7,7 @@ ogDescription: "Prepare um Brownie Red Velvet incrível, com beterraba e cacau, 
 focusKeyphrase: "Brownie Red Velvet"
 date: 2025-08-07
 draft: false
-image: brownie-red-velvet-com-twist.png
+image: brownie-red-velvet-com-twist.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT30M

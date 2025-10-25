@@ -7,7 +7,7 @@ ogDescription: "Experimente o molho de curry com gengibre e limão. Simples e fr
 focusKeyphrase: "molho de curry"
 date: 2025-07-24
 draft: false
-image: molho-curry-gengibre-limao.png
+image: molho-curry-gengibre-limao.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar um Pão com manteiga especial, perfeito p
 focusKeyphrase: "Pão com manteiga especial"
 date: 2025-07-18
 draft: false
-image: pao-com-manteiga-especial.png
+image: pao-com-manteiga-especial.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT17M

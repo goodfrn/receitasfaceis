@@ -7,7 +7,7 @@ ogDescription: "Descubra o pernil de cordeiro confitado. Carne macia, legumes do
 focusKeyphrase: "pernil de cordeiro confitado"
 date: 2025-08-04
 draft: false
-image: pernil-de-cordeiro-confitado.png
+image: pernil-de-cordeiro-confitado.jpg
 author: "Julia"
 prepTime: PT1H30M
 cookTime: PT12H30M

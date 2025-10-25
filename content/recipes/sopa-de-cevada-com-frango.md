@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa de Cevada com Frango, um prato simples e saboros
 focusKeyphrase: "Sopa de Cevada com Frango"
 date: 2025-08-10
 draft: false
-image: sopa-de-cevada-com-frango.png
+image: sopa-de-cevada-com-frango.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

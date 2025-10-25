@@ -7,7 +7,7 @@ ogDescription: "Scones com canela, versáteis e saborosos. Perfeitos para um lan
 focusKeyphrase: "scones naturais"
 date: 2025-07-30
 draft: false
-image: scones-naturais-canela.png
+image: scones-naturais-canela.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT18M

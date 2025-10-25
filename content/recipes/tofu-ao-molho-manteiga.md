@@ -7,7 +7,7 @@ ogDescription: "Experimente o Tofu ao Molho Manteiga. Uma receita rica em sabor 
 focusKeyphrase: "Tofu ao Molho Manteiga"
 date: 2025-09-25
 draft: false
-image: tofu-ao-molho-manteiga.png
+image: tofu-ao-molho-manteiga.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

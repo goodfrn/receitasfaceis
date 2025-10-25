@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Papillotes de Salmão com Missô, prato suculento
 focusKeyphrase: "Papillotes de salmão com missô"
 date: 2025-08-16
 draft: false
-image: papillotes-salmao-misso.png
+image: papillotes-salmao-misso.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT14M

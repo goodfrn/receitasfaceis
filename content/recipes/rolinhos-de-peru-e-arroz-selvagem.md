@@ -7,7 +7,7 @@ ogDescription: "Experimente os Rolinhos de Peru e Quinoa, com recheio de arroz s
 focusKeyphrase: "rolinhos de peru"
 date: 2025-08-10
 draft: false
-image: rolinhos-de-peru-e-arroz-selvagem.png
+image: rolinhos-de-peru-e-arroz-selvagem.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT1H20M

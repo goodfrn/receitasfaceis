@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar um griot com um toque brasileiro que comb
 focusKeyphrase: "Griot com toque brasileiro"
 date: 2025-08-20
 draft: false
-image: griot-com-toque-brasileiro.png
+image: griot-com-toque-brasileiro.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H40M

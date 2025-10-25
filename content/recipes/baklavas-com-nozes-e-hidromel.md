@@ -7,7 +7,7 @@ ogDescription: "Experimente Baklavas com Nozes e Hidromel. Receita irresistível
 focusKeyphrase: "Baklavas com Nozes e Hidromel"
 date: 2025-09-14
 draft: false
-image: baklavas-com-nozes-e-hidromel.png
+image: baklavas-com-nozes-e-hidromel.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o delicioso Creme Framboesa com Toque de Limão, uma co
 focusKeyphrase: "Creme Framboesa"
 date: 2025-08-04
 draft: false
-image: creme-framboesa-limao.png
+image: creme-framboesa-limao.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT7M

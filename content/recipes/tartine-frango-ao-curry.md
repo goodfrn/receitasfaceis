@@ -7,7 +7,7 @@ ogDescription: "Experimente a Tartine Frango ao Curry Tropical, uma salada inova
 focusKeyphrase: "Tartine Frango ao Curry Tropical"
 date: 2025-08-19
 draft: false
-image: tartine-frango-ao-curry.png
+image: tartine-frango-ao-curry.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

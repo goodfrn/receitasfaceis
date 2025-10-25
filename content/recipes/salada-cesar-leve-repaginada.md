@@ -7,7 +7,7 @@ ogDescription: "Experimente uma Salada César leve e repaginada, com croûtons d
 focusKeyphrase: "salada césar leve"
 date: 2025-08-05
 draft: false
-image: salada-cesar-leve-repaginada.png
+image: salada-cesar-leve-repaginada.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

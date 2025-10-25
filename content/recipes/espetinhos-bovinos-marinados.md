@@ -7,7 +7,7 @@ ogDescription: "Experimente esta receita de espetinhos bovinos, com carne marina
 focusKeyphrase: "espetinhos bovinos marinados"
 date: 2025-08-03
 draft: false
-image: espetinhos-bovinos-marinados.png
+image: espetinhos-bovinos-marinados.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT12M

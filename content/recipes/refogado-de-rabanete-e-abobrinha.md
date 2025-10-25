@@ -7,7 +7,7 @@ ogDescription: "Refogado de Rabanete e Abobrinha traz texturas incríveis. Uma c
 focusKeyphrase: "refogado de rabanete e abobrinha"
 date: 2025-09-07
 draft: false
-image: refogado-de-rabanete-e-abobrinha.png
+image: refogado-de-rabanete-e-abobrinha.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

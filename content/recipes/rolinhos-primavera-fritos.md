@@ -7,7 +7,7 @@ ogDescription: "Rolinhos Primavera Fritos com recheio aromático e crocantíssim
 focusKeyphrase: "rolinhos primavera fritos"
 date: 2025-09-24
 draft: false
-image: rolinhos-primavera-fritos.png
+image: rolinhos-primavera-fritos.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT25M

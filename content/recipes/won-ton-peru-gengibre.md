@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Won-ton Peru e Gengibre, pacotinhos deliciosos e
 focusKeyphrase: "won-ton peru e gengibre"
 date: 2025-07-20
 draft: false
-image: won-ton-peru-gengibre.png
+image: won-ton-peru-gengibre.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT10M

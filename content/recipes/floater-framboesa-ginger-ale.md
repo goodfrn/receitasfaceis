@@ -7,7 +7,7 @@ ogDescription: "Refresque-se com o Floater de Framboesa e Ginger Ale. Uma bebida
 focusKeyphrase: "Floater com Framboesa e Ginger Ale"
 date: 2025-07-23
 draft: false
-image: floater-framboesa-ginger-ale.png
+image: floater-framboesa-ginger-ale.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Sanduíche déli beterraba tofu, uma proposta leve e 
 focusKeyphrase: "sanduíche déli beterraba tofu"
 date: 2025-08-18
 draft: false
-image: sanduiche-deli-beterraba-tofu.png
+image: sanduiche-deli-beterraba-tofu.jpg
 author: "Julia"
 prepTime: PT23M
 cookTime: PT12M

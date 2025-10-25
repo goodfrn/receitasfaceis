@@ -7,7 +7,7 @@ ogDescription: "Leite Verde Encantado é uma bebida gelada verde. Chocolate ao l
 focusKeyphrase: "Leite Verde Encantado"
 date: 2025-07-25
 draft: false
-image: leite-verde-encantado.png
+image: leite-verde-encantado.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT6M

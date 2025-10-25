@@ -7,7 +7,7 @@ ogDescription: "Prepare um delicioso Feijão Preto Refrito à Moda, um prato rú
 focusKeyphrase: "Feijão Preto Refrito à Moda"
 date: 2025-10-06
 draft: false
-image: feijao-preto-refrito.png
+image: feijao-preto-refrito.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a Farofa Crocante de Pão, feita com pão integral. Uma
 focusKeyphrase: "farofa crocante de pão"
 date: 2025-07-22
 draft: false
-image: farofa-crocante-de-pao.png
+image: farofa-crocante-de-pao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

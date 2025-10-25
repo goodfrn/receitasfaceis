@@ -7,7 +7,7 @@ ogDescription: "Experimente o Jarrete de Cordeiro ao Mel, um prato que combina s
 focusKeyphrase: "jarrete de cordeiro"
 date: 2025-07-28
 draft: false
-image: jarrete-de-cordeiro-ao-mel.png
+image: jarrete-de-cordeiro-ao-mel.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT3H

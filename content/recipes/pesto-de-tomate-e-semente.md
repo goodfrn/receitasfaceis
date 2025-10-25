@@ -7,7 +7,7 @@ ogDescription: "Pesto de tomate seco e semente de abóbora, uma receita saborosa
 focusKeyphrase: "pesto de tomate e semente"
 date: 2025-09-25
 draft: false
-image: pesto-de-tomate-e-semente.png
+image: pesto-de-tomate-e-semente.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT8M

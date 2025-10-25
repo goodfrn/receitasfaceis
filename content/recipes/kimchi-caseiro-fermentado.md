@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer kimchi caseiro fermentado. Receita vegana e equi
 focusKeyphrase: "kimchi caseiro fermentado"
 date: 2025-08-14
 draft: false
-image: kimchi-caseiro-fermentado.png
+image: kimchi-caseiro-fermentado.jpg
 author: "Julia"
 prepTime: PT1H30M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Transforme seus pratos com Sal Aromático de Flores e Ervas. Um 
 focusKeyphrase: "Sal Aromático de Flores e Ervas"
 date: 2025-07-27
 draft: false
-image: sal-aromatico-flores-erbas.png
+image: sal-aromatico-flores-erbas.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

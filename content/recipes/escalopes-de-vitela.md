@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Escalopes de Vitela e Espinafre, um prato italia
 focusKeyphrase: "escalopes de vitela"
 date: 2025-07-19
 draft: false
-image: escalopes-de-vitela.png
+image: escalopes-de-vitela.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

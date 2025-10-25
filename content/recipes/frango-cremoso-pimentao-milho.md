@@ -7,7 +7,7 @@ ogDescription: "Frango cremoso com pimentão ancho e milho. Versátil, sabor mar
 focusKeyphrase: "frango cremoso com pimentão"
 date: 2025-07-20
 draft: false
-image: frango-cremoso-pimentao-milho.png
+image: frango-cremoso-pimentao-milho.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT30M

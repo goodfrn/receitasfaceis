@@ -7,7 +7,7 @@ ogDescription: "Descubra a Tarte Floresta Negra, uma combinação deliciosa de c
 focusKeyphrase: "Tarte Floresta Negra"
 date: 2025-08-06
 draft: false
-image: tarte-floresta-negra.png
+image: tarte-floresta-negra.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT35M

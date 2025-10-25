@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Feijão Branco e Camarão Grelhado. Sabo
 focusKeyphrase: "Salada de Feijão Branco e Camarão Grelhado"
 date: 2025-07-24
 draft: false
-image: salada-de-feirao-branco-e-camarao-grelhado.png
+image: salada-de-feirao-branco-e-camarao-grelhado.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

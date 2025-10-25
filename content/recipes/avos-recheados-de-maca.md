@@ -7,7 +7,7 @@ ogDescription: "Experimente Avós recheados de maçã; bolinhos cozidos em calda
 focusKeyphrase: "Avós recheados de maçã"
 date: 2025-08-11
 draft: false
-image: avos-recheados-de-maca.png
+image: avos-recheados-de-maca.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

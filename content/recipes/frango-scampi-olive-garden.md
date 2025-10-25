@@ -7,7 +7,7 @@ ogDescription: "Frango empanado, espaguete em molho cremoso. Vegetais salteados.
 focusKeyphrase: "Frango Scampi ao Estilo Olive Garden"
 date: 2025-10-10
 draft: false
-image: frango-scampi-olive-garden.png
+image: frango-scampi-olive-garden.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

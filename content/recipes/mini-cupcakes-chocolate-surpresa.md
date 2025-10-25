@@ -7,7 +7,7 @@ ogDescription: "Experimente Mini Cupcakes de Chocolate Surpresa, com massa leve 
 focusKeyphrase: "Mini Cupcakes de Chocolate Surpresa"
 date: 2025-08-08
 draft: false
-image: mini-cupcakes-chocolate-surpresa.png
+image: mini-cupcakes-chocolate-surpresa.jpg
 author: "Julia"
 prepTime: PT55M
 cookTime: PT20M

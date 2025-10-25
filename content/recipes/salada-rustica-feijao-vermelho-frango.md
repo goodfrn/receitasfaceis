@@ -7,7 +7,7 @@ ogDescription: "Salada rústica de feijão vermelho e frango grelhado. Combinaç
 focusKeyphrase: "salada rústica de feijão vermelho e frango"
 date: 2025-07-30
 draft: false
-image: salada-rustica-feijao-vermelho-frango.png
+image: salada-rustica-feijao-vermelho-frango.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT25M

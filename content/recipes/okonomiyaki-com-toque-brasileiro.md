@@ -7,7 +7,7 @@ ogDescription: "Descubra o Okonomiyaki com toque brasileiro, uma deliciosa panqu
 focusKeyphrase: "okonomiyaki brasileiro"
 date: 2025-07-20
 draft: false
-image: okonomiyaki-com-toque-brasileiro.png
+image: okonomiyaki-com-toque-brasileiro.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

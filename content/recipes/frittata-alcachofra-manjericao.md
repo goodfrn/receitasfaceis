@@ -7,7 +7,7 @@ ogDescription: "Experimente a Frittata de Alcachofra com Manjeric√£o. Uma refei√
 focusKeyphrase: "Frittata de Alcachofra"
 date: 2025-07-30
 draft: false
-image: frittata-alcachofra-manjericao.png
+image: frittata-alcachofra-manjericao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

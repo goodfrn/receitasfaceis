@@ -7,7 +7,7 @@ ogDescription: "Coxas de frango assadas com molho de mel e mostarda, acompanhada
 focusKeyphrase: "Coxa Frango Mel Mostarda"
 date: 2025-08-15
 draft: false
-image: coxa-frango-mel-mostarda.png
+image: coxa-frango-mel-mostarda.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT50M

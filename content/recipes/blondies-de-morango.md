@@ -7,7 +7,7 @@ ogDescription: "Experimente os Blondies de Morango Fresco: macios, com cobertura
 focusKeyphrase: "blondies de morango fresco"
 date: 2025-10-21
 draft: false
-image: blondies-de-morango.png
+image: blondies-de-morango.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT28M

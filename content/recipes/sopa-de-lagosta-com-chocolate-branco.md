@@ -7,7 +7,7 @@ ogDescription: "Descubra a sopa de lagosta com chocolate branco. Uma entrada sof
 focusKeyphrase: "sopa de lagosta com chocolate branco"
 date: 2025-09-26
 draft: false
-image: sopa-de-lagosta-com-chocolate-branco.png
+image: sopa-de-lagosta-com-chocolate-branco.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT9M

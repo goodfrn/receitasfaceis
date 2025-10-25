@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bowl Coreano de Porco com Abacate; um prato equili
 focusKeyphrase: "Bowl Coreano de Porco com Abacate"
 date: 2025-08-15
 draft: false
-image: bowl-coreano-porco-abacate.png
+image: bowl-coreano-porco-abacate.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

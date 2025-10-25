@@ -7,7 +7,7 @@ ogDescription: "Experimente nossa Cheesecake de Mirtilo Silvestre, combinando sa
 focusKeyphrase: "Cheesecake de Mirtilo Silvestre"
 date: 2025-08-19
 draft: false
-image: cheesecake-de-mirtilo.png
+image: cheesecake-de-mirtilo.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT1H20M

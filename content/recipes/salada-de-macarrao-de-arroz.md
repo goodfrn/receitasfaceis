@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Macarrão de Arroz ao Tahine, combinaç�
 focusKeyphrase: "salada de macarrão de arroz ao tahine"
 date: 2025-09-26
 draft: false
-image: salada-de-macarrao-de-arroz.png
+image: salada-de-macarrao-de-arroz.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT4M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com a Mousse de Rum e Baunilha. Toque sutil de rum es
 focusKeyphrase: "Mousse de Rum e Baunilha"
 date: 2025-09-24
 draft: false
-image: mousse-de-rum-e-baunilha.png
+image: mousse-de-rum-e-baunilha.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT10M

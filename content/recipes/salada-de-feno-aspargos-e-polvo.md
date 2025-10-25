@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Feno, Aspargos e Polvo Grelhado. Rápida
 focusKeyphrase: "salada de polvo grelhado"
 date: 2025-07-20
 draft: false
-image: salada-de-feno-aspargos-e-polvo.png
+image: salada-de-feno-aspargos-e-polvo.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT6M

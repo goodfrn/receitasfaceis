@@ -7,7 +7,7 @@ ogDescription: "Experimente a Coxa de Frango com Geleia de Cebola. Prato simples
 focusKeyphrase: "Coxa de Frango com Geleia de Cebola"
 date: 2025-07-24
 draft: false
-image: coxa-de-frango-com-geleiade-cebola.png
+image: coxa-de-frango-com-geleiade-cebola.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT28M

@@ -7,7 +7,7 @@ ogDescription: "Experimente um delicioso folhado de tomate, crocante e picante, 
 focusKeyphrase: "folhados de tomate"
 date: 2025-09-27
 draft: false
-image: folhados-de-tomate.png
+image: folhados-de-tomate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT25M

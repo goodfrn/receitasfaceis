@@ -7,7 +7,7 @@ ogDescription: "Descubra a mistura deliciosa de ovos pochê e abóbora, com um t
 focusKeyphrase: "Ovos turcos com abóbora"
 date: 2025-08-03
 draft: false
-image: ovos-turcos-com-abobora.png
+image: ovos-turcos-com-abobora.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

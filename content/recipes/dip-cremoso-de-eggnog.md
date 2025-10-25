@@ -7,7 +7,7 @@ ogDescription: "Experimente este Dip Cremoso de Eggnog. Uma combinação de pudi
 focusKeyphrase: "Dip Cremoso de Eggnog"
 date: 2025-10-05
 draft: false
-image: dip-cremoso-de-eggnog.png
+image: dip-cremoso-de-eggnog.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

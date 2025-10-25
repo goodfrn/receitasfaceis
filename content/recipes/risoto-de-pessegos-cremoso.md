@@ -7,7 +7,7 @@ ogDescription: "Descubra o Risoto de Pêssegos Cremoso que combina sabores fruta
 focusKeyphrase: "risoto de pêssegos cremoso"
 date: 2025-09-20
 draft: false
-image: risoto-de-pessegos-cremoso.png
+image: risoto-de-pessegos-cremoso.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H5M

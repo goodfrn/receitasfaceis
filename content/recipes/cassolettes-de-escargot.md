@@ -7,7 +7,7 @@ ogDescription: "Experimente Cassolettes de Escargot com Linguiça, uma deliciosa
 focusKeyphrase: "Cassolettes de Escargot com Linguiça"
 date: 2025-07-25
 draft: false
-image: cassolettes-de-escargot.png
+image: cassolettes-de-escargot.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

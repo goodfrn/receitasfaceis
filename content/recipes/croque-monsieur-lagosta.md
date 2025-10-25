@@ -7,7 +7,7 @@ ogDescription: "Descubra um croque-monsieur único. Lagosta, molho bechamel de l
 focusKeyphrase: "croque-monsieur com lagosta"
 date: 2025-07-18
 draft: false
-image: croque-monsieur-lagosta.png
+image: croque-monsieur-lagosta.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT22M

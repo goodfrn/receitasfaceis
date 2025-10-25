@@ -7,7 +7,7 @@ ogDescription: "Carrés de maçã com cobertura de aveia. Surpreendente e ideal 
 focusKeyphrase: "carrés de maçã"
 date: 2025-09-27
 draft: false
-image: carres-de-maca-com-toque-especial.png
+image: carres-de-maca-com-toque-especial.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT50M

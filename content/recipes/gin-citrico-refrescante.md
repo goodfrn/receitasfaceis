@@ -7,7 +7,7 @@ ogDescription: "Experimente o Gin Cítrico Refrescante. Uma combinação de gin,
 focusKeyphrase: "Gin Cítrico Refrescante"
 date: 2025-08-03
 draft: false
-image: gin-citrico-refrescante.png
+image: gin-citrico-refrescante.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

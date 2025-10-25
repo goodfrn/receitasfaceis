@@ -7,7 +7,7 @@ ogDescription: "Aprenda como fazer Pancakes Japoneses Voadores. Fofas e saudáve
 focusKeyphrase: "Pancakes Japoneses Voadores"
 date: 2025-07-28
 draft: false
-image: pancakes-japoneses-voadores.png
+image: pancakes-japoneses-voadores.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

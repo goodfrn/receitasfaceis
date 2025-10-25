@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Bolinhas Cremosas de Parmesão, entradas 
 focusKeyphrase: "Bolinhas Cremosas de Parmesão"
 date: 2025-08-02
 draft: false
-image: bolinhas-cremosas-parmesao.png
+image: bolinhas-cremosas-parmesao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

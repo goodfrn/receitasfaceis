@@ -7,7 +7,7 @@ ogDescription: "Experimente Legumes com bolinhos suínos, uma delícia brasileir
 focusKeyphrase: "legumes com bolinhos suínos"
 date: 2025-08-02
 draft: false
-image: legumes-com-bolinhos-suinos.png
+image: legumes-com-bolinhos-suinos.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT8H25M

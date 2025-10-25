@@ -7,7 +7,7 @@ ogDescription: "Saboreie o croque-pastrami variante! Um sanduíche para impressi
 focusKeyphrase: "croque-pastrami variante"
 date: 2025-07-23
 draft: false
-image: croque-pastrami-variacao.png
+image: croque-pastrami-variacao.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT20M

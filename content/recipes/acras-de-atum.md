@@ -7,7 +7,7 @@ ogDescription: "Acras de Atum sem Glúten é um petisco crocante e saboroso. Apr
 focusKeyphrase: "Acras de Atum sem Glúten"
 date: 2025-08-02
 draft: false
-image: acras-de-atum.png
+image: acras-de-atum.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

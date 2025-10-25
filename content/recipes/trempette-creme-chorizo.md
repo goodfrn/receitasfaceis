@@ -7,7 +7,7 @@ ogDescription: "Experimente o Trempette Creme Chorizo: um dip delicioso e cremos
 focusKeyphrase: "Trempette Creme Chorizo"
 date: 2025-09-29
 draft: false
-image: trempette-creme-chorizo.png
+image: trempette-creme-chorizo.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT6M

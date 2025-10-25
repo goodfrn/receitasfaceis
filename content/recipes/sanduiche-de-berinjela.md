@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sanduíche de Berinjela com Ovo; combinações de 
 focusKeyphrase: "sandwich de berinjela"
 date: 2025-08-06
 draft: false
-image: sanduiche-de-berinjela.png
+image: sanduiche-de-berinjela.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT18M

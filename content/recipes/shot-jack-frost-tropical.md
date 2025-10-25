@@ -7,7 +7,7 @@ ogDescription: "Prepare Shots Jack Frost Tropical com abacaxi, vodka e chantilly
 focusKeyphrase: "Shots Jack Frost Tropical"
 date: 2025-10-06
 draft: false
-image: shot-jack-frost-tropical.png
+image: shot-jack-frost-tropical.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a sobremesa gelada Café Liégeois Brasil com sorvet
 focusKeyphrase: "Café Liégeois Brasil"
 date: 2025-07-27
 draft: false
-image: cafe-liegeois-brasil.png
+image: cafe-liegeois-brasil.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

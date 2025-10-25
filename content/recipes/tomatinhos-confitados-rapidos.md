@@ -7,7 +7,7 @@ ogDescription: "Tomatinhos confitados são uma explosão de sabores; fácil, rá
 focusKeyphrase: "tomatinhos confitados"
 date: 2025-08-01
 draft: false
-image: tomatinhos-confitados-rapidos.png
+image: tomatinhos-confitados-rapidos.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT15M

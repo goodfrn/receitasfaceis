@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer a Crepioca de Banana com um toque saudável e de
 focusKeyphrase: "Crepioca de Banana"
 date: 2025-08-07
 draft: false
-image: crepioca-de-banana.png
+image: crepioca-de-banana.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT15M

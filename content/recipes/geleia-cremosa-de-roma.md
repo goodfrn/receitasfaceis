@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Geléia Cremosa de Romã com Gengibre. Prát
 focusKeyphrase: "geléia de romã"
 date: 2025-08-12
 draft: false
-image: geleia-cremosa-de-roma.png
+image: geleia-cremosa-de-roma.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

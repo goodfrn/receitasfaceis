@@ -7,7 +7,7 @@ ogDescription: "Experimente coxinhas temperadas Brasil. Um toque especial da mis
 focusKeyphrase: "Coxinhas temperadas Brasil"
 date: 2025-07-25
 draft: false
-image: coxinhas-temperadas-brasil.png
+image: coxinhas-temperadas-brasil.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H35M

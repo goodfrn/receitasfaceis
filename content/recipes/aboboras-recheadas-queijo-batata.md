@@ -7,7 +7,7 @@ ogDescription: "Experimente essas abóboras recheadas com queijo e batata, um pr
 focusKeyphrase: "abóboras recheadas"
 date: 2025-08-07
 draft: false
-image: aboboras-recheadas-queijo-batata.png
+image: aboboras-recheadas-queijo-batata.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H

@@ -7,7 +7,7 @@ ogDescription: "Experimente os Croissants Pistache Laranja, uma combinação del
 focusKeyphrase: "Croissants Pistache Laranja"
 date: 2025-08-09
 draft: false
-image: croissants-pistache-laranja.png
+image: croissants-pistache-laranja.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

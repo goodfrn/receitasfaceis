@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Côtelettes de Porco com Quinoa. Sabor in
 focusKeyphrase: "Côtelettes de Porco com Quinoa"
 date: 2025-09-26
 draft: false
-image: coteletes-de-porco-com-quinoa.png
+image: coteletes-de-porco-com-quinoa.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT27M

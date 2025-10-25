@@ -7,7 +7,7 @@ ogDescription: "Salada Tropical de Frutas com Baunilha; combinação explosiva d
 focusKeyphrase: "salada tropical de frutas"
 date: 2025-08-03
 draft: false
-image: salada-tropical-frutas.png
+image: salada-tropical-frutas.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT5M

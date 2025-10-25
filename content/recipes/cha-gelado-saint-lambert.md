@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer o Chá Gelado Saint-Lambert. Uma combinação pe
 focusKeyphrase: "Chá Gelado Saint-Lambert"
 date: 2025-09-25
 draft: false
-image: cha-gelado-saint-lambert.png
+image: cha-gelado-saint-lambert.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

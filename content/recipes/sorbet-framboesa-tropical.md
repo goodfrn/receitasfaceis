@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sorbet Framboesa Tropical, uma sobremesa vegana re
 focusKeyphrase: "Sorbet Framboesa Tropical"
 date: 2025-08-12
 draft: false
-image: sorbet-framboesa-tropical.png
+image: sorbet-framboesa-tropical.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

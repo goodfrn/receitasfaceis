@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada morna de peixe e feijão. Uma mistura fresc
 focusKeyphrase: "salada morna de peixe e feijão"
 date: 2025-07-23
 draft: false
-image: salada-morna-peixe-feijao.png
+image: salada-morna-peixe-feijao.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

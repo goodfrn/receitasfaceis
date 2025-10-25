@@ -7,7 +7,7 @@ ogDescription: "Descubra a Pasta de Tomate Assado com Pimentão, molho rústico 
 focusKeyphrase: "Pasta de Tomate Assado com Pimentão"
 date: 2025-10-16
 draft: false
-image: pasta-de-tomate-assado.png
+image: pasta-de-tomate-assado.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT28M

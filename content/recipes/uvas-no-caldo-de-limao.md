@@ -7,7 +7,7 @@ ogDescription: "Desfrute de Uvas no Caldo de Limão — um xarope leve, doce e c
 focusKeyphrase: "Uvas no Caldo de Limão"
 date: 2025-09-25
 draft: false
-image: uvas-no-caldo-de-limao.png
+image: uvas-no-caldo-de-limao.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT27M

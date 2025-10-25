@@ -7,7 +7,7 @@ ogDescription: "Descubra o Reblochon em Massa Crocante. Queijo cremoso, maçãs 
 focusKeyphrase: "Reblochon em Massa Crocante"
 date: 2025-08-14
 draft: false
-image: reblochon-em-massa-crocante.png
+image: reblochon-em-massa-crocante.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

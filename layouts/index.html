@@ -30,26 +30,7 @@
           <!-- Image optimisée -->
           <div class="relative overflow-hidden aspect-[4/3]">
             {{ with .Params.image }}
-              {{ $img := resources.Get (printf "images/%s" .) }}
-              {{ if $img }}
-                {{ $webp := $img.Fill "600x400 q80 webp" }}
-                {{ $fallback := $img.Fill "600x400 q85" }}
-                
-                <picture>
-                  <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                  <img src="{{ $fallback.RelPermalink }}" 
-                       alt="{{ $.Title }}" 
-                       class="w-full h-full object-cover"
-                       loading="lazy"
-                       width="600" 
-                       height="400">
-                </picture>
-              {{ else }}
-                <img src="/{{ . }}" 
-                     alt="{{ $.Title }}" 
-                     class="w-full h-full object-cover"
-                     loading="lazy">
-              {{ end }}
+              {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
             {{ end }}
             
             <!-- Badge catégorie -->
@@ -166,26 +147,7 @@
             <!-- Image optimisée -->
             <div class="relative overflow-hidden aspect-[4/3]">
               {{ with $item.Params.image }}
-                {{ $img := resources.Get (printf "images/%s" .) }}
-                {{ if $img }}
-                  {{ $webp := $img.Fill "600x400 q80 webp" }}
-                  {{ $fallback := $img.Fill "600x400 q85" }}
-                  
-                  <picture>
-                    <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                    <img src="{{ $fallback.RelPermalink }}" 
-                         alt="{{ $item.Title }}" 
-                         class="w-full h-full object-cover"
-                         loading="lazy"
-                         width="600" 
-                         height="400">
-                  </picture>
-                {{ else }}
-                  <img src="/{{ . }}" 
-                       alt="{{ $item.Title }}" 
-                       class="w-full h-full object-cover"
-                       loading="lazy">
-                {{ end }}
+                {{ partial "recipe-image.html" (dict "image" . "title" $item.Title) }}
               {{ end }}
               
               <!-- Badge catégorie -->

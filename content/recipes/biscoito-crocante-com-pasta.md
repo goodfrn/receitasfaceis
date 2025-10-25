@@ -7,7 +7,7 @@ ogDescription: "Experimente o Biscoito Crocante com Pasta. Combinação de sabor
 focusKeyphrase: "Biscoito Crocante com Pasta"
 date: 2025-07-29
 draft: false
-image: biscoito-crocante-com-pasta.png
+image: biscoito-crocante-com-pasta.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Molho de Tomate Caseiro. Uma alternativa sim
 focusKeyphrase: "molho de tomate caseiro"
 date: 2025-08-04
 draft: false
-image: molho-de-tomate-caseiro.png
+image: molho-de-tomate-caseiro.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT50M

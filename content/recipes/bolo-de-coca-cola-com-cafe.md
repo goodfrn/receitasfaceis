@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Bolo de Coca-Cola com Toque de Café, mistura �
 focusKeyphrase: "Bolo de Coca-Cola com Toque de Café"
 date: 2025-10-08
 draft: false
-image: bolo-de-coca-cola-com-cafe.png
+image: bolo-de-coca-cola-com-cafe.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

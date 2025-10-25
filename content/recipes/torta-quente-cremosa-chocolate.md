@@ -7,7 +7,7 @@ ogDescription: "Descubra a torta quente e cremosa de chocolate. Crosta crocante.
 focusKeyphrase: "torta quente de chocolate"
 date: 2025-07-29
 draft: false
-image: torta-quente-cremosa-chocolate.png
+image: torta-quente-cremosa-chocolate.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT35M

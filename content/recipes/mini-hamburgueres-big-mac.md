@@ -7,7 +7,7 @@ ogDescription: "Prepare Mini Hambúrgueres Big Mac em casa. Sabor intenso e mont
 focusKeyphrase: "Mini Hambúrgueres Big Mac"
 date: 2025-10-10
 draft: false
-image: mini-hamburgueres-big-mac.png
+image: mini-hamburgueres-big-mac.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

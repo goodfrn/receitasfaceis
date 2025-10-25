@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo Maple Fácil, um delicioso bolo de baunilha c
 focusKeyphrase: "Bolo Maple Fácil"
 date: 2025-07-20
 draft: false
-image: bolo-maple-facil.png
+image: bolo-maple-facil.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT25M

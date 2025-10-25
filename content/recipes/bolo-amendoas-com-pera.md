@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Bolo amêndoas com pera ao vinho. Singular
 focusKeyphrase: "Bolo amêndoas com pera ao vinho"
 date: 2025-07-19
 draft: false
-image: bolo-amendoas-com-pera.png
+image: bolo-amendoas-com-pera.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H10M

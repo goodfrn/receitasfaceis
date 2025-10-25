@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Costeletas Crocantes Assadas. A combinação perf
 focusKeyphrase: "costeletas crocantes assadas"
 date: 2025-10-22
 draft: false
-image: costeletas-crocantes-assadas.png
+image: costeletas-crocantes-assadas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT33M

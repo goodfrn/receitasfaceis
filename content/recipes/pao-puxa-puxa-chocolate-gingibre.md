@@ -7,7 +7,7 @@ ogDescription: "Pão puxa-puxa chocolate-gingibre é um lanche delicioso com cho
 focusKeyphrase: "pão puxa-puxa"
 date: 2025-07-26
 draft: false
-image: pao-puxa-puxa-chocolate-gingibre.png
+image: pao-puxa-puxa-chocolate-gingibre.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT40M

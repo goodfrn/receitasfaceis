@@ -7,7 +7,7 @@ ogDescription: "Experimente a receita de Bunsau de Panceta Satay. Panceta suína
 focusKeyphrase: "Bunsau de Panceta Satay"
 date: 2025-07-20
 draft: false
-image: bunsau-de-panceta-satay.png
+image: bunsau-de-panceta-satay.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT2H20M

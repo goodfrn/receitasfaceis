@@ -7,7 +7,7 @@ ogDescription: "Experimente o Café da Manhã na Frigideira, um prato fácil que
 focusKeyphrase: "Café da Manhã na Frigideira"
 date: 2025-10-10
 draft: false
-image: cafe-da-manha-na-frigideira.png
+image: cafe-da-manha-na-frigideira.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT24M

@@ -7,7 +7,7 @@ ogDescription: "Prepare Pizzas Pochettes com uma massa crocante e recheio saboro
 focusKeyphrase: "Pizzas Pochettes"
 date: 2025-08-07
 draft: false
-image: pizzas-pochettes-variadas.png
+image: pizzas-pochettes-variadas.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT25M

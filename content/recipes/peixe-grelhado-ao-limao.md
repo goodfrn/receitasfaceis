@@ -7,7 +7,7 @@ ogDescription: "Experimente o sabor intenso do Peixe Grelhado ao Limão e Ervas.
 focusKeyphrase: "Peixe Grelhado"
 date: 2025-09-02
 draft: false
-image: peixe-grelhado-ao-limao.png
+image: peixe-grelhado-ao-limao.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT11M

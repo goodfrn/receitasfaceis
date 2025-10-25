@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Marinada Cítrica com Mel e Gengibre, combina ac
 focusKeyphrase: "Marinada Cítrica com Mel e Gengibre"
 date: 2025-08-06
 draft: false
-image: marinada-citrica-com-mel.png
+image: marinada-citrica-com-mel.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Sopa de Cevada com Confit de Pato - uma explosão de sabor em ca
 focusKeyphrase: "Sopa de Cevada com Confit de Pato"
 date: 2025-08-01
 draft: false
-image: sopa-de-cevada-com-confit-de-pato.png
+image: sopa-de-cevada-com-confit-de-pato.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT45M

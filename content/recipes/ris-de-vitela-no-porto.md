@@ -7,7 +7,7 @@ ogDescription: "Descubra o Ris de Vitela no Porto com Uvas e Pinhões, uma exper
 focusKeyphrase: "ris de vitela no porto"
 date: 2025-09-29
 draft: false
-image: ris-de-vitela-no-porto.png
+image: ris-de-vitela-no-porto.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT18M

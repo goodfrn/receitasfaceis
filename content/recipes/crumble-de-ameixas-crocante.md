@@ -7,7 +7,7 @@ ogDescription: "Crumble de Ameixas Crocante traz ameixas frescas e crosta de am√
 focusKeyphrase: "Crumble de Ameixas Crocante"
 date: 2025-09-29
 draft: false
-image: crumble-de-ameixas-crocante.png
+image: crumble-de-ameixas-crocante.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT40M

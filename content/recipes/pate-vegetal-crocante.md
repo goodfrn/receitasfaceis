@@ -7,7 +7,7 @@ ogDescription: "Experimente o Patê Vegetal Crocante. Uma mistura saborosa que c
 focusKeyphrase: "Patê Vegetal Crocante"
 date: 2025-09-27
 draft: false
-image: pate-vegetal-crocante.png
+image: pate-vegetal-crocante.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

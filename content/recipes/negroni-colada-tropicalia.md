@@ -7,7 +7,7 @@ ogDescription: "Descubra a Negroni Colada Tropicália, uma releitura ousada e tr
 focusKeyphrase: "Negroni Colada Tropicália"
 date: 2025-08-11
 draft: false
-image: negroni-colada-tropicalia.png
+image: negroni-colada-tropicalia.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

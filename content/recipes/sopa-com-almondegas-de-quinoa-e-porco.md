@@ -7,7 +7,7 @@ ogDescription: "Refresque o seu paladar com Sopa de Almôndegas de Quinoa e Porc
 focusKeyphrase: "Sopa com Almôndegas de Quinoa e Porco"
 date: 2025-09-29
 draft: false
-image: sopa-com-almondegas-de-quinoa-e-porco.png
+image: sopa-com-almondegas-de-quinoa-e-porco.jpg
 author: "Julia"
 prepTime: PT32M
 cookTime: PT47M

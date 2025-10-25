@@ -7,7 +7,7 @@ ogDescription: "Experimente essa rabanada com coulis de morango, ideal para um b
 focusKeyphrase: "rabanada com coulis de morango"
 date: 2025-09-25
 draft: false
-image: rabanada-com-coulis-de-morango.png
+image: rabanada-com-coulis-de-morango.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT9M

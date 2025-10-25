@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar um Burger Vegano de Aveia que combina sab
 focusKeyphrase: "Burger Vegano de Aveia"
 date: 2025-08-16
 draft: false
-image: burger-vegano-de-aveia.png
+image: burger-vegano-de-aveia.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT25M

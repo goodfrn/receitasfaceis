@@ -7,7 +7,7 @@ ogDescription: "Experimente a Piadina de Frango com Presunto e Pickles, uma comb
 focusKeyphrase: "Piadina de Frango com Presunto e Pickles"
 date: 2025-09-30
 draft: false
-image: piadina-frango-presunto-pickles.png
+image: piadina-frango-presunto-pickles.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Legumes Assados com Ricota e Castanhas, 
 focusKeyphrase: "salada de legumes assados"
 date: 2025-08-18
 draft: false
-image: salada-de-legumes-assados.png
+image: salada-de-legumes-assados.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT14M

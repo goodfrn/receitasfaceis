@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um Soufflé de chocolate sem glúten e vegano co
 focusKeyphrase: "Soufflé de chocolate sem glúten"
 date: 2025-08-07
 draft: false
-image: souffle-de-chocolate-sem-gluten.png
+image: souffle-de-chocolate-sem-gluten.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

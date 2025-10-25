@@ -7,7 +7,7 @@ ogDescription: "Experimente as Croquetas de Frango Brasileiras, um petisco croca
 focusKeyphrase: "Croquetas de Frango"
 date: 2025-08-18
 draft: false
-image: croquetas-de-frango.png
+image: croquetas-de-frango.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

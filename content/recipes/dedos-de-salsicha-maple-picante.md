@@ -7,7 +7,7 @@ ogDescription: "Experimente os Dedos de Salsicha Maple Picante, um aperitivo veg
 focusKeyphrase: "Dedos de Salsicha Maple Picante"
 date: 2025-07-25
 draft: false
-image: dedos-de-salsicha-maple-picante.png
+image: dedos-de-salsicha-maple-picante.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Antipasto Picante Brasil é uma explosão de sabores. Legumes em
 focusKeyphrase: "Antipasto Picante Brasil"
 date: 2025-07-19
 draft: false
-image: antipasto-picante-brasil.png
+image: antipasto-picante-brasil.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT10M

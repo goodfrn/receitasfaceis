@@ -7,7 +7,7 @@ ogDescription: "Bolo Grego de Ano Novo com iogurte e cardamomo, receita surpreen
 focusKeyphrase: "Bolo Grego de Ano Novo"
 date: 2025-08-18
 draft: false
-image: bolo-grego-ano-novo.png
+image: bolo-grego-ano-novo.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT55M

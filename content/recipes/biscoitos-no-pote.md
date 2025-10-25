@@ -7,7 +7,7 @@ ogDescription: "Faça Biscoitos no Pote. Diferentes camadas em um pote. Rápido,
 focusKeyphrase: "biscoitos no pote"
 date: 2025-07-24
 draft: false
-image: biscoitos-no-pote.png
+image: biscoitos-no-pote.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT14M

@@ -7,7 +7,7 @@ ogDescription: "Receita de Panzanella intrigante; mistura de pão de milho, vege
 focusKeyphrase: "Panzanella com pão de milho"
 date: 2025-09-10
 draft: false
-image: panzanella-pao-milho.png
+image: panzanella-pao-milho.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT7M

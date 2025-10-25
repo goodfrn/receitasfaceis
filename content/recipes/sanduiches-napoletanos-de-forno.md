@@ -7,7 +7,7 @@ ogDescription: "Experimente Sanduíches Napoletanos de Forno. Recheio de ricota 
 focusKeyphrase: "sanduíches napoletanos"
 date: 2025-08-11
 draft: false
-image: sanduiches-napoletanos-de-forno.png
+image: sanduiches-napoletanos-de-forno.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT3M

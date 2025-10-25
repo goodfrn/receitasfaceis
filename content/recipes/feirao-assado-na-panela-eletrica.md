@@ -7,7 +7,7 @@ ogDescription: "Experimente a combinação incrível de feijões, calabresa e me
 focusKeyphrase: "Feijão Assado na Panela Elétrica"
 date: 2025-10-04
 draft: false
-image: feirao-assado-na-panela-eletrica.png
+image: feirao-assado-na-panela-eletrica.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT2H45M

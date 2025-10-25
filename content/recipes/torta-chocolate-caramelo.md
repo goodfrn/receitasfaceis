@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Torta Chocolate Caramelo, uma sobremesa sofistica
 focusKeyphrase: "torta chocolate caramelo"
 date: 2025-08-05
 draft: false
-image: torta-chocolate-caramelo.png
+image: torta-chocolate-caramelo.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Experimente os irresistíveis mini-cornets doce de leite sicilia
 focusKeyphrase: "mini-cornets doce de leite siciliano"
 date: 2025-07-27
 draft: false
-image: mini-cornets-doce-de-leite.png
+image: mini-cornets-doce-de-leite.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

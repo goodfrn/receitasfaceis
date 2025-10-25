@@ -7,7 +7,7 @@ ogDescription: "Experimente Medalhões de Porco com Molho de Cereja e Especiaria
 focusKeyphrase: "Medalhões de Porco"
 date: 2025-08-05
 draft: false
-image: medalhoes-de-porco-molho-cereja.png
+image: medalhoes-de-porco-molho-cereja.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Peixe ao Mel e Mostarda, uma receita deliciosa q
 focusKeyphrase: "Peixe ao Mel e Mostarda"
 date: 2025-08-05
 draft: false
-image: peixe-ao-mel-e-mostarda.png
+image: peixe-ao-mel-e-mostarda.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

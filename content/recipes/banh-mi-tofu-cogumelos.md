@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bánh mì tofu e cogumelos. Um sanduíche recheado
 focusKeyphrase: "Bánh mì tofu e cogumelos"
 date: 2025-07-18
 draft: false
-image: banh-mi-tofu-cogumelos.png
+image: banh-mi-tofu-cogumelos.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT25M

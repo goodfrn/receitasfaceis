@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um guisado de peru aromático com batatas qu
 focusKeyphrase: "guisado de peru"
 date: 2025-09-26
 draft: false
-image: guisado-de-peru-com-batata.png
+image: guisado-de-peru-com-batata.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

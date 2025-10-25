@@ -7,7 +7,7 @@ ogDescription: "Desfrute de costeletas de porco grelhadas e abobrinhas tostadas 
 focusKeyphrase: "costeletas de porco e abobrinhas grelhadas"
 date: 2025-07-23
 draft: false
-image: costeletas-de-porco-abobrinhas.png
+image: costeletas-de-porco-abobrinhas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

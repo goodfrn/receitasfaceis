@@ -7,7 +7,7 @@ ogDescription: "Prepare Canapés de Foie Gras e Damasco. Elegância e sabor em c
 focusKeyphrase: "Canapés de Foie Gras e Damasco"
 date: 2025-07-26
 draft: false
-image: canapes-foie-gras-damasco.png
+image: canapes-foie-gras-damasco.jpg
 author: "Julia"
 prepTime: PT17M
 cookTime: PT7M

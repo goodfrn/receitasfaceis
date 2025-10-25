@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torrada com Queijo Gratinado. Queijo meia-cura, p√
 focusKeyphrase: "torrada com queijo gratinado"
 date: 2025-08-17
 draft: false
-image: torrada-com-queijo-gratinado.png
+image: torrada-com-queijo-gratinado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

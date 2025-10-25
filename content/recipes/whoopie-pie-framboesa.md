@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar o Whoopie Pie de Framboesa. Uma combinaç
 focusKeyphrase: "Whoopie Pie de Framboesa"
 date: 2025-08-06
 draft: false
-image: whoopie-pie-framboesa.png
+image: whoopie-pie-framboesa.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT30M

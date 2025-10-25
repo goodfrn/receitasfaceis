@@ -7,7 +7,7 @@ ogDescription: "Experimente essa deliciosa brioche caramelizada com um toque de 
 focusKeyphrase: "Brioche Caramelo Reverso"
 date: 2025-08-05
 draft: false
-image: brioche-caramelo-reverso.png
+image: brioche-caramelo-reverso.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT25M

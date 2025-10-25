@@ -7,7 +7,7 @@ ogDescription: "Barrinhas de Aveia Banana são deliciosas e nutridas. Ótima op�
 focusKeyphrase: "Barrinhas de Aveia Banana"
 date: 2025-10-08
 draft: false
-image: barrinhas-de-aveia-banana.png
+image: barrinhas-de-aveia-banana.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT22M

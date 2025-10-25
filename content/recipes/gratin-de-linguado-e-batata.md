@@ -7,7 +7,7 @@ ogDescription: "Experimente o gratin de linguado e batata, uma deliciosa combina
 focusKeyphrase: "gratin de linguado"
 date: 2025-08-05
 draft: false
-image: gratin-de-linguado-e-batata.png
+image: gratin-de-linguado-e-batata.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H10M

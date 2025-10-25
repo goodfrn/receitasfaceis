@@ -7,7 +7,7 @@ ogDescription: "Experimente os Beignets de Caramelo. Frituras crocantes, rechead
 focusKeyphrase: "Beignets de Caramelo"
 date: 2025-09-18
 draft: false
-image: beignets-de-caramelo.png
+image: beignets-de-caramelo.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT25M

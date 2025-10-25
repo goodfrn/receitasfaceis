@@ -7,7 +7,7 @@ ogDescription: "Receita de Caldo Pho Bo Tonkinesa. Delicie-se com sopas com osso
 focusKeyphrase: "Caldo Pho Bo Tonkinesa"
 date: 2025-08-28
 draft: false
-image: caldo-pho-bo.png
+image: caldo-pho-bo.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT7H30M

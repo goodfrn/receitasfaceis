@@ -7,7 +7,7 @@ ogDescription: "Experimente o delicioso Mississippi Pot Roast Brasileiro. Carne 
 focusKeyphrase: "Mississippi Pot Roast Brasileiro"
 date: 2025-10-08
 draft: false
-image: mississippi-pot-roast-brasileiro.png
+image: mississippi-pot-roast-brasileiro.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT7H30M

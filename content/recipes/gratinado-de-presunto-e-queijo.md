@@ -7,7 +7,7 @@ ogDescription: "Experimente o Gratinado de Presunto e Queijo. Receita simples, s
 focusKeyphrase: "gratinado de presunto e queijo"
 date: 2025-10-17
 draft: false
-image: gratinado-de-presunto-e-queijo.png
+image: gratinado-de-presunto-e-queijo.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT23M

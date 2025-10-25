@@ -7,7 +7,7 @@ ogDescription: "Experimente a torta chocolate branco e clementinas. Uma combina√
 focusKeyphrase: "torta chocolate branco e clementinas"
 date: 2025-07-27
 draft: false
-image: torta-chocolate-branco-clementinas.png
+image: torta-chocolate-branco-clementinas.jpg
 author: "Julia"
 prepTime: PT90M
 cookTime: PT45M

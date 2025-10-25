@@ -7,7 +7,7 @@ ogDescription: "Saboreie Pappardelle com carne e abóbora. Um prato rico em sabo
 focusKeyphrase: "Pappardelle com carne e abóbora"
 date: 2025-08-13
 draft: false
-image: pappardelle-com-carne-e-abobora.png
+image: pappardelle-com-carne-e-abobora.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT2H20M

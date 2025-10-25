@@ -7,7 +7,7 @@ ogDescription: "Experimente a terrine suína ao cassis, uma receita sofisticada 
 focusKeyphrase: "terrine suína ao cassis"
 date: 2025-07-28
 draft: false
-image: terrine-suina-cassis.png
+image: terrine-suina-cassis.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT1H20M

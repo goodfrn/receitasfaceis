@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar um parmesão vegano incrível e cheio de sabo
 focusKeyphrase: "parmesão vegano"
 date: 2025-08-17
 draft: false
-image: parmesao-vegano-incrementado.png
+image: parmesao-vegano-incrementado.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT0M

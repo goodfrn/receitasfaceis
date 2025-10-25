@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar um purê rústico incrível, aromatizado 
 focusKeyphrase: "purê rústico com toque de ervas"
 date: 2025-08-02
 draft: false
-image: pure-rustico-com-toque-de-erbas.png
+image: pure-rustico-com-toque-de-erbas.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT20M

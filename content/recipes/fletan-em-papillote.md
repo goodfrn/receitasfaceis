@@ -7,7 +7,7 @@ ogDescription: "Experimente flétan em papillote, uma deliciosa combinação de 
 focusKeyphrase: "Flétan em papillote"
 date: 2025-07-27
 draft: false
-image: fletan-em-papillote.png
+image: fletan-em-papillote.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT17M

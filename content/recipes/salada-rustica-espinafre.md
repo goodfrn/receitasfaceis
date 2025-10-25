@@ -7,7 +7,7 @@ ogDescription: "Receita leve e saborosa de salada de espinafre com lentilhas e p
 focusKeyphrase: "salada rústica de espinafre"
 date: 2025-08-13
 draft: false
-image: salada-rustica-espinafre.png
+image: salada-rustica-espinafre.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

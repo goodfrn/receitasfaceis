@@ -7,7 +7,7 @@ ogDescription: "Beba o Spritz Nacional Aqui. Refrescante e com toques brasileiro
 focusKeyphrase: "Spritz Nacional Aqui"
 date: 2025-07-20
 draft: false
-image: spritz-nacional.png
+image: spritz-nacional.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT1M

@@ -7,7 +7,7 @@ ogDescription: "Descubra os Wraps de Tofu ao Curry com Abacate, uma opção vege
 focusKeyphrase: "Wraps de Tofu ao Curry"
 date: 2025-08-04
 draft: false
-image: wraps-tofu-curry-abacate.png
+image: wraps-tofu-curry-abacate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Bowl ramen boi e legumes que combina sabores e texturas. Uma ref
 focusKeyphrase: "bowl ramen boi e legumes"
 date: 2025-09-24
 draft: false
-image: bowl-ramen-boi-e-legumes.png
+image: bowl-ramen-boi-e-legumes.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

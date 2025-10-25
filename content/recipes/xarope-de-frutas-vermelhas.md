@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um xarope de frutas vermelhas. Perfeito para
 focusKeyphrase: "xarope de frutas vermelhas"
 date: 2025-08-03
 draft: false
-image: xarope-de-frutas-vermelhas.png
+image: xarope-de-frutas-vermelhas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

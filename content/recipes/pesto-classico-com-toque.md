@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar um pesto clássico com um toque especial 
 focusKeyphrase: "pesto clássico"
 date: 2025-08-05
 draft: false
-image: pesto-classico-com-toque.png
+image: pesto-classico-com-toque.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

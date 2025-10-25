@@ -7,7 +7,7 @@ ogDescription: "Experimente Crudo de Truta com Canela e Arroz Estourado. Sabor l
 focusKeyphrase: "Crudo de Truta"
 date: 2025-09-23
 draft: false
-image: crudo-de-truta.png
+image: crudo-de-truta.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT15M

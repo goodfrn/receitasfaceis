@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Cupcakes de Cacau Veganos com cobertura cremoso.
 focusKeyphrase: "Cupcakes de Cacau Veganos"
 date: 2025-07-21
 draft: false
-image: cupcakes-de-cacau-veganos.png
+image: cupcakes-de-cacau-veganos.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT25M

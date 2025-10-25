@@ -7,7 +7,7 @@ ogDescription: "Pudim Chômeur Maple Leve: toque brasileiro nessa receita reconf
 focusKeyphrase: "Pudim Chômeur"
 date: 2025-08-14
 draft: false
-image: pudim-chomeur-maple-leve.png
+image: pudim-chomeur-maple-leve.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

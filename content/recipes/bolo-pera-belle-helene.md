@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo Pera Belle-Hélène, uma combinação perfeit
 focusKeyphrase: "Bolo Pera Belle-Hélène"
 date: 2025-09-24
 draft: false
-image: bolo-pera-belle-helene.png
+image: bolo-pera-belle-helene.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Chili rápido com feijão pinto. Prato mexicanamente prático. S
 focusKeyphrase: "chili rápido com feijão pinto"
 date: 2025-07-26
 draft: false
-image: chili-rapido-com-feijao-pinto.png
+image: chili-rapido-com-feijao-pinto.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT20M

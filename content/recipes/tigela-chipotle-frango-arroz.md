@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar a Tigela Chipotle Frango e Arroz, uma rec
 focusKeyphrase: "Tigela Chipotle Frango e Arroz"
 date: 2025-10-16
 draft: false
-image: tigela-chipotle-frango-arroz.png
+image: tigela-chipotle-frango-arroz.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT17M

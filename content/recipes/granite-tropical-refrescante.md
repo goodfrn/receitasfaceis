@@ -7,7 +7,7 @@ ogDescription: "Granité Tropical Refrescante, uma sobremesa brasileira vibrante
 focusKeyphrase: "Granité Tropical Refrescante"
 date: 2025-07-27
 draft: false
-image: granite-tropical-refrescante.png
+image: granite-tropical-refrescante.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT4M

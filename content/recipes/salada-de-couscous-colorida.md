@@ -7,7 +7,7 @@ ogDescription: "Deliciosa Salada de Couscous Colorida. Fresca, aromática e perf
 focusKeyphrase: "salada de couscous"
 date: 2025-08-06
 draft: false
-image: salada-de-couscous-colorida.png
+image: salada-de-couscous-colorida.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT15M

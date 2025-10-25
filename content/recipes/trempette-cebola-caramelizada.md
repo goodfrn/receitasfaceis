@@ -7,7 +7,7 @@ ogDescription: "Trempette com cebola caramelizada e queijos. Um dip incrível qu
 focusKeyphrase: "Trempette cebola caramelizada"
 date: 2025-08-02
 draft: false
-image: trempette-cebola-caramelizada.png
+image: trempette-cebola-caramelizada.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

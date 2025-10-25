@@ -7,7 +7,7 @@ ogDescription: "Tarte Fine Batata Gruyère, combinação de batatas, queijos e s
 focusKeyphrase: "Tarte Fine Batata Gruyère"
 date: 2025-08-18
 draft: false
-image: tarte-fina-batata-gruyere.png
+image: tarte-fina-batata-gruyere.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Echalotas marinadas rápidas uma forma simples de adicionar sabo
 focusKeyphrase: "echalotas marinadas"
 date: 2025-07-21
 draft: false
-image: echalotas-marinadas-rapidas.png
+image: echalotas-marinadas-rapidas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

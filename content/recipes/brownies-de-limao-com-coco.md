@@ -7,7 +7,7 @@ ogDescription: "Experimente os Brownies de Limão com Toque de Coco - uma combin
 focusKeyphrase: "Brownies de Limão com Toque de Coco"
 date: 2025-10-10
 draft: false
-image: brownies-de-limao-com-coco.png
+image: brownies-de-limao-com-coco.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT23M

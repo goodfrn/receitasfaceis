@@ -7,7 +7,7 @@ ogDescription: "Descubra o sabor das palourdes ao vinho branco; uma deliciosa re
 focusKeyphrase: "palourdes ao vinho branco"
 date: 2025-08-08
 draft: false
-image: palourdes-vinho-branco.png
+image: palourdes-vinho-branco.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Árvores Natalinas de Chocolate e Pasta de Amendo
 focusKeyphrase: "Árvores Natalinas de Chocolate e Pasta de Amendoim"
 date: 2025-10-07
 draft: false
-image: arvores-natalinas-chocolate.png
+image: arvores-natalinas-chocolate.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT0M

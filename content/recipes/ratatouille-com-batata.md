@@ -7,7 +7,7 @@ ogDescription: "Ratatouille com Batata é uma versão adaptada que combina legum
 focusKeyphrase: "Ratatouille com Batata"
 date: 2025-09-23
 draft: false
-image: ratatouille-com-batata.png
+image: ratatouille-com-batata.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT37M

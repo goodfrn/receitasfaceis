@@ -7,7 +7,7 @@ ogDescription: "Experimente a Polenta Rápida com Queijo Coalho, uma receita ita
 focusKeyphrase: "Polenta Rápida com Queijo Coalho"
 date: 2025-08-14
 draft: false
-image: polenta-rapida-com-queijo-coalho.png
+image: polenta-rapida-com-queijo-coalho.jpg
 author: "Julia"
 prepTime: PT8M
 cookTime: PT25M

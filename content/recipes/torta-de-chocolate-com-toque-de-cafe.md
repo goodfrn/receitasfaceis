@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta de Chocolate com Toque de Café, uma sobreme
 focusKeyphrase: "Torta de Chocolate com Toque de Café"
 date: 2025-10-03
 draft: false
-image: torta-de-chocolate-com-toque-de-cafe.png
+image: torta-de-chocolate-com-toque-de-cafe.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT28M

@@ -7,7 +7,7 @@ ogDescription: "Experimente esta Pipoca Vegana de Limão com Pimenta, lanche rá
 focusKeyphrase: "Pipoca Vegana de Limão com Pimenta"
 date: 2025-08-07
 draft: false
-image: pipoca-veganade-limao.png
+image: pipoca-veganade-limao.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT12M

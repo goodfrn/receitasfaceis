@@ -7,7 +7,7 @@ ogDescription: "Dê um toque brasileiro ao clássico Molho Steakhouse. Aprenda a
 focusKeyphrase: "molho steakhouse"
 date: 2025-10-16
 draft: false
-image: molho-steakhouse-com-toque-pessoal.png
+image: molho-steakhouse-com-toque-pessoal.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

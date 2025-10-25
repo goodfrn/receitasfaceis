@@ -7,7 +7,7 @@ ogDescription: "Experimente tartines burrata e tomate assado, uma mistura delici
 focusKeyphrase: "tartines burrata e tomate assado"
 date: 2025-07-26
 draft: false
-image: tartines-burrata-tomate-assado.png
+image: tartines-burrata-tomate-assado.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT20M

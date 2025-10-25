@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Dan Dan Asiático de Porco, noodles apimen
 focusKeyphrase: "Dan Dan Asiático de Porco"
 date: 2025-09-26
 draft: false
-image: dan-dan-asiatico-de-porco.png
+image: dan-dan-asiatico-de-porco.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Costelas Miso e Maple suínas, marinadas e caramelizadas. Uma re
 focusKeyphrase: "Costelas Miso e Maple"
 date: 2025-07-23
 draft: false
-image: costelas-miso-maple.png
+image: costelas-miso-maple.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT2H15M

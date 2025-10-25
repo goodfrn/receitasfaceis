@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com a Tarte Morango Mascarpone, uma combinação incr
 focusKeyphrase: "Tarte Morango Mascarpone"
 date: 2025-07-19
 draft: false
-image: tarte-morango-mascarpone.png
+image: tarte-morango-mascarpone.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT25M

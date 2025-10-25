@@ -7,7 +7,7 @@ ogDescription: "Experimente os Carrés de Limão e Framboesa, uma torta com croc
 focusKeyphrase: "Carrés de Limão e Framboesa"
 date: 2025-08-04
 draft: false
-image: carres-de-limao-e-framboesa.png
+image: carres-de-limao-e-framboesa.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT50M

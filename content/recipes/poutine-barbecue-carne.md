@@ -7,7 +7,7 @@ ogDescription: "Experimente a poutine barbecue de carne. Batatas crocantes e mol
 focusKeyphrase: "poutine barbecue de carne"
 date: 2025-07-28
 draft: false
-image: poutine-barbecue-carne.png
+image: poutine-barbecue-carne.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

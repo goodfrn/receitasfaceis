@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Mexilhão no Molho Verde. Sabor marcante e c
 focusKeyphrase: "Mexilhão no Molho Verde"
 date: 2025-08-13
 draft: false
-image: mexilhao-no-molho-verde.png
+image: mexilhao-no-molho-verde.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

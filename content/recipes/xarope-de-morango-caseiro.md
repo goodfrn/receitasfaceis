@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar xarope de morango em casa. Frutas frescas
 focusKeyphrase: "xarope de morango caseiro"
 date: 2025-08-05
 draft: false
-image: xarope-de-morango-caseiro.png
+image: xarope-de-morango-caseiro.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

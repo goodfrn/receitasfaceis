@@ -7,7 +7,7 @@ ogDescription: "Descubra o Frango Miso Gengibre, uma receita deliciosa que combi
 focusKeyphrase: "Frango Miso Gengibre"
 date: 2025-07-19
 draft: false
-image: frango-miso-gengibre.png
+image: frango-miso-gengibre.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT15M

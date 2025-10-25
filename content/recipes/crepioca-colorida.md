@@ -7,7 +7,7 @@ ogDescription: "Experimente a Crepioca Colorida, uma receita sem glúten fácil 
 focusKeyphrase: "crepioca colorida"
 date: 2025-07-18
 draft: false
-image: crepioca-colorida.png
+image: crepioca-colorida.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Rosace de Salmão ao Funcho Cremoso, uma receita s
 focusKeyphrase: "Rosace de Salmão ao Funcho Cremoso"
 date: 2025-08-08
 draft: false
-image: rosace-salmao-funcho.png
+image: rosace-salmao-funcho.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT18M

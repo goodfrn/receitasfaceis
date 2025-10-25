@@ -7,7 +7,7 @@ ogDescription: "Confira a receita dos Cupcakes Dia da Terra, uma combinação pe
 focusKeyphrase: "Cupcakes Dia da Terra"
 date: 2025-10-17
 draft: false
-image: cupcakes-dia-da-terra.png
+image: cupcakes-dia-da-terra.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT21M

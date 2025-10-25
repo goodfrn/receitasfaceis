@@ -7,7 +7,7 @@ ogDescription: "Desfrute da Rabanada Assada com Frangipane uma combinação perf
 focusKeyphrase: "Rabanada Assada com Frangipane"
 date: 2025-07-18
 draft: false
-image: rabanada-assada-frangipane.png
+image: rabanada-assada-frangipane.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

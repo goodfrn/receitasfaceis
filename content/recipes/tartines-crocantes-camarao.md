@@ -7,7 +7,7 @@ ogDescription: "Experimente tartines crocantes de camarão, uma combinação irr
 focusKeyphrase: "tartines de camarão"
 date: 2025-09-24
 draft: false
-image: tartines-crocantes-camarao.png
+image: tartines-crocantes-camarao.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

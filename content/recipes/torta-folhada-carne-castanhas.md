@@ -7,7 +7,7 @@ ogDescription: "Experimente a deliciosa Torta Folhada de Carne e Castanhas, idea
 focusKeyphrase: "torta folhada de carne e castanhas"
 date: 2025-08-14
 draft: false
-image: torta-folhada-carne-castanhas.png
+image: torta-folhada-carne-castanhas.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H20M

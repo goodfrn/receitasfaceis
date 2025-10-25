@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar uma feijoada cremosa com linguiça em pou
 focusKeyphrase: "feijoada cremosa"
 date: 2025-09-29
 draft: false
-image: feijoada-cremosa-com-linguica.png
+image: feijoada-cremosa-com-linguica.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT22M

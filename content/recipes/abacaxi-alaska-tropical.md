@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Abacaxi Alaska Tropical, essa incrível sobremes
 focusKeyphrase: "Abacaxi Alaska Tropical"
 date: 2025-09-01
 draft: false
-image: abacaxi-alaska-tropical.png
+image: abacaxi-alaska-tropical.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT25M

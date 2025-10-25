@@ -7,7 +7,7 @@ ogDescription: "Experimente o delicioso Couscous com Frango e Legumes Assados, u
 focusKeyphrase: "Couscous com Frango e Legumes Assados"
 date: 2025-08-02
 draft: false
-image: couscous-com-frango-e-legumes.png
+image: couscous-com-frango-e-legumes.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT1H50M

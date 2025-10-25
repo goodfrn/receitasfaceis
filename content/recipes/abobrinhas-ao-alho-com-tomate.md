@@ -7,7 +7,7 @@ ogDescription: "Experimente esta receita de Abobrinhas ao Alho com Tomate; leve,
 focusKeyphrase: "Abobrinhas ao Alho"
 date: 2025-08-17
 draft: false
-image: abobrinhas-ao-alho-com-tomate.png
+image: abobrinhas-ao-alho-com-tomate.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT9M

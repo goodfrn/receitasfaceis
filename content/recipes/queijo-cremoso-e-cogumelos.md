@@ -7,7 +7,7 @@ ogDescription: "Descubra o Queijo Cremoso e Cogumelos Salteados. Um prato rico q
 focusKeyphrase: "Queijo Cremoso e Cogumelos Salteados"
 date: 2025-08-15
 draft: false
-image: queijo-cremoso-e-cogumelos.png
+image: queijo-cremoso-e-cogumelos.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

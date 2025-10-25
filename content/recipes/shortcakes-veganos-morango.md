@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Shortcakes Veganos de Morango. A combina√
 focusKeyphrase: "Shortcakes Veganos de Morango"
 date: 2025-08-18
 draft: false
-image: shortcakes-veganos-morango.png
+image: shortcakes-veganos-morango.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT20M

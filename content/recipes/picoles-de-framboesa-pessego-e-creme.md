@@ -7,7 +7,7 @@ ogDescription: "Experimente os Picolés de Framboesa, Pêssego e Creme. Refresca
 focusKeyphrase: "Picolés de Framboesa e Pêssego"
 date: 2025-09-29
 draft: false
-image: picoles-de-framboesa-pessego-e-creme.png
+image: picoles-de-framboesa-pessego-e-creme.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

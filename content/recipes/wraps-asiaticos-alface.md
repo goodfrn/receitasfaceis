@@ -7,7 +7,7 @@ ogDescription: "Wraps de alface com carne moída de frango, arroz soltinho e mol
 focusKeyphrase: "Wraps Asiáticos de Alface"
 date: 2025-10-15
 draft: false
-image: wraps-asiaticos-alface.png
+image: wraps-asiaticos-alface.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pudim Chuca Maple Slow Cooker, uma combinação pe
 focusKeyphrase: "Pudim Chuca Maple Slow Cooker"
 date: 2025-08-11
 draft: false
-image: pudim-chuca-maple-slow-cooker.png
+image: pudim-chuca-maple-slow-cooker.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT2H15M

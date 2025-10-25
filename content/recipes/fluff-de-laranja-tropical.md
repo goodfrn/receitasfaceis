@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Fluff de Laranja Tropical, uma sobremesa lev
 focusKeyphrase: "Fluff de Laranja Tropical"
 date: 2025-10-16
 draft: false
-image: fluff-de-laranja-tropical.png
+image: fluff-de-laranja-tropical.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT0M

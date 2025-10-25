@@ -7,7 +7,7 @@ ogDescription: "Explore a Salada Taco de Frango com frango grelhado, legumes fre
 focusKeyphrase: "salada taco de frango"
 date: 2025-07-26
 draft: false
-image: salada-taco-de-frango.png
+image: salada-taco-de-frango.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

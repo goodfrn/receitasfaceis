@@ -7,7 +7,7 @@ ogDescription: "Experimente um creme de cenoura com tahine e couve-flor. Sopa ve
 focusKeyphrase: "creme de cenoura"
 date: 2025-08-07
 draft: false
-image: creme-de-cenoura-com-tahine.png
+image: creme-de-cenoura-com-tahine.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT40M

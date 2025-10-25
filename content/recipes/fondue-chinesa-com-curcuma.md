@@ -7,7 +7,7 @@ ogDescription: "Descubra a Fondue Chinesa com Cúrcuma, um prato vibrante com ca
 focusKeyphrase: "Fondue Chinesa com Cúrcuma"
 date: 2025-08-10
 draft: false
-image: fondue-chinesa-com-curcuma.png
+image: fondue-chinesa-com-curcuma.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT15M

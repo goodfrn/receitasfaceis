@@ -7,7 +7,7 @@ ogDescription: "Transforme ingredientes simples. Salada Mexida de Pepino e Abaca
 focusKeyphrase: "Salada Mexida de Pepino e Abacate"
 date: 2025-08-09
 draft: false
-image: salada-mexida-pepino-abacate.png
+image: salada-mexida-pepino-abacate.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a Manteiga de Pêra com Canela, ideal com queijos e tor
 focusKeyphrase: "manteiga de pêra com canela"
 date: 2025-07-20
 draft: false
-image: manteiga-de-pera-com-canela.png
+image: manteiga-de-pera-com-canela.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H35M

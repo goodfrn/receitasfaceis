@@ -7,7 +7,7 @@ ogDescription: "Descubra a Orangette Refrescante, uma bebida cítrica ideal para
 focusKeyphrase: "Orangette Refrescante"
 date: 2025-09-29
 draft: false
-image: orangette-refrescante.png
+image: orangette-refrescante.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT6M

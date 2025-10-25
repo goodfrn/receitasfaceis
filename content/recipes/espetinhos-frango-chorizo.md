@@ -7,7 +7,7 @@ ogDescription: "Experimente os Espetinhos Frango Chorizo, uma delícia que mistu
 focusKeyphrase: "Espetinhos Frango Chorizo"
 date: 2025-09-25
 draft: false
-image: espetinhos-frango-chorizo.png
+image: espetinhos-frango-chorizo.jpg
 author: "Julia"
 prepTime: PT32M
 cookTime: PT17M

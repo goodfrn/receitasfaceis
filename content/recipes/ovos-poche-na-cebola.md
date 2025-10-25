@@ -7,7 +7,7 @@ ogDescription: "Experimente Ovos Pochê na Cebola com Tomate e Curry, um prato q
 focusKeyphrase: "Ovos Pochê na Cebola com Tomate e Curry"
 date: 2025-07-24
 draft: false
-image: ovos-poche-na-cebola.png
+image: ovos-poche-na-cebola.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT45M

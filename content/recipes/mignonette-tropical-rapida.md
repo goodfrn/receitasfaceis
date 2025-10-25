@@ -7,7 +7,7 @@ ogDescription: "Descubra a Mignonette Tropical Rápida com manga e vinagre de ma
 focusKeyphrase: "Mignonette Tropical"
 date: 2025-09-23
 draft: false
-image: mignonette-tropical-rapida.png
+image: mignonette-tropical-rapida.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

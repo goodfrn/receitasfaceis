@@ -7,7 +7,7 @@ ogDescription: "Cowboy Caviar Brasileiro uma salada fresca com feijão, verduras
 focusKeyphrase: "salada cowboy caviar"
 date: 2025-10-06
 draft: false
-image: cowboy-caviar-brasileiro.png
+image: cowboy-caviar-brasileiro.jpg
 author: "Julia"
 prepTime: PT28M
 cookTime: PT0M

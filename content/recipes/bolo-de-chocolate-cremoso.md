@@ -7,7 +7,7 @@ ogDescription: "Explore a receita do Bolo de Chocolate Cremoso, com dicas para g
 focusKeyphrase: "Bolo de Chocolate Cremoso"
 date: 2025-08-05
 draft: false
-image: bolo-de-chocolate-cremoso.png
+image: bolo-de-chocolate-cremoso.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT40M

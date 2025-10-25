@@ -7,7 +7,7 @@ ogDescription: "Experimente Sucettes Glacées Lassi Manga; uma sobremesa gelada 
 focusKeyphrase: "sucettes glacées lassi manga"
 date: 2025-09-25
 draft: false
-image: sucettes-glacees-lassi-manga.png
+image: sucettes-glacees-lassi-manga.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT6H10M

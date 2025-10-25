@@ -7,7 +7,7 @@ ogDescription: "Experimente os Palitos de Pão Crocantes, ideais como acompanham
 focusKeyphrase: "Palitos de Pão Crocantes"
 date: 2025-07-29
 draft: false
-image: palitos-de-pao-crocantes.png
+image: palitos-de-pao-crocantes.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT17M

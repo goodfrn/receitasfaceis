@@ -7,7 +7,7 @@ ogDescription: "Frango com macarrão balsâmico. Uma explosão de sabores. Sucul
 focusKeyphrase: "frango com macarrão balsâmico"
 date: 2025-10-07
 draft: false
-image: frango-com-massas-balsamicos.png
+image: frango-com-massas-balsamicos.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT4H45M

@@ -7,7 +7,7 @@ ogDescription: "Prepare linguiças italianas ao vinho tinto. Sabor intenso, molh
 focusKeyphrase: "Linguiças italianas ao vinho tinto"
 date: 2025-08-09
 draft: false
-image: linguicas-italianas-ao-vinho-tinto.png
+image: linguicas-italianas-ao-vinho-tinto.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

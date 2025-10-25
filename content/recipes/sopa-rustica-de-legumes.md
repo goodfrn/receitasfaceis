@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sopa Rústica de Legumes. Deliciosa e cheia de sab
 focusKeyphrase: "sopa rústica de legumes"
 date: 2025-07-18
 draft: false
-image: sopa-rustica-de-legumes.png
+image: sopa-rustica-de-legumes.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Prepare uma Torta de Maçã com Cranberry e Nozes. Sabor caseiro
 focusKeyphrase: "torta de maçã com cranberry e nozes"
 date: 2025-08-14
 draft: false
-image: torta-de-maca-com-cranberry.png
+image: torta-de-maca-com-cranberry.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT45M

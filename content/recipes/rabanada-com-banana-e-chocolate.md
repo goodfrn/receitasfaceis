@@ -7,7 +7,7 @@ ogDescription: "Experimente essa rabanada inovadora com banana caramelizada e mo
 focusKeyphrase: "Rabanada com Banana e Chocolate"
 date: 2025-07-18
 draft: false
-image: rabanada-com-banana-e-chocolate.png
+image: rabanada-com-banana-e-chocolate.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a omelete soufflée com cogumelos. Prato leve, sabor
 focusKeyphrase: "omelete soufflée"
 date: 2025-08-09
 draft: false
-image: omelete-soufflee-cogumelos.png
+image: omelete-soufflee-cogumelos.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

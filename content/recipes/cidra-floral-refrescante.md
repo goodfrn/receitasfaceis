@@ -7,7 +7,7 @@ ogDescription: "Experimente a Cidra Floral Refrescante, ideal para dias quentes 
 focusKeyphrase: "Cidra Floral Refrescante"
 date: 2025-08-08
 draft: false
-image: cidra-floral-refrescante.png
+image: cidra-floral-refrescante.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

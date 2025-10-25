@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um Bloody Caesar com um toque brasileiro, co
 focusKeyphrase: "Bloody Caesar"
 date: 2025-08-03
 draft: false
-image: bloody-caesar-com-limao-e-coentro.png
+image: bloody-caesar-com-limao-e-coentro.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

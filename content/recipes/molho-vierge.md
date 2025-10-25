@@ -7,7 +7,7 @@ ogDescription: "Molho Vierge com salsa, uma explosão de frescor e textura, idea
 focusKeyphrase: "molho vierge"
 date: 2025-09-25
 draft: false
-image: molho-vierge.png
+image: molho-vierge.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

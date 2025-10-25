@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada de aipo e ricota com damasco, uma combinaç
 focusKeyphrase: "salada de aipo e ricota"
 date: 2025-07-18
 draft: false
-image: salada-de-aipo-e-ricota.png
+image: salada-de-aipo-e-ricota.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

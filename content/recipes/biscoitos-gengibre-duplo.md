@@ -7,7 +7,7 @@ ogDescription: "Biscoitos gengibre duplo que trazem crocância e um toque especi
 focusKeyphrase: "biscoitos gengibre duplo"
 date: 2025-08-14
 draft: false
-image: biscoitos-gengibre-duplo.png
+image: biscoitos-gengibre-duplo.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT12M

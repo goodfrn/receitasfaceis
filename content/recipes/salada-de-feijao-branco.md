@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada de Feijão Branco com Toque Cítrico. Fresca, 
 focusKeyphrase: "Salada de Feijão Branco"
 date: 2025-07-29
 draft: false
-image: salada-de-feijao-branco.png
+image: salada-de-feijao-branco.jpg
 author: "Julia"
 prepTime: PT8M
 cookTime: PT7M

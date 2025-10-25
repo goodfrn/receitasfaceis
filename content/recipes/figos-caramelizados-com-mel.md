@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Figos Caramelizados com Mel e Iogurte, uma
 focusKeyphrase: "figos caramelizados"
 date: 2025-08-12
 draft: false
-image: figos-caramelizados-com-mel.png
+image: figos-caramelizados-com-mel.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT11M

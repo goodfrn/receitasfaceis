@@ -7,7 +7,7 @@ ogDescription: "Experimente Repolho Frito com Bacon e Cebola. Mistura perfeita d
 focusKeyphrase: "Repolho Frito com Bacon"
 date: 2025-10-22
 draft: false
-image: repolho-frito-com-bacon.png
+image: repolho-frito-com-bacon.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT28M

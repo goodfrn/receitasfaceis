@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Penne com toque tunisiano, uma explosão d
 focusKeyphrase: "Penne com toque tunisiano"
 date: 2025-08-12
 draft: false
-image: penne-com-toque-tunisiano.png
+image: penne-com-toque-tunisiano.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

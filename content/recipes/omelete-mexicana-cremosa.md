@@ -7,7 +7,7 @@ ogDescription: "Experimente a Omelete Mexicana Cremosa, um prato leve e nutritiv
 focusKeyphrase: "omelete mexicana cremosa"
 date: 2025-08-05
 draft: false
-image: omelete-mexicana-cremosa.png
+image: omelete-mexicana-cremosa.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

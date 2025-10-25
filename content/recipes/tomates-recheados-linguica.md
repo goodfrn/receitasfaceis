@@ -7,7 +7,7 @@ ogDescription: "Experimente tomates recheados com lingui√ßa, cebola e queijo. R√
 focusKeyphrase: "tomates recheados"
 date: 2025-07-23
 draft: false
-image: tomates-recheados-linguica.png
+image: tomates-recheados-linguica.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

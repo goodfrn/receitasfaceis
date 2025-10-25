@@ -7,7 +7,7 @@ ogDescription: "Experimente a Massa Básica Versátil, uma base neutra ideal par
 focusKeyphrase: "massa básica versátil"
 date: 2025-07-19
 draft: false
-image: massa-basica-versatil.png
+image: massa-basica-versatil.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer manteiga rústica de funghi e castanhas que 
 focusKeyphrase: "manteiga rústica de funghi e castanhas"
 date: 2025-08-06
 draft: false
-image: manteiga-rustica-funghi-castanhas.png
+image: manteiga-rustica-funghi-castanhas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

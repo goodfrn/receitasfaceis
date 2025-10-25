@@ -7,7 +7,7 @@ ogDescription: "Experimente o delicioso creme de brócolis cremoso. Sabor leve e
 focusKeyphrase: "creme de brócolis cremoso"
 date: 2025-07-24
 draft: false
-image: creme-de-brocolis-cremoso.png
+image: creme-de-brocolis-cremoso.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT35M

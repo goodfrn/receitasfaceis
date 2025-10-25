@@ -7,7 +7,7 @@ ogDescription: "Experimente as Costeletas de Vitela Crocantes, um prato que comb
 focusKeyphrase: "Costeletas de Vitela Crocantes"
 date: 2025-08-01
 draft: false
-image: costeletas-de-vitela-crocantes.png
+image: costeletas-de-vitela-crocantes.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

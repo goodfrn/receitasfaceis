@@ -7,7 +7,7 @@ ogDescription: "Descubra a saborosa empadinha de frango em ramequim. Prática e 
 focusKeyphrase: "empadinha de frango"
 date: 2025-08-14
 draft: false
-image: empadinha-frango-ramequim.png
+image: empadinha-frango-ramequim.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Desfrute de um delicioso purê de batata vermelha e salsichas co
 focusKeyphrase: "purê de batata vermelha e salsichas"
 date: 2025-09-24
 draft: false
-image: pure-de-batata-e-salsichas.png
+image: pure-de-batata-e-salsichas.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

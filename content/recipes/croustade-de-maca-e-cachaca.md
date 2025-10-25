@@ -7,7 +7,7 @@ ogDescription: "Croustade de Maçã e Cachaça: torta com maçãs, cachaça e ca
 focusKeyphrase: "Croustade de Maçã e Cachaça"
 date: 2025-07-27
 draft: false
-image: croustade-de-maca-e-cachaca.png
+image: croustade-de-maca-e-cachaca.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT45M

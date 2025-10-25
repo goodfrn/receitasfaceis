@@ -7,7 +7,7 @@ ogDescription: "Experimente as Rendas Crocantes de Batata com ervas frescas, uma
 focusKeyphrase: "Rendas Crocantes de Batata"
 date: 2025-07-25
 draft: false
-image: rendas-crocantes-batata.png
+image: rendas-crocantes-batata.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT17M

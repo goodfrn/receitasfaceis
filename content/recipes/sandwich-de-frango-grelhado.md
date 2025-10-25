@@ -7,7 +7,7 @@ ogDescription: "Sanduíche de Frango Grelhado com Cebolas Caramelizadas; irresis
 focusKeyphrase: "sanduíche de frango grelhado"
 date: 2025-08-15
 draft: false
-image: sandwich-de-frango-grelhado.png
+image: sandwich-de-frango-grelhado.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT15M

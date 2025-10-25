@@ -7,7 +7,7 @@ ogDescription: "Sopa Bicolor de Pimentões combina sabores incríveis e uma apre
 focusKeyphrase: "Sopa Bicolor de Pimentões"
 date: 2025-08-09
 draft: false
-image: sopa-bicolor-de-pimentoes.png
+image: sopa-bicolor-de-pimentoes.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

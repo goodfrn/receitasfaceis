@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Mirtilo e Chocolate, com camadas de sabores 
 focusKeyphrase: "Torta Mirtilo e Chocolate"
 date: 2025-08-23
 draft: false
-image: torta-mirtilo-chocolate.png
+image: torta-mirtilo-chocolate.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT35M

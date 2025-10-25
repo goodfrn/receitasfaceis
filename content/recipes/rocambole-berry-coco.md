@@ -7,7 +7,7 @@ ogDescription: "Rocamboles de Berry com Coco que combina o azedinho da framboesa
 focusKeyphrase: "Rocamboles de Berry com Coco"
 date: 2025-08-11
 draft: false
-image: rocambole-berry-coco.png
+image: rocambole-berry-coco.jpg
 author: "Julia"
 prepTime: PT1H10M
 cookTime: PT30M

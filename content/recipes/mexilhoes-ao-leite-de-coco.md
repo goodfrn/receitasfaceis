@@ -7,7 +7,7 @@ ogDescription: "Experimente Mexilhões ao Leite de Coco, uma explosão de sabore
 focusKeyphrase: "Mexilhões ao Leite de Coco"
 date: 2025-08-19
 draft: false
-image: mexilhoes-ao-leite-de-coco.png
+image: mexilhoes-ao-leite-de-coco.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT18M

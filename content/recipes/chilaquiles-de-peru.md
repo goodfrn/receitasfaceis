@@ -7,7 +7,7 @@ ogDescription: "Descubra os chilaquiles de peru. Uma combinação perfeita de sa
 focusKeyphrase: "Chilaquiles de Peru"
 date: 2025-07-22
 draft: false
-image: chilaquiles-de-peru.png
+image: chilaquiles-de-peru.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT1H25M

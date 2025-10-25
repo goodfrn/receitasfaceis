@@ -7,7 +7,7 @@ ogDescription: "Bolo Maluco de Chocolate e Amendoim, fácil de preparar, massa l
 focusKeyphrase: "Bolo Maluco Chocolate Amendoim"
 date: 2025-10-09
 draft: false
-image: bolo-maluca-chocolate-amendoim.png
+image: bolo-maluca-chocolate-amendoim.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT33M

@@ -7,7 +7,7 @@ ogDescription: "Panquecas Duplo Chocolate: um café da manhã que combina a maci
 focusKeyphrase: "panquecas duplo chocolate"
 date: 2025-09-25
 draft: false
-image: panquecas-duplo-chocolate.png
+image: panquecas-duplo-chocolate.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT20M

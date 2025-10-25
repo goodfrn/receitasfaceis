@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa Lentilha com Couve Rústica. Uma mistura perfeit
 focusKeyphrase: "sopa lentilha"
 date: 2025-08-03
 draft: false
-image: sopa-lentilha-couve-rustica.png
+image: sopa-lentilha-couve-rustica.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT22M

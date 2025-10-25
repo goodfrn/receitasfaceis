@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com bâtonnets crocantes de tofu. Empanado com cereal
 focusKeyphrase: "tofu crocante"
 date: 2025-09-27
 draft: false
-image: batonetes-crocantes-tofu.png
+image: batonetes-crocantes-tofu.jpg
 author: "Julia"
 prepTime: PT28M
 cookTime: PT9M

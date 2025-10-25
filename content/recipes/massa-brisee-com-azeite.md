@@ -7,7 +7,7 @@ ogDescription: "Massa Brisée com Azeite de Oliva. Crocante, com sabor leve. Ót
 focusKeyphrase: "Massa Brisée com Azeite de Oliva"
 date: 2025-08-16
 draft: false
-image: massa-brisee-com-azeite.png
+image: massa-brisee-com-azeite.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

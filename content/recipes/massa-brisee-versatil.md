@@ -7,7 +7,7 @@ ogDescription: "Descubra a Massa Brisée Versátil para tortas. Sabor incrível 
 focusKeyphrase: "massa brisée versátil"
 date: 2025-08-02
 draft: false
-image: massa-brisee-versatil.png
+image: massa-brisee-versatil.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT10M

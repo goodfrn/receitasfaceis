@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Pickles de Couve-flor com melado e pimenta dedo-
 focusKeyphrase: "pickles de couve-flor"
 date: 2025-08-01
 draft: false
-image: pickles-de-couve-flor.png
+image: pickles-de-couve-flor.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT10M

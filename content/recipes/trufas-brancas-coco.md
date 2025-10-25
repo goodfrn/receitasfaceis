@@ -7,7 +7,7 @@ ogDescription: "Descubra as Trufas Brancas de Coco, combinação perfeita de cho
 focusKeyphrase: "trufas brancas coco"
 date: 2025-08-15
 draft: false
-image: trufas-brancas-coco.png
+image: trufas-brancas-coco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT5M

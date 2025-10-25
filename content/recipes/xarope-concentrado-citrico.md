@@ -7,7 +7,7 @@ ogDescription: "Prepare seu Xarope Concentrado Cítrico com raspas frescas e sur
 focusKeyphrase: "xarope concentrado cítrico"
 date: 2025-09-26
 draft: false
-image: xarope-concentrado-citrico.png
+image: xarope-concentrado-citrico.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

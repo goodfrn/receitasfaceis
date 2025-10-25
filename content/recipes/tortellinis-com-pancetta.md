@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Tortellinis com pancetta e ervilhas. Um prato pr
 focusKeyphrase: "tortellinis com pancetta"
 date: 2025-07-27
 draft: false
-image: tortellinis-com-pancetta.png
+image: tortellinis-com-pancetta.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

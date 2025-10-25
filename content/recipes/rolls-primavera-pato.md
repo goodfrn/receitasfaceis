@@ -7,7 +7,7 @@ ogDescription: "Rolls primavera de pato, frescos, crocantes e aromáticos. Exper
 focusKeyphrase: "rolinhos primavera pato"
 date: 2025-08-05
 draft: false
-image: rolls-primavera-pato.png
+image: rolls-primavera-pato.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT5M

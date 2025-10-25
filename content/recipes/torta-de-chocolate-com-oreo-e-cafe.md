@@ -7,7 +7,7 @@ ogDescription: "Experimente essa Torta de Chocolate com Oreo e Café. Uma combin
 focusKeyphrase: "torta de chocolate"
 date: 2025-10-16
 draft: false
-image: torta-de-chocolate-com-oreo-e-cafe.png
+image: torta-de-chocolate-com-oreo-e-cafe.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

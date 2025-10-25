@@ -7,7 +7,7 @@ ogDescription: "Experimente o Crumble de Milho Verde. Entrada deliciosa e rústi
 focusKeyphrase: "Crumble de Milho Verde"
 date: 2025-07-20
 draft: false
-image: crumble-de-milho-verde.png
+image: crumble-de-milho-verde.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT2H15M

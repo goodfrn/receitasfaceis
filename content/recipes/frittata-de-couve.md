@@ -7,7 +7,7 @@ ogDescription: "Experimente a Frittata de Couve, mistura perfeita de ovos e couv
 focusKeyphrase: "Frittata de Couve"
 date: 2025-07-20
 draft: false
-image: frittata-de-couve.png
+image: frittata-de-couve.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

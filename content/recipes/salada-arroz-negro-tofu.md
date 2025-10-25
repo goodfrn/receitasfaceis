@@ -7,7 +7,7 @@ ogDescription: "Descubra a salada de arroz negro e tofu, um prato vibrante que c
 focusKeyphrase: "salada de arroz negro e tofu"
 date: 2025-09-27
 draft: false
-image: salada-arroz-negro-tofu.png
+image: salada-arroz-negro-tofu.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT1H

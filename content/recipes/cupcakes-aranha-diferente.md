@@ -7,7 +7,7 @@ ogDescription: "Cupcakes Aranha Diferente, combinação de baunilha e laranja. A
 focusKeyphrase: "Cupcakes Aranha Diferente"
 date: 2025-08-15
 draft: false
-image: cupcakes-aranha-diferente.png
+image: cupcakes-aranha-diferente.jpg
 author: "Julia"
 prepTime: PT17M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Espaguete com Carne e Cogumelos, uma combinação 
 focusKeyphrase: "Espaguete com Carne e Cogumelos"
 date: 2025-08-28
 draft: false
-image: espaguete-com-carne.png
+image: espaguete-com-carne.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT11M

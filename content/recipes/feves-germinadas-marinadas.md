@@ -7,7 +7,7 @@ ogDescription: "Fèves Germinadas Marinadas traz um frescor asiático. Receita s
 focusKeyphrase: "Fèves Germinadas Marinadas"
 date: 2025-09-23
 draft: false
-image: feves-germinadas-marinadas.png
+image: feves-germinadas-marinadas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT11M

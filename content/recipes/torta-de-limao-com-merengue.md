@@ -7,7 +7,7 @@ ogDescription: "Torta de Limão com Merengue Suíço: um clássico que traz esse
 focusKeyphrase: "torta de limão"
 date: 2025-08-04
 draft: false
-image: torta-de-limao-com-merengue.png
+image: torta-de-limao-com-merengue.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT15M

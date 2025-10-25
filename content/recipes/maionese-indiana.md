@@ -7,7 +7,7 @@ ogDescription: "Maionese Indiana é uma combinação de sabores que transforma p
 focusKeyphrase: "maionese indiana"
 date: 2025-08-08
 draft: false
-image: maionese-indiana.png
+image: maionese-indiana.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

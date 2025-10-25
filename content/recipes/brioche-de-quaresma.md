@@ -7,7 +7,7 @@ ogDescription: "Brioche de Quaresma. Sabor leve de canela. Frutas secas. Cobertu
 focusKeyphrase: "Brioche de Quaresma"
 date: 2025-07-24
 draft: false
-image: brioche-de-quaresma.png
+image: brioche-de-quaresma.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a Cidra Quente Especial, uma bebida ideal para noites f
 focusKeyphrase: "cidra quente"
 date: 2025-09-24
 draft: false
-image: cidra-quente-especial.png
+image: cidra-quente-especial.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT10M

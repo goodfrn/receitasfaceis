@@ -7,7 +7,7 @@ ogDescription: "Essa Brioche Mesclada com Chocolate é uma delícia com textura 
 focusKeyphrase: "Brioche Mesclada com Chocolate"
 date: 2025-08-16
 draft: false
-image: brioche-mesclada-com-chocolate.png
+image: brioche-mesclada-com-chocolate.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

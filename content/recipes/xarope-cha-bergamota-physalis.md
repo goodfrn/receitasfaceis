@@ -7,7 +7,7 @@ ogDescription: "Experimente o xarope de chá bergamota e physalis. Perfeito para
 focusKeyphrase: "xarope chá bergamota e physalis"
 date: 2025-07-19
 draft: false
-image: xarope-cha-bergamota-physalis.png
+image: xarope-cha-bergamota-physalis.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT5M

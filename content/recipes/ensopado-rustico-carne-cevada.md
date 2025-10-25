@@ -7,7 +7,7 @@ ogDescription: "Um ensopado rústico de carne e cevada. Textura aveludada e sabo
 focusKeyphrase: "ensopado rústico de carne e cevada"
 date: 2025-08-11
 draft: false
-image: ensopado-rustico-carne-cevada.png
+image: ensopado-rustico-carne-cevada.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT2H40M

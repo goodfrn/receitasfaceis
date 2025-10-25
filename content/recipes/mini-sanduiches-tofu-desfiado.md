@@ -7,7 +7,7 @@ ogDescription: "Experimente nossos mini sanduíches de tofu desfiado. Uma receit
 focusKeyphrase: "mini sanduíches de tofu desfiado"
 date: 2025-07-30
 draft: false
-image: mini-sanduiches-tofu-desfiado.png
+image: mini-sanduiches-tofu-desfiado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT20M

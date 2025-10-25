@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita do Pernil de Cordeiro ao Vinho do Porto, uma 
 focusKeyphrase: "Pernil de Cordeiro ao Vinho do Porto"
 date: 2025-08-09
 draft: false
-image: pernil-de-cordeiro-ao-vinho-do-porto.png
+image: pernil-de-cordeiro-ao-vinho-do-porto.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT2H15M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Creme de Chocolate Revolucionado. Combinação per
 focusKeyphrase: "creme de chocolate"
 date: 2025-07-28
 draft: false
-image: creme-de-chocolate-revolucionado.png
+image: creme-de-chocolate-revolucionado.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT28M

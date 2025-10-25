@@ -7,7 +7,7 @@ ogDescription: "Experimente a bebida de soja cremosa. Receita fácil, saborosa e
 focusKeyphrase: "bebida de soja cremosa"
 date: 2025-08-02
 draft: false
-image: bebida-de-soja-cremosa.png
+image: bebida-de-soja-cremosa.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

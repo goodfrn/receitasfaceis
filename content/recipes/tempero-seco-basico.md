@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um tempero seco simples, saboroso e defumado; id
 focusKeyphrase: "Tempero seco básico"
 date: 2025-08-03
 draft: false
-image: tempero-seco-basico.png
+image: tempero-seco-basico.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o sanduba salada tzatziki. Frango, molho fresco, 
 focusKeyphrase: "sanduba salada tzatziki"
 date: 2025-07-28
 draft: false
-image: sanduba-salada-tzatziki.png
+image: sanduba-salada-tzatziki.jpg
 author: "Julia"
 prepTime: PT17M
 cookTime: PT14M

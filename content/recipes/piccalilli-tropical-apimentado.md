@@ -7,7 +7,7 @@ ogDescription: "Experimente o Piccalilli Tropical Apimentado: uma conserva croca
 focusKeyphrase: "Piccalilli Tropical Apimentado"
 date: 2025-08-06
 draft: false
-image: piccalilli-tropical-apimentado.png
+image: piccalilli-tropical-apimentado.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT40M

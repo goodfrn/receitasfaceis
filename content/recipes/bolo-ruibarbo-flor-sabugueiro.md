@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo de Ruibarbo e Flor de Sabugueiro – equilíb
 focusKeyphrase: "Bolo de Ruibarbo e Flor de Sabugueiro"
 date: 2025-09-26
 draft: false
-image: bolo-ruibarbo-flor-sabugueiro.png
+image: bolo-ruibarbo-flor-sabugueiro.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT35M

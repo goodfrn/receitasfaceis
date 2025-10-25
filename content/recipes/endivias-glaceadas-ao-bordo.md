@@ -7,7 +7,7 @@ ogDescription: "Experimente endívias glaceadas ao bordo, uma mistura de textura
 focusKeyphrase: "endívias glaceadas ao bordo"
 date: 2025-09-29
 draft: false
-image: endivias-glaceadas-ao-bordo.png
+image: endivias-glaceadas-ao-bordo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT40M

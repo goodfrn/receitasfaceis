@@ -7,7 +7,7 @@ ogDescription: "Experimente o Molho Tonkatsu Diferente. Frutas secas, um toque a
 focusKeyphrase: "Molho Tonkatsu Diferente"
 date: 2025-07-19
 draft: false
-image: molho-tonkatsu-diferente.png
+image: molho-tonkatsu-diferente.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

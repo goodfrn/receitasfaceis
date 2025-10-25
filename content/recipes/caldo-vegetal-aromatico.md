@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Caldo Vegetal Aromático. Um caldo rico e nutrit
 focusKeyphrase: "Caldo Vegetal Aromático"
 date: 2025-08-07
 draft: false
-image: caldo-vegetal-aromatico.png
+image: caldo-vegetal-aromatico.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H20M

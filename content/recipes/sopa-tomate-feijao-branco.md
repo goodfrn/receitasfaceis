@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa Tomate Feijão Branco; sabor simples, textura ag
 focusKeyphrase: "Sopa Tomate Feijão Branco"
 date: 2025-08-02
 draft: false
-image: sopa-tomate-feijao-branco.png
+image: sopa-tomate-feijao-branco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Veg de Quinoa e Batata-doce. Uma combinaçã
 focusKeyphrase: "Torta Veg de Quinoa e Batata-doce"
 date: 2025-08-13
 draft: false
-image: torta-veg-quinoa-batata-doce.png
+image: torta-veg-quinoa-batata-doce.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

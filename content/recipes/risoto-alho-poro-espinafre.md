@@ -7,7 +7,7 @@ ogDescription: "Prepare um Risoto de Alho-Poró e Espinafre assado, perfeito par
 focusKeyphrase: "Risoto de Alho-Poró e Espinafre"
 date: 2025-09-29
 draft: false
-image: risoto-alho-poro-espinafre.png
+image: risoto-alho-poro-espinafre.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

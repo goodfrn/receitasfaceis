@@ -7,7 +7,7 @@ ogDescription: "Experimente coelho ao sétimo céu, um prato de carne macia e su
 focusKeyphrase: "coelho ao sétimo céu"
 date: 2025-09-29
 draft: false
-image: coelho-ao-setimo-ceu.png
+image: coelho-ao-setimo-ceu.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

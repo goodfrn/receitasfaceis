@@ -7,7 +7,7 @@ ogDescription: "Experimente rolinhos vietnamitas de porco, com a combinação pe
 focusKeyphrase: "rolinhos vietnamitas de porco"
 date: 2025-09-06
 draft: false
-image: rolinhos-vietnamitas-de-porco.png
+image: rolinhos-vietnamitas-de-porco.jpg
 author: "Julia"
 prepTime: PT32M
 cookTime: PT7M

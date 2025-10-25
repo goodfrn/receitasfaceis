@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Massa de Pizza Caseira – fácil e rápida, per
 focusKeyphrase: "massa de pizza caseira"
 date: 2025-09-28
 draft: false
-image: massa-de-pizza-caseira.png
+image: massa-de-pizza-caseira.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

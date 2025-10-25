@@ -7,7 +7,7 @@ ogDescription: "Experimente os Muffins Quadrados de Tâmaras, uma receita vegeta
 focusKeyphrase: "Muffins Quadrados de Tâmaras"
 date: 2025-08-16
 draft: false
-image: muffins-quadrados-de-tamaras.png
+image: muffins-quadrados-de-tamaras.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

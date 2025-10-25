@@ -7,7 +7,7 @@ ogDescription: "Experimente ovos marinados com chalotas. A mistura de sabores in
 focusKeyphrase: "ovos marinados"
 date: 2025-09-26
 draft: false
-image: ovos-marinados-com-chalotas.png
+image: ovos-marinados-com-chalotas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT6M

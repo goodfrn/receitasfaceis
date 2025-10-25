@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada Cremosa de Folhas Frescas, leve e refrescan
 focusKeyphrase: "Salada Cremosa de Folhas Frescas"
 date: 2025-08-18
 draft: false
-image: salada-cremosa-folhas-frescas.png
+image: salada-cremosa-folhas-frescas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

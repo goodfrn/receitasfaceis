@@ -7,7 +7,7 @@ ogDescription: "Panzanella de bacon e feijão branco. Salada com pão crocante, 
 focusKeyphrase: "Panzanella de bacon"
 date: 2025-07-21
 draft: false
-image: panzanella-bacon-feijao-branco.png
+image: panzanella-bacon-feijao-branco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

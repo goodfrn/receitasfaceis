@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Sopa de Cebola com Bife e Ovo, uma combinação p
 focusKeyphrase: "Sopa de Cebola com Bife e Ovo"
 date: 2025-07-29
 draft: false
-image: sopa-de-cebola-com-bife.png
+image: sopa-de-cebola-com-bife.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

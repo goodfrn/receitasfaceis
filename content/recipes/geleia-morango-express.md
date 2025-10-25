@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer uma geleia de morango crua. Rápida e deliciosa,
 focusKeyphrase: "geleia de morango"
 date: 2025-08-08
 draft: false
-image: geleia-morango-express.png
+image: geleia-morango-express.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

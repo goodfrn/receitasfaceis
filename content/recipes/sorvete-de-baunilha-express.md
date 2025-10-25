@@ -7,7 +7,7 @@ ogDescription: "Prepare um sorvete de baunilha super cremado sem complicação e
 focusKeyphrase: "sorvete de baunilha"
 date: 2025-08-15
 draft: false
-image: sorvete-de-baunilha-express.png
+image: sorvete-de-baunilha-express.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

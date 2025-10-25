@@ -7,7 +7,7 @@ ogDescription: "Biscoitos de Açúcar Crocantes: perfeita receita caseira que tr
 focusKeyphrase: "Biscoitos de Açúcar Crocantes"
 date: 2025-09-28
 draft: false
-image: biscoitos-de-acucar.png
+image: biscoitos-de-acucar.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

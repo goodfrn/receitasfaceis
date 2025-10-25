@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Rápida de Limão com mel; um equilíbrio pe
 focusKeyphrase: "torta de limão"
 date: 2025-09-28
 draft: false
-image: torta-rapida-de-limao.png
+image: torta-rapida-de-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

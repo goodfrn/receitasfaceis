@@ -7,7 +7,7 @@ ogDescription: "Experimente o Suco Melão & Babosa, combinação refrescante que
 focusKeyphrase: "suco melão e babosa"
 date: 2025-08-12
 draft: false
-image: suco-melao-babosa.png
+image: suco-melao-babosa.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

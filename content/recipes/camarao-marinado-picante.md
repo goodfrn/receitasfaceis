@@ -7,7 +7,7 @@ ogDescription: "Experimente o Camarão Marinado Picante – uma combinação de 
 focusKeyphrase: "Camarão Marinado Picante"
 date: 2025-09-26
 draft: false
-image: camarao-marinado-picante.png
+image: camarao-marinado-picante.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT12M

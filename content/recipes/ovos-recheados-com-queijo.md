@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Ovos Recheados com Queijo e Pimentão, um petisc
 focusKeyphrase: "ovos recheados"
 date: 2025-10-16
 draft: false
-image: ovos-recheados-com-queijo.png
+image: ovos-recheados-com-queijo.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT10M

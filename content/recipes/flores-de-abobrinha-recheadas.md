@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita das Flores de Abobrinha Recheadas. Um prato q
 focusKeyphrase: "Flores de Abobrinha Recheadas"
 date: 2025-07-18
 draft: false
-image: flores-de-abobrinha-recheadas.png
+image: flores-de-abobrinha-recheadas.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT25M

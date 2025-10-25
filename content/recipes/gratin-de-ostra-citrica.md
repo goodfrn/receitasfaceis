@@ -7,7 +7,7 @@ ogDescription: "Surpreenda com Gratin de Ostra Cítrica cremoso. Combinação ú
 focusKeyphrase: "Gratin de Ostra Cítrica"
 date: 2025-07-20
 draft: false
-image: gratin-de-ostra-citrica.png
+image: gratin-de-ostra-citrica.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT17M

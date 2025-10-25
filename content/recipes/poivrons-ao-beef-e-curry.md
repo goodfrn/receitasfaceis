@@ -7,7 +7,7 @@ ogDescription: "Experimente os poivrons ao beef e curry, com carne moída, batat
 focusKeyphrase: "poivrons ao beef e curry"
 date: 2025-08-04
 draft: false
-image: poivrons-ao-beef-e-curry.png
+image: poivrons-ao-beef-e-curry.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H15M

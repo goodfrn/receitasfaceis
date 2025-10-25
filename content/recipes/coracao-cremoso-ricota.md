@@ -7,7 +7,7 @@ ogDescription: "Experimente o Coração Cremoso de Ricota. Uma sobremesa leve e 
 focusKeyphrase: "Coração Cremoso de Ricota"
 date: 2025-07-29
 draft: false
-image: coracao-cremoso-ricota.png
+image: coracao-cremoso-ricota.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

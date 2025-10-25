@@ -7,7 +7,7 @@ ogDescription: "Experimente Brioches com Frutas Secas. Uma combinação de textu
 focusKeyphrase: "Brioches com Frutas Secas"
 date: 2025-07-24
 draft: false
-image: brioches-com-frutas-secas.png
+image: brioches-com-frutas-secas.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

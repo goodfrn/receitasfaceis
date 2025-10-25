@@ -7,7 +7,7 @@ ogDescription: "Experimente a Mostarda Doçura Guay, perfeita para incrementar s
 focusKeyphrase: "mostarda doce"
 date: 2025-07-28
 draft: false
-image: mostarda-docura-guay.png
+image: mostarda-docura-guay.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT25M

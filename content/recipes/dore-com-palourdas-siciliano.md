@@ -7,7 +7,7 @@ ogDescription: "Experimente o Doré com Palourdas Siciliano, um prato que une pe
 focusKeyphrase: "Doré com Palourdas Siciliano"
 date: 2025-08-13
 draft: false
-image: dore-com-palourdas-siciliano.png
+image: dore-com-palourdas-siciliano.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Tarte rústica de frutas. Uma combinação de sabores frescos, m
 focusKeyphrase: "tarte rústica de frutas"
 date: 2025-09-28
 draft: false
-image: tarte-rustica-de-frutas.png
+image: tarte-rustica-de-frutas.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

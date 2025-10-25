@@ -7,7 +7,7 @@ ogDescription: "Sorvete Ananás Lima é a escolha ideal para o calor - sabor tro
 focusKeyphrase: "sorvete ananás lima"
 date: 2025-08-02
 draft: false
-image: sorvete-ananas-lima.png
+image: sorvete-ananas-lima.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT0M

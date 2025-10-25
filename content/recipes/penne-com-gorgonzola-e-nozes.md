@@ -7,7 +7,7 @@ ogDescription: "Penne com gorgonzola e nozes é um prato irresistível. Cremoso,
 focusKeyphrase: "Penne com gorgonzola"
 date: 2025-08-17
 draft: false
-image: penne-com-gorgonzola-e-nozes.png
+image: penne-com-gorgonzola-e-nozes.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

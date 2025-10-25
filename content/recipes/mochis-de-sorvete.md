@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Mochis de Sorvete de forma simples e deliciosa. 
 focusKeyphrase: "mochis de sorvete"
 date: 2025-09-25
 draft: false
-image: mochis-de-sorvete.png
+image: mochis-de-sorvete.jpg
 author: "Julia"
 prepTime: PT32M
 cookTime: PT4M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Punch Natalino de Frutas Vermelhas, refrescante e 
 focusKeyphrase: "Punch Natalino de Frutas Vermelhas"
 date: 2025-08-02
 draft: false
-image: punch-natalino-frutas-vermelhas.png
+image: punch-natalino-frutas-vermelhas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a Pavlova cítrica adaptada, uma versão leve e tropica
 focusKeyphrase: "Pavlova cítrica adaptada"
 date: 2025-08-14
 draft: false
-image: pavlova-citrica-adaptada.png
+image: pavlova-citrica-adaptada.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT4H45M

@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar um Sloppy Joe Caipira com sabores brasile
 focusKeyphrase: "Sloppy Joe Caipira"
 date: 2025-08-09
 draft: false
-image: sloppy-joe-caipira.png
+image: sloppy-joe-caipira.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT35M

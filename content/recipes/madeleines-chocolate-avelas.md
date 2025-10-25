@@ -7,7 +7,7 @@ ogDescription: "Experimente as Madeleines com Chocolate e Avelãs, bolinhos leve
 focusKeyphrase: "Madeleines com Chocolate e Avelãs"
 date: 2025-08-07
 draft: false
-image: madeleines-chocolate-avelas.png
+image: madeleines-chocolate-avelas.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT9M

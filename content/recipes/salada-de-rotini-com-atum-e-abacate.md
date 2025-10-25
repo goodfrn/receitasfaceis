@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com essa salada de rotini com atum e abacate; saudáv
 focusKeyphrase: "salada de rotini com atum e abacate"
 date: 2025-09-30
 draft: false
-image: salada-de-rotini-com-atum-e-abacate.png
+image: salada-de-rotini-com-atum-e-abacate.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT10M

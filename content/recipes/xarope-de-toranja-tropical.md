@@ -7,7 +7,7 @@ ogDescription: "Experimente o Xarope de Toranja Tropical. Um sabor único. Ideal
 focusKeyphrase: "xarope de toranja"
 date: 2025-07-24
 draft: false
-image: xarope-de-toranja-tropical.png
+image: xarope-de-toranja-tropical.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT13M

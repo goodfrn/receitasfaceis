@@ -7,7 +7,7 @@ ogDescription: "Sabores marcantes em um prato que mistura gouda envelhecido e Sr
 focusKeyphrase: "Macarrão com Gouda e Sriracha"
 date: 2025-10-04
 draft: false
-image: macarrao-com-gouda-sriracha.png
+image: macarrao-com-gouda-sriracha.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT27M

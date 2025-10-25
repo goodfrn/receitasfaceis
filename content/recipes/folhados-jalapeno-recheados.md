@@ -7,7 +7,7 @@ ogDescription: "Experimente os saborosos Folhados Jalapeño Recheados, com bacon
 focusKeyphrase: "Folhados Jalapeño Recheados"
 date: 2025-07-25
 draft: false
-image: folhados-jalapeno-recheados.png
+image: folhados-jalapeno-recheados.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT23M

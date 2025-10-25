@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com esta Sopa de Cebola Gratinada, perfeita para aque
 focusKeyphrase: "Sopa de Cebola Gratinada"
 date: 2025-08-16
 draft: false
-image: sopa-de-cebola-gratinada.png
+image: sopa-de-cebola-gratinada.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

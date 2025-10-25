@@ -7,7 +7,7 @@ ogDescription: "Descubra os Biscoitos Espelhados com Releitura, uma receita deli
 focusKeyphrase: "Biscoitos Espelhados"
 date: 2025-08-20
 draft: false
-image: biscoitos-espelhados-com-releitura.png
+image: biscoitos-espelhados-com-releitura.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

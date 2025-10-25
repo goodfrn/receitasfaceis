@@ -7,7 +7,7 @@ ogDescription: "Experimente o Granité de lichia e limão siciliano. Refrescante
 focusKeyphrase: "Granité de lichia e limão siciliano"
 date: 2025-07-26
 draft: false
-image: granite-lichia-limao.png
+image: granite-lichia-limao.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

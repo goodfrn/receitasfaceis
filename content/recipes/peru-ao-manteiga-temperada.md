@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar um suculento Peru ao Manteiga Temperada. 
 focusKeyphrase: "Peru ao Manteiga Temperada"
 date: 2025-08-06
 draft: false
-image: peru-ao-manteiga-temperada.png
+image: peru-ao-manteiga-temperada.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT2H15M

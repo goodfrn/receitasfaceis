@@ -7,7 +7,7 @@ ogDescription: "Experimente o Kibbé Tradicional com Toque de Limão, refrescant
 focusKeyphrase: "Kibbé Tradicional"
 date: 2025-09-13
 draft: false
-image: kibbe-tradicional-limao.png
+image: kibbe-tradicional-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

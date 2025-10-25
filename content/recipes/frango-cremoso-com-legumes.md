@@ -7,7 +7,7 @@ ogDescription: "Experimente Frango Cremoso com Legumes, um prato caseiro e cheio
 focusKeyphrase: "Frango Cremoso com Legumes"
 date: 2025-07-29
 draft: false
-image: frango-cremoso-com-legumes.png
+image: frango-cremoso-com-legumes.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT42M

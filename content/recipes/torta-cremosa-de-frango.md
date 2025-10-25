@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Cremosa de Frango com Legumes. Uma receita r
 focusKeyphrase: "torta cremosa de frango"
 date: 2025-10-08
 draft: false
-image: torta-cremosa-de-frango.png
+image: torta-cremosa-de-frango.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Um prato vibrante e fresco, une abacate e tahine, servido com ch
 focusKeyphrase: "Trempette Mediterrânea Avocado"
 date: 2025-08-17
 draft: false
-image: trempette-mediterranea-avocado.png
+image: trempette-mediterranea-avocado.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT10M

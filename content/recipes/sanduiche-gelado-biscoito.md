@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Sanduíche Gelado de Biscoito com chocolate e so
 focusKeyphrase: "sanduíche gelado de biscoito"
 date: 2025-08-10
 draft: false
-image: sanduiche-gelado-biscoito.png
+image: sanduiche-gelado-biscoito.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT30M

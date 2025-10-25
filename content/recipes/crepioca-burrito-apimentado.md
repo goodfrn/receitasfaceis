@@ -7,7 +7,7 @@ ogDescription: "Descubra o Crepioca Burrito Apimentado. Uma mistura perfeita de 
 focusKeyphrase: "Crepioca Burrito Apimentado"
 date: 2025-07-26
 draft: false
-image: crepioca-burrito-apimentado.png
+image: crepioca-burrito-apimentado.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

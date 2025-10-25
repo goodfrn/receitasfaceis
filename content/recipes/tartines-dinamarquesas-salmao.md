@@ -7,7 +7,7 @@ ogDescription: "Experimente as Tartines Dinamarquesas de Salmão e Erva-doce; le
 focusKeyphrase: "Tartines Dinamarquesas de Salmão"
 date: 2025-08-16
 draft: false
-image: tartines-dinamarquesas-salmao.png
+image: tartines-dinamarquesas-salmao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT5M

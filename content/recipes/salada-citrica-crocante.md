@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada Cítrica Crocante, uma combinação refrescant
 focusKeyphrase: "Salada Cítrica Crocante"
 date: 2025-09-01
 draft: false
-image: salada-citrica-crocante.png
+image: salada-citrica-crocante.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT0M

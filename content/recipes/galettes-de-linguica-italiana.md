@@ -7,7 +7,7 @@ ogDescription: "Experimente as Galettes de Linguiça Italiana, recheadas de sabo
 focusKeyphrase: "Galettes de Linguiça Italiana"
 date: 2025-09-26
 draft: false
-image: galettes-de-linguica-italiana.png
+image: galettes-de-linguica-italiana.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

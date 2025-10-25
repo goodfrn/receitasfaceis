@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada crocante rápida, um prato vibrante e saud�
 focusKeyphrase: "salada crocante rápida"
 date: 2025-08-17
 draft: false
-image: salada-crocante-rapida.png
+image: salada-crocante-rapida.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

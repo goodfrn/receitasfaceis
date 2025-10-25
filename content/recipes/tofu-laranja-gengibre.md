@@ -7,7 +7,7 @@ ogDescription: "Descubra Tofu Laranja Gengibre. Combinação perfeita de sabores
 focusKeyphrase: "Tofu Laranja Gengibre"
 date: 2025-07-21
 draft: false
-image: tofu-laranja-gengibre.png
+image: tofu-laranja-gengibre.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

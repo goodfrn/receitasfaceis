@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Batatas Hasselback com Presunto e Cheddar
 focusKeyphrase: "Batatas Hasselback"
 date: 2025-10-06
 draft: false
-image: batatas-hasselback-com-presunto-e-cheddar.png
+image: batatas-hasselback-com-presunto-e-cheddar.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT55M

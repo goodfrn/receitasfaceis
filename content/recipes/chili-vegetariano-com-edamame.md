@@ -7,7 +7,7 @@ ogDescription: "Experimente este Chili Vegetariano com Edamame, uma receita úni
 focusKeyphrase: "Chili Vegetariano"
 date: 2025-08-10
 draft: false
-image: chili-vegetariano-com-edamame.png
+image: chili-vegetariano-com-edamame.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

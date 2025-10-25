@@ -7,7 +7,7 @@ ogDescription: "Um gratinado de quinoa delicioso. Perfeito para quem busca uma a
 focusKeyphrase: "Quinoa Gratinada com Queijo"
 date: 2025-10-03
 draft: false
-image: quinoa-gratinada-com-queijo.png
+image: quinoa-gratinada-com-queijo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

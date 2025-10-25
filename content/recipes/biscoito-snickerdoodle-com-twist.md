@@ -7,7 +7,7 @@ ogDescription: "Explore o delicioso Biscoito Snickerdoodle com Twist. Um clássi
 focusKeyphrase: "Biscoito Snickerdoodle com Twist"
 date: 2025-10-04
 draft: false
-image: biscoito-snickerdoodle-com-twist.png
+image: biscoito-snickerdoodle-com-twist.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT9M

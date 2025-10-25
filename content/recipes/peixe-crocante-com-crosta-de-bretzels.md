@@ -7,7 +7,7 @@ ogDescription: "Experimente o peixe crocante com crosta de bretzels. É uma comb
 focusKeyphrase: "peixe crocante com bretzels"
 date: 2025-08-16
 draft: false
-image: peixe-crocante-com-crosta-de-bretzels.png
+image: peixe-crocante-com-crosta-de-bretzels.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

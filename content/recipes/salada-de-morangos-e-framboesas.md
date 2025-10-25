@@ -7,7 +7,7 @@ ogDescription: "Receita de Salada de Morangos e Framboesas. Uma mistura única d
 focusKeyphrase: "salada de morangos e framboesas"
 date: 2025-07-20
 draft: false
-image: salada-de-morangos-e-framboesas.png
+image: salada-de-morangos-e-framboesas.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

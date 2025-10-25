@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Palitos de Mussarela com Bacon. Um petisco q
 focusKeyphrase: "Palitos de Mussarela com Bacon"
 date: 2025-10-21
 draft: false
-image: palitos-de-mussarela-com-bacon.png
+image: palitos-de-mussarela-com-bacon.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

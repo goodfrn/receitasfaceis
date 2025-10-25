@@ -7,7 +7,7 @@ ogDescription: "Experimente nosso sorvete de morango vegano. Refrescante, leve e
 focusKeyphrase: "sorvete de morango vegano"
 date: 2025-07-21
 draft: false
-image: sorvete-de-morango-vegan.png
+image: sorvete-de-morango-vegan.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Mousse Chocolate Gengibre Kumquat. Um mix de choco
 focusKeyphrase: "Mousse Chocolate Gengibre Kumquat"
 date: 2025-07-30
 draft: false
-image: mousse-chocolate-gengibre-kumquat.png
+image: mousse-chocolate-gengibre-kumquat.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Iogurte com Geleia de Cenoura. Uma combinação pe
 focusKeyphrase: "Iogurte com Geleia de Cenoura"
 date: 2025-09-23
 draft: false
-image: iogurte-com-geleiadecenoura.png
+image: iogurte-com-geleiadecenoura.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

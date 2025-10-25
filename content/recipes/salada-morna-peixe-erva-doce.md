@@ -7,7 +7,7 @@ ogDescription: "Receita de salada morna de peixe e erva-doce. Fresca, saborosa e
 focusKeyphrase: "salada morna de peixe e erva-doce"
 date: 2025-07-22
 draft: false
-image: salada-morna-peixe-erva-doce.png
+image: salada-morna-peixe-erva-doce.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

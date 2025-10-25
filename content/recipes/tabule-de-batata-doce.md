@@ -7,7 +7,7 @@ ogDescription: "Experimente o Tabule de Batata Doce, uma salada com batata doce,
 focusKeyphrase: "tabule de batata doce"
 date: 2025-08-17
 draft: false
-image: tabule-de-batata-doce.png
+image: tabule-de-batata-doce.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

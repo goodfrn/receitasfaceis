@@ -7,7 +7,7 @@ ogDescription: "Descubra como grelhar aspargos com um toque cítrico. Uma receit
 focusKeyphrase: "Aspargos Grelhados"
 date: 2025-08-15
 draft: false
-image: aspargos-grelhados-com-toque-de-limao.png
+image: aspargos-grelhados-com-toque-de-limao.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT20M

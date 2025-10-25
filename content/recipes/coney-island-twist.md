@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer o Coney Island Twist, um coquetel leve com v
 focusKeyphrase: "Coney Island Twist"
 date: 2025-08-12
 draft: false
-image: coney-island-twist.png
+image: coney-island-twist.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT1M

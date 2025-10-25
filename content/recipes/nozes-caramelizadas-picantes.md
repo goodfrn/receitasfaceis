@@ -7,7 +7,7 @@ ogDescription: "Prepare Nozes Caramelizadas Picantes, um petisco que mistura doc
 focusKeyphrase: "nozes caramelizadas picantes"
 date: 2025-09-30
 draft: false
-image: nozes-caramelizadas-picantes.png
+image: nozes-caramelizadas-picantes.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

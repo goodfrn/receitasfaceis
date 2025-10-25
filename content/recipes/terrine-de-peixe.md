@@ -7,7 +7,7 @@ ogDescription: "Terrine de Peixe Cremosa é uma receita deliciosa e fácil de fa
 focusKeyphrase: "Terrine de Peixe Cremosa"
 date: 2025-08-17
 draft: false
-image: terrine-de-peixe.png
+image: terrine-de-peixe.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT25M

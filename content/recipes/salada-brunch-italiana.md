@@ -7,7 +7,7 @@ ogDescription: "Salada Brunch Italiana Cremosa. Perfeita para qualquer refeiçã
 focusKeyphrase: "Salada Brunch Italiana Cremosa"
 date: 2025-08-10
 draft: false
-image: salada-brunch-italiana.png
+image: salada-brunch-italiana.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Experimente este Bolo de Abóbora com Ganache de Chocolate, uma 
 focusKeyphrase: "Bolo de Abóbora com Ganache"
 date: 2025-08-11
 draft: false
-image: bolo-de-abobora-com-ganache.png
+image: bolo-de-abobora-com-ganache.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT1H15M

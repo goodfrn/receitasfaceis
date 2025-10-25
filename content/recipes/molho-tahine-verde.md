@@ -7,7 +7,7 @@ ogDescription: "Descubra o Molho Tahine Verde, um molho cremoso ideal para acomp
 focusKeyphrase: "Molho Tahine Verde"
 date: 2025-07-21
 draft: false
-image: molho-tahine-verde.png
+image: molho-tahine-verde.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

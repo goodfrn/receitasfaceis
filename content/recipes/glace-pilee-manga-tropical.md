@@ -7,7 +7,7 @@ ogDescription: "Experimente a Glace Pilée Manga Tropical, uma sobremesa brasile
 focusKeyphrase: "Glace Pilée Manga Tropical"
 date: 2025-07-18
 draft: false
-image: glace-pilee-manga-tropical.png
+image: glace-pilee-manga-tropical.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT22M

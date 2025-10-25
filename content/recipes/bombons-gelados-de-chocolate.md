@@ -7,7 +7,7 @@ ogDescription: "Experimente os Bombons Gelados de Chocolate, uma combinação se
 focusKeyphrase: "Bombons Gelados de Chocolate"
 date: 2025-08-18
 draft: false
-image: bombons-gelados-de-chocolate.png
+image: bombons-gelados-de-chocolate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

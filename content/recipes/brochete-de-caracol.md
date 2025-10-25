@@ -7,7 +7,7 @@ ogDescription: "Experimente Brochete de Caracol ao Pastis, um petisco prático, 
 focusKeyphrase: "brochete de caracol"
 date: 2025-07-25
 draft: false
-image: brochete-de-caracol.png
+image: brochete-de-caracol.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT17M

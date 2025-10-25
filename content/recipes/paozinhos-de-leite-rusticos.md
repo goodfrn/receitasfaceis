@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Pãezinhos de Leite Rústicos com mel e fari
 focusKeyphrase: "pãezinhos de leite rústicos"
 date: 2025-09-26
 draft: false
-image: paozinhos-de-leite-rusticos.png
+image: paozinhos-de-leite-rusticos.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT30M

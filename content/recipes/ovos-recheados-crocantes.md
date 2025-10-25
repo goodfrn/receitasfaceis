@@ -7,7 +7,7 @@ ogDescription: "Experimente Ovos Recheados Crocantes Apimentados, uma combina√ß√
 focusKeyphrase: "Ovos Recheados Crocantes Apimentados"
 date: 2025-07-23
 draft: false
-image: ovos-recheados-crocantes.png
+image: ovos-recheados-crocantes.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT15M

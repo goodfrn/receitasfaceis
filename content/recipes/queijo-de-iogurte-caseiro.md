@@ -7,7 +7,7 @@ ogDescription: "Faça queijo de iogurte caseiro. Transforme iogurte grego em lab
 focusKeyphrase: "queijo de iogurte caseiro"
 date: 2025-08-10
 draft: false
-image: queijo-de-iogurte-caseiro.png
+image: queijo-de-iogurte-caseiro.jpg
 author: "Julia"
 prepTime: PT6H
 cookTime: PT0M

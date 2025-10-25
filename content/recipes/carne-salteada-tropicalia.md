@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Carne Salteada Tropicália com alcatra e arr
 focusKeyphrase: "Carne Salteada Tropicália"
 date: 2025-07-23
 draft: false
-image: carne-salteada-tropicalia.png
+image: carne-salteada-tropicalia.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Bolo de Baunilha na Panela, delicioso e leve. Ideal p
 focusKeyphrase: "Bolo de Baunilha na Panela"
 date: 2025-08-06
 draft: false
-image: bolo-de-baunilha-na-panela.png
+image: bolo-de-baunilha-na-panela.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT28M

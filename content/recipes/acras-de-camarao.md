@@ -7,7 +7,7 @@ ogDescription: "Bolinho de camarão crocante. Acompanha maionese de limão. Peti
 focusKeyphrase: "Acras de Camarão"
 date: 2025-09-03
 draft: false
-image: acras-de-camarao.png
+image: acras-de-camarao.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT12M

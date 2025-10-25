@@ -7,7 +7,7 @@ ogDescription: "Pão de Cranberry e Chocolate combina frutas secas e chocolate e
 focusKeyphrase: "Pão de Cranberry e Chocolate"
 date: 2025-07-27
 draft: false
-image: pao-de-cranberry-e-chocolate.png
+image: pao-de-cranberry-e-chocolate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

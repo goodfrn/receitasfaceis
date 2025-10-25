@@ -7,7 +7,7 @@ ogDescription: "Experimente os tacos de peixe tropical. Uma mistura deliciosa de
 focusKeyphrase: "tacos de peixe tropical"
 date: 2025-08-06
 draft: false
-image: tacos-de-peixe-tropical.png
+image: tacos-de-peixe-tropical.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Torta de Chili com Crosta de Tortilla é sabor e praticidade num
 focusKeyphrase: "Torta de Chili com Crosta de Tortilla"
 date: 2025-07-26
 draft: false
-image: torta-de-chili-com-crosta-de-tortilla.png
+image: torta-de-chili-com-crosta-de-tortilla.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT45M

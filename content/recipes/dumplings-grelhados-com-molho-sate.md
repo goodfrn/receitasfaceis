@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Dumplings Grelhados com Molho Saté, recheados de
 focusKeyphrase: "dumplings grelhados"
 date: 2025-07-21
 draft: false
-image: dumplings-grelhados-com-molho-sate.png
+image: dumplings-grelhados-com-molho-sate.jpg
 author: "Julia"
 prepTime: PT1H30M
 cookTime: PT1H45M

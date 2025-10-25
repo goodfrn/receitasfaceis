@@ -7,7 +7,7 @@ ogDescription: "Descubra a Quiche de Acelga Cremosa, um prato que combina sabor 
 focusKeyphrase: "quiche de acelga cremosa"
 date: 2025-07-21
 draft: false
-image: quiche-de-acelga.png
+image: quiche-de-acelga.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

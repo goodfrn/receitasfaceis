@@ -7,7 +7,7 @@ ogDescription: "Wraps com frango marinado, um toque de mostarda e crocância. Sa
 focusKeyphrase: "Wraps de frango com mostarda"
 date: 2025-08-15
 draft: false
-image: wraps-de-frango-com-mostarda.png
+image: wraps-de-frango-com-mostarda.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT10M

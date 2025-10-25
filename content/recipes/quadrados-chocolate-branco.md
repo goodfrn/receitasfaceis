@@ -7,7 +7,7 @@ ogDescription: "Quadradinhos crocantes com chocolate branco, cranberries e pista
 focusKeyphrase: "quadrados chocolate branco"
 date: 2025-09-25
 draft: false
-image: quadrados-chocolate-branco.png
+image: quadrados-chocolate-branco.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT4M

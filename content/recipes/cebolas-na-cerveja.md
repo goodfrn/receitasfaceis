@@ -7,7 +7,7 @@ ogDescription: "Cebolas na Cerveja é o petisco ideal, crocantes e saborosas. Um
 focusKeyphrase: "Cebolas na Cerveja"
 date: 2025-09-29
 draft: false
-image: cebolas-na-cerveja.png
+image: cebolas-na-cerveja.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Uma salada vibrante de batata, aspargos e truta defumada, com um
 focusKeyphrase: "salada rústica de batata e aspargos"
 date: 2025-08-18
 draft: false
-image: salada-rustica-batata-aspargos.png
+image: salada-rustica-batata-aspargos.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

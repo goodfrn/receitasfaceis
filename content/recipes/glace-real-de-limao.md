@@ -7,7 +7,7 @@ ogDescription: "Desperte seu lado confeiteiro com o Glacê Real de Limão; cober
 focusKeyphrase: "Glacê Real de Limão"
 date: 2025-08-07
 draft: false
-image: glace-real-de-limao.png
+image: glace-real-de-limao.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

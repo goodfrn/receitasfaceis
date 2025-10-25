@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Abacate com Creme Azedo. Rápido, cremoso e perfe
 focusKeyphrase: "Abacate com Creme Azedo"
 date: 2025-07-21
 draft: false
-image: avocado-com-creme-azedo.png
+image: avocado-com-creme-azedo.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

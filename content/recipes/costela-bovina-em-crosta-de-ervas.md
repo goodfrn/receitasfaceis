@@ -7,7 +7,7 @@ ogDescription: "Desfrute da costela bovina em crosta de ervas. Sabor intenso que
 focusKeyphrase: "costela bovina em crosta de ervas"
 date: 2025-07-26
 draft: false
-image: costela-bovina-em-crosta-de-ervas.png
+image: costela-bovina-em-crosta-de-ervas.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT1H

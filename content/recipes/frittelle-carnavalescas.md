@@ -7,7 +7,7 @@ ogDescription: "Experimente os bolinhos fritos italianos, Frittelle Carnavalesca
 focusKeyphrase: "Frittelle Carnavalescas"
 date: 2025-09-25
 draft: false
-image: frittelle-carnavalescas.png
+image: frittelle-carnavalescas.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT25M

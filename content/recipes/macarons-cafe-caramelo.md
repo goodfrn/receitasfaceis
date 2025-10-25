@@ -7,7 +7,7 @@ ogDescription: "Experimente os Macarons Café Caramelo Cremoso, doces sofisticad
 focusKeyphrase: "Macarons Café Caramelo Cremoso"
 date: 2025-07-25
 draft: false
-image: macarons-cafe-caramelo.png
+image: macarons-cafe-caramelo.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT22M

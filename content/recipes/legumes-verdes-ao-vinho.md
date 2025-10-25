@@ -7,7 +7,7 @@ ogDescription: "Experimente Legumes Verdes ao Vinho, uma mistura de texturas e s
 focusKeyphrase: "Legumes Verdes ao Vinho"
 date: 2025-08-03
 draft: false
-image: legumes-verdes-ao-vinho.png
+image: legumes-verdes-ao-vinho.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Kebbés de Carne com Toque Brasileiro. Petiscos irre
 focusKeyphrase: "Kebbés de Carne"
 date: 2025-08-09
 draft: false
-image: kebbes-de-carne-brasileiro.png
+image: kebbes-de-carne-brasileiro.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT15M

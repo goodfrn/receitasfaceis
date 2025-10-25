@@ -7,7 +7,7 @@ ogDescription: "Descubra o Bolinho de Porco com Abacaxi, sabor intenso e textura
 focusKeyphrase: "Bolinho de Porco com Abacaxi"
 date: 2025-07-21
 draft: false
-image: bolinho-de-porco-com-abacaxi.png
+image: bolinho-de-porco-com-abacaxi.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT35M

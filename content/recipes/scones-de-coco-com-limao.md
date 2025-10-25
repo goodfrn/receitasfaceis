@@ -7,7 +7,7 @@ ogDescription: "Experimente os Scones de Coco com Limão. Perfeitos para seu caf
 focusKeyphrase: "scones veganos de coco"
 date: 2025-07-21
 draft: false
-image: scones-de-coco-com-limao.png
+image: scones-de-coco-com-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT22M

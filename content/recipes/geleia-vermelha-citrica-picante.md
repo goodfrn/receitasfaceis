@@ -7,7 +7,7 @@ ogDescription: "Experimente a geleia de frutas vermelhas com pimenta rosa. Prát
 focusKeyphrase: "geleia vermelha cítrica picante"
 date: 2025-07-19
 draft: false
-image: geleia-vermelha-citrica-picante.png
+image: geleia-vermelha-citrica-picante.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

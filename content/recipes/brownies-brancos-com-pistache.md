@@ -7,7 +7,7 @@ ogDescription: "Descubra os Brownies Brancos com Pistache - uma versão leve e c
 focusKeyphrase: "brownies brancos com pistache"
 date: 2025-08-06
 draft: false
-image: brownies-brancos-com-pistache.png
+image: brownies-brancos-com-pistache.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Amêndoas Crocantes com Caramelo e Especiarias. Uma 
 focusKeyphrase: "Amêndoas Crocantes"
 date: 2025-07-21
 draft: false
-image: amendoas-crocantes-caramelo-especiarias.png
+image: amendoas-crocantes-caramelo-especiarias.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT12M

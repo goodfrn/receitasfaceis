@@ -7,7 +7,7 @@ ogDescription: "Experimente o pudim maracujá e coco, uma mistura perfeita de sa
 focusKeyphrase: "pudim maracujá e coco"
 date: 2025-07-21
 draft: false
-image: pudim-maracuja-coco.png
+image: pudim-maracuja-coco.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT40M

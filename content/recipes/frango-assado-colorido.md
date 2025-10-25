@@ -7,7 +7,7 @@ ogDescription: "Desfrute do Frango assado colorido com ingredientes frescos. Fun
 focusKeyphrase: "Frango assado colorido"
 date: 2025-08-28
 draft: false
-image: frango-assado-colorido.png
+image: frango-assado-colorido.jpg
 author: "Julia"
 prepTime: PT55M
 cookTime: PT1H55M

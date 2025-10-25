@@ -7,7 +7,7 @@ ogDescription: "Brownie Trifle Crocante. Camadas de brownies, pudim e cobertura 
 focusKeyphrase: "Brownie Trifle"
 date: 2025-10-23
 draft: false
-image: brownie-trifle-com-toque-crocante.png
+image: brownie-trifle-com-toque-crocante.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT15M

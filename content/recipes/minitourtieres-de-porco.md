@@ -7,7 +7,7 @@ ogDescription: "Conheça as Minitourtières de Porco; tortinhas crocantes com re
 focusKeyphrase: "Minitourtières de Porco"
 date: 2025-09-29
 draft: false
-image: minitourtieres-de-porco.png
+image: minitourtieres-de-porco.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT50M

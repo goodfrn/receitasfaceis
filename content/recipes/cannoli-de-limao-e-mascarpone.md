@@ -7,7 +7,7 @@ ogDescription: "Prepare Cannoli de Limão e Mascarpone em casa e surpreenda sua 
 focusKeyphrase: "Cannoli de Limão e Mascarpone"
 date: 2025-08-03
 draft: false
-image: cannoli-de-limao-e-mascarpone.png
+image: cannoli-de-limao-e-mascarpone.jpg
 author: "Julia"
 prepTime: PT1H25M
 cookTime: PT15M

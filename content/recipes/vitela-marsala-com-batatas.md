@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Vitela Marsala com Batatas, pratos que tra
 focusKeyphrase: "Vitela Marsala"
 date: 2025-09-24
 draft: false
-image: vitela-marsala-com-batatas.png
+image: vitela-marsala-com-batatas.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT2H15M

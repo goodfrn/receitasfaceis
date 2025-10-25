@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um bolo Casa de Chocolate que encanta com se
 focusKeyphrase: "bolo chocolate"
 date: 2025-08-18
 draft: false
-image: casa-de-bolo-chocolate.png
+image: casa-de-bolo-chocolate.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT35M

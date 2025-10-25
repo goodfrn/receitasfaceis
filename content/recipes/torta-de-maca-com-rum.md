@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta de Maçã com Rum e Caramelo Salgado. Uma co
 focusKeyphrase: "Torta de Maçã com Rum"
 date: 2025-08-03
 draft: false
-image: torta-de-maca-com-rum.png
+image: torta-de-maca-com-rum.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

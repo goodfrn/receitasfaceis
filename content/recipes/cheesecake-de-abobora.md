@@ -7,7 +7,7 @@ ogDescription: "Descubra o Cheesecake de Abóbora com Crosta de Gingersnap. A re
 focusKeyphrase: "cheesecake de abóbora"
 date: 2025-10-22
 draft: false
-image: cheesecake-de-abobora.png
+image: cheesecake-de-abobora.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H35M

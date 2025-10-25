@@ -7,7 +7,7 @@ ogDescription: "Experimente Cookies de Gotas de Chocolate; sabor intenso e textu
 focusKeyphrase: "Cookies de Gotas de Chocolate"
 date: 2025-09-28
 draft: false
-image: cookies-de-gotas-de-chocolate.png
+image: cookies-de-gotas-de-chocolate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "Experimente os Ovos Recheados Natalinos: texturas e sabores dive
 focusKeyphrase: "Ovos Recheados Natalinos"
 date: 2025-08-19
 draft: false
-image: ovos-recheados-natalinos.png
+image: ovos-recheados-natalinos.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

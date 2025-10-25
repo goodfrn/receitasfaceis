@@ -7,7 +7,7 @@ ogDescription: "Experimente os deliciosos profiteroles com aroma de hortelã e m
 focusKeyphrase: "Profiteroles Chocolate Hortelã"
 date: 2025-08-15
 draft: false
-image: profiteroles-chocolate-hortela.png
+image: profiteroles-chocolate-hortela.jpg
 author: "Julia"
 prepTime: PT1H20M
 cookTime: PT50M

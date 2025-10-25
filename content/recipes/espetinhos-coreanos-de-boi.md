@@ -7,7 +7,7 @@ ogDescription: "Experimente espetinhos coreanos de boi com kiwi, uma mistura de 
 focusKeyphrase: "espetinhos coreanos"
 date: 2025-07-21
 draft: false
-image: espetinhos-coreanos-de-boi.png
+image: espetinhos-coreanos-de-boi.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT10M

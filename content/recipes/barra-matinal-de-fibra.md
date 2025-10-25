@@ -7,7 +7,7 @@ ogDescription: "Experimente a barra matinal de fibra reforçada; saudável e del
 focusKeyphrase: "barra matinal de fibra reforçada"
 date: 2025-08-03
 draft: false
-image: barra-matinal-de-fibra.png
+image: barra-matinal-de-fibra.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

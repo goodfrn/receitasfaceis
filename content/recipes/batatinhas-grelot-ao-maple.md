@@ -7,7 +7,7 @@ ogDescription: "Experimente Batatinhas Grelot ao Maple, um prato irresistível p
 focusKeyphrase: "batatinhas grelot ao maple"
 date: 2025-07-21
 draft: false
-image: batatinhas-grelot-ao-maple.png
+image: batatinhas-grelot-ao-maple.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

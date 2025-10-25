@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada crocante de erva-doce e maçã verde. Refre
 focusKeyphrase: "salada crocante de erva-doce e maçã verde"
 date: 2025-09-28
 draft: false
-image: salada-crocante-erva-doce-maca-verde.png
+image: salada-crocante-erva-doce-maca-verde.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

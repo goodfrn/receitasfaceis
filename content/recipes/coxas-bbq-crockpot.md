@@ -7,7 +7,7 @@ ogDescription: "Coxas de frango cozidas lentamente com molho de goiabada. Sabor 
 focusKeyphrase: "Coxas BBQ Crockpot"
 date: 2025-10-03
 draft: false
-image: coxas-bbq-crockpot.png
+image: coxas-bbq-crockpot.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT3H30M

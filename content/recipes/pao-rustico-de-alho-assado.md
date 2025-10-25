@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pão Rústico de Alho Assado, um pão macio com ar
 focusKeyphrase: "Pão Rústico de Alho Assado"
 date: 2025-10-03
 draft: false
-image: pao-rustico-de-alho-assado.png
+image: pao-rustico-de-alho-assado.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT40M

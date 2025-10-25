@@ -7,7 +7,7 @@ ogDescription: "Discover a mistura incrível de especiarias que realça o sabor 
 focusKeyphrase: "Temperos para Torta de Maçã"
 date: 2025-10-05
 draft: false
-image: temperos-para-torta-de-maca.png
+image: temperos-para-torta-de-maca.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT6M

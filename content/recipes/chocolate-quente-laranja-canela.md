@@ -7,7 +7,7 @@ ogDescription: "Descubra a combinação perfeita de chocolate quente com laranja
 focusKeyphrase: "chocolate quente com laranja e canela"
 date: 2025-08-14
 draft: false
-image: chocolate-quente-laranja-canela.png
+image: chocolate-quente-laranja-canela.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com este creme cítrico para frutas, leve e cheio de 
 focusKeyphrase: "creme cítrico para frutas"
 date: 2025-07-19
 draft: false
-image: creme-citrico-para-frutas.png
+image: creme-citrico-para-frutas.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

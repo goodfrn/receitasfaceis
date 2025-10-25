@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada de melancia com tomates e queijo. Uma explo
 focusKeyphrase: "salada de melancia"
 date: 2025-08-19
 draft: false
-image: melancia-tomate-com-queijo.png
+image: melancia-tomate-com-queijo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

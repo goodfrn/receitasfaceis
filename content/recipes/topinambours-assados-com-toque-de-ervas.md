@@ -7,7 +7,7 @@ ogDescription: "Topinambours Assados com Toque de Ervas fazem a diferença no se
 focusKeyphrase: "Topinambours assados"
 date: 2025-09-24
 draft: false
-image: topinambours-assados-com-toque-de-ervas.png
+image: topinambours-assados-com-toque-de-ervas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT55M

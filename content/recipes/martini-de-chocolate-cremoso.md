@@ -7,7 +7,7 @@ ogDescription: "Experimente o Martini de Chocolate Cremoso com ch√° preto, avel√
 focusKeyphrase: "Martini de Chocolate Cremoso"
 date: 2025-07-20
 draft: false
-image: martini-de-chocolate-cremoso.png
+image: martini-de-chocolate-cremoso.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT4M

@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer uma salada quente de peixe e vagem que surpr
 focusKeyphrase: "salada morna de peixe"
 date: 2025-08-16
 draft: false
-image: salada-morna-de-peixe.png
+image: salada-morna-de-peixe.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com truta crocante e salada de beterraba amarela, um 
 focusKeyphrase: "truta com salada de beterraba"
 date: 2025-07-29
 draft: false
-image: truta-com-salada-de-beterraba.png
+image: truta-com-salada-de-beterraba.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT10M

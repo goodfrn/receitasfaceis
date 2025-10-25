@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pão Recheado Niçoise. Uma refeição refrescante
 focusKeyphrase: "Pão Recheado Niçoise"
 date: 2025-09-26
 draft: false
-image: pao-recheado-nicoise.png
+image: pao-recheado-nicoise.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

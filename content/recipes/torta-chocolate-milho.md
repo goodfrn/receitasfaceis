@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar uma deliciosa torta de chocolate e milho 
 focusKeyphrase: "torta de chocolate e milho"
 date: 2025-10-22
 draft: false
-image: torta-chocolate-milho.png
+image: torta-chocolate-milho.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

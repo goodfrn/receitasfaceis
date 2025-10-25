@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Farfalles com Caranguejo, um prato elegant
 focusKeyphrase: "Farfalles com Caranguejo"
 date: 2025-09-17
 draft: false
-image: farfalles-com-caranguejo.png
+image: farfalles-com-caranguejo.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT18M

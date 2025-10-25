@@ -7,7 +7,7 @@ ogDescription: "Experimente o Arroz Frito de Frango e Cogumelos. Uma refeição 
 focusKeyphrase: "Arroz Frito de Frango e Cogumelos"
 date: 2025-09-24
 draft: false
-image: arroz-frito-frango-cogumelos.png
+image: arroz-frito-frango-cogumelos.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

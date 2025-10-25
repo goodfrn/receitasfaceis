@@ -7,7 +7,7 @@ ogDescription: "Experimente o Butterscotch na Neve, um doce crocante com cachaç
 focusKeyphrase: "Butterscotch na Neve"
 date: 2025-08-18
 draft: false
-image: butterscotch-na-neve.png
+image: butterscotch-na-neve.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

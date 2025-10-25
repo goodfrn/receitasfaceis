@@ -7,7 +7,7 @@ ogDescription: "Bolo Floresta Negra Simplificado, uma versão prática e delicio
 focusKeyphrase: "Bolo Floresta Negra Simplificado"
 date: 2025-08-13
 draft: false
-image: bolo-floresta-negra-simplificado.png
+image: bolo-floresta-negra-simplificado.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT50M

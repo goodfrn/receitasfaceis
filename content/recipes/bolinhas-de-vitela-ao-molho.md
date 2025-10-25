@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Bolinhas de Vitela ao Molho, um aperitivo incrív
 focusKeyphrase: "Bolinhas de Vitela ao Molho"
 date: 2025-07-25
 draft: false
-image: bolinhas-de-vitela-ao-molho.png
+image: bolinhas-de-vitela-ao-molho.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

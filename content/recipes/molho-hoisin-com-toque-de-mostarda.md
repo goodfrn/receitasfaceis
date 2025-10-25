@@ -7,7 +7,7 @@ ogDescription: "Experimente o Molho Hoisin com Toque de Mostarda, uma mistura as
 focusKeyphrase: "Molho Hoisin com Toque de Mostarda"
 date: 2025-08-04
 draft: false
-image: molho-hoisin-com-toque-de-mostarda.png
+image: molho-hoisin-com-toque-de-mostarda.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

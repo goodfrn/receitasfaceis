@@ -7,7 +7,7 @@ ogDescription: "Experimente a Tônica de Pomelo Refrescante. Sabor suave e adoci
 focusKeyphrase: "Tônica de Pomelo Refrescante"
 date: 2025-08-06
 draft: false
-image: tonica-de-pomelo-refrescante.png
+image: tonica-de-pomelo-refrescante.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

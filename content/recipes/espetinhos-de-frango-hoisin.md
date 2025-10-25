@@ -7,7 +7,7 @@ ogDescription: "Prepare esses espetinhos de frango hoisin simples e saborosos. U
 focusKeyphrase: "Espetinhos de Frango Hoisin"
 date: 2025-07-28
 draft: false
-image: espetinhos-de-frango-hoisin.png
+image: espetinhos-de-frango-hoisin.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

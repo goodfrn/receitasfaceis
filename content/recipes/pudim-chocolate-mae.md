@@ -7,7 +7,7 @@ ogDescription: "Experimente Pudim Chocolate Mãe, uma sobremesa irresistível co
 focusKeyphrase: "Pudim Chocolate Mãe"
 date: 2025-07-29
 draft: false
-image: pudim-chocolate-mae.png
+image: pudim-chocolate-mae.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT50M

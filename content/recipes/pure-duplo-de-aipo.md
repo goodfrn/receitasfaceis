@@ -7,7 +7,7 @@ ogDescription: "Descubra o purê de aipo-nabo com alho assado e toque de noz-mos
 focusKeyphrase: "purê duplo de aipo"
 date: 2025-08-05
 draft: false
-image: pure-duplo-de-aipo.png
+image: pure-duplo-de-aipo.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

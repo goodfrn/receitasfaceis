@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Almôndegas Suecas Revisitadas, uma recei
 focusKeyphrase: "almôndegas suecas revisitadas"
 date: 2025-08-17
 draft: false
-image: almondagas-suecas-revisitadas.png
+image: almondagas-suecas-revisitadas.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT25M

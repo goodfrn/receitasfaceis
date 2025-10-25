@@ -7,7 +7,7 @@ ogDescription: "Experimente o Cookie de Aveia Frutas e Chocolate, feito na frigi
 focusKeyphrase: "cookie de aveia"
 date: 2025-10-03
 draft: false
-image: cookie-de-aveia-damasco-chocolate.png
+image: cookie-de-aveia-damasco-chocolate.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

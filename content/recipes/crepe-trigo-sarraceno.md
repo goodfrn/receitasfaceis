@@ -7,7 +7,7 @@ ogDescription: "Experimente o Crepe de Trigo Sarraceno Borbulhante com peras car
 focusKeyphrase: "crepe de trigo sarraceno"
 date: 2025-07-18
 draft: false
-image: crepe-trigo-sarraceno.png
+image: crepe-trigo-sarraceno.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT28M

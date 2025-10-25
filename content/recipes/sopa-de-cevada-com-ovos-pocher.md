@@ -7,7 +7,7 @@ ogDescription: "Experimente a sopa de cevada com ovos pochê. Reconfortante e nu
 focusKeyphrase: "sopa de cevada"
 date: 2025-07-28
 draft: false
-image: sopa-de-cevada-com-ovos-pocher.png
+image: sopa-de-cevada-com-ovos-pocher.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

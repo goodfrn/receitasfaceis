@@ -7,7 +7,7 @@ ogDescription: "Experimente o Daiquiri Tahitiano Azul, um coquetel tropical com 
 focusKeyphrase: "Daiquiri Tahitiano Azul"
 date: 2025-07-29
 draft: false
-image: daiquiri-tahitiano-azul.png
+image: daiquiri-tahitiano-azul.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Aprecie Linguine Cajun com Camarão, prato que traz a mistura pe
 focusKeyphrase: "Linguine Cajun com Camarão"
 date: 2025-08-17
 draft: false
-image: linguine-cajun-com-camaro.png
+image: linguine-cajun-com-camaro.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

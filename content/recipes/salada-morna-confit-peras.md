@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada morna de confit de perdiz e peras. Combina√
 focusKeyphrase: "salada morna de confit e peras"
 date: 2025-07-20
 draft: false
-image: salada-morna-confit-peras.png
+image: salada-morna-confit-peras.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

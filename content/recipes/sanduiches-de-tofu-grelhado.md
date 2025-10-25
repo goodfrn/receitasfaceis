@@ -7,7 +7,7 @@ ogDescription: "Experimente Sanduíches de Tofu Grelhado e aproveite a combinaç
 focusKeyphrase: "Sanduíches de Tofu Grelhado"
 date: 2025-09-01
 draft: false
-image: sanduiches-de-tofu-grelhado.png
+image: sanduiches-de-tofu-grelhado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

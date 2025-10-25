@@ -7,7 +7,7 @@ ogDescription: "Descubra os Molhos Fondue Vietnamita, cheios de sabor e personal
 focusKeyphrase: "Molhos Fondue Vietnamita"
 date: 2025-08-15
 draft: false
-image: molhos-fondue-vietnamita.png
+image: molhos-fondue-vietnamita.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Experimente os Cupcakes Vermelho Intenso. Sabor marcante com cob
 focusKeyphrase: "Cupcakes Vermelho Intenso"
 date: 2025-07-27
 draft: false
-image: cupcakes-vermelho-intenso.png
+image: cupcakes-vermelho-intenso.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

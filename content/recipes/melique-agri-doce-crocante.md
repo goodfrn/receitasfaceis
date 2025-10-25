@@ -7,7 +7,7 @@ ogDescription: "Mistura prática e saborosa com chocolate branco, castanhas e fr
 focusKeyphrase: "receita mélique agridoce crocante"
 date: 2025-08-14
 draft: false
-image: melique-agri-doce-crocante.png
+image: melique-agri-doce-crocante.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT2M

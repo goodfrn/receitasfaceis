@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pão brioche pistache: uma receita que mistura tex
 focusKeyphrase: "Pão brioche pistache"
 date: 2025-08-19
 draft: false
-image: pao-brioche-pistache.png
+image: pao-brioche-pistache.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT50M

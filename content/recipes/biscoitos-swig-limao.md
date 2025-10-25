@@ -7,7 +7,7 @@ ogDescription: "Biscoitos Swig com um toque de limão siciliano e cobertura rosa
 focusKeyphrase: "Biscoitos Swig"
 date: 2025-10-21
 draft: false
-image: biscoitos-swig-limao.png
+image: biscoitos-swig-limao.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT11M

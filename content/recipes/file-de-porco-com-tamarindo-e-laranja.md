@@ -7,7 +7,7 @@ ogDescription: "Experimente Filé de Porco com Tamarindo e Laranja. Mistura perf
 focusKeyphrase: "filé de porco marinados"
 date: 2025-08-14
 draft: false
-image: file-de-porco-com-tamarindo-e-laranja.png
+image: file-de-porco-com-tamarindo-e-laranja.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT22M

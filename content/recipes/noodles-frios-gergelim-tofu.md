@@ -7,7 +7,7 @@ ogDescription: "Experimente noodles frios com gergelim e tofu defumado. Uma comb
 focusKeyphrase: "noodles frios com gergelim"
 date: 2025-09-25
 draft: false
-image: noodles-frios-gergelim-tofu.png
+image: noodles-frios-gergelim-tofu.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT15M

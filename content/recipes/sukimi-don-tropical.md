@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sukimi Don Tropical, um prato de arroz e atum mari
 focusKeyphrase: "Sukimi Don Tropical"
 date: 2025-09-27
 draft: false
-image: sukimi-don-tropical.png
+image: sukimi-don-tropical.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT18M

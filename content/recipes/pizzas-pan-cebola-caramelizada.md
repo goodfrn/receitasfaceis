@@ -7,7 +7,7 @@ ogDescription: "Desfrute de Pizzas Pan Cebola Caramelizada com uma massa perfeit
 focusKeyphrase: "Pizza Pan Cebola Caramelizada"
 date: 2025-08-06
 draft: false
-image: pizzas-pan-cebola-caramelizada.png
+image: pizzas-pan-cebola-caramelizada.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT30M

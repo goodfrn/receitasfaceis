@@ -7,7 +7,7 @@ ogDescription: "Descubra os sabores do Cari de camarão tropical, uma receita qu
 focusKeyphrase: "Cari de camarão tropical"
 date: 2025-08-15
 draft: false
-image: cari-de-camarao-tropical.png
+image: cari-de-camarao-tropical.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT55M

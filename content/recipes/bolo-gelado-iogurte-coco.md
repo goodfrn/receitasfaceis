@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Bolo Gelado Iogurte Coco. Textura cremosa com c
 focusKeyphrase: "Bolo Gelado Iogurte Coco"
 date: 2025-07-19
 draft: false
-image: bolo-gelado-iogurte-coco.png
+image: bolo-gelado-iogurte-coco.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Uma entrada perfeita. Aprenda a fazer cogumelos portobello reche
 focusKeyphrase: "cogumelos portobello recheados"
 date: 2025-09-26
 draft: false
-image: portobellos-recheados.png
+image: portobellos-recheados.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

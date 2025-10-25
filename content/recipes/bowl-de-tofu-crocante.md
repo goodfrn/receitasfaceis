@@ -7,7 +7,7 @@ ogDescription: "Tofu crocante e legumes frescos em um bowl vibrante. Uma receita
 focusKeyphrase: "Bowl de Tofu Crocante"
 date: 2025-09-26
 draft: false
-image: bowl-de-tofu-crocante.png
+image: bowl-de-tofu-crocante.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT15M

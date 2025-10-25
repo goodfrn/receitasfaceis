@@ -7,7 +7,7 @@ ogDescription: "Experimente a Fondue Maple Gengibre, que combina o doce do xarop
 focusKeyphrase: "fondue maple gengibre"
 date: 2025-08-19
 draft: false
-image: fondue-maple-gengibre.png
+image: fondue-maple-gengibre.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT12M

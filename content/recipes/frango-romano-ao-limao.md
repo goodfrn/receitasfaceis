@@ -7,7 +7,7 @@ ogDescription: "Descubra o Frango Romano ao Limão com queijo pecorino e vegetai
 focusKeyphrase: "Frango Romano ao Limão"
 date: 2025-08-07
 draft: false
-image: frango-romano-ao-limao.png
+image: frango-romano-ao-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT40M

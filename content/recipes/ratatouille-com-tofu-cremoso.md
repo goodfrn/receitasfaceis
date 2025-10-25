@@ -7,7 +7,7 @@ ogDescription: "Ratatouille com Tofu Cremoso, uma parceria perfeita de legumes c
 focusKeyphrase: "Ratatouille vegano"
 date: 2025-07-20
 draft: false
-image: ratatouille-com-tofu-cremoso.png
+image: ratatouille-com-tofu-cremoso.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT38M

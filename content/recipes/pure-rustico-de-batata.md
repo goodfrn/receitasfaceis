@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um purê rústico de batata com manteiga clarifi
 focusKeyphrase: "purê rústico de batata"
 date: 2025-08-01
 draft: false
-image: pure-rustico-de-batata.png
+image: pure-rustico-de-batata.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT45M

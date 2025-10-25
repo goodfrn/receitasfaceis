@@ -7,7 +7,7 @@ ogDescription: "Experimente tigelas de tofu com arándano. Refrescante, leve e i
 focusKeyphrase: "Tigelas de tofu com arándano"
 date: 2025-07-23
 draft: false
-image: tigelas-de-tofu-com-arandano.png
+image: tigelas-de-tofu-com-arandano.jpg
 author: "Julia"
 prepTime: PT23M
 cookTime: PT5M

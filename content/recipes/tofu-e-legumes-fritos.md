@@ -7,7 +7,7 @@ ogDescription: "Experimente Tofu e legumes fritos asiáticos, um prato vegano qu
 focusKeyphrase: "tofu legumes fritos asiáticos"
 date: 2025-07-20
 draft: false
-image: tofu-e-legumes-fritos.png
+image: tofu-e-legumes-fritos.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT18M

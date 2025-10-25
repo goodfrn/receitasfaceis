@@ -7,7 +7,7 @@ ogDescription: "Uma sopa cremosa que mistura aspargos e mariscos. Aveludada e co
 focusKeyphrase: "Velouté de Aspargos e Mariscos"
 date: 2025-08-05
 draft: false
-image: veloute-de-aspargos.png
+image: veloute-de-aspargos.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

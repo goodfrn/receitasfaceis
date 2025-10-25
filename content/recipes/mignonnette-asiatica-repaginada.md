@@ -7,7 +7,7 @@ ogDescription: "Mignonnette Asiática Repaginada. Um molho rápido com cúrcuma.
 focusKeyphrase: "mignonnette asiática"
 date: 2025-07-19
 draft: false
-image: mignonnette-asiatica-repaginada.png
+image: mignonnette-asiatica-repaginada.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

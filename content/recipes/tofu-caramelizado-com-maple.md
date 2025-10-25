@@ -7,7 +7,7 @@ ogDescription: "Experimente o Tofu Caramelizado com Maple, um prato vegano que c
 focusKeyphrase: "tofu caramelizado"
 date: 2025-08-08
 draft: false
-image: tofu-caramelizado-com-maple.png
+image: tofu-caramelizado-com-maple.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

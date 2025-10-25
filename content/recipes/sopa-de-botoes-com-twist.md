@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa de Botões com Twist, uma mistura única de sabo
 focusKeyphrase: "sopa de botões"
 date: 2025-08-03
 draft: false
-image: sopa-de-botoes-com-twist.png
+image: sopa-de-botoes-com-twist.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT15M

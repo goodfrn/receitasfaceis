@@ -7,7 +7,7 @@ ogDescription: "Misture brócolis crocante, bacon e gorgonzola. Salada deliciosa
 focusKeyphrase: "salada de brócolis com bacon"
 date: 2025-10-06
 draft: false
-image: salada-de-brocolis-com-bacon.png
+image: salada-de-brocolis-com-bacon.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a Ganache Super Cremosa que combina chocolate amargo e 
 focusKeyphrase: "ganache cremosa"
 date: 2025-08-08
 draft: false
-image: ganache-super-cremosa.png
+image: ganache-super-cremosa.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT3M

@@ -7,7 +7,7 @@ ogDescription: "Prepare um Frango Grelhado com Limão, simples e cheio de sabor.
 focusKeyphrase: "Frango Grelhado com Limão"
 date: 2025-10-17
 draft: false
-image: frango-grelhado-limao.png
+image: frango-grelhado-limao.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT30M

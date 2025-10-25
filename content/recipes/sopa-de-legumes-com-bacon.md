@@ -7,7 +7,7 @@ ogDescription: "Sopa com vegetais frescos, toque de bacon e pão crocante. Uma e
 focusKeyphrase: "sopa de legumes com bacon"
 date: 2025-07-27
 draft: false
-image: sopa-de-legumes-com-bacon.png
+image: sopa-de-legumes-com-bacon.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT30M

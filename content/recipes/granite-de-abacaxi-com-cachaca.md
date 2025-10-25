@@ -7,7 +7,7 @@ ogDescription: "Experimente o refrescante Granité de Abacaxi com um toque de ca
 focusKeyphrase: "Granité de Abacaxi"
 date: 2025-08-18
 draft: false
-image: granite-de-abacaxi-com-cachaca.png
+image: granite-de-abacaxi-com-cachaca.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT6H

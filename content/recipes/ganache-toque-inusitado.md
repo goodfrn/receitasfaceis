@@ -7,7 +7,7 @@ ogDescription: "Descubra a ganache com mel e óleo de coco, perfeita para bolos 
 focusKeyphrase: "ganache com mel"
 date: 2025-08-13
 draft: false
-image: ganache-toque-inusitado.png
+image: ganache-toque-inusitado.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT8M

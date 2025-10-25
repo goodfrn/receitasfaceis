@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sundae torta de morango, uma sobremesa deliciosa q
 focusKeyphrase: "sundae torta de morango"
 date: 2025-08-15
 draft: false
-image: sundae-torta-morango.png
+image: sundae-torta-morango.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT6M

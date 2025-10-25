@@ -7,7 +7,7 @@ ogDescription: "A receita do Rocambole Red Velvet com Merengue, uma sobremesa ú
 focusKeyphrase: "rocambole red velvet"
 date: 2025-08-05
 draft: false
-image: rocambole-red-velvet.png
+image: rocambole-red-velvet.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Descubra uma receita incrível de quesadillas de porco com milho
 focusKeyphrase: "quesadillas porco milho"
 date: 2025-07-21
 draft: false
-image: quesadillas-porco-milho.png
+image: quesadillas-porco-milho.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT18M

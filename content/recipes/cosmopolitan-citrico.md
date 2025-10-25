@@ -7,7 +7,7 @@ ogDescription: "Descubra essa receita de Cosmopolitan Cítrico, um drink refresc
 focusKeyphrase: "Cosmopolitan Cítrico"
 date: 2025-09-26
 draft: false
-image: cosmopolitan-citrico.png
+image: cosmopolitan-citrico.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

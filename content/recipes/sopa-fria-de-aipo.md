@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar uma Sopa Fria de Aipo com Abacate. Refres
 focusKeyphrase: "Sopa Fria de Aipo com Abacate"
 date: 2025-08-14
 draft: false
-image: sopa-fria-de-aipo.png
+image: sopa-fria-de-aipo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

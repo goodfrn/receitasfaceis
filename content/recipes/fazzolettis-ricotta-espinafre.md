@@ -7,7 +7,7 @@ ogDescription: "Explore a receita de Fazzolettis recheados com ricotta e espinaf
 focusKeyphrase: "Fazzolettis recheados"
 date: 2025-08-15
 draft: false
-image: fazzolettis-ricotta-espinafre.png
+image: fazzolettis-ricotta-espinafre.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT50M

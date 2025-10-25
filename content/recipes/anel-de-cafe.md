@@ -7,7 +7,7 @@ ogDescription: "Descubra o Anel de Café com Massa Crescente; uma receita delici
 focusKeyphrase: "anel de café com massa crescente"
 date: 2025-10-09
 draft: false
-image: anel-de-cafe.png
+image: anel-de-cafe.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT28M

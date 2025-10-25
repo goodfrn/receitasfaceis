@@ -7,7 +7,7 @@ ogDescription: "Experimente um Sanduíche Crocante BLT com ingredientes frescos 
 focusKeyphrase: "Sanduíche Crocante BLT"
 date: 2025-08-10
 draft: false
-image: sanduiche-crocante-blt.png
+image: sanduiche-crocante-blt.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT17M

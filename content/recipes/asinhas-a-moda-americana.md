@@ -7,7 +7,7 @@ ogDescription: "Experimente as asinhas à moda americana, crocantes e saborosas,
 focusKeyphrase: "asinhas à moda americana"
 date: 2025-08-15
 draft: false
-image: asinhas-a-moda-americana.png
+image: asinhas-a-moda-americana.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

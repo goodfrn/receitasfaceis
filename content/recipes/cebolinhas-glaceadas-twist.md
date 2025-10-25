@@ -7,7 +7,7 @@ ogDescription: "Experimente Cebolinhas Glaceadas com Twist, combinação perfeit
 focusKeyphrase: "Cebolinhas Glaceadas"
 date: 2025-10-11
 draft: false
-image: cebolinhas-glaceadas-twist.png
+image: cebolinhas-glaceadas-twist.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT18M

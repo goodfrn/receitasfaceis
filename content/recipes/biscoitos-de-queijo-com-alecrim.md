@@ -7,7 +7,7 @@ ogDescription: "Biscoitos de Queijo com Alecrim que trazem crocância e aroma ir
 focusKeyphrase: "Biscoitos de Queijo com Alecrim"
 date: 2025-08-18
 draft: false
-image: biscoitos-de-queijo-com-alecrim.png
+image: biscoitos-de-queijo-com-alecrim.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT12M

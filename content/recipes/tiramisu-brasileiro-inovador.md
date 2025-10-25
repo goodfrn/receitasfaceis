@@ -7,7 +7,7 @@ ogDescription: "Descubra o Tiramisu Brasileiro Inovador. Uma deliciosa mistura d
 focusKeyphrase: "Tiramisu Brasileiro Inovador"
 date: 2025-08-08
 draft: false
-image: tiramisu-brasileiro-inovador.png
+image: tiramisu-brasileiro-inovador.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT5M

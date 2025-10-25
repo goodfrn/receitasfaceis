@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo de Limão com Iogurte. Uma receita prática q
 focusKeyphrase: "Bolo de Limão com Iogurte"
 date: 2025-07-18
 draft: false
-image: bolo-de-limao-com-iogurte.png
+image: bolo-de-limao-com-iogurte.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

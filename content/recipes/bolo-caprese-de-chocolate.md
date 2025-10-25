@@ -7,7 +7,7 @@ ogDescription: "Bolo Caprese de Chocolate, leve aroma de limão. Ótima opção 
 focusKeyphrase: "Bolo Caprese de Chocolate"
 date: 2025-07-26
 draft: false
-image: bolo-caprese-de-chocolate.png
+image: bolo-caprese-de-chocolate.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT50M

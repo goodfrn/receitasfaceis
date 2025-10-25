@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Penne com ragù de carne e beterraba. Sabor 
 focusKeyphrase: "penne com ragù de carne e beterraba"
 date: 2025-08-16
 draft: false
-image: penne-com-ragu-de-carne.png
+image: penne-com-ragu-de-carne.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT3H10M

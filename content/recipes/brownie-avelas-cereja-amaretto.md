@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer brownie de avelã, cereja e amaretto sobremesa o
 focusKeyphrase: "brownie de avelã cereja amaretto"
 date: 2025-07-21
 draft: false
-image: brownie-avelas-cereja-amaretto.png
+image: brownie-avelas-cereja-amaretto.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT55M

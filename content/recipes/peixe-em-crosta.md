@@ -7,7 +7,7 @@ ogDescription: "Surpreenda com peixe em crosta de pão de especiarias. Mescla de
 focusKeyphrase: "peixe em crosta de pão de especiarias"
 date: 2025-08-09
 draft: false
-image: peixe-em-crosta.png
+image: peixe-em-crosta.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT35M

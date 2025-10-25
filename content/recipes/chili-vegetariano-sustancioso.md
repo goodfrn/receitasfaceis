@@ -7,7 +7,7 @@ ogDescription: "Um chili vegetarianos cheio de sabor e texturas, perfeito para a
 focusKeyphrase: "Chili Vegetariano Sustancioso"
 date: 2025-08-15
 draft: false
-image: chili-vegetariano-sustancioso.png
+image: chili-vegetariano-sustancioso.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

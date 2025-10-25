@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Macarrão com Frango Cremoso. Refresque-
 focusKeyphrase: "Salada de Macarrão com Frango Cremoso"
 date: 2025-10-09
 draft: false
-image: salada-de-macarrao-com-frango.png
+image: salada-de-macarrao-com-frango.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT9M

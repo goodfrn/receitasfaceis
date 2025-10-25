@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Bretzels Gigantes Veganos. Receita simples e
 focusKeyphrase: "bretzels veganos"
 date: 2025-07-25
 draft: false
-image: bretzels-gigantes-veganos.png
+image: bretzels-gigantes-veganos.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT0H25M

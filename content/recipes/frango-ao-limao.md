@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Frango ao Limão com Cebolas, um prato saboroso 
 focusKeyphrase: "Frango ao Limão com Cebolas"
 date: 2025-07-27
 draft: false
-image: frango-ao-limao.png
+image: frango-ao-limao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Pudim Gengibre Laranja. Um doce com sabor envolvente 
 focusKeyphrase: "pudim de gengibre"
 date: 2025-08-09
 draft: false
-image: pudim-gengibre-laranja.png
+image: pudim-gengibre-laranja.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT55M

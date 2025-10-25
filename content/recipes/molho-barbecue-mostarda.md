@@ -7,7 +7,7 @@ ogDescription: "Molho Barbecue Mostarda; uma mistura perfeita de sabores, ideal 
 focusKeyphrase: "Molho Barbecue Mostarda"
 date: 2025-08-15
 draft: false
-image: molho-barbecue-mostarda.png
+image: molho-barbecue-mostarda.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT12M

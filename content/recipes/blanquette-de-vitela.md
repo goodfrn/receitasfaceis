@@ -7,7 +7,7 @@ ogDescription: "Descubra a Blanquette de Vitela Atualizada, uma versão leve e f
 focusKeyphrase: "blanquette de vitela"
 date: 2025-08-16
 draft: false
-image: blanquette-de-vitela.png
+image: blanquette-de-vitela.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT2H20M

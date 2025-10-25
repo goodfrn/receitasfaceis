@@ -7,7 +7,7 @@ ogDescription: "Fudge de Guimauve e Nozes traz a combinação perfeita de chocol
 focusKeyphrase: "fudge de guimauve e nozes"
 date: 2025-08-08
 draft: false
-image: fudge-de-guimauve-e-nozes.png
+image: fudge-de-guimauve-e-nozes.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT17M

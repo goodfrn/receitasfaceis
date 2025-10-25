@@ -7,7 +7,7 @@ ogDescription: "Experimente o suco matinal energizante com laranja, acerola e ma
 focusKeyphrase: "suco matinal energizante"
 date: 2025-08-13
 draft: false
-image: suco-matinal-energizante.png
+image: suco-matinal-energizante.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

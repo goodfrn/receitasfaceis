@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer uma Torta de Pêssego com Toque de Amêndoas
 focusKeyphrase: "Torta de Pêssego com Toque de Amêndoas"
 date: 2025-10-07
 draft: false
-image: torta-de-pessego.png
+image: torta-de-pessego.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT58M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Fusilli com Atum e Milho. Uma mistura re
 focusKeyphrase: "salada de fusilli com atum"
 date: 2025-08-09
 draft: false
-image: salada-de-fusilli-com-atun.png
+image: salada-de-fusilli-com-atun.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

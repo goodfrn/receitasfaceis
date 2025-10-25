@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar foie gras ao torchon com um toque de laranja.
 focusKeyphrase: "foie gras ao torchon"
 date: 2025-07-19
 draft: false
-image: foie-gras-ao-torchon.png
+image: foie-gras-ao-torchon.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

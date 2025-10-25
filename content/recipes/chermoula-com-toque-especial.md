@@ -7,7 +7,7 @@ ogDescription: "Chermoula com toque especial, um molho que transforma carnes e l
 focusKeyphrase: "Chermoula com toque especial"
 date: 2025-08-03
 draft: false
-image: chermoula-com-toque-especial.png
+image: chermoula-com-toque-especial.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

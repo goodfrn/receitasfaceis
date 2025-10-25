@@ -7,7 +7,7 @@ ogDescription: "Descubra a Torta de Tâmaras com Toque de Coco. Uma combinação
 focusKeyphrase: "Torta de Tâmaras com Toque de Coco"
 date: 2025-07-21
 draft: false
-image: torta-de-tamaras-com-toque-de-coco.png
+image: torta-de-tamaras-com-toque-de-coco.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Canapés gravlax twist combina salmão curado e mostarda Dijon e
 focusKeyphrase: "Canapés gravlax twist"
 date: 2025-08-03
 draft: false
-image: canapes-gravlax-twist.png
+image: canapes-gravlax-twist.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT1H

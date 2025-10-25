@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Legumes com Aioli. Uma combinação fresca e sabo
 focusKeyphrase: "Legumes com Aioli"
 date: 2025-07-25
 draft: false
-image: legumes-com-aioli.png
+image: legumes-com-aioli.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT50M

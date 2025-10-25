@@ -7,7 +7,7 @@ ogDescription: "Experimente o Carpaccio de Abacaxi com Romã, uma explosão de s
 focusKeyphrase: "carpaccio de abacaxi com romã"
 date: 2025-09-23
 draft: false
-image: carpaccio-de-abacaxi-com-roma.png
+image: carpaccio-de-abacaxi-com-roma.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT0M

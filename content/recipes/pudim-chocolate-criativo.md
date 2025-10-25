@@ -7,7 +7,7 @@ ogDescription: "Descubra o Pudim Chocolate Criativo; um clássico brasileiro com
 focusKeyphrase: "Pudim Chocolate Criativo"
 date: 2025-10-17
 draft: false
-image: pudim-chocolate-criativo.png
+image: pudim-chocolate-criativo.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT6M

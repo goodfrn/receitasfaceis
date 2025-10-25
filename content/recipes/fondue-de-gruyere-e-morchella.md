@@ -7,7 +7,7 @@ ogDescription: "Experimente o Fondue de Gruyère e Morchella, uma combinação i
 focusKeyphrase: "fondue de gruyère e morchella"
 date: 2025-08-11
 draft: false
-image: fondue-de-gruyere-e-morchella.png
+image: fondue-de-gruyere-e-morchella.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT12M

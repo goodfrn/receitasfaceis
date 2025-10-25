@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um Creme de Chalotas com Alho-Poró. Combinaçã
 focusKeyphrase: "Creme de Chalotas com Alho-Poró"
 date: 2025-07-20
 draft: false
-image: creme-de-chalotas.png
+image: creme-de-chalotas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT28M

@@ -7,7 +7,7 @@ ogDescription: "Experimente esta Salada Chimichurri de Legumes. Fresca, saborosa
 focusKeyphrase: "salada chimichurri de legumes"
 date: 2025-07-24
 draft: false
-image: salada-chimichurri-legumes.png
+image: salada-chimichurri-legumes.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT12M

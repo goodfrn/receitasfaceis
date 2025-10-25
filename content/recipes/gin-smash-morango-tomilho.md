@@ -7,7 +7,7 @@ ogDescription: "Gin Smash de Morango com Tomilho: uma mistura fresca e aromátic
 focusKeyphrase: "Gin Smash de Morango com Tomilho"
 date: 2025-09-24
 draft: false
-image: gin-smash-morango-tomilho.png
+image: gin-smash-morango-tomilho.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

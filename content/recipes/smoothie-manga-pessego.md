@@ -7,7 +7,7 @@ ogDescription: "Experimente o Smoothie Manga Pêssego, uma bebida fresca e nutri
 focusKeyphrase: "Smoothie Manga Pêssego"
 date: 2025-10-17
 draft: false
-image: smoothie-manga-pessego.png
+image: smoothie-manga-pessego.jpg
 author: "Julia"
 prepTime: PT3M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Fluff de Cereja Cremoso, uma sobremesa gelada que agr
 focusKeyphrase: "fluff de cereja"
 date: 2025-10-08
 draft: false
-image: fluff-de-cereja-cremoso.png
+image: fluff-de-cereja-cremoso.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

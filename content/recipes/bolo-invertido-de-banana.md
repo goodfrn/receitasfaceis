@@ -8,7 +8,7 @@ ogDescription: "Experimente o Bolo Invertido de Banana com crosta caramelizada e
 focusKeyphrase: "Bolo Invertido de Banana"
 date: 2025-08-09
 draft: false
-image: bolo-invertido-de-banana.png
+image: bolo-invertido-de-banana.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

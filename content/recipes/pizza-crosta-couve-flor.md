@@ -7,7 +7,7 @@ ogDescription: "Experimente a Pizza Crosta Couve-flor. Base crocante, recheio le
 focusKeyphrase: "pizza de couve-flor"
 date: 2025-08-17
 draft: false
-image: pizza-crosta-couve-flor.png
+image: pizza-crosta-couve-flor.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

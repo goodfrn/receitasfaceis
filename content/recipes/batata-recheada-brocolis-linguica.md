@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer batata recheada com brócolis e linguiça. U
 focusKeyphrase: "batata recheada"
 date: 2025-08-11
 draft: false
-image: batata-recheada-brocolis-linguica.png
+image: batata-recheada-brocolis-linguica.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

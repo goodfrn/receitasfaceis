@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Tartelettes Morango Meringue, onde a crocância d
 focusKeyphrase: "Tartelettes Morango Meringue"
 date: 2025-08-08
 draft: false
-image: tartelettes-morango-merengue.png
+image: tartelettes-morango-merengue.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

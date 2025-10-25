@@ -7,7 +7,7 @@ ogDescription: "Sopa de Pimentões Dourados, cremosa e surpreendente; descubra a
 focusKeyphrase: "sopa de pimentões dourados"
 date: 2025-08-18
 draft: false
-image: sopa-de-pimentoes-dourados.png
+image: sopa-de-pimentoes-dourados.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

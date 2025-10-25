@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Molho e Salada para Pupusas; uma receita vibran
 focusKeyphrase: "molho e salada para pupusas"
 date: 2025-07-21
 draft: false
-image: molho-e-salada-para-pupusas.png
+image: molho-e-salada-para-pupusas.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT12M

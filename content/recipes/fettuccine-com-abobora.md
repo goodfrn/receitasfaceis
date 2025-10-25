@@ -7,7 +7,7 @@ ogDescription: "Descubra um fettuccine irresistível com abóbora assada e creme
 focusKeyphrase: "Fettuccine com abóbora"
 date: 2025-07-19
 draft: false
-image: fettuccine-com-abobora.png
+image: fettuccine-com-abobora.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

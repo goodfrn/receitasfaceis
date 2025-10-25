@@ -7,7 +7,7 @@ ogDescription: "Sopa de Abóbora Assada é uma experiência rústica com abóbor
 focusKeyphrase: "sopa de abóbora assada"
 date: 2025-09-28
 draft: false
-image: sopa-de-abobora-assada.png
+image: sopa-de-abobora-assada.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

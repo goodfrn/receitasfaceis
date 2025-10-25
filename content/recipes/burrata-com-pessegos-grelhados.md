@@ -7,7 +7,7 @@ ogDescription: "Um prato com burrata cremosa e pêssegos grelhados que vai surpr
 focusKeyphrase: "Burrata com Pêssegos Grelhados"
 date: 2025-08-17
 draft: false
-image: burrata-com-pessegos-grelhados.png
+image: burrata-com-pessegos-grelhados.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT11M

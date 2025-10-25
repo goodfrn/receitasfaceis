@@ -7,7 +7,7 @@ ogDescription: "Nhoque Bovino com Alecrim. Um prato reconfortante e cheio de aro
 focusKeyphrase: "nhoque bovino com alecrim"
 date: 2025-08-12
 draft: false
-image: nhoque-bovino-alecrim.png
+image: nhoque-bovino-alecrim.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H

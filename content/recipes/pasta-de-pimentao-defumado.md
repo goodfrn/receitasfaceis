@@ -7,7 +7,7 @@ ogDescription: "Pasta de Pimentão Vermelho Defumado; sabor intenso e textura se
 focusKeyphrase: "pasta de pimentão vermelho defumado"
 date: 2025-08-19
 draft: false
-image: pasta-de-pimentao-defumado.png
+image: pasta-de-pimentao-defumado.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT55M

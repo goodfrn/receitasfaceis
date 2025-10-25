@@ -7,7 +7,7 @@ ogDescription: "Experimente a Fougasse com Bacon e Alecrim; um pão salgado fran
 focusKeyphrase: "Fougasse com Bacon e Alecrim"
 date: 2025-08-07
 draft: false
-image: fougasse-com-bacon-e-alecim.png
+image: fougasse-com-bacon-e-alecim.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

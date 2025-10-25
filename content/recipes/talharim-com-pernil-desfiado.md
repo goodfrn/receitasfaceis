@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Talharim com Pernil Desfiado uma explosão
 focusKeyphrase: "Talharim com Pernil Desfiado"
 date: 2025-07-20
 draft: false
-image: talharim-com-pernil-desfiado.png
+image: talharim-com-pernil-desfiado.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o creme de couve-flor e mexilhão; uma sopa com text
 focusKeyphrase: "Creme de couve-flor e mexilhão"
 date: 2025-08-02
 draft: false
-image: creme-de-couve-flor-e-mexilhao.png
+image: creme-de-couve-flor-e-mexilhao.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT25M

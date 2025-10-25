@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada César Brasileira, uma deliciosa adaptação q
 focusKeyphrase: "salada césar brasileira"
 date: 2025-09-28
 draft: false
-image: salada-cesar-brasileira.png
+image: salada-cesar-brasileira.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT17M

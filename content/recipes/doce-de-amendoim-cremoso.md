@@ -7,7 +7,7 @@ ogDescription: "Experimente o Doce de Amendoim Cremoso, uma sobremesa brasileira
 focusKeyphrase: "Doce de Amendoim Cremoso"
 date: 2025-10-21
 draft: false
-image: doce-de-amendoim-cremoso.png
+image: doce-de-amendoim-cremoso.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

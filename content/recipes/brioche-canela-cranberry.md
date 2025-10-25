@@ -7,7 +7,7 @@ ogDescription: "Prepare uma Brioche Canela e Cranberry com massa amanteigada; o 
 focusKeyphrase: "Brioche Canela e Cranberry"
 date: 2025-09-27
 draft: false
-image: brioche-canela-cranberry.png
+image: brioche-canela-cranberry.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT30M

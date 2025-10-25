@@ -7,7 +7,7 @@ ogDescription: "Panquecas de frutas frescas e molho de chocolate, uma receita de
 focusKeyphrase: "panquecas de frutas e chocolate"
 date: 2025-07-19
 draft: false
-image: panquecas-frutas-chocolate.png
+image: panquecas-frutas-chocolate.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

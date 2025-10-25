@@ -7,7 +7,7 @@ ogDescription: "Receita de salsichas com feijão branco, uma combinação delici
 focusKeyphrase: "salsichas com feijão branco"
 date: 2025-09-24
 draft: false
-image: salsichas-com-feijao-branco.png
+image: salsichas-com-feijao-branco.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT2H45M

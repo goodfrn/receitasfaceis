@@ -7,7 +7,7 @@ ogDescription: "Experimente a pita crocante recheada com purê de ervilhas e sal
 focusKeyphrase: "pita crocante com vegetais verdes"
 date: 2025-08-04
 draft: false
-image: pita-crocante-com-vegetais.png
+image: pita-crocante-com-vegetais.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT12M

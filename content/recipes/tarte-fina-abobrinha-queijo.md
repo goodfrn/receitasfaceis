@@ -7,7 +7,7 @@ ogDescription: "Descubra a tarte fina de abobrinha com queijo. Rápida, crocante
 focusKeyphrase: "tarte fina de abobrinha"
 date: 2025-07-21
 draft: false
-image: tarte-fina-abobrinha-queijo.png
+image: tarte-fina-abobrinha-queijo.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT30M

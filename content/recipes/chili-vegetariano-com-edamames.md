@@ -7,7 +7,7 @@ ogDescription: "Chili Vegetariano com Edamames, uma combinação única. Receita
 focusKeyphrase: "Chili Vegetariano com Edamames"
 date: 2025-08-10
 draft: false
-image: chili-vegetariano-com-edamames.png
+image: chili-vegetariano-com-edamames.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT40M

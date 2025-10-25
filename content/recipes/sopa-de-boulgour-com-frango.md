@@ -7,7 +7,7 @@ ogDescription: "Prepare Sopa de Boulgour com Frango; um prato rústico e saboros
 focusKeyphrase: "Sopa de Boulgour com Frango"
 date: 2025-09-25
 draft: false
-image: sopa-de-boulgour-com-frango.png
+image: sopa-de-boulgour-com-frango.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Experimente minha receita de Burritos Végétariano com Feijão 
 focusKeyphrase: "Burritos Végétariano"
 date: 2025-09-23
 draft: false
-image: burritos-vegetariano-feijao-preto.png
+image: burritos-vegetariano-feijao-preto.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT50M

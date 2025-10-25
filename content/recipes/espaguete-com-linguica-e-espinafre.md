@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Espaguete com Linguiça e Espinafre, uma receita 
 focusKeyphrase: "espaguete com linguiça"
 date: 2025-09-27
 draft: false
-image: espaguete-com-linguica-e-espinafre.png
+image: espaguete-com-linguica-e-espinafre.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Guimauve Laranja-Vanilla, um doce caseiro, leve e 
 focusKeyphrase: "Guimauve Laranja-Vanilla"
 date: 2025-09-04
 draft: false
-image: guimauve-laranja-vanilla.png
+image: guimauve-laranja-vanilla.jpg
 author: "Julia"
 prepTime: PT38M
 cookTime: PT8M

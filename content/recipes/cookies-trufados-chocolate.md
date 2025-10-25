@@ -7,7 +7,7 @@ ogDescription: "Cookies Trufados de Chocolate com textura ideal, crocantes e mac
 focusKeyphrase: "Cookies Trufados de Chocolate"
 date: 2025-10-05
 draft: false
-image: cookies-trufados-chocolate.png
+image: cookies-trufados-chocolate.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

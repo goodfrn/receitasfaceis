@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar coxas de peru confit com um toque brasileiro;
 focusKeyphrase: "Confit de Peru"
 date: 2025-08-05
 draft: false
-image: confit-de-peru.png
+image: confit-de-peru.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT3H15M

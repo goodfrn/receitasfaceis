@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um Empadão de Frango com Queijo. Sabor e te
 focusKeyphrase: "Empadão de Frango"
 date: 2025-09-19
 draft: false
-image: empadao-de-frango.png
+image: empadao-de-frango.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Manteiga bacon mostarda para apimentar suas carnes e riscar seu 
 focusKeyphrase: "manteiga bacon mostarda"
 date: 2025-07-25
 draft: false
-image: manteiga-bacon-mostarda.png
+image: manteiga-bacon-mostarda.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT6M

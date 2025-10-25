@@ -7,7 +7,7 @@ ogDescription: "Torta Abacaxi Gelada é a escolha ideal para refrescar os dias q
 focusKeyphrase: "Torta Abacaxi Gelada"
 date: 2025-10-06
 draft: false
-image: torta-abacaxi-gelada.png
+image: torta-abacaxi-gelada.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT0M

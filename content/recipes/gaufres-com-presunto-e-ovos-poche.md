@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer gaufres com presunto e ovos pochê com o mol
 focusKeyphrase: "gaufres com presunto e ovos pochê"
 date: 2025-07-20
 draft: false
-image: gaufres-com-presunto-e-ovos-poche.png
+image: gaufres-com-presunto-e-ovos-poche.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT18M

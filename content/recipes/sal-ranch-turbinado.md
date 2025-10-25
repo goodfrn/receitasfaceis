@@ -7,7 +7,7 @@ ogDescription: "Mistura de ervas secas, sal grosso. Um tempero brasileiro versá
 focusKeyphrase: "sal ranch turbinado"
 date: 2025-07-23
 draft: false
-image: sal-ranch-turbinado.png
+image: sal-ranch-turbinado.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

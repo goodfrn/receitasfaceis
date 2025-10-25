@@ -7,7 +7,7 @@ ogDescription: "Experimente Aveia Assada com Frutas Vermelhas e encante-se com o
 focusKeyphrase: "Aveia Assada com Frutas Vermelhas"
 date: 2025-10-09
 draft: false
-image: aveia-assada-frutas-vermelhas.png
+image: aveia-assada-frutas-vermelhas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT38M

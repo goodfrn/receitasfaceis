@@ -7,7 +7,7 @@ ogDescription: "Bruschettas com abobrinha e feta; um saboroso petisco; perfeito 
 focusKeyphrase: "bruschettas abobrinha feta"
 date: 2025-09-28
 draft: false
-image: bruschettas-abobrinha-feta.png
+image: bruschettas-abobrinha-feta.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

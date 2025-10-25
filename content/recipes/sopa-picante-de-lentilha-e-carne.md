@@ -7,7 +7,7 @@ ogDescription: "Experimente a sopa picante de lentilha e carne. Um prato robusto
 focusKeyphrase: "sopa picante de lentilha e carne"
 date: 2025-07-26
 draft: false
-image: sopa-picante-de-lentilha-e-carne.png
+image: sopa-picante-de-lentilha-e-carne.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H05M

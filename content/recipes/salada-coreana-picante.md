@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada Coreana Picante. Uma mistura de repolho chinê
 focusKeyphrase: "Salada Coreana Picante"
 date: 2025-07-21
 draft: false
-image: salada-coreana-picante.png
+image: salada-coreana-picante.jpg
 author: "Julia"
 prepTime: PT17M
 cookTime: PT0M

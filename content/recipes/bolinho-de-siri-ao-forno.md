@@ -7,7 +7,7 @@ ogDescription: "Delicioso Bolinho de Siri ao Forno; crocante e cheio de sabor. I
 focusKeyphrase: "Bolinho de Siri ao Forno"
 date: 2025-10-04
 draft: false
-image: bolinho-de-siri-ao-forno.png
+image: bolinho-de-siri-ao-forno.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT22M

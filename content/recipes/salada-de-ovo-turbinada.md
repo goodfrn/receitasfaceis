@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer uma Salada de Ovo Turbinada com ovos cozidos
 focusKeyphrase: "Salada de Ovo Turbinada"
 date: 2025-10-17
 draft: false
-image: salada-de-ovo-turbinada.png
+image: salada-de-ovo-turbinada.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

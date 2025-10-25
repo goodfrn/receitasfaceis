@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Vinho Aromatizado com Toranja e Gelo de Pês
 focusKeyphrase: "Vinho Aromatizado"
 date: 2025-08-07
 draft: false
-image: vinho-aromatizado-toranja.png
+image: vinho-aromatizado-toranja.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

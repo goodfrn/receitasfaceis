@@ -7,7 +7,7 @@ ogDescription: "Experimente o Jambalaya Espaguete Tropical. Uma receita que comb
 focusKeyphrase: "Jambalaya Espaguete Tropical"
 date: 2025-08-10
 draft: false
-image: jambalaya-espaguete-tropical.png
+image: jambalaya-espaguete-tropical.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT50M

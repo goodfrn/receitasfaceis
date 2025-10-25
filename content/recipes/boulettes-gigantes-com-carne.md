@@ -7,7 +7,7 @@ ogDescription: "Boulettes gigantes com carne e brócolis - Sabor e crocância qu
 focusKeyphrase: "Boulettes gigantes"
 date: 2025-08-17
 draft: false
-image: boulettes-gigantes-com-carne.png
+image: boulettes-gigantes-com-carne.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Transforme seu milho e legumes com azeite e pesto caseiro; uma e
 focusKeyphrase: "azeite com pesto para milho"
 date: 2025-08-19
 draft: false
-image: azeite-com-pesto-para-milho.png
+image: azeite-com-pesto-para-milho.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar Fusillis com Gaspacho Frio, uma opção leve 
 focusKeyphrase: "Fusillis com Gaspacho Frio"
 date: 2025-07-27
 draft: false
-image: fusillis-com-gaspacho-frio.png
+image: fusillis-com-gaspacho-frio.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Crumpets leves e saborosos com kefir e laranja. Experiência art
 focusKeyphrase: "crumpets com laranja"
 date: 2025-08-13
 draft: false
-image: crumpets-com-toque-de-laranja.png
+image: crumpets-com-toque-de-laranja.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT30M

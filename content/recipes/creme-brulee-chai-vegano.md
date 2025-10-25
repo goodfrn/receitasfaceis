@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Crème brûlée Chai vegano. Sobremesa cremo
 focusKeyphrase: "Crème brûlée Chai vegano"
 date: 2025-07-19
 draft: false
-image: creme-brulee-chai-vegano.png
+image: creme-brulee-chai-vegano.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT45M

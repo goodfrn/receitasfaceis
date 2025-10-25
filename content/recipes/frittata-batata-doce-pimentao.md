@@ -7,7 +7,7 @@ ogDescription: "Experimente a Frittata de Batata Doce com Pimentão, um prato sa
 focusKeyphrase: "Frittata de Batata Doce"
 date: 2025-08-17
 draft: false
-image: frittata-batata-doce-pimentao.png
+image: frittata-batata-doce-pimentao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT55M

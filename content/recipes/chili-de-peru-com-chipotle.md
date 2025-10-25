@@ -7,7 +7,7 @@ ogDescription: "Experimente o Chili de Peru com Chipotle; uma receita rica em sa
 focusKeyphrase: "Chili de Peru"
 date: 2025-08-16
 draft: false
-image: chili-de-peru-com-chipotle.png
+image: chili-de-peru-com-chipotle.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salsa Picante com Toque de Maracujá, uma mistura 
 focusKeyphrase: "salsa picante maracujá"
 date: 2025-08-10
 draft: false
-image: salsa-picante-maracuja.png
+image: salsa-picante-maracuja.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT45M

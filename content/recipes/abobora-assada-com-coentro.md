@@ -7,7 +7,7 @@ ogDescription: "Experimente esta abóbora assada com coentro, uma opção vegana
 focusKeyphrase: "abóbora assada com coentro"
 date: 2025-07-23
 draft: false
-image: abobora-assada-com-coentro.png
+image: abobora-assada-com-coentro.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

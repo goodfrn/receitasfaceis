@@ -7,7 +7,7 @@ ogDescription: "Descubra o Pesto de Manjericão e Rúcula, uma receita vibrante 
 focusKeyphrase: "Pesto de Manjericão e Rúcula"
 date: 2025-08-28
 draft: false
-image: pesto-de-manjericao-e-rucla.png
+image: pesto-de-manjericao-e-rucla.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

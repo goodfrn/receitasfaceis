@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Abóbora Espaguete ao Brie com molho cremo
 focusKeyphrase: "Abóbora Espaguete ao Brie"
 date: 2025-10-15
 draft: false
-image: abobora-espaguete-brie.png
+image: abobora-espaguete-brie.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

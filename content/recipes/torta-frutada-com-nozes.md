@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Frutada com Nozes, uma sobremesa crocante e 
 focusKeyphrase: "torta frutada com nozes"
 date: 2025-09-26
 draft: false
-image: torta-frutada-com-nozes.png
+image: torta-frutada-com-nozes.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT45M

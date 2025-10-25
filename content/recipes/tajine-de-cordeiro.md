@@ -7,7 +7,7 @@ ogDescription: "Descubra o Tajine de Cordeiro com Frutas Secas. Um prato que com
 focusKeyphrase: "Tajine de Cordeiro"
 date: 2025-08-14
 draft: false
-image: tajine-de-cordeiro.png
+image: tajine-de-cordeiro.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT4H30M

@@ -7,7 +7,7 @@ ogDescription: "Experimente essa deliciosa receita de Farfalles com cogumelos e 
 focusKeyphrase: "Farfalles com cogumelos"
 date: 2025-08-18
 draft: false
-image: farfalles-com-cogumelos-e-pancetta.png
+image: farfalles-com-cogumelos-e-pancetta.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

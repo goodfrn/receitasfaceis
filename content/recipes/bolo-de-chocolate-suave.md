@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo de Chocolate Suave, uma receita com menos aç
 focusKeyphrase: "Bolo de Chocolate Suave"
 date: 2025-09-28
 draft: false
-image: bolo-de-chocolate-suave.png
+image: bolo-de-chocolate-suave.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

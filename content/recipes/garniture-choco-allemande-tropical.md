@@ -7,7 +7,7 @@ ogDescription: "Garniture Choco-Allemande Tropical traz a combinação perfeita 
 focusKeyphrase: "Garniture Choco-Allemande Tropical"
 date: 2025-08-03
 draft: false
-image: garniture-choco-allemande-tropical.png
+image: garniture-choco-allemande-tropical.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

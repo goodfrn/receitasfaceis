@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Arroz Colado com Agrikol, uma receita caribe
 focusKeyphrase: "Arroz Colado com Agrikol"
 date: 2025-07-27
 draft: false
-image: arroz-colado-com-agricol.png
+image: arroz-colado-com-agricol.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

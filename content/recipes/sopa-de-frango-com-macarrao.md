@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer uma Sopa de Frango com Macarrão autêntica, che
 focusKeyphrase: "Sopa de Frango com Macarrão"
 date: 2025-08-06
 draft: false
-image: sopa-de-frango-com-macarrao.png
+image: sopa-de-frango-com-macarrao.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT2H15M

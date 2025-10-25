@@ -7,7 +7,7 @@ ogDescription: "Refresque-se com o Spritz Maçã com Gengibre, uma mistura perfe
 focusKeyphrase: "Spritz Maçã com Gengibre"
 date: 2025-07-28
 draft: false
-image: spritz-maca-gengibre.png
+image: spritz-maca-gengibre.jpg
 author: "Julia"
 prepTime: PT06M
 cookTime: PT00M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bowl Tofu e Cevada Vegano. Sabor intenso, ingredie
 focusKeyphrase: "Bowl Tofu e Cevada"
 date: 2025-08-06
 draft: false
-image: bowl-tofu-cevada-vegano.png
+image: bowl-tofu-cevada-vegano.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

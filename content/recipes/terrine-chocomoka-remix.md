@@ -7,7 +7,7 @@ ogDescription: "Descubra a Terrine Chocomoka Remix com camadas de mousse de caf√
 focusKeyphrase: "Terrine Chocomoka Remix"
 date: 2025-08-06
 draft: false
-image: terrine-chocomoka-remix.png
+image: terrine-chocomoka-remix.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT20M

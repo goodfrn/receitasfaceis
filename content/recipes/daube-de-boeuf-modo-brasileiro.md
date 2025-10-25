@@ -7,7 +7,7 @@ ogDescription: "Experimente a Daube de Boeuf Modo Brasileiro, um prato robusto c
 focusKeyphrase: "Daube de Boeuf Modo Brasileiro"
 date: 2025-08-04
 draft: false
-image: daube-de-boeuf-modo-brasileiro.png
+image: daube-de-boeuf-modo-brasileiro.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT7H30M

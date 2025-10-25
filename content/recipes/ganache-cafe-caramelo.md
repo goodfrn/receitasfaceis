@@ -7,7 +7,7 @@ ogDescription: "Experimente a ganache com café e caramelo, uma delícia que com
 focusKeyphrase: "ganache com café"
 date: 2025-08-13
 draft: false
-image: ganache-cafe-caramelo.png
+image: ganache-cafe-caramelo.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT15M

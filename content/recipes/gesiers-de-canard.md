@@ -7,7 +7,7 @@ ogDescription: "Gésiers de Canard com Tomilho e Limão. Uma combinação de sab
 focusKeyphrase: "Gésiers de Canard"
 date: 2025-08-19
 draft: false
-image: gesiers-de-canard.png
+image: gesiers-de-canard.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

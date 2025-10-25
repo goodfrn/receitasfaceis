@@ -7,7 +7,7 @@ ogDescription: "Sopa rústica de raiz e cebola apresenta raízes assadas, alho e
 focusKeyphrase: "sopa rústica de raiz e cebola"
 date: 2025-09-25
 draft: false
-image: sopa-rustica-raiz-cebola.png
+image: sopa-rustica-raiz-cebola.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT55M

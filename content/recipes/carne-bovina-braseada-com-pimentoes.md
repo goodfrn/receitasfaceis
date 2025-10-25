@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar Carne Bovina Braisée com Pimentões e Tomati
 focusKeyphrase: "Carne Bovina Braisée"
 date: 2025-09-25
 draft: false
-image: carne-bovina-braseada-com-pimentoes.png
+image: carne-bovina-braseada-com-pimentoes.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT3H

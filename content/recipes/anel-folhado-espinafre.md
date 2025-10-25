@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Anel Folhado de Espinafre com ricota e maionese,
 focusKeyphrase: "anel folhado de espinafre"
 date: 2025-10-21
 draft: false
-image: anel-folhado-espinafre.png
+image: anel-folhado-espinafre.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT22M

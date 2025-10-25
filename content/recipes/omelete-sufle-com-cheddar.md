@@ -7,7 +7,7 @@ ogDescription: "Omelete Suflê com Cheddar e Pipoca de Maple combina crocância 
 focusKeyphrase: "Omelete Suflê"
 date: 2025-08-12
 draft: false
-image: omelete-sufle-com-cheddar.png
+image: omelete-sufle-com-cheddar.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT35M

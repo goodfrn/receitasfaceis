@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita do Bloody Beer Tropical e surpreenda seus ami
 focusKeyphrase: "Bloody Beer Tropical"
 date: 2025-08-13
 draft: false
-image: bloody-beer-tropical.png
+image: bloody-beer-tropical.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Pães Ciabattas com Sementes. Crocância por fora e 
 focusKeyphrase: "Pães Ciabattas"
 date: 2025-08-09
 draft: false
-image: paoes-ciabattas-com-sementes.png
+image: paoes-ciabattas-com-sementes.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT25M

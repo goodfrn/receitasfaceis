@@ -7,7 +7,7 @@ ogDescription: "Experimente o Xarope Cítrico Refrescante para dar um sabor espe
 focusKeyphrase: "Xarope Cítrico Refrescante"
 date: 2025-07-24
 draft: false
-image: xarope-citrico-refrescante.png
+image: xarope-citrico-refrescante.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT4M

@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Soba com Frango e Amendoim. Um prato que 
 focusKeyphrase: "Soba com Frango e Amendoim"
 date: 2025-08-14
 draft: false
-image: soba-com-frango-e-amendoim.png
+image: soba-com-frango-e-amendoim.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

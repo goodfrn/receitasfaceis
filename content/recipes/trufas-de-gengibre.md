@@ -7,7 +7,7 @@ ogDescription: "Experimente as Trufas de Gengibre - biscoitos de gengibre em for
 focusKeyphrase: "trufas de gengibre"
 date: 2025-10-16
 draft: false
-image: trufas-de-gengibre.png
+image: trufas-de-gengibre.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT10M

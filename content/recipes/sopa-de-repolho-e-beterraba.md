@@ -7,7 +7,7 @@ ogDescription: "Descubra a saborosa sopa de repolho e beterraba. Uma receita nut
 focusKeyphrase: "sopa de repolho e beterraba"
 date: 2025-09-27
 draft: false
-image: sopa-de-repolho-e-beterraba.png
+image: sopa-de-repolho-e-beterraba.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

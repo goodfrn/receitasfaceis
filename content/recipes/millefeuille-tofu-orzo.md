@@ -7,7 +7,7 @@ ogDescription: "Experimente o Millefeuille de tofu com orzo tostado — camadas 
 focusKeyphrase: "Millefeuille de tofu"
 date: 2025-08-04
 draft: false
-image: millefeuille-tofu-orzo.png
+image: millefeuille-tofu-orzo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

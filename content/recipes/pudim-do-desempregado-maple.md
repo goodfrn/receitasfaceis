@@ -7,7 +7,7 @@ ogDescription: "Pudim do Desempregado Maple: sabor rústico e reconfortante. Ide
 focusKeyphrase: "Pudim do Desempregado Maple"
 date: 2025-07-24
 draft: false
-image: pudim-do-desempregado-maple.png
+image: pudim-do-desempregado-maple.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

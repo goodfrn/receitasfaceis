@@ -7,7 +7,7 @@ ogDescription: "Experimente a Mousse Amendoim e Crocante uma combinação perfei
 focusKeyphrase: "Mousse Amendoim e Crocante"
 date: 2025-07-19
 draft: false
-image: mousse-amendoim-crocante.png
+image: mousse-amendoim-crocante.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT15M

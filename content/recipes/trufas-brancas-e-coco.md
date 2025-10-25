@@ -7,7 +7,7 @@ ogDescription: "Experimente as Trufas Brancas e Coco, uma combinação perfeita 
 focusKeyphrase: "Trufas Brancas e Coco"
 date: 2025-08-15
 draft: false
-image: trufas-brancas-e-coco.png
+image: trufas-brancas-e-coco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Gin com Pepino Refrescante; refrescante e aromático, perfeito p
 focusKeyphrase: "gin com pepino"
 date: 2025-08-19
 draft: false
-image: gin-com-pepino-refrescante.png
+image: gin-com-pepino-refrescante.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

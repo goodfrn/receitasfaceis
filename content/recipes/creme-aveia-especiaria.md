@@ -7,7 +7,7 @@ ogDescription: "Experimente o Creme Aveia Especiaria, um prato vegano, cremoso, 
 focusKeyphrase: "creme aveia especiaria"
 date: 2025-07-23
 draft: false
-image: creme-aveia-especiaria.png
+image: creme-aveia-especiaria.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

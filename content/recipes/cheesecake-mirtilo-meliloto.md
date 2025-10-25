@@ -7,7 +7,7 @@ ogDescription: "Experimente o Cheesecake Mirtilo Meliloto, uma sobremesa criativ
 focusKeyphrase: "Cheesecake Mirtilo Meliloto"
 date: 2025-08-19
 draft: false
-image: cheesecake-mirtilo-meliloto.png
+image: cheesecake-mirtilo-meliloto.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT1H25M

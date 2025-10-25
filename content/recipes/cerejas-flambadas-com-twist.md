@@ -7,7 +7,7 @@ ogDescription: "Experimente cerejas flambadas com conhaque e noz-pecã, uma sobr
 focusKeyphrase: "cerejas flambadas"
 date: 2025-08-17
 draft: false
-image: cerejas-flambadas-com-twist.png
+image: cerejas-flambadas-com-twist.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT7M

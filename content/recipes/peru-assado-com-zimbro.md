@@ -7,7 +7,7 @@ ogDescription: "Descubra como assar um peru suculento com zimbro e molho de cebo
 focusKeyphrase: "peru assado com zimbro"
 date: 2025-08-03
 draft: false
-image: peru-assado-com-zimbro.png
+image: peru-assado-com-zimbro.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT1H25M

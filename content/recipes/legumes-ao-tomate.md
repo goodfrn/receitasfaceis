@@ -7,7 +7,7 @@ ogDescription: "Experimente Legumes ao Tomate. Um prato cheio de cores e sabores
 focusKeyphrase: "Legumes ao Tomate"
 date: 2025-08-13
 draft: false
-image: legumes-ao-tomate.png
+image: legumes-ao-tomate.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

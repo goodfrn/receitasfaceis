@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer uma salada picante de kimchi com repolho napa e 
 focusKeyphrase: "salada picante de kimchi"
 date: 2025-09-26
 draft: false
-image: salada-picante-de-kimchi.png
+image: salada-picante-de-kimchi.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

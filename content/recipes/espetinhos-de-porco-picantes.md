@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com espetinhos de porco picantes. Marinada com limão
 focusKeyphrase: "espeto de porco picante"
 date: 2025-07-18
 draft: false
-image: espetinhos-de-porco-picantes.png
+image: espetinhos-de-porco-picantes.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT9M

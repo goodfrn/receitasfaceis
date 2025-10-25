@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo de S'mores com Ganache, uma mistura de sabore
 focusKeyphrase: "Bolo de S'mores com Ganache"
 date: 2025-10-01
 draft: false
-image: bolo-de-smores.png
+image: bolo-de-smores.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT28M

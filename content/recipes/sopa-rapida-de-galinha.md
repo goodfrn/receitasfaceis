@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer uma Sopa Rápida de Galinha com Macarrão. R
 focusKeyphrase: "Sopa Rápida de Galinha com Macarrão"
 date: 2025-10-10
 draft: false
-image: sopa-rapida-de-galinha.png
+image: sopa-rapida-de-galinha.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT27M

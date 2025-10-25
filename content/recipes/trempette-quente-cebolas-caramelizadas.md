@@ -7,7 +7,7 @@ ogDescription: "Experimente trempette quente com cebolas caramelizadas, um prato
 focusKeyphrase: "trempette quente"
 date: 2025-08-01
 draft: false
-image: trempette-quente-cebolas-caramelizadas.png
+image: trempette-quente-cebolas-caramelizadas.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

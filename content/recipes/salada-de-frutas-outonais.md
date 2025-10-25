@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada de Frutas Outonais, frescor e texturas vibrant
 focusKeyphrase: "salada de frutas outonais"
 date: 2025-08-06
 draft: false
-image: salada-de-frutas-outonais.png
+image: salada-de-frutas-outonais.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Coma Taquitos de Frango crocantes, com guacamole cremoso. Sabor 
 focusKeyphrase: "taquitos de frango"
 date: 2025-09-24
 draft: false
-image: taquitos-de-frango.png
+image: taquitos-de-frango.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT20M

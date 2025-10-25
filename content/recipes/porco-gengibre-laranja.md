@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Porco com gengibre e toque de laranja, uma explos
 focusKeyphrase: "porco com gengibre"
 date: 2025-08-10
 draft: false
-image: porco-gengibre-laranja.png
+image: porco-gengibre-laranja.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

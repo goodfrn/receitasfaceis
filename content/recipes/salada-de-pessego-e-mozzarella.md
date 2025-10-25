@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Pêssego e Mozzarella. Mistura única de
 focusKeyphrase: "salada de pêssego e mozzarella"
 date: 2025-07-29
 draft: false
-image: salada-de-pessego-e-mozzarella.png
+image: salada-de-pessego-e-mozzarella.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

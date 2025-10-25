@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Confit de Porco Rústico, receita envolvente com
 focusKeyphrase: "confit de porco"
 date: 2025-09-30
 draft: false
-image: confit-de-porco-rustico.png
+image: confit-de-porco-rustico.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H25M

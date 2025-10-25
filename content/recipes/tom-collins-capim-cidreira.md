@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar o Tom Collins Capim-Cidreira, uma mistura
 focusKeyphrase: "Tom Collins Capim-Cidreira"
 date: 2025-07-23
 draft: false
-image: tom-collins-capim-cidreira.png
+image: tom-collins-capim-cidreira.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT10M

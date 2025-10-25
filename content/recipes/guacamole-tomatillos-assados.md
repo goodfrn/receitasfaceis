@@ -7,7 +7,7 @@ ogDescription: "Experimente o Guacamole de Tomatillos Assados. Uma mistura de sa
 focusKeyphrase: "Guacamole de Tomatillos Assados"
 date: 2025-07-24
 draft: false
-image: guacamole-tomatillos-assados.png
+image: guacamole-tomatillos-assados.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT20M

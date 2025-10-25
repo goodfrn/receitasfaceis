@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com a Fondue Japonesa Shabu-Shabu. Um prato interativ
 focusKeyphrase: "Fondue Japonesa Shabu-Shabu"
 date: 2025-08-10
 draft: false
-image: fondue-japonesa-shabu-shabu.png
+image: fondue-japonesa-shabu-shabu.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

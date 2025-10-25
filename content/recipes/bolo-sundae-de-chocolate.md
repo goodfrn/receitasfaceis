@@ -7,7 +7,7 @@ ogDescription: "Bolo Sundae de Chocolate combina sabor intenso com textura cremo
 focusKeyphrase: "Bolo Sundae de Chocolate"
 date: 2025-10-22
 draft: false
-image: bolo-sundae-de-chocolate.png
+image: bolo-sundae-de-chocolate.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT42M

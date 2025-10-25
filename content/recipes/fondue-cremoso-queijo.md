@@ -7,7 +7,7 @@ ogDescription: "Fondue de queijo cremoso com um toque especial. A combinação d
 focusKeyphrase: "fondue cremoso de queijo"
 date: 2025-08-03
 draft: false
-image: fondue-cremoso-queijo.png
+image: fondue-cremoso-queijo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT12M

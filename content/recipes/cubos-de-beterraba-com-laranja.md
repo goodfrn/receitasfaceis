@@ -7,7 +7,7 @@ ogDescription: "Experimente Cubos de Beterraba com Laranja. Uma combinação vib
 focusKeyphrase: "Cubos de Beterraba com Laranja"
 date: 2025-08-04
 draft: false
-image: cubos-de-beterraba-com-laranja.png
+image: cubos-de-beterraba-com-laranja.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H35M

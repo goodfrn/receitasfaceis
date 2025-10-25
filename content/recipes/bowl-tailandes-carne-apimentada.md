@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bowl Tailandês de Carne Apimentada. Sabor picante
 focusKeyphrase: "Bowl Tailandês de Carne Apimentada"
 date: 2025-07-21
 draft: false
-image: bowl-tailandes-carne-apimentada.png
+image: bowl-tailandes-carne-apimentada.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT15M

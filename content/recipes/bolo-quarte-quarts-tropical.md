@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Bolo Quarte Quarters Tropical uma receita leve 
 focusKeyphrase: "Bolo Quarte Quarters Tropical"
 date: 2025-07-30
 draft: false
-image: bolo-quarte-quarts-tropical.png
+image: bolo-quarte-quarts-tropical.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT45M

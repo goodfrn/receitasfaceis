@@ -7,7 +7,7 @@ ogDescription: "Bifes com especiarias variadas, marinadas únicas, grelhados na 
 focusKeyphrase: "bifes com especiarias variadas"
 date: 2025-09-21
 draft: false
-image: bifes-com-especiarias.png
+image: bifes-com-especiarias.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT15M

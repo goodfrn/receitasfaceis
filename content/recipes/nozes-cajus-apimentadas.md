@@ -7,7 +7,7 @@ ogDescription: "Nozes Cajus Apimentadas, sabor intenso, textura crocante. Ótima
 focusKeyphrase: "Nozes Cajus Apimentadas"
 date: 2025-08-12
 draft: false
-image: nozes-cajus-apimentadas.png
+image: nozes-cajus-apimentadas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

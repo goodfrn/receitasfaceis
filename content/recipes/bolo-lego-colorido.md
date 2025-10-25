@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo Lego Colorido, ideal para festas. Estruturalm
 focusKeyphrase: "Bolo Lego Colorido"
 date: 2025-09-25
 draft: false
-image: bolo-lego-colorido.png
+image: bolo-lego-colorido.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT45M

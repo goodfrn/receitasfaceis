@@ -7,7 +7,7 @@ ogDescription: "Experimente o Chili de Carne com um toque brasileiro, misturando
 focusKeyphrase: "Chili de Carne com Toque Brasileiro"
 date: 2025-08-10
 draft: false
-image: chili-de-carne-brasileiro.png
+image: chili-de-carne-brasileiro.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H10M

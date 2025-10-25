@@ -7,7 +7,7 @@ ogDescription: "Experimente os Muffins de banana e sarraceno, uma receita rústi
 focusKeyphrase: "muffins de banana e sarraceno"
 date: 2025-08-10
 draft: false
-image: muffins-banana-sarraceno.png
+image: muffins-banana-sarraceno.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pesto Vegano Cremoso, uma opção deliciosa que su
 focusKeyphrase: "Pesto Vegano Cremoso"
 date: 2025-08-28
 draft: false
-image: pesto-veganocremoso.png
+image: pesto-veganocremoso.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

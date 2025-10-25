@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pink Martini Tropical. Um cocktail leve com vinho 
 focusKeyphrase: "Pink Martini Tropical"
 date: 2025-07-28
 draft: false
-image: pink-martini-tropical.png
+image: pink-martini-tropical.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

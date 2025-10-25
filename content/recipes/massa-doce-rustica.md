@@ -7,7 +7,7 @@ ogDescription: "Descubra a Massa Doce Rústica. Ideal para sabores complexos e v
 focusKeyphrase: "massa doce rústica"
 date: 2025-08-07
 draft: false
-image: massa-doce-rustica.png
+image: massa-doce-rustica.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT12M

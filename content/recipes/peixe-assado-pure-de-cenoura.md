@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar peixe assado suculento com purê de cenou
 focusKeyphrase: "Peixe Assado com Purê de Cenoura"
 date: 2025-09-27
 draft: false
-image: peixe-assado-pure-de-cenoura.png
+image: peixe-assado-pure-de-cenoura.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Tarte Folhada Verde, receita deliciosa, leve e colorida com aspa
 focusKeyphrase: "tarte folhada verde"
 date: 2025-07-21
 draft: false
-image: tarte-folhada-verde.png
+image: tarte-folhada-verde.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT28M

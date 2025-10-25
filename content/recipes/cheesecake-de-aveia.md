@@ -7,7 +7,7 @@ ogDescription: "Descubra a sobremesa perfeita, Cheesecake de aveia tropical. Com
 focusKeyphrase: "cheesecake de aveia"
 date: 2025-07-30
 draft: false
-image: cheesecake-de-aveia.png
+image: cheesecake-de-aveia.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT1H20M

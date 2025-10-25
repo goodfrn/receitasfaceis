@@ -7,7 +7,7 @@ ogDescription: "Experimente o molho agridoce de pimentão. Perfeito em carnes e 
 focusKeyphrase: "molho agridoce de pimentão"
 date: 2025-08-19
 draft: false
-image: molho-agridoce-pimentao.png
+image: molho-agridoce-pimentao.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

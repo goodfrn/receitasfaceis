@@ -7,7 +7,7 @@ ogDescription: "Experimente a Barra de Especiarias com Abóbora. Uma sobremesa q
 focusKeyphrase: "barra de especiarias com abóbora"
 date: 2025-07-26
 draft: false
-image: barra-de-especiarias-com-abobora.png
+image: barra-de-especiarias-com-abobora.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT50M

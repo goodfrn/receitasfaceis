@@ -7,7 +7,7 @@ ogDescription: "Experimente os Brioches do Jejum com cranberries e um glacê ác
 focusKeyphrase: "brioches do jejum"
 date: 2025-08-07
 draft: false
-image: brioches-do-jejum.png
+image: brioches-do-jejum.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT25M

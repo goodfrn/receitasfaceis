@@ -7,7 +7,7 @@ ogDescription: "Descubra a magia dos Canapés de Abóbora e Cordeiro. Uma mistur
 focusKeyphrase: "Canapés de Abóbora e Cordeiro"
 date: 2025-09-23
 draft: false
-image: canapes-abobora-cordeiro.png
+image: canapes-abobora-cordeiro.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT28M

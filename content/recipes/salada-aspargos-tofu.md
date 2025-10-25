@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com esta Salada de Aspargos Grelhados com Tofu, reche
 focusKeyphrase: "Salada de Aspargos Grelhados com Tofu"
 date: 2025-07-24
 draft: false
-image: salada-aspargos-tofu.png
+image: salada-aspargos-tofu.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT15M

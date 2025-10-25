@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer pizzelles com um aroma único de amêndoas e
 focusKeyphrase: "pizzelles com toque brasileiro"
 date: 2025-08-17
 draft: false
-image: pizzelles-toque-brasileiro.png
+image: pizzelles-toque-brasileiro.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

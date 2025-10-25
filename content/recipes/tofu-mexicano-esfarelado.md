@@ -7,7 +7,7 @@ ogDescription: "Tofu Mexicano Esfarelado traz sabores intensos e uma textura inc
 focusKeyphrase: "tofu esfarelado"
 date: 2025-08-13
 draft: false
-image: tofu-mexicano-esfarelado.png
+image: tofu-mexicano-esfarelado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT18M

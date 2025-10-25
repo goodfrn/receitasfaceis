@@ -7,7 +7,7 @@ ogDescription: "Prepare aveia cremosa com peras e uvas passas. Uma combinação 
 focusKeyphrase: "aveia com frutas secas"
 date: 2025-08-14
 draft: false
-image: aveia-com-frutas-secas.png
+image: aveia-com-frutas-secas.jpg
 author: "Julia"
 prepTime: PT0H7M
 cookTime: PT0H18M

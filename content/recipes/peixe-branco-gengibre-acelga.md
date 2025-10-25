@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer peixe branco ao caldo de gengibre com acelga, um
 focusKeyphrase: "peixe branco ao caldo de gengibre"
 date: 2025-07-21
 draft: false
-image: peixe-branco-gengibre-acelga.png
+image: peixe-branco-gengibre-acelga.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT18M

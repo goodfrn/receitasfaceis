@@ -7,7 +7,7 @@ ogDescription: "Experimente Biscoitos Três Sabores; um jogo de texturas e aroma
 focusKeyphrase: "Biscoitos Três Sabores"
 date: 2025-09-11
 draft: false
-image: biscoitos-tres-sabores.png
+image: biscoitos-tres-sabores.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT12M

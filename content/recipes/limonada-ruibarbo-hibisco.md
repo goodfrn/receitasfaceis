@@ -7,7 +7,7 @@ ogDescription: "Descubra a Limonada de Ruibarbo e Hibisco. Refrescante e saudáv
 focusKeyphrase: "limonada de ruibarbo e hibisco"
 date: 2025-07-25
 draft: false
-image: limonada-ruibarbo-hibisco.png
+image: limonada-ruibarbo-hibisco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

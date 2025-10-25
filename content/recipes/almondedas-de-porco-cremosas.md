@@ -7,7 +7,7 @@ ogDescription: "Almôndegas saborosas com carne suína e molho de cogumelos. Uma
 focusKeyphrase: "Almôndegas de Porco Cremosas"
 date: 2025-08-16
 draft: false
-image: almondedas-de-porco-cremosas.png
+image: almondedas-de-porco-cremosas.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H10M

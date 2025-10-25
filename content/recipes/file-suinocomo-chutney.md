@@ -7,7 +7,7 @@ ogDescription: "Experimente o Filé Suíno com Chutney, uma receita envolvente e
 focusKeyphrase: "Filé Suíno com Chutney"
 date: 2025-09-28
 draft: false
-image: file-suinocomo-chutney.png
+image: file-suinocomo-chutney.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT27M

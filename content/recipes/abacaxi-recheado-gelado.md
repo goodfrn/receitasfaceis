@@ -7,7 +7,7 @@ ogDescription: "Experimente Abacaxi recheado gelado, uma festa de sabores tropic
 focusKeyphrase: "abacaxi recheado gelado"
 date: 2025-07-30
 draft: false
-image: abacaxi-recheado-gelado.png
+image: abacaxi-recheado-gelado.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT0M

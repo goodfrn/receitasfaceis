@@ -7,7 +7,7 @@ ogDescription: "Shortcake de ameixa e cereja. Uma mistura perfeita de frutas e c
 focusKeyphrase: "shortcake de ameixa e cereja"
 date: 2025-08-03
 draft: false
-image: shortcake-de-ameixa-e-cereja.png
+image: shortcake-de-ameixa-e-cereja.jpg
 author: "Julia"
 prepTime: PT55M
 cookTime: PT30M

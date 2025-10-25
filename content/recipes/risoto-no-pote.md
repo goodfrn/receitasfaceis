@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Risoto no Pote, um prato saboroso em 12 minutos.
 focusKeyphrase: "risoto no pote"
 date: 2025-09-25
 draft: false
-image: risoto-no-pote.png
+image: risoto-no-pote.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT6M

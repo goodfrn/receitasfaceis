@@ -7,7 +7,7 @@ ogDescription: "Opte por uma salada fresquinha. Salada Truta e Ovos Mimosa traz 
 focusKeyphrase: "salada truta e ovos mimosa"
 date: 2025-07-29
 draft: false
-image: salada-truta-e-ovos-mimosa.png
+image: salada-truta-e-ovos-mimosa.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

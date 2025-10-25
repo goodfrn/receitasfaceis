@@ -7,7 +7,7 @@ ogDescription: "Descubra a Tarte Flan de Canela e Ameixas. Uma deliciosa combina
 focusKeyphrase: "Tarte Flan de Canela e Ameixas"
 date: 2025-09-30
 draft: false
-image: tarte-flan-canela-ameixas.png
+image: tarte-flan-canela-ameixas.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT45M

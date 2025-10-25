@@ -7,7 +7,7 @@ ogDescription: "Desfrute do Bolo Árvore de Chocolate, uma deliciosa combinaçã
 focusKeyphrase: "Bolo Árvore de Chocolate"
 date: 2025-07-25
 draft: false
-image: bolo-arvore-chocolate.png
+image: bolo-arvore-chocolate.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT55M

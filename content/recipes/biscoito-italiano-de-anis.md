@@ -7,7 +7,7 @@ ogDescription: "Descubra o sabor dos Biscoitos Italianos de Anis, com receitas v
 focusKeyphrase: "biscoito italiano de anis"
 date: 2025-08-13
 draft: false
-image: biscoito-italiano-de-anis.png
+image: biscoito-italiano-de-anis.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT15M

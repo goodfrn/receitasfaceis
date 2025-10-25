@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada crocante asiática. Combina repolho, cenour
 focusKeyphrase: "salada crocante asiática"
 date: 2025-09-29
 draft: false
-image: salada-crocante-asiatica.png
+image: salada-crocante-asiatica.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT5M

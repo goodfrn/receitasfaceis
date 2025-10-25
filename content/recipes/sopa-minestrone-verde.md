@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa Minestrone Verde Repaginada; uma receita aromát
 focusKeyphrase: "Sopa Minestrone Verde Repaginada"
 date: 2025-08-14
 draft: false
-image: sopa-minestrone-verde.png
+image: sopa-minestrone-verde.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT35M

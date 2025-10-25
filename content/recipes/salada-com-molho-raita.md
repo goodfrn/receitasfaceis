@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada com Molho Raita. Legumes crocantes combinam
 focusKeyphrase: "salada raita"
 date: 2025-09-28
 draft: false
-image: salada-com-molho-raita.png
+image: salada-com-molho-raita.jpg
 author: "Julia"
 prepTime: PT11M
 cookTime: PT0M

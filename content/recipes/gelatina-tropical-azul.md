@@ -7,7 +7,7 @@ ogDescription: "Gelatina Tropical Azul deliciosa, feita com sucos naturais. Refr
 focusKeyphrase: "gelatina tropical"
 date: 2025-07-31
 draft: false
-image: gelatina-tropical-azul.png
+image: gelatina-tropical-azul.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT1H50M

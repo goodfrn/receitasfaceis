@@ -7,7 +7,7 @@ ogDescription: "Descubra o Bobotie Nacional, uma receita sul-africana adaptada c
 focusKeyphrase: "Bobotie Nacional"
 date: 2025-09-27
 draft: false
-image: bobotie-nacional.png
+image: bobotie-nacional.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT1H15M

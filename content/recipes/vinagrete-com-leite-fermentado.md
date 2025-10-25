@@ -7,7 +7,7 @@ ogDescription: "Experimente esta vinagrete cremosa com leite fermentado e um toq
 focusKeyphrase: "vinagrete com leite fermentado"
 date: 2025-08-02
 draft: false
-image: vinagrete-com-leite-fermentado.png
+image: vinagrete-com-leite-fermentado.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

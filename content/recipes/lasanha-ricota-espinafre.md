@@ -7,7 +7,7 @@ ogDescription: "Experimente a Lasanha Ricota Espinafre, uma combinação irresis
 focusKeyphrase: "lasanha ricota espinafre"
 date: 2025-08-08
 draft: false
-image: lasanha-ricota-espinafre.png
+image: lasanha-ricota-espinafre.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT1H

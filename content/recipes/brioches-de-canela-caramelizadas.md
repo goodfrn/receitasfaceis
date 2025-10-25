@@ -7,7 +7,7 @@ ogDescription: "Experimente a leveza dos Brioches de Canela Caramelizadas com um
 focusKeyphrase: "brioches de canela caramelizadas"
 date: 2025-07-23
 draft: false
-image: brioches-de-canela-caramelizadas.png
+image: brioches-de-canela-caramelizadas.jpg
 author: "Julia"
 prepTime: PT1H35M
 cookTime: PT30M

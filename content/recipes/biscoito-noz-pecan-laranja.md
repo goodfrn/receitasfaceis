@@ -7,7 +7,7 @@ ogDescription: "Descubra o Biscoito de Noz Pecan com Toque de Laranja. Textura e
 focusKeyphrase: "biscoito de noz pecan"
 date: 2025-09-25
 draft: false
-image: biscoito-noz-pecan-laranja.png
+image: biscoito-noz-pecan-laranja.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT13M

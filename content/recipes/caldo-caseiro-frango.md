@@ -7,7 +7,7 @@ ogDescription: "Experimente o Caldo Caseiro de Frango, um clássico que traz sab
 focusKeyphrase: "Caldo Caseiro de Frango"
 date: 2025-07-30
 draft: false
-image: caldo-caseiro-frango.png
+image: caldo-caseiro-frango.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H20M

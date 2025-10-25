@@ -7,7 +7,7 @@ ogDescription: "Macarrão cremoso com ricota fresca, sabores intensos. Uma refei
 focusKeyphrase: "noodles ao cream cheese"
 date: 2025-10-22
 draft: false
-image: noodles-ao-cream-cheese.png
+image: noodles-ao-cream-cheese.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT19M

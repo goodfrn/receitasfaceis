@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Manteiga de Cebolinha e Capuchinha. Uma receita 
 focusKeyphrase: "manteiga de cebolinha e capuchinha"
 date: 2025-07-29
 draft: false
-image: manteiga-cebolinha-capuchinha.png
+image: manteiga-cebolinha-capuchinha.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

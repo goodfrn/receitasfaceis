@@ -7,7 +7,7 @@ ogDescription: "Experimente Tacos de Frango Diferentes com temperos marcantes e 
 focusKeyphrase: "tacos de frango"
 date: 2025-08-07
 draft: false
-image: tacos-de-frango-diferentes.png
+image: tacos-de-frango-diferentes.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta de Cranberry com Creme de Coco. Uma combina√
 focusKeyphrase: "torta de cranberry"
 date: 2025-10-05
 draft: false
-image: torta-de-cranberry.png
+image: torta-de-cranberry.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

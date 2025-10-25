@@ -7,7 +7,7 @@ ogDescription: "Experimente Linguine Primavera com Twist. Sabor intenso com legu
 focusKeyphrase: "Linguine Primavera"
 date: 2025-07-23
 draft: false
-image: linguine-primavera-com-twist.png
+image: linguine-primavera-com-twist.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

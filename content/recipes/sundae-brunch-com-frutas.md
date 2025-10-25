@@ -7,7 +7,7 @@ ogDescription: "Experimente a receita de sundae brunch com frutas vermelhas, uma
 focusKeyphrase: "sundae brunch"
 date: 2025-08-10
 draft: false
-image: sundae-brunch-com-frutas.png
+image: sundae-brunch-com-frutas.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

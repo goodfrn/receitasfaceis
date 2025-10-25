@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torrada Francesa com Manteiga de Amendoim. Uma com
 focusKeyphrase: "Torrada Francesa com Manteiga de Amendoim"
 date: 2025-09-29
 draft: false
-image: torrada-francesa-com-manteiga-de-amendoim.png
+image: torrada-francesa-com-manteiga-de-amendoim.jpg
 author: "Julia"
 prepTime: PT16M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Molho de Tomate com Pimentão. Perfeito para massas o
 focusKeyphrase: "Molho de Tomate com Pimentão"
 date: 2025-09-26
 draft: false
-image: molho-de-tomate-com-pimentao.png
+image: molho-de-tomate-com-pimentao.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

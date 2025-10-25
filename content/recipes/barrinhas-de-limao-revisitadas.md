@@ -7,7 +7,7 @@ ogDescription: "Descubra as Barrinhas de Limão Revisitadas, uma mistura perfeit
 focusKeyphrase: "barrinhas de limão"
 date: 2025-08-04
 draft: false
-image: barrinhas-de-limao-revisitadas.png
+image: barrinhas-de-limao-revisitadas.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT55M

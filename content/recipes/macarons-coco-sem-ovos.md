@@ -7,7 +7,7 @@ ogDescription: "Macarons veganos de coco, sem glúten, perfeitos para festas ou 
 focusKeyphrase: "macarons coco sem ovos"
 date: 2025-09-26
 draft: false
-image: macarons-coco-sem-ovos.png
+image: macarons-coco-sem-ovos.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT21M

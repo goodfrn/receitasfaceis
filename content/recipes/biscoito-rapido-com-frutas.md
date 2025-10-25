@@ -7,7 +7,7 @@ ogDescription: "Experimente o Biscoito Rápido com Frutas; uma explosão de fres
 focusKeyphrase: "Biscoito Rápido com Frutas"
 date: 2025-08-19
 draft: false
-image: biscoito-rapido-com-frutas.png
+image: biscoito-rapido-com-frutas.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT20M

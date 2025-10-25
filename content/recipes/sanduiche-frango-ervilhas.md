@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sanduíche de Frango com Ervilhas. Uma refeição 
 focusKeyphrase: "Sanduíche de Frango com Ervilhas"
 date: 2025-09-07
 draft: false
-image: sanduiche-frango-ervilhas.png
+image: sanduiche-frango-ervilhas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT5M

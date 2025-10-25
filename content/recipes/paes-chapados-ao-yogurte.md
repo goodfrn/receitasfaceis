@@ -7,7 +7,7 @@ ogDescription: "Prepare Pães Chapados ao Iogurte, pão leve e rápido, perfeito
 focusKeyphrase: "Pães Chapados ao Iogurte"
 date: 2025-09-26
 draft: false
-image: paes-chapados-ao-yogurte.png
+image: paes-chapados-ao-yogurte.jpg
 author: "Julia"
 prepTime: PT33M
 cookTime: PT9M

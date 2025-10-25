@@ -7,7 +7,7 @@ ogDescription: "Salada de Massa Primavera é refrescante e rápida. Mistura ervi
 focusKeyphrase: "Salada de Massa Primavera"
 date: 2025-10-15
 draft: false
-image: salada-de-massa-primavera.png
+image: salada-de-massa-primavera.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT9M

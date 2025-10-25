@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer scones folhados com canela e maçã. Sabor e tex
 focusKeyphrase: "scones folhados"
 date: 2025-08-14
 draft: false
-image: scones-folhados-canela-maca.png
+image: scones-folhados-canela-maca.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

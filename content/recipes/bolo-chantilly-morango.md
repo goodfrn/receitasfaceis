@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita do Bolo Chantilly de Morango. Uma combinaçã
 focusKeyphrase: "Bolo Chantilly de Morango"
 date: 2025-08-17
 draft: false
-image: bolo-chantilly-morango.png
+image: bolo-chantilly-morango.jpg
 author: "Julia"
 prepTime: PT55M
 cookTime: PT23M

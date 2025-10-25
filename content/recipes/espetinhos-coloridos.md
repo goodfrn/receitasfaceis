@@ -7,7 +7,7 @@ ogDescription: "Monte Espetinhos Coloridos com frutas e doces variados. Rápido,
 focusKeyphrase: "espetinhos coloridos"
 date: 2025-07-20
 draft: false
-image: espetinhos-coloridos.png
+image: espetinhos-coloridos.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

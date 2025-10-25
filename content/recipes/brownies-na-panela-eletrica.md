@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Brownies na Panela Elétrica. Macios, crocantes n
 focusKeyphrase: "brownies na panela elétrica"
 date: 2025-08-06
 draft: false
-image: brownies-na-panela-eletrica.png
+image: brownies-na-panela-eletrica.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT2H20M

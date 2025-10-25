@@ -7,7 +7,7 @@ ogDescription: "Desperte seu paladar com a Limonada Cubana Refrescante. Uma mist
 focusKeyphrase: "Limonada Cubana Refrescante"
 date: 2025-09-25
 draft: false
-image: limonada-cubana-refrescante.png
+image: limonada-cubana-refrescante.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT0M

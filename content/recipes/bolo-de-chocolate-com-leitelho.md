@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo de Chocolate com Leitelho. Uma combinação p
 focusKeyphrase: "Bolo de Chocolate com Leitelho"
 date: 2025-10-11
 draft: false
-image: bolo-de-chocolate-com-leitelho.png
+image: bolo-de-chocolate-com-leitelho.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT40M

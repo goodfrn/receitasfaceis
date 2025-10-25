@@ -7,7 +7,7 @@ ogDescription: "Descubra uma salada de arroz selvagem deliciosa, combinando a te
 focusKeyphrase: "salada de arroz selvagem"
 date: 2025-10-07
 draft: false
-image: salada-de-arroz-selvagem.png
+image: salada-de-arroz-selvagem.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

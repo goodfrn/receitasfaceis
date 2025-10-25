@@ -7,7 +7,7 @@ ogDescription: "Prepare Bostocks com Ruibarbo, uma receita única que mescla o a
 focusKeyphrase: "Bostocks com Ruibarbo"
 date: 2025-08-08
 draft: false
-image: bostocks-com-ruibarbo.png
+image: bostocks-com-ruibarbo.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT45M

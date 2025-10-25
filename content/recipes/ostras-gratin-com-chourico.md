@@ -7,7 +7,7 @@ ogDescription: "Experimente ostras gratinadas com um recheio saboroso de chouri√
 focusKeyphrase: "ostras gratinadas"
 date: 2025-09-28
 draft: false
-image: ostras-gratin-com-chourico.png
+image: ostras-gratin-com-chourico.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT12M

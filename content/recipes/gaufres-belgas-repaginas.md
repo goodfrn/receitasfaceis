@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita das Gaufres Belgas Repaginadas. Crocantes por
 focusKeyphrase: "gaufres belgas repaginadas"
 date: 2025-08-15
 draft: false
-image: gaufres-belgas-repaginas.png
+image: gaufres-belgas-repaginas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

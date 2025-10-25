@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Cheesecake Pera e Maple, um doce incrível
 focusKeyphrase: "Cheesecake Pera e Maple"
 date: 2025-08-02
 draft: false
-image: cheesecake-pera-maple.png
+image: cheesecake-pera-maple.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT1H25M

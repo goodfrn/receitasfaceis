@@ -7,7 +7,7 @@ ogDescription: "Experimente a Massa com Feta e Tomatinhos. Um prato mediterrâne
 focusKeyphrase: "Massa com Feta e Tomatinhos"
 date: 2025-08-16
 draft: false
-image: massa-com-feta-e-tomatinhos.png
+image: massa-com-feta-e-tomatinhos.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT35M

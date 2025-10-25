@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer o Pão de 5 Bananas com Farelo. Um pão úmi
 focusKeyphrase: "Pão de 5 Bananas"
 date: 2025-09-24
 draft: false
-image: pao-de-5-bananas.png
+image: pao-de-5-bananas.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H15M

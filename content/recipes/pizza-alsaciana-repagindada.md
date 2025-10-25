@@ -7,7 +7,7 @@ ogDescription: "Experimente a Pizza Alsaciana Repaginada, uma mistura deliciosa 
 focusKeyphrase: "Pizza Alsaciana Repaginada"
 date: 2025-09-28
 draft: false
-image: pizza-alsaciana-repagindada.png
+image: pizza-alsaciana-repagindada.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

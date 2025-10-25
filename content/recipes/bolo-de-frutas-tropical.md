@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Bolo de Frutas Tropical; a combinação perfeita 
 focusKeyphrase: "Bolo de Frutas Tropical"
 date: 2025-09-28
 draft: false
-image: bolo-de-frutas-tropical.png
+image: bolo-de-frutas-tropical.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT2H10M

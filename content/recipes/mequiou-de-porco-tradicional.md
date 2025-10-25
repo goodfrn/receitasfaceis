@@ -7,7 +7,7 @@ ogDescription: "Experimente o Méquiou de porco, uma iguaria cheia de sabor e tr
 focusKeyphrase: "Méquiou de porco"
 date: 2025-08-09
 draft: false
-image: mequiou-de-porco-tradicional.png
+image: mequiou-de-porco-tradicional.jpg
 author: "Julia"
 prepTime: PT120M
 cookTime: PT570M

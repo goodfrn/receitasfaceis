@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Banana Creme. Uma mistura de chocolate e ban
 focusKeyphrase: "Torta Banana Creme"
 date: 2025-07-19
 draft: false
-image: torta-banana-creme.png
+image: torta-banana-creme.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT25M

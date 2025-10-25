@@ -7,7 +7,7 @@ ogDescription: "Experimente o Antipasto Apimentado. Uma combinação intensa de 
 focusKeyphrase: "Antipasto Apimentado"
 date: 2025-09-29
 draft: false
-image: antipasto-apimentado.png
+image: antipasto-apimentado.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT15M

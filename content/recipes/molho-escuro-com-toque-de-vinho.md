@@ -7,7 +7,7 @@ ogDescription: "Molho escuro com vinho marsala e funcho, ideal para dar sabor ao
 focusKeyphrase: "molho escuro com vinho"
 date: 2025-08-12
 draft: false
-image: molho-escuro-com-toque-de-vinho.png
+image: molho-escuro-com-toque-de-vinho.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT2H

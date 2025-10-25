@@ -7,7 +7,7 @@ ogDescription: "Experimente os mini espetinhos frango-pêssego. Sabor agridoce e
 focusKeyphrase: "Mini espetinhos frango-pêssego"
 date: 2025-07-19
 draft: false
-image: mini-espetinhos-frango-pessego.png
+image: mini-espetinhos-frango-pessego.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

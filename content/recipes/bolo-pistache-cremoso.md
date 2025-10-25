@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo Pistache Cremoso, uma escolha perfeita para s
 focusKeyphrase: "Bolo Pistache Cremoso"
 date: 2025-07-24
 draft: false
-image: bolo-pistache-cremoso.png
+image: bolo-pistache-cremoso.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Biscoito Maçã Caramelo, crocante e com recheio d
 focusKeyphrase: "Biscoito Maçã Caramelo"
 date: 2025-08-15
 draft: false
-image: biscoito-maca-caramelo.png
+image: biscoito-maca-caramelo.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT45M

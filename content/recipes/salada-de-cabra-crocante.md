@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Cabra Crocante Air Fryer - queijo de cab
 focusKeyphrase: "salada de cabra crocante"
 date: 2025-08-13
 draft: false
-image: salada-de-cabra-crocante.png
+image: salada-de-cabra-crocante.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

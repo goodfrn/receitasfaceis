@@ -7,7 +7,7 @@ ogDescription: "Experimente a rica sopa de couve com pão e queijo. Uma opção 
 focusKeyphrase: "sopa rústica de couve"
 date: 2025-07-29
 draft: false
-image: sopa-rustica-de-couve.png
+image: sopa-rustica-de-couve.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

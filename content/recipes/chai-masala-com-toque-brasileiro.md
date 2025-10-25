@@ -7,7 +7,7 @@ ogDescription: "Descubra o Chai Masala com Toque Brasileiro. Uma combinação in
 focusKeyphrase: "Chai Masala com Toque Brasileiro"
 date: 2025-08-14
 draft: false
-image: chai-masala-com-toque-brasileiro.png
+image: chai-masala-com-toque-brasileiro.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

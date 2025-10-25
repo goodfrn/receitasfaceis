@@ -7,7 +7,7 @@ ogDescription: "Descubra o Picolé Paloma com Gim e Toranja. Uma receita fácil 
 focusKeyphrase: "Picolé Paloma com Gim e Toranja"
 date: 2025-08-18
 draft: false
-image: picole-paloma-gim-toranja.png
+image: picole-paloma-gim-toranja.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT7M

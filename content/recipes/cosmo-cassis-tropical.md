@@ -7,7 +7,7 @@ ogDescription: "Descubra o Cosmo Cassis Tropical, um coquetel leve e frutado, id
 focusKeyphrase: "Cosmo Cassis Tropical"
 date: 2025-07-30
 draft: false
-image: cosmo-cassis-tropical.png
+image: cosmo-cassis-tropical.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

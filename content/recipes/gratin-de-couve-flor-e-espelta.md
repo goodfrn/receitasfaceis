@@ -7,7 +7,7 @@ ogDescription: "Experimente o Gratin de Couve-flor e Espelta, um prato rústico 
 focusKeyphrase: "Gratin de Couve-flor e Espelta"
 date: 2025-08-12
 draft: false
-image: gratin-de-couve-flor-e-espelta.png
+image: gratin-de-couve-flor-e-espelta.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

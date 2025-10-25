@@ -7,7 +7,7 @@ ogDescription: "Espetinho suculento com carne de porco e boi, ideal para o seu c
 focusKeyphrase: "Espetinhos de Porco e Boi"
 date: 2025-08-14
 draft: false
-image: espetinhos-de-porco-e-boi.png
+image: espetinhos-de-porco-e-boi.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a combinação perfeita de tofu empanado e queijo, em u
 focusKeyphrase: "sanduíche de tofu empanado"
 date: 2025-08-10
 draft: false
-image: sanduiche-de-tofu-empanado.png
+image: sanduiche-de-tofu-empanado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

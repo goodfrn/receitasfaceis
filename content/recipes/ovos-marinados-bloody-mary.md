@@ -7,7 +7,7 @@ ogDescription: "Experimente ovos marinados ao estilo Bloody Mary. Um petisco che
 focusKeyphrase: "Ovos marinados estilo Bloody Mary"
 date: 2025-08-08
 draft: false
-image: ovos-marinados-bloody-mary.png
+image: ovos-marinados-bloody-mary.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT6M

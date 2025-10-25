@@ -7,7 +7,7 @@ ogDescription: "Experimente ostras com molho de coco e capim-santo. Um toque tro
 focusKeyphrase: "ostras com molho de coco e capim-santo"
 date: 2025-09-25
 draft: false
-image: ostras-com-molho-de-coco.png
+image: ostras-com-molho-de-coco.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT0M

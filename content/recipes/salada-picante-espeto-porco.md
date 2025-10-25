@@ -7,7 +7,7 @@ ogDescription: "Experimente a explosão de sabores da Salada Picante com Espeto 
 focusKeyphrase: "salada picante com espeto de porco"
 date: 2025-07-22
 draft: false
-image: salada-picante-espeto-porco.png
+image: salada-picante-espeto-porco.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT15M

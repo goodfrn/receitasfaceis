@@ -7,7 +7,7 @@ ogDescription: "Desperte o paladar com essa Tapenade de Azeitonas Frescas; perfe
 focusKeyphrase: "Tapenade de Azeitonas Frescas"
 date: 2025-10-06
 draft: false
-image: tapenade-de-azeitonas-frescas.png
+image: tapenade-de-azeitonas-frescas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

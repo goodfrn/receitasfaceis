@@ -7,7 +7,7 @@ ogDescription: "Descubra a combinação perfeita de maçãs Fuji e Gala nesta To
 focusKeyphrase: "Torta de Maçã Brasileira"
 date: 2025-08-01
 draft: false
-image: torta-de-maca-brasileira.png
+image: torta-de-maca-brasileira.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT50M

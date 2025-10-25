@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Flan Coco Cremoso, uma sobremesa brasileira que t
 focusKeyphrase: "Flan Coco Cremoso"
 date: 2025-09-27
 draft: false
-image: flan-coco-cremoso.png
+image: flan-coco-cremoso.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT6M

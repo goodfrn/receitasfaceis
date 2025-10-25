@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Salgada de Tomate, uma combinação mediterr
 focusKeyphrase: "Torta Salgada de Tomate"
 date: 2025-07-30
 draft: false
-image: torta-salgada-de-tomate.png
+image: torta-salgada-de-tomate.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT30M

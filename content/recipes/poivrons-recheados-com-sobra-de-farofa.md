@@ -7,7 +7,7 @@ ogDescription: "Experimente Pimentões Recheados com Sobra de Farofa. Sabor, aro
 focusKeyphrase: "Pimentões Recheados"
 date: 2025-09-27
 draft: false
-image: poivrons-recheados-com-sobra-de-farofa.png
+image: poivrons-recheados-com-sobra-de-farofa.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT50M

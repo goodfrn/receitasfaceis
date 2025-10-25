@@ -7,7 +7,7 @@ ogDescription: "Experimente o Croquant de Amendoim Twist, uma deliciosa mistura 
 focusKeyphrase: "Croquant de Amendoim Twist"
 date: 2025-08-13
 draft: false
-image: croquant-de-amendoim.png
+image: croquant-de-amendoim.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT15M

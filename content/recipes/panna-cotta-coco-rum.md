@@ -7,7 +7,7 @@ ogDescription: "Experimente esta panna cotta coco rum tropical e refrescante. Id
 focusKeyphrase: "panna cotta tropical"
 date: 2025-09-26
 draft: false
-image: panna-cotta-coco-rum.png
+image: panna-cotta-coco-rum.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT6M

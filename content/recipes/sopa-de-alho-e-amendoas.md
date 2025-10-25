@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sopa de Alho e Amêndoas: leveza e sabor com casta
 focusKeyphrase: "sopa de alho e amêndoas"
 date: 2025-08-16
 draft: false
-image: sopa-de-alho-e-amendoas.png
+image: sopa-de-alho-e-amendoas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

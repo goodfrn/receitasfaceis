@@ -7,7 +7,7 @@ ogDescription: "Sorvete Oreo ganache. Gelado cremoso de chocolate amargo e bisco
 focusKeyphrase: "sorvete oreo ganache"
 date: 2025-10-09
 draft: false
-image: sorvete-oreo-ganache.png
+image: sorvete-oreo-ganache.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

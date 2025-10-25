@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar uma Salada Batata Grelot com Ovos - fresc
 focusKeyphrase: "Salada Batata Grelot com Ovos"
 date: 2025-08-06
 draft: false
-image: salada-batata-grelot-ovos.png
+image: salada-batata-grelot-ovos.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

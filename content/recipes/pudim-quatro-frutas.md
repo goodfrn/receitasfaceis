@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pudim Quatro Frutas Tropical, uma sobremesa refres
 focusKeyphrase: "Pudim Quatro Frutas Tropical"
 date: 2025-09-08
 draft: false
-image: pudim-quatro-frutas.png
+image: pudim-quatro-frutas.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT42M

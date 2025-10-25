@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com nosso Gratin Crocante de Batata, uma receita chei
 focusKeyphrase: "gratin de batata"
 date: 2025-07-20
 draft: false
-image: gratin-crocante-de-batata.png
+image: gratin-crocante-de-batata.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT2H

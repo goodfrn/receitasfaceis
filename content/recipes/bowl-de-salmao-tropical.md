@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bowl de salmão tropical. Uma mistura vibrante de 
 focusKeyphrase: "Bowl de salmão tropical"
 date: 2025-07-29
 draft: false
-image: bowl-de-salmao-tropical.png
+image: bowl-de-salmao-tropical.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT30M

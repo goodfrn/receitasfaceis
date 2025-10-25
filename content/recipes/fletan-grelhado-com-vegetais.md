@@ -7,7 +7,7 @@ ogDescription: "Desfrute de um delicioso flétan grelhado com rúcula e shitake.
 focusKeyphrase: "Flétan grelhado vibrante"
 date: 2025-07-27
 draft: false
-image: fletan-grelhado-com-vegetais.png
+image: fletan-grelhado-com-vegetais.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT18M

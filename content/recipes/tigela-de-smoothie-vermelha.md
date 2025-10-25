@@ -7,7 +7,7 @@ ogDescription: "Deliciosa tigela de smoothie vermelha. Iogurte, frutas e granola
 focusKeyphrase: "tigela de smoothie vermelha"
 date: 2025-07-24
 draft: false
-image: tigela-de-smoothie-vermelha.png
+image: tigela-de-smoothie-vermelha.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

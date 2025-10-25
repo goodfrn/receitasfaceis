@@ -7,7 +7,7 @@ ogDescription: "Experimente o Molho Escuro Rápido, intensamente saboroso e idea
 focusKeyphrase: "molho escuro"
 date: 2025-08-05
 draft: false
-image: molho-escuro-rapido.png
+image: molho-escuro-rapido.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT20M

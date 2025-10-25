@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo de Chocolate Caramelo. Quatro camadas de sabo
 focusKeyphrase: "Bolo de Chocolate Caramelo"
 date: 2025-07-29
 draft: false
-image: bolo-de-chocolate-caramelo.png
+image: bolo-de-chocolate-caramelo.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT1H50M

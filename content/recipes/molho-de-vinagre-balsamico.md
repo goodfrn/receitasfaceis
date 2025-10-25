@@ -7,7 +7,7 @@ ogDescription: "Experimente o Molho de Vinagre Balsâmico simples e rápido. Ide
 focusKeyphrase: "Molho de Vinagre Balsâmico"
 date: 2025-07-28
 draft: false
-image: molho-de-vinagre-balsamico.png
+image: molho-de-vinagre-balsamico.jpg
 author: "Julia"
 prepTime: PT3M
 cookTime: PT0M

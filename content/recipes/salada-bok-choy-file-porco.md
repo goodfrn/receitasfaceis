@@ -7,7 +7,7 @@ ogDescription: "Explore a Salada de Bok Choy e Filé de Porco. Combinação equi
 focusKeyphrase: "salada de bok choy"
 date: 2025-09-25
 draft: false
-image: salada-bok-choy-file-porco.png
+image: salada-bok-choy-file-porco.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT30M

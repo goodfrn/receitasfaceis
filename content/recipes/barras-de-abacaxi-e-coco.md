@@ -7,7 +7,7 @@ ogDescription: "Deliciosas Barras de Abacaxi e Coco, com crosta de aveia e reche
 focusKeyphrase: "barras de abacaxi e coco"
 date: 2025-09-29
 draft: false
-image: barras-de-abacaxi-e-coco.png
+image: barras-de-abacaxi-e-coco.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

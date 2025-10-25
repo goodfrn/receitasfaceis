@@ -7,7 +7,7 @@ ogDescription: "Experimente a Bavette com Cebola e Fritas Crocantes, um prato ch
 focusKeyphrase: "bavette com cebola"
 date: 2025-08-02
 draft: false
-image: bavette-com-cebola-e-fritas.png
+image: bavette-com-cebola-e-fritas.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

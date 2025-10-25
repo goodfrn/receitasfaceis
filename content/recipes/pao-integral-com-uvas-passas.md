@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pão Integral com Uvas Passas. Uma combinação r�
 focusKeyphrase: "Pão Integral com Uvas Passas"
 date: 2025-08-06
 draft: false
-image: pao-integral-com-uvas-passas.png
+image: pao-integral-com-uvas-passas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT45M

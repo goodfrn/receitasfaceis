@@ -7,7 +7,7 @@ ogDescription: "Experimente o sabor do Macarrão Asiático com Pasta de Amendoim
 focusKeyphrase: "Macarrão Asiático com Pasta de Amendoim"
 date: 2025-07-27
 draft: false
-image: macarrao-asiatico-com-cenoura.png
+image: macarrao-asiatico-com-cenoura.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT18M

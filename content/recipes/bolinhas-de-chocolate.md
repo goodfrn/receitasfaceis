@@ -7,7 +7,7 @@ ogDescription: "Prepare Bolinhas de Chocolate Brasileiras. Receita vegana com ca
 focusKeyphrase: "Bolinhas de Chocolate Brasileiras"
 date: 2025-08-10
 draft: false
-image: bolinhas-de-chocolate.png
+image: bolinhas-de-chocolate.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

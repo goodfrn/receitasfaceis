@@ -7,7 +7,7 @@ ogDescription: "Cookies Butterscotch com Toffee. Um misto de sabores e texturas.
 focusKeyphrase: "cookies butterscotch"
 date: 2025-10-22
 draft: false
-image: cookies-butterscotch-toffee.png
+image: cookies-butterscotch-toffee.jpg
 author: "Julia"
 prepTime: PT17M
 cookTime: PT8M

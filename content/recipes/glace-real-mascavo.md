@@ -7,7 +7,7 @@ ogDescription: "Decore seus bolos com Glacê Real Variado, usando açúcar masca
 focusKeyphrase: "Glacê Real Variado"
 date: 2025-08-03
 draft: false
-image: glace-real-mascavo.png
+image: glace-real-mascavo.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

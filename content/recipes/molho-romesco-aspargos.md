@@ -7,7 +7,7 @@ ogDescription: "Experimente essa deliciosa receita de Molho Romesco com Aspargos
 focusKeyphrase: "Molho Romesco com Aspargos"
 date: 2025-08-02
 draft: false
-image: molho-romesco-aspargos.png
+image: molho-romesco-aspargos.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT35M

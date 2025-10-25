@@ -7,7 +7,7 @@ ogDescription: "Descubra o Róti de Vitela com Mostarda e Alho Poró, um prato q
 focusKeyphrase: "Róti de Vitela"
 date: 2025-08-07
 draft: false
-image: roti-de-vitela-com-mostarda.png
+image: roti-de-vitela-com-mostarda.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H10M

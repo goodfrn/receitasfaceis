@@ -7,7 +7,7 @@ ogDescription: "Experimente o tofu com miso e tomate, um prato vegano rico em te
 focusKeyphrase: "tofu com miso e tomate"
 date: 2025-08-04
 draft: false
-image: tofu-com-miso-e-tomate.png
+image: tofu-com-miso-e-tomate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

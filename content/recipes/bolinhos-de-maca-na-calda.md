@@ -7,7 +7,7 @@ ogDescription: "Experimente bolinhos de maçã na calda, um doce que mistura mac
 focusKeyphrase: "bolinhos de maçã na calda"
 date: 2025-08-11
 draft: false
-image: bolinhos-de-maca-na-calda.png
+image: bolinhos-de-maca-na-calda.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT20M

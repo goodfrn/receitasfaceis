@@ -7,7 +7,7 @@ ogDescription: "Bolo Maple Whisky. Um clássico com um toque moderno. Adequado p
 focusKeyphrase: "Bolo Maple Whisky"
 date: 2025-07-27
 draft: false
-image: bolo-maple-whisky.png
+image: bolo-maple-whisky.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H5M

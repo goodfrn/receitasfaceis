@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta Chess de Amendoim. Crosta dourada, recheio c
 focusKeyphrase: "Torta Chess de Amendoim"
 date: 2025-10-08
 draft: false
-image: torta-chess-amendoim.png
+image: torta-chess-amendoim.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT50M

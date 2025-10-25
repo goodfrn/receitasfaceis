@@ -7,7 +7,7 @@ ogDescription: "Calzones de Frango Barbecue grelhados; mistura de frango e barbe
 focusKeyphrase: "Calzones de Frango Barbecue"
 date: 2025-08-18
 draft: false
-image: calzones-de-frango-barbecue.png
+image: calzones-de-frango-barbecue.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

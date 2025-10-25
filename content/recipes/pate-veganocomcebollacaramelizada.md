@@ -7,7 +7,7 @@ ogDescription: "Patê Vegano com Cebola Caramelizada uma mistura deliciosa de ba
 focusKeyphrase: "patê vegano"
 date: 2025-07-20
 draft: false
-image: pate-veganocomcebollacaramelizada.png
+image: pate-veganocomcebollacaramelizada.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT55M

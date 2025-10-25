@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Bife Hambúrguer com Cogumelos em menos de 4
 focusKeyphrase: "Bife Hambúrguer com Cogumelos"
 date: 2025-09-25
 draft: false
-image: bife-hamburguer-cogumelos.png
+image: bife-hamburguer-cogumelos.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT28M

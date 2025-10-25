@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sanduíche Asiático de Frango com toques de gengi
 focusKeyphrase: "sanduíche asiático de frango"
 date: 2025-09-01
 draft: false
-image: sanduiche-asiatico-frango.png
+image: sanduiche-asiatico-frango.jpg
 author: "Julia"
 prepTime: PT32M
 cookTime: PT14M

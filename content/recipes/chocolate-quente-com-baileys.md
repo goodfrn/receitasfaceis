@@ -7,7 +7,7 @@ ogDescription: "Chocolate Quente com Baileys. Um clássico que ganhou um toque e
 focusKeyphrase: "Chocolate Quente com Baileys"
 date: 2025-10-08
 draft: false
-image: chocolate-quente-com-baileys.png
+image: chocolate-quente-com-baileys.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT2M

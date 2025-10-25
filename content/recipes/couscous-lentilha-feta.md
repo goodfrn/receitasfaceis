@@ -7,7 +7,7 @@ ogDescription: "Couscous Lentilha Feta; conheça essa combinação saborosa e nu
 focusKeyphrase: "Couscous Lentilha Feta"
 date: 2025-08-14
 draft: false
-image: couscous-lentilha-feta.png
+image: couscous-lentilha-feta.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

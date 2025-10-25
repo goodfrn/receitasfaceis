@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Gumbo de Frango e Linguiça com Camarão,
 focusKeyphrase: "Gumbo de Frango e Linguiça com Camarão"
 date: 2025-10-09
 draft: false
-image: gumbo-de-frango-e-linguica.png
+image: gumbo-de-frango-e-linguica.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT4H30M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a Banoffee com toque brasileiro, uma delícia alternati
 focusKeyphrase: "Banoffee com toque brasileiro"
 date: 2025-08-08
 draft: false
-image: banoffee-com-toque-brasileiro.png
+image: banoffee-com-toque-brasileiro.jpg
 author: "Julia"
 prepTime: PT80M
 cookTime: PT35M

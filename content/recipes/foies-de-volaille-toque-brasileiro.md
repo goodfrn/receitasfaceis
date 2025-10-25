@@ -7,7 +7,7 @@ ogDescription: "Descubra essa receita de Foies de volaille com coxas de galinha,
 focusKeyphrase: "Foies de volaille com toque brasileiro"
 date: 2025-08-17
 draft: false
-image: foies-de-volaille-toque-brasileiro.png
+image: foies-de-volaille-toque-brasileiro.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT20M

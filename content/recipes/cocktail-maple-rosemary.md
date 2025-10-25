@@ -7,7 +7,7 @@ ogDescription: "Descubra o Cocktail Maple Rosemary, uma bebida que combina gin, 
 focusKeyphrase: "Cocktail Maple Rosemary"
 date: 2025-07-23
 draft: false
-image: cocktail-maple-rosemary.png
+image: cocktail-maple-rosemary.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Bolo Opera com Twist, uma versão deliciosa e sofisti
 focusKeyphrase: "Bolo Opera com Twist"
 date: 2025-08-16
 draft: false
-image: bolo-opera-com-twist.png
+image: bolo-opera-com-twist.jpg
 author: "Julia"
 prepTime: PT1H25M
 cookTime: PT15M

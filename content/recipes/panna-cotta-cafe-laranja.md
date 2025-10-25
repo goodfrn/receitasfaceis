@@ -7,7 +7,7 @@ ogDescription: "Descubra a Panna Cotta Café Laranja. Uma mistura de café forte
 focusKeyphrase: "Panna Cotta Café Laranja"
 date: 2025-07-27
 draft: false
-image: panna-cotta-cafe-laranja.png
+image: panna-cotta-cafe-laranja.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

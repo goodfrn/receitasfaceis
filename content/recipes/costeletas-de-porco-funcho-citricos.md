@@ -7,7 +7,7 @@ ogDescription: "Descubra a combinação intensa das Costeletas de Porco ao Funch
 focusKeyphrase: "Costeletas de Porco"
 date: 2025-07-19
 draft: false
-image: costeletas-de-porco-funcho-citricos.png
+image: costeletas-de-porco-funcho-citricos.jpg
 author: "Julia"
 prepTime: PT12H10M
 cookTime: PT25M

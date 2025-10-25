@@ -7,7 +7,7 @@ ogDescription: "Surpreenda-se com o Cappuccino de Carne e Raiz-forte. Une sabor 
 focusKeyphrase: "Cappuccino de Carne e Raiz-forte"
 date: 2025-08-15
 draft: false
-image: cappuccino-de-carne-e-raiz-forte.png
+image: cappuccino-de-carne-e-raiz-forte.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H35M

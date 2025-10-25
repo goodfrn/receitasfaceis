@@ -7,7 +7,7 @@ ogDescription: "Biscotti Pistache Limão Veganos; uma receita simples com textur
 focusKeyphrase: "biscotti veganos"
 date: 2025-09-28
 draft: false
-image: biscotti-pistache-limao.png
+image: biscotti-pistache-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Receita de tartelettes mousse com framboesas e ruibarbo. Um doce
 focusKeyphrase: "Tartelettes mousse framboesa-rhubarbe"
 date: 2025-07-24
 draft: false
-image: tartelettes-mousse-framboesa-rhubarbe.png
+image: tartelettes-mousse-framboesa-rhubarbe.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT45M

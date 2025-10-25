@@ -7,7 +7,7 @@ ogDescription: "Experimente a Quiche de Aspargos e Queijo Minas, uma combinaçã
 focusKeyphrase: "Quiche de Aspargos e Queijo Minas"
 date: 2025-08-04
 draft: false
-image: quiche-de-aspargos.png
+image: quiche-de-aspargos.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

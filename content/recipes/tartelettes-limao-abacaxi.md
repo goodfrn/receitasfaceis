@@ -7,7 +7,7 @@ ogDescription: "Tartelettes limão-abacaxi com toque tropical. Massa leve, reche
 focusKeyphrase: "tartelettes limão-abacaxi"
 date: 2025-08-06
 draft: false
-image: tartelettes-limao-abacaxi.png
+image: tartelettes-limao-abacaxi.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT50M

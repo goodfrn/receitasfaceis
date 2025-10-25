@@ -7,7 +7,7 @@ ogDescription: "Uma receita deliciosa de frango com batata-doce gratinada, ideal
 focusKeyphrase: "Frango com batata-doce gratinada"
 date: 2025-08-13
 draft: false
-image: frango-com-batata-doce.png
+image: frango-com-batata-doce.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT45M

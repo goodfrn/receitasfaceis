@@ -7,7 +7,7 @@ ogDescription: "Torta Quatro Frutas com Gengibre é uma sobremesa refrescante e 
 focusKeyphrase: "torta de frutas com gengibre"
 date: 2025-07-30
 draft: false
-image: torta-quatro-frutas.png
+image: torta-quatro-frutas.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Frango Recheado com Bolo de Frutas. Uma mistura in
 focusKeyphrase: "Frango Recheado com Bolo de Frutas"
 date: 2025-08-09
 draft: false
-image: frango-recheado-com-bolo-de-frutas.png
+image: frango-recheado-com-bolo-de-frutas.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT1H35M

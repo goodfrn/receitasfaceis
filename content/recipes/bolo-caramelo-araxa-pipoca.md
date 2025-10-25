@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo Caramelo Araxá Popcorn e descubra camadas de
 focusKeyphrase: "Bolo Caramelo Araxá Popcorn"
 date: 2025-08-19
 draft: false
-image: bolo-caramelo-araxa-pipoca.png
+image: bolo-caramelo-araxa-pipoca.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT50M

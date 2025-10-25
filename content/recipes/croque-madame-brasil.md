@@ -7,7 +7,7 @@ ogDescription: "Experimente o Croque-madame Brasil. Um sanduíche francês delic
 focusKeyphrase: "Croque-madame Brasil"
 date: 2025-07-23
 draft: false
-image: croque-madame-brasil.png
+image: croque-madame-brasil.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

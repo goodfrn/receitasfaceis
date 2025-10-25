@@ -7,7 +7,7 @@ ogDescription: "Descubra o gratin rigatoni e abóbora. Sabor e textura se encont
 focusKeyphrase: "gratin rigatoni e abóbora"
 date: 2025-09-21
 draft: false
-image: gratin-rigatoni-abobora.png
+image: gratin-rigatoni-abobora.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar gravlax com cachaça e limão siciliano, 
 focusKeyphrase: "gravlax com limão siciliano"
 date: 2025-08-19
 draft: false
-image: gravlax-com-twist-de-limao.png
+image: gravlax-com-twist-de-limao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT27H

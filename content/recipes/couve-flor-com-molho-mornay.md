@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de couve-flor com molho mornay, perfeita para
 focusKeyphrase: "couve-flor com molho mornay"
 date: 2025-09-28
 draft: false
-image: couve-flor-com-molho-mornay.png
+image: couve-flor-com-molho-mornay.jpg
 author: "Julia"
 prepTime: PT13M
 cookTime: PT28M

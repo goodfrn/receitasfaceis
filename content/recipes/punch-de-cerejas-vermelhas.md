@@ -7,7 +7,7 @@ ogDescription: "Uma bebida alcoólica refrescante, fácil de preparar. Experimen
 focusKeyphrase: "Punch de Cerejas Vermelhas"
 date: 2025-07-28
 draft: false
-image: punch-de-cerejas-vermelhas.png
+image: punch-de-cerejas-vermelhas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT0M

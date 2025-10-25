@@ -7,7 +7,7 @@ ogDescription: "Descubra o sabor único do Bolo de Maçã Invertido com Calda de
 focusKeyphrase: "Bolo de Maçã Invertido"
 date: 2025-08-09
 draft: false
-image: bolo-de-maca-invertido.png
+image: bolo-de-maca-invertido.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

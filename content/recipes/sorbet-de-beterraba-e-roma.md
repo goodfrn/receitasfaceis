@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sorbet de Beterraba e Romã. Uma mistura incrível
 focusKeyphrase: "sorbet de beterraba e romã"
 date: 2025-07-29
 draft: false
-image: sorbet-de-beterraba-e-roma.png
+image: sorbet-de-beterraba-e-roma.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

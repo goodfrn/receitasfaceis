@@ -7,7 +7,7 @@ ogDescription: "Experimente o Rôti Peru Pêra Cranberry - um prato robusto que 
 focusKeyphrase: "Rôti Peru Pêra Cranberry"
 date: 2025-08-17
 draft: false
-image: roti-peru-pera-cranberry.png
+image: roti-peru-pera-cranberry.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT2H15M

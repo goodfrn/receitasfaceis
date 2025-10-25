@@ -7,7 +7,7 @@ ogDescription: "Minipoivrons marinados twist. Pimentões assados, marinados e ch
 focusKeyphrase: "Minipoivrons marinados"
 date: 2025-08-04
 draft: false
-image: minipoivrons-marinados.png
+image: minipoivrons-marinados.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a receita de Cornichons à l'aneth versão BR. Picles qu
 focusKeyphrase: "Cornichons à l'aneth versão BR"
 date: 2025-08-11
 draft: false
-image: cornichons-a-laneth-br.png
+image: cornichons-a-laneth-br.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT12M

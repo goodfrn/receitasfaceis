@@ -7,7 +7,7 @@ ogDescription: "Descubra como criar um Sundae creme de amendoim. Mistura perfeit
 focusKeyphrase: "Sundae creme de amendoim"
 date: 2025-08-03
 draft: false
-image: sundae-creme-de-amendoim.png
+image: sundae-creme-de-amendoim.jpg
 author: "Julia"
 prepTime: PT1H10M
 cookTime: PT15M

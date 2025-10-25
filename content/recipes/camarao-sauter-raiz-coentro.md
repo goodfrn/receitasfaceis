@@ -7,7 +7,7 @@ ogDescription: "Camarão sauté raiz-coentro é uma mistura ousada de sabores. P
 focusKeyphrase: "Camarão sauté raiz-coentro"
 date: 2025-08-08
 draft: false
-image: camarao-sauter-raiz-coentro.png
+image: camarao-sauter-raiz-coentro.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de naan com legumes na brasa. Visual atraente
 focusKeyphrase: "Naan com legumes na brasa"
 date: 2025-08-06
 draft: false
-image: naan-com-legumes-na-brasa.png
+image: naan-com-legumes-na-brasa.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Experimente os Cookies de Chocolate em Assadeira; um clássico q
 focusKeyphrase: "Cookies de Chocolate em Assadeira"
 date: 2025-10-02
 draft: false
-image: cookies-de-chocolate.png
+image: cookies-de-chocolate.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT18M

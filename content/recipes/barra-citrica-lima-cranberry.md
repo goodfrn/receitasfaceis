@@ -7,7 +7,7 @@ ogDescription: "Experimente a Barra Cítrica de Lima e Cranberry, uma sobremesa 
 focusKeyphrase: "Barra Cítrica de Lima e Cranberry"
 date: 2025-08-02
 draft: false
-image: barra-citrica-lima-cranberry.png
+image: barra-citrica-lima-cranberry.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT50M

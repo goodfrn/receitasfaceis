@@ -7,7 +7,7 @@ ogDescription: "Experimente o Lombinho de porco glaceado. Um prato delicioso com
 focusKeyphrase: "Lombinho de porco glaceado"
 date: 2025-07-27
 draft: false
-image: lombinho-de-porco-glaceado.png
+image: lombinho-de-porco-glaceado.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT22M

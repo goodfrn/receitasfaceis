@@ -7,7 +7,7 @@ ogDescription: "Experimente os gnocchis de ricota e couve-flor caramelizada, um 
 focusKeyphrase: "gnocchis de couve-flor"
 date: 2025-09-29
 draft: false
-image: gnocchis-de-couve-flor.png
+image: gnocchis-de-couve-flor.jpg
 author: "Julia"
 prepTime: PT1H10M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Bagels na Airfryer. Rápidos e saborosos, são i
 focusKeyphrase: "Bagels na Airfryer"
 date: 2025-08-18
 draft: false
-image: bagels-na-airfryer.png
+image: bagels-na-airfryer.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a receita de Ragout de Vitela Picante. Um prato requ
 focusKeyphrase: "Ragout de Vitela Picante"
 date: 2025-08-28
 draft: false
-image: ragout-de-vitela-picante.png
+image: ragout-de-vitela-picante.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT1H15M

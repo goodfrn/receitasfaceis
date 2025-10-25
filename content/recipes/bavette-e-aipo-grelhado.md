@@ -7,7 +7,7 @@ ogDescription: "Desfrute de Bavette e Aipo Grelhado com toques picantes e defuma
 focusKeyphrase: "bavette grelhada"
 date: 2025-09-29
 draft: false
-image: bavette-e-aipo-grelhado.png
+image: bavette-e-aipo-grelhado.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT32M

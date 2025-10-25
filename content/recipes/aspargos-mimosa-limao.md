@@ -7,7 +7,7 @@ ogDescription: "Experimente aspargos mimosa com limão siciliano. Frescor, sabor
 focusKeyphrase: "aspargos mimosa"
 date: 2025-08-10
 draft: false
-image: aspargos-mimosa-limao.png
+image: aspargos-mimosa-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT4M

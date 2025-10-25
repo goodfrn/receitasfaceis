@@ -7,7 +7,7 @@ ogDescription: "Naans com Frango e Batatas. Uma combinação irresistível de sa
 focusKeyphrase: "Naans com Frango e Batatas"
 date: 2025-09-23
 draft: false
-image: naans-com-frango-e-batatas.png
+image: naans-com-frango-e-batatas.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT35M

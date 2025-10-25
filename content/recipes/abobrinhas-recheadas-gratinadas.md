@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Abobrinhas Recheadas Gratinadas; uma del√
 focusKeyphrase: "Abobrinhas Recheadas Gratinadas"
 date: 2025-09-29
 draft: false
-image: abobrinhas-recheadas-gratinadas.png
+image: abobrinhas-recheadas-gratinadas.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT55M

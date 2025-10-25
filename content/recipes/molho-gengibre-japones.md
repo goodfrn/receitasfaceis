@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Molho de Gengibre Japonês em minutos. Fresc
 focusKeyphrase: "Molho de Gengibre Japonês"
 date: 2025-10-17
 draft: false
-image: molho-gengibre-japones.png
+image: molho-gengibre-japones.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

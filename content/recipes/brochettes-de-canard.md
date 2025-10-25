@@ -7,7 +7,7 @@ ogDescription: "Experimente Brochettes de Canard Apimentadas. Uma receita de pat
 focusKeyphrase: "brochettes de pato"
 date: 2025-09-23
 draft: false
-image: brochettes-de-canard.png
+image: brochettes-de-canard.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT16M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pâté rústico de carne com sabores marcantes e u
 focusKeyphrase: "Pâté rústico de carne"
 date: 2025-08-04
 draft: false
-image: pate-rustico-de-carne.png
+image: pate-rustico-de-carne.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT55M

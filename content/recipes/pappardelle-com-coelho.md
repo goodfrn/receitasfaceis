@@ -7,7 +7,7 @@ ogDescription: "Descubra uma receita de Pappardelle com coelho, trazendo um toqu
 focusKeyphrase: "Pappardelle com coelho cozido"
 date: 2025-07-29
 draft: false
-image: pappardelle-com-coelho.png
+image: pappardelle-com-coelho.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H35M

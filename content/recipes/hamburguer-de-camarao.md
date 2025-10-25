@@ -7,7 +7,7 @@ ogDescription: "Experimente o hambúrguer de camarão com abacate. Sabor intenso
 focusKeyphrase: "hambúrguer de camarão"
 date: 2025-08-02
 draft: false
-image: hamburguer-de-camarao.png
+image: hamburguer-de-camarao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Barra Abóbora Melassa, um cheesecake tropical que c
 focusKeyphrase: "Barra Abóbora Melassa"
 date: 2025-08-18
 draft: false
-image: barra-abobora-melassa.png
+image: barra-abobora-melassa.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

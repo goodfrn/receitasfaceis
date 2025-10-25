@@ -7,7 +7,7 @@ ogDescription: "Deliciosos croquetes de queijo cremoso. Pronto em 35 minutos. Ac
 focusKeyphrase: "croquetes de queijo cremoso"
 date: 2025-07-23
 draft: false
-image: croquetes-de-queijo-cremoso.png
+image: croquetes-de-queijo-cremoso.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT20M

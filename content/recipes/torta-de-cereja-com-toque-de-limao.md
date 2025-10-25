@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Torta de Cereja com Toque de Limão; uma receita
 focusKeyphrase: "torta de cereja"
 date: 2025-09-29
 draft: false
-image: torta-de-cereja-com-toque-de-limao.png
+image: torta-de-cereja-com-toque-de-limao.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT55M

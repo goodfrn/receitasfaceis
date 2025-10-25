@@ -7,7 +7,7 @@ ogDescription: "Prepare um delicioso Carré de Porco com Molho de Cogumelos. Uma
 focusKeyphrase: "Carré de Porco com Molho de Cogumelos"
 date: 2025-09-23
 draft: false
-image: carre-de-porco-com-molho.png
+image: carre-de-porco-com-molho.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT1H30M

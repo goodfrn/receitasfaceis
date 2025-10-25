@@ -7,7 +7,7 @@ ogDescription: "Descubra o Chili Indiano Adaptado, uma experiência de sabores i
 focusKeyphrase: "chili indiano adaptado"
 date: 2025-08-05
 draft: false
-image: chili-indiano-adaptado.png
+image: chili-indiano-adaptado.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

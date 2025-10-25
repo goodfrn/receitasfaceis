@@ -7,7 +7,7 @@ ogDescription: "Saboreie o Gratinado Frango Brócolis, um prato que une texturas
 focusKeyphrase: "gratinado frango brócolis"
 date: 2025-10-17
 draft: false
-image: gratinado-frango-brocolis.png
+image: gratinado-frango-brocolis.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT28M

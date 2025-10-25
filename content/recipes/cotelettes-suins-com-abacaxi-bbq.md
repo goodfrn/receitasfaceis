@@ -7,7 +7,7 @@ ogDescription: "Experimente essa receita de côtelettes suínas com abacaxi BBQ,
 focusKeyphrase: "Côtelettes suínas com abacaxi BBQ"
 date: 2025-08-16
 draft: false
-image: cotelettes-suins-com-abacaxi-bbq.png
+image: cotelettes-suins-com-abacaxi-bbq.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

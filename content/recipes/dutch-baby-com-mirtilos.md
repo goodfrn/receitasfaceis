@@ -7,7 +7,7 @@ ogDescription: "Experimente o Dutch Baby com Mirtilos, uma receita leve e aerada
 focusKeyphrase: "Dutch Baby com Mirtilos"
 date: 2025-09-09
 draft: false
-image: dutch-baby-com-mirtilos.png
+image: dutch-baby-com-mirtilos.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT28M

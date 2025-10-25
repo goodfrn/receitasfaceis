@@ -7,7 +7,7 @@ ogDescription: "Croustade morango rhubarb uma sobremesa sem glúten que combina 
 focusKeyphrase: "croustade morango rhubarb"
 date: 2025-09-28
 draft: false
-image: croustade-morango-ruibarbo.png
+image: croustade-morango-ruibarbo.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT50M

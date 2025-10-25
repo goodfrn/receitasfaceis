@@ -7,7 +7,7 @@ ogDescription: "Descubra os escalopes de frango grelhados com muçarela, coberto
 focusKeyphrase: "escalopes de frango"
 date: 2025-08-19
 draft: false
-image: escalopes-de-frango.png
+image: escalopes-de-frango.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

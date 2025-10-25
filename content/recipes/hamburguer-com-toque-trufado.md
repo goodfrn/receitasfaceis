@@ -7,7 +7,7 @@ ogDescription: "Sabor, textura e sofisticação em um hambúrguer trufado. Contr
 focusKeyphrase: "hambúrguer trufado"
 date: 2025-07-28
 draft: false
-image: hamburguer-com-toque-trufado.png
+image: hamburguer-com-toque-trufado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o molho de tomates grelhados com alecrim. Uma receit
 focusKeyphrase: "molho tomate grelhado BBQ"
 date: 2025-09-03
 draft: false
-image: molho-tomate-grelhado-bbq.png
+image: molho-tomate-grelhado-bbq.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT1H55M

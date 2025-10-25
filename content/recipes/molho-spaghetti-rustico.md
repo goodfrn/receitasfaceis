@@ -7,7 +7,7 @@ ogDescription: "Descubra o Molho Spaghetti Rústico, uma explosão de sabores co
 focusKeyphrase: "Molho Spaghetti Rústico"
 date: 2025-07-29
 draft: false
-image: molho-spaghetti-rustico.png
+image: molho-spaghetti-rustico.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT3H

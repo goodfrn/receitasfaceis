@@ -7,7 +7,7 @@ ogDescription: "Deliciosas Batatas Douradas Melado combinam cebolas caramelizada
 focusKeyphrase: "Batatas Douradas Melado"
 date: 2025-07-20
 draft: false
-image: batatas-douradas-melado.png
+image: batatas-douradas-melado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H20M

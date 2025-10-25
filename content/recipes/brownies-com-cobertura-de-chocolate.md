@@ -7,7 +7,7 @@ ogDescription: "Brownies com cobertura cremosa de chocolate. Sabor intenso e tex
 focusKeyphrase: "brownies com cobertura de chocolate"
 date: 2025-10-17
 draft: false
-image: brownies-com-cobertura-de-chocolate.png
+image: brownies-com-cobertura-de-chocolate.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT42M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o sabor do Molho Bolonhesa de Vitela. Uma receita itali
 focusKeyphrase: "Molho Bolonhesa de Vitela"
 date: 2025-09-24
 draft: false
-image: molho-bolonhesa-vitela.png
+image: molho-bolonhesa-vitela.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

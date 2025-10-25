@@ -7,7 +7,7 @@ ogDescription: "Experimente o sabor único do Sub duplo com salames e pimenta, u
 focusKeyphrase: "Sub duplo com salames e pimenta"
 date: 2025-08-02
 draft: false
-image: sub-duplo-com-salames.png
+image: sub-duplo-com-salames.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

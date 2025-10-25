@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Guimauvas de Baunilha com um toque surpreendente
 focusKeyphrase: "guimauvas de baunilha"
 date: 2025-08-09
 draft: false
-image: guimauvas-de-baunilha.png
+image: guimauvas-de-baunilha.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT10M

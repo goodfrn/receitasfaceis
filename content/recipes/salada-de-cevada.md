@@ -7,7 +7,7 @@ ogDescription: "Experimente a deliciosa Salada de Cevada com Pimentões e Queijo
 focusKeyphrase: "Salada de Cevada"
 date: 2025-08-15
 draft: false
-image: salada-de-cevada.png
+image: salada-de-cevada.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Cari De Frango Adaptado, uma receita indiana brasi
 focusKeyphrase: "Cari De Frango Adaptado"
 date: 2025-08-28
 draft: false
-image: cari-de-frango-adaptado.png
+image: cari-de-frango-adaptado.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H40M

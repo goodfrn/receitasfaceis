@@ -7,7 +7,7 @@ ogDescription: "Experimente Antipasti Marinados Brasileiros. Uma explosão de co
 focusKeyphrase: "Antipasti Marinados Brasileiros"
 date: 2025-08-19
 draft: false
-image: antipasti-marinados-brasileiros.png
+image: antipasti-marinados-brasileiros.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT35M

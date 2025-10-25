@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com beterrabas cozidas na pressão com laranja. Recei
 focusKeyphrase: "beterrabas na pressão"
 date: 2025-07-20
 draft: false
-image: beterrabas-na-pressao-com-laranja.png
+image: beterrabas-na-pressao-com-laranja.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT28M

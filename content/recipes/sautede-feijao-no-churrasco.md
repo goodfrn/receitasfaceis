@@ -7,7 +7,7 @@ ogDescription: "Misture feijões coloridos na churrasqueira. Receita vegana e sa
 focusKeyphrase: "Sauté de Feijão no Churrasco"
 date: 2025-08-12
 draft: false
-image: sautede-feijao-no-churrasco.png
+image: sautede-feijao-no-churrasco.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Descubra Ovos de Codorna com Maionese de Estragão. Petisco surp
 focusKeyphrase: "Ovos de Codorna com Maionese de Estragão"
 date: 2025-07-28
 draft: false
-image: ovos-de-codorna-com-maionese.png
+image: ovos-de-codorna-com-maionese.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT6M

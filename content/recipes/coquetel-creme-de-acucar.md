@@ -7,7 +7,7 @@ ogDescription: "Experimente o Coquetel Creme de Açúcar e Especiarias, uma mist
 focusKeyphrase: "Coquetel Creme de Açúcar e Especiarias"
 date: 2025-08-14
 draft: false
-image: coquetel-creme-de-acucar.png
+image: coquetel-creme-de-acucar.jpg
 author: "Julia"
 prepTime: PT07M
 cookTime: PT00M

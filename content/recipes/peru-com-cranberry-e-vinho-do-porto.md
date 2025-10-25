@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um delicioso peru com cranberry e vinho do porto
 focusKeyphrase: "peru com cranberry"
 date: 2025-09-29
 draft: false
-image: peru-com-cranberry-e-vinho-do-porto.png
+image: peru-com-cranberry-e-vinho-do-porto.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT2H

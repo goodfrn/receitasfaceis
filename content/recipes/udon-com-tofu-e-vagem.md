@@ -7,7 +7,7 @@ ogDescription: "Experimente Udon com Tofu e Vagem. Prato saboroso, vegano e sem 
 focusKeyphrase: "Udon com Tofu e Vagem"
 date: 2025-07-30
 draft: false
-image: udon-com-tofu-e-vagem.png
+image: udon-com-tofu-e-vagem.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

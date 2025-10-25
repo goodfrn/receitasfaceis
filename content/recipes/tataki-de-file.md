@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar Tataki de Filé com Toque Thai. Carne suculen
 focusKeyphrase: "Tataki de Filé"
 date: 2025-08-06
 draft: false
-image: tataki-de-file.png
+image: tataki-de-file.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT4H5M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolinho de Abobrinha com Hortelã; crocante por fo
 focusKeyphrase: "Bolinho de Abobrinha"
 date: 2025-08-04
 draft: false
-image: bolinho-abobrinha-hortela.png
+image: bolinho-abobrinha-hortela.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

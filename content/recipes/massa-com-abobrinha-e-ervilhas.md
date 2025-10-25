@@ -7,7 +7,7 @@ ogDescription: "Uma receita de massa com abobrinha e ervilhas que traz frescor e
 focusKeyphrase: "massa com abobrinha"
 date: 2025-08-13
 draft: false
-image: massa-com-abobrinha-e-ervilhas.png
+image: massa-com-abobrinha-e-ervilhas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

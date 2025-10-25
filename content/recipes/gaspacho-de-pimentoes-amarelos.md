@@ -7,7 +7,7 @@ ogDescription: "Experimente o Gaspacho de Pimentões Amarelos- uma sopa fria ref
 focusKeyphrase: "Gaspacho de Pimentões Amarelos"
 date: 2025-08-04
 draft: false
-image: gaspacho-de-pimentoes-amarelos.png
+image: gaspacho-de-pimentoes-amarelos.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

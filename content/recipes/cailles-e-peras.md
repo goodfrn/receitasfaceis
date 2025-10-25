@@ -7,7 +7,7 @@ ogDescription: "Experimente cailles e pêras ao especiarias. Uma receita simples
 focusKeyphrase: "cailles e pêras ao especiarias"
 date: 2025-07-29
 draft: false
-image: cailles-e-peras.png
+image: cailles-e-peras.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

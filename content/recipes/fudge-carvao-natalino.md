@@ -7,7 +7,7 @@ ogDescription: "Fudge Carvão Natalino Preto é um doce divertido. Mistura choco
 focusKeyphrase: "Fudge Carvão Natalino Preto"
 date: 2025-10-07
 draft: false
-image: fudge-carvao-natalino.png
+image: fudge-carvao-natalino.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT11M

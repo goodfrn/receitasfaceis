@@ -7,7 +7,7 @@ ogDescription: "Experimente o Trempette Mexicana, um aperitivo fresco e crocante
 focusKeyphrase: "Trempette Mexicana"
 date: 2025-09-24
 draft: false
-image: trempette-mexicana.png
+image: trempette-mexicana.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

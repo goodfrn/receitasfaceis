@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Glaçagem de Manteiga e Limão, perfeita para qua
 focusKeyphrase: "Glaçagem de Manteiga e Limão"
 date: 2025-08-05
 draft: false
-image: glacagem-limao.png
+image: glacagem-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT5M

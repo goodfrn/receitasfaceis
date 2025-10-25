@@ -7,7 +7,7 @@ ogDescription: "Desfrute da bavette grelhada com brócolis e pimentão. Combina�
 focusKeyphrase: "bavette grelhada"
 date: 2025-07-24
 draft: false
-image: bavette-grelhada-com-brocolis.png
+image: bavette-grelhada-com-brocolis.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT22M

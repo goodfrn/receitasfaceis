@@ -7,7 +7,7 @@ ogDescription: "Descubra a salada rústica de batata e chips; uma combinação p
 focusKeyphrase: "salada rústica de batata e chips"
 date: 2025-08-07
 draft: false
-image: salada-rustica-batata-chips.png
+image: salada-rustica-batata-chips.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Mini Hambúrgueres de Crabcake. Combinação de sabo
 focusKeyphrase: "Mini Hambúrgueres de Crabcake"
 date: 2025-07-20
 draft: false
-image: mini-hamburgueres-de-crabcake.png
+image: mini-hamburgueres-de-crabcake.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Experimente os Biscotti Veganos Pistache Limão, com crocância 
 focusKeyphrase: "Biscotti Veganos Pistache Limão"
 date: 2025-09-28
 draft: false
-image: biscotti-veganos-pistache-limao.png
+image: biscotti-veganos-pistache-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

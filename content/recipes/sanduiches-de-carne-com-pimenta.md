@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar sanduíches de carne suculenta com piment
 focusKeyphrase: "sanduíches de carne com pimenta"
 date: 2025-09-26
 draft: false
-image: sanduiches-de-carne-com-pimenta.png
+image: sanduiches-de-carne-com-pimenta.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT21M

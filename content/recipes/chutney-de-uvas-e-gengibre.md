@@ -7,7 +7,7 @@ ogDescription: "Descubra o chutney de uvas e gengibre. Um equilíbrio perfeito e
 focusKeyphrase: "chutney de uvas"
 date: 2025-08-04
 draft: false
-image: chutney-de-uvas-e-gengibre.png
+image: chutney-de-uvas-e-gengibre.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT23M

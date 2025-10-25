@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa Cremosa de Cebola com Croûton de Queijo. Uma re
 focusKeyphrase: "Sopa Cremosa de Cebola"
 date: 2025-08-11
 draft: false
-image: sopa-cremosa-de-cebola.png
+image: sopa-cremosa-de-cebola.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT50M

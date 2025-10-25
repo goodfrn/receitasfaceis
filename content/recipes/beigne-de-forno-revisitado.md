@@ -7,7 +7,7 @@ ogDescription: "Experimente o Beigne De Forno Revisitado – uma receita leve, c
 focusKeyphrase: "beigne assado"
 date: 2025-08-09
 draft: false
-image: beigne-de-forno-revisitado.png
+image: beigne-de-forno-revisitado.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT15M

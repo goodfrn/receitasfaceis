@@ -7,7 +7,7 @@ ogDescription: "Experimente o Leite de Coco Caseiro com ervas. Uma receita que t
 focusKeyphrase: "Leite de Coco Caseiro"
 date: 2025-10-01
 draft: false
-image: leite-de-coco-caseiro.png
+image: leite-de-coco-caseiro.jpg
 author: "Julia"
 prepTime: PT17M
 cookTime: PT0M

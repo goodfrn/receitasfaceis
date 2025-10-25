@@ -7,7 +7,7 @@ ogDescription: "Biscoitos veganos de banana e aveia. Troca de farinhas e um toqu
 focusKeyphrase: "biscoitos banana aveia"
 date: 2025-08-17
 draft: false
-image: biscoitos-matinais-banana-cacau.png
+image: biscoitos-matinais-banana-cacau.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada Cobb Tropical, uma opção refrescante que 
 focusKeyphrase: "Salada Cobb Tropical"
 date: 2025-07-20
 draft: false
-image: salada-cobb-tropical.png
+image: salada-cobb-tropical.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

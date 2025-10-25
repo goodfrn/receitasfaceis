@@ -7,7 +7,7 @@ ogDescription: "Xarope picante de gengibre ideal para drinks sem álcool ou chá
 focusKeyphrase: "xarope picante de gengibre"
 date: 2025-08-06
 draft: false
-image: xarope-picante-gengibre.png
+image: xarope-picante-gengibre.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT10M

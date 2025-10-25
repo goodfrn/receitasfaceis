@@ -7,7 +7,7 @@ ogDescription: "Descubra o Gratin de Couve-Flor e Espelta, um prato saudável e 
 focusKeyphrase: "gratin de couve-flor e espelta"
 date: 2025-08-17
 draft: false
-image: gratin-couve-flor-espelta.png
+image: gratin-couve-flor-espelta.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT50M

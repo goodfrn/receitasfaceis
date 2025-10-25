@@ -7,7 +7,7 @@ ogDescription: "Descubra o Pernil Assado com Glacê - sabor intenso e crosta car
 focusKeyphrase: "pernil assado"
 date: 2025-10-15
 draft: false
-image: pernil-assado-glace.png
+image: pernil-assado-glace.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT2H10M

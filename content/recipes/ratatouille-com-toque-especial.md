@@ -7,7 +7,7 @@ ogDescription: "Experimente esse ratatouille vegano com pimentão vermelho. Text
 focusKeyphrase: "ratatouille vegano"
 date: 2025-09-23
 draft: false
-image: ratatouille-com-toque-especial.png
+image: ratatouille-com-toque-especial.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

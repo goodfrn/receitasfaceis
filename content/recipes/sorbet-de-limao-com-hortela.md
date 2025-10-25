@@ -7,7 +7,7 @@ ogDescription: "Prepare um delicioso Sorbet de Limão com Hortelã, receita vega
 focusKeyphrase: "Sorbet de Limão com Hortelã"
 date: 2025-08-18
 draft: false
-image: sorbet-de-limao-com-hortela.png
+image: sorbet-de-limao-com-hortela.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT6M

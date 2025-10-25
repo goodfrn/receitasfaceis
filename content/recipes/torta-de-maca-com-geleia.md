@@ -7,7 +7,7 @@ ogDescription: "Descubra a Torta de Maçã com Geleia, uma receita que combina o
 focusKeyphrase: "Torta de Maçã com Geleia"
 date: 2025-09-10
 draft: false
-image: torta-de-maca-com-geleia.png
+image: torta-de-maca-com-geleia.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H05M

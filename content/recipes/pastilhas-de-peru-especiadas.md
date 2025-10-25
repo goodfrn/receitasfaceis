@@ -7,7 +7,7 @@ ogDescription: "Experimente as Pastilhas de Peru Especiadas, uma deliciosa mistu
 focusKeyphrase: "Pastilhas de Peru Especiadas"
 date: 2025-08-05
 draft: false
-image: pastilhas-de-peru-especiadas.png
+image: pastilhas-de-peru-especiadas.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT25M

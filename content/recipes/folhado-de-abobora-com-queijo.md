@@ -7,7 +7,7 @@ ogDescription: "Explore a combinação perfeita de abóbora butternut e queijo d
 focusKeyphrase: "folhado de abóbora com queijo de cabra"
 date: 2025-09-28
 draft: false
-image: folhado-de-abobora-com-queijo.png
+image: folhado-de-abobora-com-queijo.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT33M

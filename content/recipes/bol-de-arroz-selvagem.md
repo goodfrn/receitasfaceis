@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Bol de arroz selvagem com canard, uma combinaç
 focusKeyphrase: "Bol de arroz selvagem com canard"
 date: 2025-08-19
 draft: false
-image: bol-de-arroz-selvagem.png
+image: bol-de-arroz-selvagem.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT45M

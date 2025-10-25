@@ -7,7 +7,7 @@ ogDescription: "Conheça o Barbecue Jacquier Tofu, uma combinação explosiva de
 focusKeyphrase: "Barbecue Jacquier Tofu"
 date: 2025-08-02
 draft: false
-image: barbecue-jacquier-tofu.png
+image: barbecue-jacquier-tofu.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

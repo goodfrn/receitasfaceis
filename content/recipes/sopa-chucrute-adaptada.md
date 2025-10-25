@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sopa Chucrute Adaptada com batata-doce e bacon. Um
 focusKeyphrase: "sopa chucrute adaptada"
 date: 2025-08-04
 draft: false
-image: sopa-chucrute-adaptada.png
+image: sopa-chucrute-adaptada.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT6H10M

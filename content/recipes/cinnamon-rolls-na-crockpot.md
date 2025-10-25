@@ -7,7 +7,7 @@ ogDescription: "Experimente o rolinho de canela na crockpot; deliciosa combinaç
 focusKeyphrase: "rolinho de canela na crockpot"
 date: 2025-10-16
 draft: false
-image: cinnamon-rolls-na-crockpot.png
+image: cinnamon-rolls-na-crockpot.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT3H15M

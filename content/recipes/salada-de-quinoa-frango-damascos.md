@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada de Quinoa ao Frango e Damascos; ideal para alm
 focusKeyphrase: "salada de quinoa"
 date: 2025-08-13
 draft: false
-image: salada-de-quinoa-frango-damascos.png
+image: salada-de-quinoa-frango-damascos.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

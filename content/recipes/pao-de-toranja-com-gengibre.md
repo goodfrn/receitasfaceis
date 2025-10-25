@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pão de Toranja com Gengibre, com textura rústica
 focusKeyphrase: "Pão de Toranja com Gengibre"
 date: 2025-08-03
 draft: false
-image: pao-de-toranja-com-gengibre.png
+image: pao-de-toranja-com-gengibre.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT50M

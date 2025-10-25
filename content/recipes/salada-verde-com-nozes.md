@@ -7,7 +7,7 @@ ogDescription: "Desfrute de uma salada verde com molho de echalotas e iogurte de
 focusKeyphrase: "Salada verde com echalotas tostadas"
 date: 2025-08-03
 draft: false
-image: salada-verde-com-nozes.png
+image: salada-verde-com-nozes.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

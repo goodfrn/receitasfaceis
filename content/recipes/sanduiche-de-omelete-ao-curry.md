@@ -7,7 +7,7 @@ ogDescription: "Prepare um delicioso Sanduíche de Omelete ao Curry. Uma mistura
 focusKeyphrase: "sandwich de omelete ao curry"
 date: 2025-07-30
 draft: false
-image: sanduiche-de-omelete-ao-curry.png
+image: sanduiche-de-omelete-ao-curry.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

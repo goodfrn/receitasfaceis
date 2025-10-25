@@ -7,7 +7,7 @@ ogDescription: "Experimente este sanduíche de presunto e ovo, leve e delicioso,
 focusKeyphrase: "sanduíche de presunto e ovo"
 date: 2025-07-28
 draft: false
-image: sanduiche-de-presunto-e-ovo.png
+image: sanduiche-de-presunto-e-ovo.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

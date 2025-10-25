@@ -7,7 +7,7 @@ ogDescription: "Experimente o Whisky gengibre twist, um drink surpreendente com 
 focusKeyphrase: "whisky gengibre twist"
 date: 2025-09-29
 draft: false
-image: whisky-gengibre-twist.png
+image: whisky-gengibre-twist.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Gratin de Batatas com Alho Confit e Queijo Gouda, 
 focusKeyphrase: "Gratin de Batatas"
 date: 2025-08-14
 draft: false
-image: gratin-de-batatas-com-alho.png
+image: gratin-de-batatas-com-alho.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H50M

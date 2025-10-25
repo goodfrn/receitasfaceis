@@ -7,7 +7,7 @@ ogDescription: "Charuto de Couve com Cevada, deliciosa combinação de cevada e 
 focusKeyphrase: "charuto de couve"
 date: 2025-07-20
 draft: false
-image: charuto-de-couve-com-cevada.png
+image: charuto-de-couve-com-cevada.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT2H

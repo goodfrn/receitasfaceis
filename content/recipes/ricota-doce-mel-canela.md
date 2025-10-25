@@ -7,7 +7,7 @@ ogDescription: "Desfrute de uma receita de ricota doce com mel e canela. Cremosa
 focusKeyphrase: "ricota doce mel canela"
 date: 2025-08-17
 draft: false
-image: ricota-doce-mel-canela.png
+image: ricota-doce-mel-canela.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT0M

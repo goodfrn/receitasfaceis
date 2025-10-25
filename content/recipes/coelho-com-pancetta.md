@@ -7,7 +7,7 @@ ogDescription: "Experimente esse Coelho com Pancetta e Cogumelos combinação de
 focusKeyphrase: "Coelho com Pancetta e Cogumelos"
 date: 2025-07-19
 draft: false
-image: coelho-com-pancetta.png
+image: coelho-com-pancetta.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT1H5M

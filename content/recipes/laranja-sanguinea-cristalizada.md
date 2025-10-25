@@ -7,7 +7,7 @@ ogDescription: "Aprenda a cristalizar laranja sanguínea e encante-se com a comb
 focusKeyphrase: "Laranja Sanguínea Cristalizada"
 date: 2025-09-26
 draft: false
-image: laranja-sanguinea-cristalizada.png
+image: laranja-sanguinea-cristalizada.jpg
 author: "Julia"
 prepTime: PT28M
 cookTime: PT50M

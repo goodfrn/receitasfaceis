@@ -7,7 +7,7 @@ ogDescription: "Espetinhos de porco vietnamita com ervas frescas e molho equilib
 focusKeyphrase: "espetinhos de porco vietnamita"
 date: 2025-08-13
 draft: false
-image: espetinhos-de-porco.png
+image: espetinhos-de-porco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

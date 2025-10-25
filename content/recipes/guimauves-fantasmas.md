@@ -7,7 +7,7 @@ ogDescription: "Delícias em forma de fantasmas. Fáceis, divertidas e sem glút
 focusKeyphrase: "guimauves fantasmas cremosas"
 date: 2025-07-29
 draft: false
-image: guimauves-fantasmas.png
+image: guimauves-fantasmas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT4M

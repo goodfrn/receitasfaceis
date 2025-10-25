@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Vermicelli com Atum Picante. Refrescante
 focusKeyphrase: "Salada de Vermicelli com Atum Picante"
 date: 2025-07-19
 draft: false
-image: salada-de-vermicelli-com-atum.png
+image: salada-de-vermicelli-com-atum.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT4M

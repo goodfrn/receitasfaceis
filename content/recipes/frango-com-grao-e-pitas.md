@@ -7,7 +7,7 @@ ogDescription: "Frango com grão e pitas crocantes: Mistura irresistível de fra
 focusKeyphrase: "frango com grão e pitas crocantes"
 date: 2025-08-01
 draft: false
-image: frango-com-grao-e-pitas.png
+image: frango-com-grao-e-pitas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

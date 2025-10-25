@@ -7,7 +7,7 @@ ogDescription: "Experimente os Arancinis de Queijo com Toque de Cajá, bolinhos 
 focusKeyphrase: "Arancinis de Queijo com Toque de Cajá"
 date: 2025-07-18
 draft: false
-image: arancinis-de-queijo-com-caja.png
+image: arancinis-de-queijo-com-caja.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT55M

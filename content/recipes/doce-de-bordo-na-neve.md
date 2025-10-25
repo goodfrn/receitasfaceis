@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Doce de Bordo na Neve, uma receita vegana delici
 focusKeyphrase: "Doce de Bordo na Neve"
 date: 2025-07-25
 draft: false
-image: doce-de-bordo-na-neve.png
+image: doce-de-bordo-na-neve.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT12M

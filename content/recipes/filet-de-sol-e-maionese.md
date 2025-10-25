@@ -7,7 +7,7 @@ ogDescription: "Experimente o Filet de Sol e Molho Maionese Limão-Anchoa. Um pr
 focusKeyphrase: "Filet de Sol"
 date: 2025-09-28
 draft: false
-image: filet-de-sol-e-maionese.png
+image: filet-de-sol-e-maionese.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT11M

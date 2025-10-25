@@ -7,7 +7,7 @@ ogDescription: "Uma salada de batatas, caracóis e cogumelos. Uma receita que me
 focusKeyphrase: "salada morna batata e caracol"
 date: 2025-07-23
 draft: false
-image: salada-morna-batata-caracol.png
+image: salada-morna-batata-caracol.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Pudim de Pão com Mirtilos. Uma receita que traz o co
 focusKeyphrase: "Pudim de Pão"
 date: 2025-09-29
 draft: false
-image: pudim-de-pao-com-mirtilos.png
+image: pudim-de-pao-com-mirtilos.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H20M

@@ -7,7 +7,7 @@ ogDescription: "Prepare huevos rancheros no churrasco. Tomate estourado, feijão
 focusKeyphrase: "huevos rancheros no churrasco"
 date: 2025-09-27
 draft: false
-image: huevos-rancheros-no-churrasco.png
+image: huevos-rancheros-no-churrasco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Casinha de Terror Rice Krispie; uma versão temá
 focusKeyphrase: "casinha de terror Rice Krispie"
 date: 2025-10-21
 draft: false
-image: casinha-de-terror.png
+image: casinha-de-terror.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT38M

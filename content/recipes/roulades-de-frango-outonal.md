@@ -7,7 +7,7 @@ ogDescription: "Experimente Roulades de Frango Outonal com um molho aveludado. S
 focusKeyphrase: "Roulades de Frango"
 date: 2025-08-13
 draft: false
-image: roulades-de-frango-outonal.png
+image: roulades-de-frango-outonal.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT45M

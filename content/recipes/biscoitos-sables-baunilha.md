@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Biscoitos Sablés de Baunilha com uma versão le
 focusKeyphrase: "biscoitos sablés de baunilha"
 date: 2025-08-03
 draft: false
-image: biscoitos-sables-baunilha.png
+image: biscoitos-sables-baunilha.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Cebolas na Air Fryer. Receita prática, com sabor in
 focusKeyphrase: "Cebolas na Air Fryer"
 date: 2025-10-03
 draft: false
-image: cebolas-na-air-fryer.png
+image: cebolas-na-air-fryer.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT11M

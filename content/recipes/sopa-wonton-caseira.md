@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sopa Won-ton caseira. Uma mistura perfeita de sabo
 focusKeyphrase: "sopa won-ton caseira"
 date: 2025-08-17
 draft: false
-image: sopa-wonton-caseira.png
+image: sopa-wonton-caseira.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT15M

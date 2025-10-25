@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada rústica tubérculos com batatas e tupinamb
 focusKeyphrase: "salada rústica tubérculos"
 date: 2025-07-21
 draft: false
-image: salada-rustica-tuberculos.png
+image: salada-rustica-tuberculos.jpg
 author: "Julia"
 prepTime: PT16M
 cookTime: PT27M

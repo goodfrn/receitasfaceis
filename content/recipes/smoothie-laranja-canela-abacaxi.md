@@ -7,7 +7,7 @@ ogDescription: "Experimente o Smoothie Laranja-Canela com Abacaxi sabor tropical
 focusKeyphrase: "Smoothie Laranja-Canela com Abacaxi"
 date: 2025-07-21
 draft: false
-image: smoothie-laranja-canela-abacaxi.png
+image: smoothie-laranja-canela-abacaxi.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

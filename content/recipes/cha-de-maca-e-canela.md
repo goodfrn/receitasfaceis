@@ -7,7 +7,7 @@ ogDescription: "Experimente o Chá de Maçã e Canela. Uma infusão reconfortant
 focusKeyphrase: "Chá de Maçã e Canela"
 date: 2025-07-17
 draft: false
-image: cha-de-maca-e-canela.png
+image: cha-de-maca-e-canela.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT20M

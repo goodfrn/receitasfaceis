@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de Pleurotes e Cebolas Marinadas, um prato sa
 focusKeyphrase: "pleurotes e cebolas marinadas"
 date: 2025-09-24
 draft: false
-image: pleurotes-e-cebolas-marinadas.png
+image: pleurotes-e-cebolas-marinadas.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT27M

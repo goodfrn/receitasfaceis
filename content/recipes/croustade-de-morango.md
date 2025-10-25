@@ -7,7 +7,7 @@ ogDescription: "Experimente a Croustade de Morango Air Fryer - a sobremesa perfe
 focusKeyphrase: "Croustade de Morango Air Fryer"
 date: 2025-08-03
 draft: false
-image: croustade-de-morango.png
+image: croustade-de-morango.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

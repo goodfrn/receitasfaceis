@@ -7,7 +7,7 @@ ogDescription: "Aprenda a preparar batata-doce dourada na frigideira; combina√ß√
 focusKeyphrase: "batata-doce dourada na frigideira"
 date: 2025-08-11
 draft: false
-image: batata-doce-dourada-frigideira.png
+image: batata-doce-dourada-frigideira.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita dos scones de chocolate branco e grapefruit. 
 focusKeyphrase: "scones de chocolate branco e grapefruit"
 date: 2025-07-27
 draft: false
-image: scones-chocolate-branco-grapefruit.png
+image: scones-chocolate-branco-grapefruit.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT28M

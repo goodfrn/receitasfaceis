@@ -7,7 +7,7 @@ ogDescription: "Experimente Samosas Revisitados sem Fritura. Sabor intensificado
 focusKeyphrase: "samosas sem fritura"
 date: 2025-08-18
 draft: false
-image: samosas-revisitados-sem-fritura.png
+image: samosas-revisitados-sem-fritura.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

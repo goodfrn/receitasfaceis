@@ -7,7 +7,7 @@ ogDescription: "Experimente o Seitan Bourguignon Vegano, uma versão saborosa e 
 focusKeyphrase: "Seitan Bourguignon Vegano"
 date: 2025-09-26
 draft: false
-image: seitan-bourguignon-vegano.png
+image: seitan-bourguignon-vegano.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

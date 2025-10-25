@@ -7,7 +7,7 @@ ogDescription: "Descubra Bifes de Presunto com Molho Cremoso de Sálvia. Um prat
 focusKeyphrase: "Bifes de Presunto com Molho Cremoso de Sálvia"
 date: 2025-08-16
 draft: false
-image: bifes-de-presunto-com-molho.png
+image: bifes-de-presunto-com-molho.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

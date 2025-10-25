@@ -7,7 +7,7 @@ ogDescription: "Uma combinação única de sabores. Côtelettes de Porc com Mapl
 focusKeyphrase: "Côtelettes de Porc com Maple e Curry"
 date: 2025-09-30
 draft: false
-image: cotelettes-de-porco-maple-e-curry.png
+image: cotelettes-de-porco-maple-e-curry.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT40M

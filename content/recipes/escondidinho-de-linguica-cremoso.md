@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um Escondidinho de Linguiça Cremoso, uma co
 focusKeyphrase: "Escondidinho de Linguiça Cremoso"
 date: 2025-08-08
 draft: false
-image: escondidinho-de-linguica-cremoso.png
+image: escondidinho-de-linguica-cremoso.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT1H10M

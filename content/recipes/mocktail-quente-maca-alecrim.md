@@ -7,7 +7,7 @@ ogDescription: "Descubra a refrescância do mocktail quente maçã e alecrim. Sa
 focusKeyphrase: "mocktail quente maçã e alecrim"
 date: 2025-09-23
 draft: false
-image: mocktail-quente-maca-alecrim.png
+image: mocktail-quente-maca-alecrim.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT13M

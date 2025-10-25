@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer crepes de cacau com ingredientes saudáveis 
 focusKeyphrase: "crepes de cacau"
 date: 2025-07-26
 draft: false
-image: crepes-de-cacau.png
+image: crepes-de-cacau.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT20M

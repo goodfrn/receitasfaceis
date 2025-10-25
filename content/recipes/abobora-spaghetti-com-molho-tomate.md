@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Abóbora Spaghetti com Molho de Tomate, uma opç�
 focusKeyphrase: "abóbora spaghetti"
 date: 2025-08-04
 draft: false
-image: abobora-spaghetti-com-molho-tomate.png
+image: abobora-spaghetti-com-molho-tomate.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

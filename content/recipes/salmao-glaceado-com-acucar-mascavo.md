@@ -7,7 +7,7 @@ ogDescription: "Prepare Salmão Glaceado com Açúcar Mascavo. Uma receita que e
 focusKeyphrase: "salmão glaceado"
 date: 2025-10-21
 draft: false
-image: salmao-glaceado-com-acucar-mascavo.png
+image: salmao-glaceado-com-acucar-mascavo.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT23M

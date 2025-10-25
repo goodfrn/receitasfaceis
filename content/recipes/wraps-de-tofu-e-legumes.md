@@ -7,7 +7,7 @@ ogDescription: "Wraps vegetarianos de tofu e legumes grelhados. Saboroso, leve e
 focusKeyphrase: "wraps de tofu"
 date: 2025-07-21
 draft: false
-image: wraps-de-tofu-e-legumes.png
+image: wraps-de-tofu-e-legumes.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

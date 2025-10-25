@@ -7,7 +7,7 @@ ogDescription: "Batatas Fritas Crocantes, feitas com batatas Asterix e bacon, s√
 focusKeyphrase: "Batatas Fritas Crocantes"
 date: 2025-09-23
 draft: false
-image: batatas-fritas-crocantes.png
+image: batatas-fritas-crocantes.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT38M

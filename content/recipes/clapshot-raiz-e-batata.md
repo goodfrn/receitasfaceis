@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Clapshot raiz e batata, um purê cremoso e rúst
 focusKeyphrase: "Clapshot raiz e batata"
 date: 2025-09-01
 draft: false
-image: clapshot-raiz-e-batata.png
+image: clapshot-raiz-e-batata.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa Indiana de Lentilhas Vermelhas, reconfortante e 
 focusKeyphrase: "sopa indiana de lentilhas vermelhas"
 date: 2025-07-28
 draft: false
-image: sopa-indiana-lentilhas.png
+image: sopa-indiana-lentilhas.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT30M

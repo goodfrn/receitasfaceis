@@ -7,7 +7,7 @@ ogDescription: "Descubra a Sopa de Cevada e Leguminosas. Uma mistura saborosa de
 focusKeyphrase: "Sopa de Cevada e Leguminosas"
 date: 2025-09-27
 draft: false
-image: sopa-de-cevada-e-leguminosas.png
+image: sopa-de-cevada-e-leguminosas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H15M

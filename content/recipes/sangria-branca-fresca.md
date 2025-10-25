@@ -7,7 +7,7 @@ ogDescription: "Sangria branca fresca, vinho gelado, vodka e frutas. Uma receita
 focusKeyphrase: "sangria branca fresca"
 date: 2025-07-20
 draft: false
-image: sangria-branca-fresca.png
+image: sangria-branca-fresca.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

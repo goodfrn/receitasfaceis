@@ -7,7 +7,7 @@ ogDescription: "Galettes de Porco Parmigiana, uma mistura irresistível de sabor
 focusKeyphrase: "Galettes de Porco Parmigiana"
 date: 2025-09-28
 draft: false
-image: galettes-de-porco-parmigiana.png
+image: galettes-de-porco-parmigiana.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT33M

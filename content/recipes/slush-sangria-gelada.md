@@ -7,7 +7,7 @@ ogDescription: "Slush Sangria Gelada é a bebida perfeita pra verão; frutas con
 focusKeyphrase: "Slush Sangria Gelada"
 date: 2025-08-11
 draft: false
-image: slush-sangria-gelada.png
+image: slush-sangria-gelada.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT0M

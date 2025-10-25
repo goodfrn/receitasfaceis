@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sopa com pesto do tipo pistou, uma mistura saboros
 focusKeyphrase: "sopa com pesto do tipo pistou"
 date: 2025-09-29
 draft: false
-image: sopa-com-pesto-do-tipo-pistou.png
+image: sopa-com-pesto-do-tipo-pistou.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT33M

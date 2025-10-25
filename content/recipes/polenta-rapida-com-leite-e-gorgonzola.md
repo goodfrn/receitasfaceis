@@ -7,7 +7,7 @@ ogDescription: "Polenta Rápida com Leite e Gorgonzola - uma receita italiana ad
 focusKeyphrase: "Polenta Rápida com Leite e Gorgonzola"
 date: 2025-08-09
 draft: false
-image: polenta-rapida-com-leite-e-gorgonzola.png
+image: polenta-rapida-com-leite-e-gorgonzola.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o Shabu-shabu Brasuca - um fondue japonês adaptado par
 focusKeyphrase: "Shabu-shabu Brasuca"
 date: 2025-08-10
 draft: false
-image: shabu-shabu-brasuca.png
+image: shabu-shabu-brasuca.jpg
 author: "Julia"
 prepTime: PT13M
 cookTime: PT17M

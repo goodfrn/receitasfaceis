@@ -7,7 +7,7 @@ ogDescription: "Experimente os Brioches de Maple com Twist. Uma combinação ún
 focusKeyphrase: "Brioches de Maple com Twist"
 date: 2025-07-20
 draft: false
-image: brioches-de-maple-com-twist.png
+image: brioches-de-maple-com-twist.jpg
 author: "Julia"
 prepTime: PT1H20M
 cookTime: PT25M

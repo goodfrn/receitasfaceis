@@ -7,7 +7,7 @@ ogDescription: "Prepare uma Sangria Vermelha Tropical refrescante. Mistura de vi
 focusKeyphrase: "Sangria Vermelha Tropical"
 date: 2025-08-05
 draft: false
-image: sangria-vermelha-tropical.png
+image: sangria-vermelha-tropical.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT50M

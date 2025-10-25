@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Strogonoff de Carne Slow. Carne em tiras, molho
 focusKeyphrase: "strogonoff de carne"
 date: 2025-07-19
 draft: false
-image: strogonoff-de-carne-slow.png
+image: strogonoff-de-carne-slow.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT4H

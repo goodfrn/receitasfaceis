@@ -7,7 +7,7 @@ ogDescription: "Experimente o Fizz de Lílás com Gin uma bebida única. Flores 
 focusKeyphrase: "Fizz de Lílás com Gin"
 date: 2025-07-25
 draft: false
-image: fizz-de-lilas-com-gin.png
+image: fizz-de-lilas-com-gin.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT10M

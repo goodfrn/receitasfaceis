@@ -7,7 +7,7 @@ ogDescription: "Descubra o granité de limão servido com café quente, uma comb
 focusKeyphrase: "granité de limão"
 date: 2025-09-30
 draft: false
-image: affogato-granite-limao.png
+image: affogato-granite-limao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

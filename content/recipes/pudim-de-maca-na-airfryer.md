@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pudim de Maçã na Airfryer, uma combinação irre
 focusKeyphrase: "Pudim de Maçã na Airfryer"
 date: 2025-09-24
 draft: false
-image: pudim-de-maca-na-airfryer.png
+image: pudim-de-maca-na-airfryer.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT15M

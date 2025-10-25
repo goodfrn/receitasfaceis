@@ -7,7 +7,7 @@ ogDescription: "Experimente este sanduíche robusto de contrafilé, com cebolas 
 focusKeyphrase: "sanduíche de carne e bulbo marinado"
 date: 2025-08-14
 draft: false
-image: sanduiche-carne-bulbo-marinado.png
+image: sanduiche-carne-bulbo-marinado.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT10M

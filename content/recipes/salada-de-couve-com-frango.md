@@ -7,7 +7,7 @@ ogDescription: "Salada de Couve com Frango e Figos. Uma combinação única de s
 focusKeyphrase: "salada de couve frango figos"
 date: 2025-08-07
 draft: false
-image: salada-de-couve-com-frango.png
+image: salada-de-couve-com-frango.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT12M

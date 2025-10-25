@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer uma massa de biscoito com manteiga de amendoim c
 focusKeyphrase: "massa de biscoito com manteiga de amendoim"
 date: 2025-10-14
 draft: false
-image: massa-biscoito-manteiga-amendoim.png
+image: massa-biscoito-manteiga-amendoim.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT28M

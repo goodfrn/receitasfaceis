@@ -7,7 +7,7 @@ ogDescription: "Experimente o Affogato Cremoso Diferente, uma mistura do sorvete
 focusKeyphrase: "Affogato Cremoso Diferente"
 date: 2025-08-13
 draft: false
-image: affogato-cremoso-diferente.png
+image: affogato-cremoso-diferente.jpg
 author: "Julia"
 prepTime: PT8M
 cookTime: PT7M

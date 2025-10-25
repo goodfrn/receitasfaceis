@@ -7,7 +7,7 @@ ogDescription: "Filés de Porco com Salada de Repolho e Milho Grelhado é uma re
 focusKeyphrase: "Filés de Porco e Salada de Repolho"
 date: 2025-08-09
 draft: false
-image: files-de-porco-e-salada.png
+image: files-de-porco-e-salada.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Sopa Cremosa de Abóbora é nutritiva e fácil de preparar. Idea
 focusKeyphrase: "Sopa Cremosa de Abóbora"
 date: 2025-07-28
 draft: false
-image: sopa-cremosa-de-abobora.png
+image: sopa-cremosa-de-abobora.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H5M

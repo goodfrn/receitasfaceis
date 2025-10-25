@@ -7,7 +7,7 @@ ogDescription: "Macarrão Gratinado com Chouriço e Milho traz um sabor irresist
 focusKeyphrase: "Macarrão Gratinado com Chouriço"
 date: 2025-08-15
 draft: false
-image: macarrao-gratinado-com-chourico.png
+image: macarrao-gratinado-com-chourico.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

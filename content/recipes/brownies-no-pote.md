@@ -7,7 +7,7 @@ ogDescription: "Brownies no Pote; simples, rápidos e deliciosos, perfeitos para
 focusKeyphrase: "brownies no pote"
 date: 2025-08-17
 draft: false
-image: brownies-no-pote.png
+image: brownies-no-pote.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT12M

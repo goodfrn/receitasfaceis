@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Massa Gremolata Tropical. Prato perfeito
 focusKeyphrase: "salada de massa gremolata tropical"
 date: 2025-07-25
 draft: false
-image: salada-de-massa-gremolata.png
+image: salada-de-massa-gremolata.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT15M

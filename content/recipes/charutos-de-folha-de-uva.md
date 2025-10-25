@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar Charutos de Folha de Uva. Receitinha deli
 focusKeyphrase: "charutos de folha de uva"
 date: 2025-07-19
 draft: false
-image: charutos-de-folha-de-uva.png
+image: charutos-de-folha-de-uva.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Molho Barbecue Caseiro. Sabor irresistível com 
 focusKeyphrase: "Molho Barbecue Caseiro"
 date: 2025-08-03
 draft: false
-image: molho-barbecue-caseiro.png
+image: molho-barbecue-caseiro.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT15M

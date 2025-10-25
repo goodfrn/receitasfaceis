@@ -7,7 +7,7 @@ ogDescription: "Experimente a receita de Brownies de Abacate. Uma combinação s
 focusKeyphrase: "Brownies de Abacate"
 date: 2025-09-29
 draft: false
-image: brownies-de-abacate.png
+image: brownies-de-abacate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT16M

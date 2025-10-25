@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pastitsio Brasileiro, um prato que mistura carne m
 focusKeyphrase: "Pastitsio Brasileiro"
 date: 2025-07-20
 draft: false
-image: pastitsio-brasileiro.png
+image: pastitsio-brasileiro.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT1H40M

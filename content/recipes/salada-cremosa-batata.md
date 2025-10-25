@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada cremosa de batata, com ervas frescas. Recei
 focusKeyphrase: "salada cremosa de batata"
 date: 2025-07-29
 draft: false
-image: salada-cremosa-batata.png
+image: salada-cremosa-batata.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com esse molho de carne assado, uma combinação rica
 focusKeyphrase: "molho de carne assado"
 date: 2025-09-26
 draft: false
-image: molho-de-carne-assado.png
+image: molho-de-carne-assado.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT45M

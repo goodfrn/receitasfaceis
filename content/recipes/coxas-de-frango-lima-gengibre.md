@@ -7,7 +7,7 @@ ogDescription: "Experimente a receita de Coxas de Frango Limão Gengibre. Um pra
 focusKeyphrase: "Coxas de Frango Limão Gengibre"
 date: 2025-07-18
 draft: false
-image: coxas-de-frango-lima-gengibre.png
+image: coxas-de-frango-lima-gengibre.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

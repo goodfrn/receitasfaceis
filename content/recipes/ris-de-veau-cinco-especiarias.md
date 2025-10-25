@@ -7,7 +7,7 @@ ogDescription: "Ris de Veau Cinco-Especiarias é um prato que combina sabores ex
 focusKeyphrase: "Ris de Veau Cinco-Especiarias"
 date: 2025-09-28
 draft: false
-image: ris-de-veau-cinco-especiarias.png
+image: ris-de-veau-cinco-especiarias.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

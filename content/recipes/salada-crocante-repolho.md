@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada Crocante de Repolho, ideal para acompanhar 
 focusKeyphrase: "Salada Crocante de Repolho"
 date: 2025-08-16
 draft: false
-image: salada-crocante-repolho.png
+image: salada-crocante-repolho.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

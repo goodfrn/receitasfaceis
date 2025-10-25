@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Pernil de Cordeiro Mediterrâneo; carne macia e
 focusKeyphrase: "Pernil de Cordeiro Mediterrâneo"
 date: 2025-08-17
 draft: false
-image: pernil-de-cordeiro-mediterraneo.png
+image: pernil-de-cordeiro-mediterraneo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT2H20M

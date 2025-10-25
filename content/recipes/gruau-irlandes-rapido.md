@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Gruau Irlandais Rápido, um mingau de aveia com 
 focusKeyphrase: "Gruau Irlandais Rápido"
 date: 2025-07-19
 draft: false
-image: gruau-irlandes-rapido.png
+image: gruau-irlandes-rapido.jpg
 author: "Julia"
 prepTime: PT4M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Tacos-burgers com molho cremoso. Receita deliciosa e
 focusKeyphrase: "tacos-burgers"
 date: 2025-07-23
 draft: false
-image: tacos-burgers-com-molho.png
+image: tacos-burgers-com-molho.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT12M

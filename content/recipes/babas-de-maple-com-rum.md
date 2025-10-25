@@ -7,7 +7,7 @@ ogDescription: "Babas de Maple com Rum Um bolo leve, embebido em calda doce e um
 focusKeyphrase: "Babas de Maple com Rum"
 date: 2025-07-25
 draft: false
-image: babas-de-maple-com-rum.png
+image: babas-de-maple-com-rum.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer a Omelete de Ervas com Aspargos. Prato leve e sa
 focusKeyphrase: "Omelete de Ervas com Aspargos"
 date: 2025-08-10
 draft: false
-image: omelete-de-ervas-com-aspargos.png
+image: omelete-de-ervas-com-aspargos.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

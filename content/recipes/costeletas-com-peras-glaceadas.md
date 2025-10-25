@@ -7,7 +7,7 @@ ogDescription: "Costeletas com peras glaceadas é uma explosão de sabores e tex
 focusKeyphrase: "costeletas com peras glaceadas"
 date: 2025-08-04
 draft: false
-image: costeletas-com-peras-glaceadas.png
+image: costeletas-com-peras-glaceadas.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT35M

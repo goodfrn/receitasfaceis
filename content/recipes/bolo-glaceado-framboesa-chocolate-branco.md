@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer um bolo glaceado de framboesa e chocolate br
 focusKeyphrase: "Bolo glaceado framboesa e chocolate branco"
 date: 2025-07-30
 draft: false
-image: bolo-glaceado-framboesa-chocolate-branco.png
+image: bolo-glaceado-framboesa-chocolate-branco.jpg
 author: "Julia"
 prepTime: PT1H10M
 cookTime: PT15M

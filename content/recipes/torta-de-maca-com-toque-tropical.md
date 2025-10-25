@@ -7,7 +7,7 @@ ogDescription: "Experimente a Torta de Maçã com Toque Tropical, uma receita qu
 focusKeyphrase: "torta de maçã"
 date: 2025-08-16
 draft: false
-image: torta-de-maca-com-toque-tropical.png
+image: torta-de-maca-com-toque-tropical.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT60M

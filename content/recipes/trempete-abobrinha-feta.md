@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um Trempete de Abobrinha e Feta, perfeito para a
 focusKeyphrase: "Trempete de Abobrinha e Feta"
 date: 2025-08-18
 draft: false
-image: trempete-abobrinha-feta.png
+image: trempete-abobrinha-feta.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Aprecie espetinhos suculentos de porco com gengibre e molho bras
 focusKeyphrase: "espeto de porco gengibre"
 date: 2025-07-28
 draft: false
-image: espetinhos-de-porco-gengibre.png
+image: espetinhos-de-porco-gengibre.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT15M

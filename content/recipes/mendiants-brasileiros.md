@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Mendiants Brasileiros, uma deliciosa combina
 focusKeyphrase: "Mendiants Brasileiros"
 date: 2025-08-19
 draft: false
-image: mendiants-brasileiros.png
+image: mendiants-brasileiros.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada Gaspacho Brasileira. Mistura única de temp
 focusKeyphrase: "salada gaspacho brasileira"
 date: 2025-07-24
 draft: false
-image: salada-gaspacho-brasileira.png
+image: salada-gaspacho-brasileira.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Descubra o sabor refrescante do Bolo de Limão com Toque de Coco
 focusKeyphrase: "Bolo de Limão com Toque de Coco"
 date: 2025-10-09
 draft: false
-image: bolo-de-limao-com-toque-de-coco.png
+image: bolo-de-limao-com-toque-de-coco.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT55M

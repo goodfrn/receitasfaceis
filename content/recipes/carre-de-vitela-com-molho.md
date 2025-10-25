@@ -7,7 +7,7 @@ ogDescription: "Conheça o carré de vitela com molho silvestre, um prato sofist
 focusKeyphrase: "carré de vitela"
 date: 2025-07-24
 draft: false
-image: carre-de-vitela-com-molho.png
+image: carre-de-vitela-com-molho.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H

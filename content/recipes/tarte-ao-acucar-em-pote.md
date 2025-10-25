@@ -7,7 +7,7 @@ ogDescription: "Tarte ao Açúcar em Pote uma deliciosa combinação de texturas
 focusKeyphrase: "Tarte ao Açúcar em Pote"
 date: 2025-09-27
 draft: false
-image: tarte-ao-acucar-em-pote.png
+image: tarte-ao-acucar-em-pote.jpg
 author: "Julia"
 prepTime: PT50M
 cookTime: PT30M

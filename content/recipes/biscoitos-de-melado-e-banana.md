@@ -7,7 +7,7 @@ ogDescription: "Biscoitos de melado e banana são delícias macias e aromáticas
 focusKeyphrase: "biscoitos de melado e banana"
 date: 2025-07-19
 draft: false
-image: biscoitos-de-melado-e-banana.png
+image: biscoitos-de-melado-e-banana.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

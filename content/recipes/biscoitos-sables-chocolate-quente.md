@@ -7,7 +7,7 @@ ogDescription: "Biscoitos Sablés. Crocância da massa, especiarias, chocolate e
 focusKeyphrase: "Biscoitos Sablés Chocolate Quente"
 date: 2025-08-16
 draft: false
-image: biscoitos-sables-chocolate-quente.png
+image: biscoitos-sables-chocolate-quente.jpg
 author: "Julia"
 prepTime: PT55M
 cookTime: PT15M

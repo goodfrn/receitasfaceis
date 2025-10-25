@@ -7,7 +7,7 @@ ogDescription: "Brown Butter Rice Krispie transforma o tradicional. Mistura croc
 focusKeyphrase: "Brown Butter Rice Krispie"
 date: 2025-10-23
 draft: false
-image: brown-butter-rice-krispie.png
+image: brown-butter-rice-krispie.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Massa fresca de gemas e ovos inteiros, textura única, ideal par
 focusKeyphrase: "massa fresca com gemas"
 date: 2025-08-12
 draft: false
-image: massa-fresca-com-gemas.png
+image: massa-fresca-com-gemas.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Tofu estilo Frango com Manteiga. Sabor intenso, re
 focusKeyphrase: "tofu estilo frango com manteiga"
 date: 2025-09-25
 draft: false
-image: tofu-estilo-frango-com-manteiga.png
+image: tofu-estilo-frango-com-manteiga.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT35M

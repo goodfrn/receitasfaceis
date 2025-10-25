@@ -7,7 +7,7 @@ ogDescription: "Experimente Concombres Marinés com Toque Tropical; um acompanha
 focusKeyphrase: "concombres marinados"
 date: 2025-08-03
 draft: false
-image: concombres-marines-toque-tropical.png
+image: concombres-marines-toque-tropical.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT5M

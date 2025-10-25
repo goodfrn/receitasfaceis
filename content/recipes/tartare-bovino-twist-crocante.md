@@ -7,7 +7,7 @@ ogDescription: "Descubra o Tartare Bovino com Twist Crocante. Sabor intenso com 
 focusKeyphrase: "Tartare Bovino"
 date: 2025-07-20
 draft: false
-image: tartare-bovino-twist-crocante.png
+image: tartare-bovino-twist-crocante.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT30M

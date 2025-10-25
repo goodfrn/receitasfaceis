@@ -7,7 +7,7 @@ ogDescription: "Experimente os Mini-Bundts de Laranja e Gengibre. Bolinhos peque
 focusKeyphrase: "Mini-Bundts de Laranja e Gengibre"
 date: 2025-07-26
 draft: false
-image: mini-bundts-laranja-gengibre.png
+image: mini-bundts-laranja-gengibre.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT25M

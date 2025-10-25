@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Espaguete com Camarão e Tomates - um prato que c
 focusKeyphrase: "espaguete com camarão"
 date: 2025-08-14
 draft: false
-image: espaguete-com-camarao.png
+image: espaguete-com-camarao.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT18M

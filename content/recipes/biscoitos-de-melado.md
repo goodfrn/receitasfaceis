@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Biscoitos de Melado com Gengibre, que combin
 focusKeyphrase: "Biscoitos de Melado com Gengibre"
 date: 2025-10-05
 draft: false
-image: biscoitos-de-melado.png
+image: biscoitos-de-melado.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

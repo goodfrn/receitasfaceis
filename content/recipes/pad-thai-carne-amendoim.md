@@ -7,7 +7,7 @@ ogDescription: "Experimente este Pad Thai de Carne com Amendoim, combinações d
 focusKeyphrase: "Pad Thai de Carne com Amendoim"
 date: 2025-10-23
 draft: false
-image: pad-thai-carne-amendoim.png
+image: pad-thai-carne-amendoim.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT18M

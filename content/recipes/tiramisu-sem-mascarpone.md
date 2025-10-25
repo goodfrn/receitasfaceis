@@ -7,7 +7,7 @@ ogDescription: "Descubra o tiramisu sem mascarpone com ricota e cream cheese. Um
 focusKeyphrase: "tiramisu sem mascarpone"
 date: 2025-08-06
 draft: false
-image: tiramisu-sem-mascarpone.png
+image: tiramisu-sem-mascarpone.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT0M

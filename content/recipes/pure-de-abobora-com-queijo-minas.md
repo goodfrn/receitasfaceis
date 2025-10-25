@@ -7,7 +7,7 @@ ogDescription: "Experimente este Purê de Abóbora com Queijo Minas, que combina
 focusKeyphrase: "Purê de Abóbora com Queijo Minas"
 date: 2025-08-15
 draft: false
-image: pure-de-abobora-com-queijo-minas.png
+image: pure-de-abobora-com-queijo-minas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT40M

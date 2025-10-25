@@ -7,7 +7,7 @@ ogDescription: "Salada que combina arroz selvagem, porco grelhado e amendoim. Cr
 focusKeyphrase: "Salada de Arroz Selvagem e Porco"
 date: 2025-08-08
 draft: false
-image: salada-arroz-selvagem-porco.png
+image: salada-arroz-selvagem-porco.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o sabor do Sorbet cremoso de manga, uma sobremesa ve
 focusKeyphrase: "sorbet cremoso de manga"
 date: 2025-09-27
 draft: false
-image: sorbet-cremoso-de-manga.png
+image: sorbet-cremoso-de-manga.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Descubra a deliciosa receita de Aspargos ao Manteiga Limão. Uma
 focusKeyphrase: "Aspargos ao Manteiga Limão"
 date: 2025-07-24
 draft: false
-image: aspargos-ao-manteiga-limao.png
+image: aspargos-ao-manteiga-limao.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT15M

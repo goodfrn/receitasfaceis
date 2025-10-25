@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer Biscoitos Papai Noel Nutter Butter com choco
 focusKeyphrase: "Biscoitos Papai Noel Nutter Butter"
 date: 2025-10-06
 draft: false
-image: biscoitos-papai-noel-nutter-butter.png
+image: biscoitos-papai-noel-nutter-butter.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT25M

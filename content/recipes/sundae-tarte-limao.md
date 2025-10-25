@@ -7,7 +7,7 @@ ogDescription: "Descubra a deliciosa Sundae Tarte Limão. Uma mistura de creme d
 focusKeyphrase: "Sundae Tarte Limão"
 date: 2025-07-23
 draft: false
-image: sundae-tarte-limao.png
+image: sundae-tarte-limao.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT15M

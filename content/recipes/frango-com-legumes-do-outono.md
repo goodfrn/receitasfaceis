@@ -7,7 +7,7 @@ ogDescription: "Sopa de frango saborosa com legumes de outono. Perfeita para o f
 focusKeyphrase: "frango com legumes"
 date: 2025-07-26
 draft: false
-image: frango-com-legumes-do-outono.png
+image: frango-com-legumes-do-outono.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

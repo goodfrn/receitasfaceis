@@ -7,7 +7,7 @@ ogDescription: "Faça cenouras em conserva rápida com vinagre de maçã e gengi
 focusKeyphrase: "cenouras em conserva rápida"
 date: 2025-08-07
 draft: false
-image: cenouras-em-conserva.png
+image: cenouras-em-conserva.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT5M

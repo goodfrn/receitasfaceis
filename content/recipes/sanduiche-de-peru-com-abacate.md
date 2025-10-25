@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sanduíche de Peru com Abacate. Um lanche prático
 focusKeyphrase: "sanduíche de peru com abacate"
 date: 2025-09-27
 draft: false
-image: sanduiche-de-peru-com-abacate.png
+image: sanduiche-de-peru-com-abacate.jpg
 author: "Julia"
 prepTime: PT17M
 cookTime: PT0M

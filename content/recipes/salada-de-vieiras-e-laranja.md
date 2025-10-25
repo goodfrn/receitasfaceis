@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada de vieiras e laranja, uma mistura refrescan
 focusKeyphrase: "salada de vieiras"
 date: 2025-08-04
 draft: false
-image: salada-de-vieiras-e-laranja.png
+image: salada-de-vieiras-e-laranja.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT7M

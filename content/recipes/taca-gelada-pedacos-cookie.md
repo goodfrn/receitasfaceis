@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com a Taça Gelada Pedaços Cookie. Sobremesa gelada 
 focusKeyphrase: "Taça Gelada Pedaços Cookie"
 date: 2025-09-25
 draft: false
-image: taca-gelada-pedacos-cookie.png
+image: taca-gelada-pedacos-cookie.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

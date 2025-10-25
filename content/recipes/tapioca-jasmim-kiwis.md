@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Tapioca ao Jasmim com Kiwis; uma sobremesa leve e
 focusKeyphrase: "Tapioca ao Jasmim"
 date: 2025-09-28
 draft: false
-image: tapioca-jasmim-kiwis.png
+image: tapioca-jasmim-kiwis.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com o Frango Chorizo com Limão. Uma receita imperdí
 focusKeyphrase: "Frango Chorizo com Limão"
 date: 2025-08-28
 draft: false
-image: frango-chorizo-com-limao.png
+image: frango-chorizo-com-limao.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT1H10M

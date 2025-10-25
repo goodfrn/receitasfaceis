@@ -7,7 +7,7 @@ ogDescription: "Deliciosos Biscoitos de Limão e Morango com gengibre, simples d
 focusKeyphrase: "Biscoitos de Limão e Morango"
 date: 2025-08-02
 draft: false
-image: biscoitos-de-limao-e-morango.png
+image: biscoitos-de-limao-e-morango.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT20M

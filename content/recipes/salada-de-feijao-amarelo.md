@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada de feijão amarelo, rúcula e tomate - uma 
 focusKeyphrase: "salada de feijão amarelo"
 date: 2025-09-01
 draft: false
-image: salada-de-feijao-amarelo.png
+image: salada-de-feijao-amarelo.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT3M

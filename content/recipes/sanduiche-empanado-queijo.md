@@ -7,7 +7,7 @@ ogDescription: "Descubra a receita de sanduíche de queijo empanado com pimenta.
 focusKeyphrase: "sanduíche de queijo empanado"
 date: 2025-08-09
 draft: false
-image: sanduiche-empanado-queijo.png
+image: sanduiche-empanado-queijo.jpg
 author: "Julia"
 prepTime: PT17M
 cookTime: PT12M

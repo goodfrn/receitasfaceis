@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Tartare de Atum com Mousseline Wasabi. Um prato 
 focusKeyphrase: "tartare de atum"
 date: 2025-08-03
 draft: false
-image: tartare-de-atum.png
+image: tartare-de-atum.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT0M

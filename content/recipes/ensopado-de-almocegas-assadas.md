@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com um ensopado de almôndegas assadas. Carnes suína
 focusKeyphrase: "ensopado de almôndegas assadas"
 date: 2025-09-25
 draft: false
-image: ensopado-de-almocegas-assadas.png
+image: ensopado-de-almocegas-assadas.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT50M

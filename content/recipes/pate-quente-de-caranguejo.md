@@ -7,7 +7,7 @@ ogDescription: "Experimente o Patê Quente de Caranguejo; um aperitivo com textu
 focusKeyphrase: "Patê Quente de Caranguejo"
 date: 2025-08-07
 draft: false
-image: pate-quente-de-caranguejo.png
+image: pate-quente-de-caranguejo.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT20M

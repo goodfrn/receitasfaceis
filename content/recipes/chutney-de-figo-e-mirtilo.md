@@ -7,7 +7,7 @@ ogDescription: "Experimente o chutney de figo e mirtilo; perfeita mistura agrido
 focusKeyphrase: "chutney de figo e mirtilo"
 date: 2025-09-25
 draft: false
-image: chutney-de-figo-e-mirtilo.png
+image: chutney-de-figo-e-mirtilo.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

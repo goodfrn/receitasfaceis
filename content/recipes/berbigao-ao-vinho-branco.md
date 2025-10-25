@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer berbigão ao vinho branco com crumble crocan
 focusKeyphrase: "berbigão ao vinho branco"
 date: 2025-08-18
 draft: false
-image: berbigao-ao-vinho-branco.png
+image: berbigao-ao-vinho-branco.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT28M

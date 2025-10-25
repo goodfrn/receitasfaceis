@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer uma deliciosa compota de cebola e figo, ótima p
 focusKeyphrase: "compota de cebola e figo"
 date: 2025-07-24
 draft: false
-image: compota-cebola-figo.png
+image: compota-cebola-figo.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT30M

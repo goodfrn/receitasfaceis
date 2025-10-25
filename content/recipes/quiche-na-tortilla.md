@@ -7,7 +7,7 @@ ogDescription: "Experimente a quiche feita na air fryer com tortilla; sabor e te
 focusKeyphrase: "Quiche na Tortilla Air Fryer"
 date: 2025-09-28
 draft: false
-image: quiche-na-tortilla.png
+image: quiche-na-tortilla.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT20M

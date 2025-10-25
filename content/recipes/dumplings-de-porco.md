@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Dumplings de Porco com Molho de Amendoim, uma exp
 focusKeyphrase: "Dumplings de Porco"
 date: 2025-07-25
 draft: false
-image: dumplings-de-porco.png
+image: dumplings-de-porco.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT15M

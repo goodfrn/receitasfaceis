@@ -7,7 +7,7 @@ ogDescription: "Desfrute do Pernil de Cordeiro Cozido Baixo e Lento. Carne macia
 focusKeyphrase: "pernil de cordeiro"
 date: 2025-07-29
 draft: false
-image: pernil-de-cordeiro-cozido.png
+image: pernil-de-cordeiro-cozido.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT6H

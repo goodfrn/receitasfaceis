@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada Crua de Funcho. Uma combinação leve e cro
 focusKeyphrase: "salada de funcho"
 date: 2025-07-22
 draft: false
-image: salada-crua-de-funcho.png
+image: salada-crua-de-funcho.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

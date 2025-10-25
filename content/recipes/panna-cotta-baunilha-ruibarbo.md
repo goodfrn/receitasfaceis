@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com panna cotta de baunilha e compota de ruibarbo, um
 focusKeyphrase: "panna cotta de baunilha"
 date: 2025-09-29
 draft: false
-image: panna-cotta-baunilha-ruibarbo.png
+image: panna-cotta-baunilha-ruibarbo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

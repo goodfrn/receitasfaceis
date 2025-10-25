@@ -7,7 +7,7 @@ ogDescription: "Experimente o Frango Express Marroquino. Gengibre, páprica e ja
 focusKeyphrase: "frango grelhado"
 date: 2025-08-03
 draft: false
-image: frango-express-marroquino.png
+image: frango-express-marroquino.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

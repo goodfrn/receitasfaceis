@@ -7,7 +7,7 @@ ogDescription: "Descubra a Salada-Taco de Frango. Uma combinação incrível de 
 focusKeyphrase: "Salada-Taco de Frango"
 date: 2025-09-26
 draft: false
-image: salada-taco-frango.png
+image: salada-taco-frango.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Medalhões com Legumes Caramelizados, união perfeit
 focusKeyphrase: "Medalhões com Legumes Caramelizados"
 date: 2025-09-27
 draft: false
-image: medalhoes-com-legumes-caramelizados.png
+image: medalhoes-com-legumes-caramelizados.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Berinjela Italiana Marinada, sabor intenso com pimentões. Excel
 focusKeyphrase: "Berinjela Italiana Marinada"
 date: 2025-09-26
 draft: false
-image: berinjela-italiana-marinada.png
+image: berinjela-italiana-marinada.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT58M

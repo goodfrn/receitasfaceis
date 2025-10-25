@@ -7,7 +7,7 @@ ogDescription: "Descubra o smoothie cremoso de cacau e banana. Bebida vegana del
 focusKeyphrase: "smoothie cremoso cacau banana"
 date: 2025-07-25
 draft: false
-image: smoothie-cremoso-cacau-banana.png
+image: smoothie-cremoso-cacau-banana.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Experimente Mini Quiches de Endívia e Presunto com aquela croc�
 focusKeyphrase: "Mini Quiches de Endívia e Presunto"
 date: 2025-08-02
 draft: false
-image: mini-quiches-de-endivia-e-presunto.png
+image: mini-quiches-de-endivia-e-presunto.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

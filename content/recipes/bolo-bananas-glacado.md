@@ -7,7 +7,7 @@ ogDescription: "Experimente o Bolo Bananas Glaçado, uma combinação perfeita d
 focusKeyphrase: "Bolo Bananas Glaçado"
 date: 2025-09-15
 draft: false
-image: bolo-bananas-glacado.png
+image: bolo-bananas-glacado.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT55M

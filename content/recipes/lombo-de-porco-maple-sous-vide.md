@@ -7,7 +7,7 @@ ogDescription: "Descubra o Lombo de Porco Mapple Sous Vide. Suculento e cheio de
 focusKeyphrase: "Lombo de Porco Mapple Sous Vide"
 date: 2025-09-12
 draft: false
-image: lombo-de-porco-maple-sous-vide.png
+image: lombo-de-porco-maple-sous-vide.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT3H50M

@@ -7,7 +7,7 @@ ogDescription: "Experimente batata-doce recheada com cheddar e castanha de caju,
 focusKeyphrase: "batata-doce recheada cheddar"
 date: 2025-08-10
 draft: false
-image: batata-doce-recheada-cheddar.png
+image: batata-doce-recheada-cheddar.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Experimente essas tostadas de atum com abacate e descubra uma ex
 focusKeyphrase: "tostadas de atum com abacate"
 date: 2025-08-08
 draft: false
-image: tostadas-de-atum-com-abacate.png
+image: tostadas-de-atum-com-abacate.jpg
 author: "Julia"
 prepTime: PT0H35M
 cookTime: PT0H0M

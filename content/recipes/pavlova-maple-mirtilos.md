@@ -7,7 +7,7 @@ ogDescription: "Experimente a Pavlova Maple e Mirtilos. Compota deliciosa, crust
 focusKeyphrase: "Pavlova Maple e Mirtilos"
 date: 2025-07-21
 draft: false
-image: pavlova-maple-mirtilos.png
+image: pavlova-maple-mirtilos.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT2H10M

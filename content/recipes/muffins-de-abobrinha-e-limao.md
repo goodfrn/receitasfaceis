@@ -7,7 +7,7 @@ ogDescription: "Experimente Muffins de Abobrinha e Limão; receita fácil e leve
 focusKeyphrase: "Muffins de Abobrinha e Limão"
 date: 2025-08-16
 draft: false
-image: muffins-de-abobrinha-e-limao.png
+image: muffins-de-abobrinha-e-limao.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Deliciosos Muffins de Maçã e Mirtilo com Nozes, perfeitos para
 focusKeyphrase: "Muffins de Maçã e Mirtilo"
 date: 2025-07-29
 draft: false
-image: muffins-de-maca-e-mirtilo.png
+image: muffins-de-maca-e-mirtilo.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT28M

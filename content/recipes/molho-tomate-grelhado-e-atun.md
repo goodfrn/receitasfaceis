@@ -7,7 +7,7 @@ ogDescription: "Molho tomate grelhado e atum é uma explosão de sabores. Rápid
 focusKeyphrase: "molho tomate grelhado e atum"
 date: 2025-08-09
 draft: false
-image: molho-tomate-grelhado-e-atun.png
+image: molho-tomate-grelhado-e-atun.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

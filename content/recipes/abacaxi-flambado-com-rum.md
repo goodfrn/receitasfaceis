@@ -7,7 +7,7 @@ ogDescription: "Abacaxi flambado com rum, um prato que combina aromas intensos e
 focusKeyphrase: "abacaxi flambado com rum"
 date: 2025-09-27
 draft: false
-image: abacaxi-flambado-com-rum.png
+image: abacaxi-flambado-com-rum.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT12M

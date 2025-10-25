@@ -7,7 +7,7 @@ ogDescription: "Experimente a Sopa Provençal com Ovo Pochê. Um prato que traz 
 focusKeyphrase: "Sopa Provençal com Ovo Pochê"
 date: 2025-08-06
 draft: false
-image: sopa-provencal-com-ovo-poche.png
+image: sopa-provencal-com-ovo-poche.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT30M

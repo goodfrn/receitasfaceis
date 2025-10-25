@@ -7,7 +7,7 @@ ogDescription: "Experimente o chutney de frutas com espinheira-santa. Receita ú
 focusKeyphrase: "chutney de frutas"
 date: 2025-07-20
 draft: false
-image: chutney-frutas-espinheira-santa.png
+image: chutney-frutas-espinheira-santa.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT35M

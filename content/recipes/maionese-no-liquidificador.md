@@ -7,7 +7,7 @@ ogDescription: "Descubra como preparar maionese no liquidificador com gemas caip
 focusKeyphrase: "maionese no liquidificador"
 date: 2025-10-10
 draft: false
-image: maionese-no-liquidificador.png
+image: maionese-no-liquidificador.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

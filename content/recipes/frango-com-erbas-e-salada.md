@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Frango com Ervas e Salada Crocante, uma união pe
 focusKeyphrase: "frango com ervas"
 date: 2025-07-21
 draft: false
-image: frango-com-erbas-e-salada.png
+image: frango-com-erbas-e-salada.jpg
 author: "Julia"
 prepTime: PT45M
 cookTime: PT1H10M

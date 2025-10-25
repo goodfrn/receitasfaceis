@@ -7,7 +7,7 @@ ogDescription: "Descubra o Sanduíche Matinal Diferente; ideal para um café da 
 focusKeyphrase: "sanduíche matinal"
 date: 2025-10-10
 draft: false
-image: sanduiche-matinal-diferente.png
+image: sanduiche-matinal-diferente.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT6M

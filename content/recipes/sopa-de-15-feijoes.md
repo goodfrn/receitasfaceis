@@ -7,7 +7,7 @@ ogDescription: "Sopa de 15 Feijões Instantânea. Uma explosão de sabores e aro
 focusKeyphrase: "Sopa de 15 Feijões"
 date: 2025-10-11
 draft: false
-image: sopa-de-15-feijoes.png
+image: sopa-de-15-feijoes.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT50M

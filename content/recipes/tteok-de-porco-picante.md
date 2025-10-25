@@ -7,7 +7,7 @@ ogDescription: "Experimente o Tteok de Porco Picante, um prato coreano incrível
 focusKeyphrase: "Tteok de Porco Picante"
 date: 2025-09-28
 draft: false
-image: tteok-de-porco-picante.png
+image: tteok-de-porco-picante.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Molho Cremoso de Alho. Combinação perfeita de al
 focusKeyphrase: "molho cremoso de alho"
 date: 2025-08-04
 draft: false
-image: molho-cremoso-de-alho.png
+image: molho-cremoso-de-alho.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

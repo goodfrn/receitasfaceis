@@ -7,7 +7,7 @@ ogDescription: "Experimente a Batata Grelot Recheada com caracóis e manteiga te
 focusKeyphrase: "Batata Grelot Recheada"
 date: 2025-09-26
 draft: false
-image: batata-grelot-recheada.png
+image: batata-grelot-recheada.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT27M

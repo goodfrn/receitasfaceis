@@ -7,7 +7,7 @@ ogDescription: "Amêndoas mexicanas na slow cooker. Sabor intenso e crocância p
 focusKeyphrase: "amêndoas mexicanas na slow cooker"
 date: 2025-10-15
 draft: false
-image: amendoas-mexicanas-slow-cooker.png
+image: amendoas-mexicanas-slow-cooker.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT1H55M

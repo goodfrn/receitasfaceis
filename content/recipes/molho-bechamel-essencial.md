@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer um Molho Bechamel com toque brasileiro. Sabor le
 focusKeyphrase: "Molho Bechamel"
 date: 2025-08-06
 draft: false
-image: molho-bechamel-essencial.png
+image: molho-bechamel-essencial.jpg
 author: "Julia"
 prepTime: PT10M
 cookTime: PT20M

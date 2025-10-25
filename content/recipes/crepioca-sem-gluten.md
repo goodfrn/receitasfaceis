@@ -7,7 +7,7 @@ ogDescription: "Descubra a crepioca sem glúten, simples e deliciosa. Versátil 
 focusKeyphrase: "crepioca sem glúten"
 date: 2025-09-30
 draft: false
-image: crepioca-sem-gluten.png
+image: crepioca-sem-gluten.jpg
 author: "Julia"
 prepTime: PT6M
 cookTime: PT9M

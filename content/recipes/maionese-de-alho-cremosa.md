@@ -7,7 +7,7 @@ ogDescription: "Experimente esta Maionese de Alho Cremosa - simples de fazer em 
 focusKeyphrase: "maionese caseira"
 date: 2025-10-15
 draft: false
-image: maionese-de-alho-cremosa.png
+image: maionese-de-alho-cremosa.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT0M

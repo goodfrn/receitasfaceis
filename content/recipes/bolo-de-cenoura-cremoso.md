@@ -7,7 +7,7 @@ ogDescription: "Experimente o bolo de cenoura cremoso. Textura molhadinha, nozes
 focusKeyphrase: "bolo de cenoura cremoso"
 date: 2025-10-08
 draft: false
-image: bolo-de-cenoura-cremoso.png
+image: bolo-de-cenoura-cremoso.jpg
 author: "Julia"
 prepTime: PT65M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o bolinho de grão com quinoa, ótimo para petiscar 
 focusKeyphrase: "bolinho de grão com quinoa"
 date: 2025-08-13
 draft: false
-image: bolinho-de-grao-com-quinoa.png
+image: bolinho-de-grao-com-quinoa.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT35M

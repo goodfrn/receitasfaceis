@@ -7,7 +7,7 @@ ogDescription: "Experimente o purê de brócolis com alho confitado, uma combina
 focusKeyphrase: "purê de brócolis"
 date: 2025-07-27
 draft: false
-image: pure-de-brocolis-com-alho-confitado.png
+image: pure-de-brocolis-com-alho-confitado.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT1H

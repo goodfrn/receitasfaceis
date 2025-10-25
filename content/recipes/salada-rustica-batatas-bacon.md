@@ -7,7 +7,7 @@ ogDescription: "Salada rústica de batatas com bacon. Um mix de texturas e sabor
 focusKeyphrase: "salada rústica de batatas com bacon"
 date: 2025-08-04
 draft: false
-image: salada-rustica-batatas-bacon.png
+image: salada-rustica-batatas-bacon.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT35M

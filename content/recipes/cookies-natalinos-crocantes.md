@@ -7,7 +7,7 @@ ogDescription: "Experimente Cookies Natalinos com Crocância, uma combinação i
 focusKeyphrase: "Cookies Natalinos"
 date: 2025-10-16
 draft: false
-image: cookies-natalinos-crocantes.png
+image: cookies-natalinos-crocantes.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

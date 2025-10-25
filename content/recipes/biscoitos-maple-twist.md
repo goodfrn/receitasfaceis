@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com biscoitos Maple Twist, uma combinação perfeita 
 focusKeyphrase: "biscoitos maple twist"
 date: 2025-07-19
 draft: false
-image: biscoitos-maple-twist.png
+image: biscoitos-maple-twist.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT14M

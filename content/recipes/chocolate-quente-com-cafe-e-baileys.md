@@ -7,7 +7,7 @@ ogDescription: "Experimente o Chocolate Quente com Café e Baileys; uma mistura 
 focusKeyphrase: "Chocolate Quente com Café e Baileys"
 date: 2025-09-23
 draft: false
-image: chocolate-quente-com-cafe-e-baileys.png
+image: chocolate-quente-com-cafe-e-baileys.jpg
 author: "Julia"
 prepTime: PT14M
 cookTime: PT6M

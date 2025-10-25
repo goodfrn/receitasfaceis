@@ -7,7 +7,7 @@ ogDescription: "Experimente o Couscous de Couve-Flor Tropical, um prato fusion q
 focusKeyphrase: "Couscous de Couve-Flor Tropical"
 date: 2025-08-19
 draft: false
-image: couscous-de-couve-flor.png
+image: couscous-de-couve-flor.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT55M

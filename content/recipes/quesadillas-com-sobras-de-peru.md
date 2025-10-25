@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Quesadillas de Sobras de Peru; um jeito criativo 
 focusKeyphrase: "Quesadillas com Sobras de Peru"
 date: 2025-09-27
 draft: false
-image: quesadillas-com-sobras-de-peru.png
+image: quesadillas-com-sobras-de-peru.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT18M

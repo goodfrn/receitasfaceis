@@ -7,7 +7,7 @@ ogDescription: "Experimente a Mousse Chocolate ao Leite Cremosa com café e cane
 focusKeyphrase: "mousse chocolate ao leite"
 date: 2025-08-11
 draft: false
-image: mousse-chocolate-leite-cremosa.png
+image: mousse-chocolate-leite-cremosa.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT5M

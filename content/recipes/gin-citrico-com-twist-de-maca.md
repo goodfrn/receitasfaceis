@@ -7,7 +7,7 @@ ogDescription: "Prepare um Gin Cítrico com Twist de Maçã. Mistura de sabores 
 focusKeyphrase: "Gin Cítrico com Twist de Maçã"
 date: 2025-08-16
 draft: false
-image: gin-citrico-com-twist-de-maca.png
+image: gin-citrico-com-twist-de-maca.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PT0M

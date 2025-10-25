@@ -7,7 +7,7 @@ ogDescription: "Descubra a deliciosa Quiche Alho-Poró Camarão, um prato replet
 focusKeyphrase: "quiche alho-poró camarão"
 date: 2025-08-16
 draft: false
-image: quiche-alho-poro-camarao.png
+image: quiche-alho-poro-camarao.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT40M

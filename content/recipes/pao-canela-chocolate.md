@@ -7,7 +7,7 @@ ogDescription: "Experimente o Pão Canela com Chocolate, uma receita que combina
 focusKeyphrase: "Pão Canela com Chocolate"
 date: 2025-09-23
 draft: false
-image: pao-canela-chocolate.png
+image: pao-canela-chocolate.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Pailles de Queijo em Sol, aperitivo crocante de q
 focusKeyphrase: "Pailles de Queijo em Sol"
 date: 2025-08-09
 draft: false
-image: pailles-de-queijo-em-sol.png
+image: pailles-de-queijo-em-sol.jpg
 author: "Julia"
 prepTime: PT18M
 cookTime: PT28M

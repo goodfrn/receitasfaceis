@@ -7,7 +7,7 @@ ogDescription: "Experimente o Lombo de Porco 3 Molhos com toques de coco-curry, 
 focusKeyphrase: "Lombo de Porco 3 Molhos"
 date: 2025-08-04
 draft: false
-image: lombo-de-porco-tres-molhos.png
+image: lombo-de-porco-tres-molhos.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT20M

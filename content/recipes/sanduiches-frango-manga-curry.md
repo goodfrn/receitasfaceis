@@ -7,7 +7,7 @@ ogDescription: "Sanduíches de frango com manga e curry trazem uma combinação 
 focusKeyphrase: "sanduíches frango manga curry"
 date: 2025-08-19
 draft: false
-image: sanduiches-frango-manga-curry.png
+image: sanduiches-frango-manga-curry.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT15M

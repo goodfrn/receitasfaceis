@@ -7,7 +7,7 @@ ogDescription: "Aprenda a fazer Éclairs Dois Chocolates, uma receita francesa c
 focusKeyphrase: "Éclairs"
 date: 2025-07-21
 draft: false
-image: eclairs-dois-chocolates.png
+image: eclairs-dois-chocolates.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT45M

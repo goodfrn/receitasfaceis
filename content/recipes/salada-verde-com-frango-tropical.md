@@ -7,7 +7,7 @@ ogDescription: "A Salada Verde com Frango Tropical traz um toque de frescor e sa
 focusKeyphrase: "Salada Verde com Frango Tropical"
 date: 2025-08-12
 draft: false
-image: salada-verde-com-frango-tropical.png
+image: salada-verde-com-frango-tropical.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT15M

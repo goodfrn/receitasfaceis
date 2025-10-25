@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada Rústica de Chuchu e Maçã; um prato leve 
 focusKeyphrase: "Salada Rústica de Chuchu e Maçã"
 date: 2025-08-09
 draft: false
-image: salada-rustica-de-chuchu-e-maca.png
+image: salada-rustica-de-chuchu-e-maca.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

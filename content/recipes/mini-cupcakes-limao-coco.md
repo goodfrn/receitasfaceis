@@ -7,7 +7,7 @@ ogDescription: "Experimente mini cupcakes de limão e coco, uma mistura perfeita
 focusKeyphrase: "mini cupcakes limão coco"
 date: 2025-08-16
 draft: false
-image: mini-cupcakes-limao-coco.png
+image: mini-cupcakes-limao-coco.jpg
 author: "Julia"
 prepTime: PT40M
 cookTime: PT15M

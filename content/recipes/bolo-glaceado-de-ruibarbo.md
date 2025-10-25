@@ -7,7 +7,7 @@ ogDescription: "Bolo Glaceado de Ruibarbo: sabor incomum, textura leve. Glacê d
 focusKeyphrase: "Bolo Glaceado de Ruibarbo"
 date: 2025-08-15
 draft: false
-image: bolo-glaceado-de-ruibarbo.png
+image: bolo-glaceado-de-ruibarbo.jpg
 author: "Julia"
 prepTime: PT30M
 cookTime: PT50M

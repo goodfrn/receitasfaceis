@@ -7,7 +7,7 @@ ogDescription: "Descubra Aiglefin ao Molho de Damasco, onde o peixe macio encont
 focusKeyphrase: "Aiglefin ao Molho de Damasco"
 date: 2025-08-13
 draft: false
-image: aiglefin-ao-molho-de-damasco.png
+image: aiglefin-ao-molho-de-damasco.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

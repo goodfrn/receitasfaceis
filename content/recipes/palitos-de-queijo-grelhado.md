@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com Palitos de Queijo Grelhado - crocantes e recheado
 focusKeyphrase: "Palitos de Queijo Grelhado"
 date: 2025-10-23
 draft: false
-image: palitos-de-queijo-grelhado.png
+image: palitos-de-queijo-grelhado.jpg
 author: "Julia"
 prepTime: PT3M
 cookTime: PT6M

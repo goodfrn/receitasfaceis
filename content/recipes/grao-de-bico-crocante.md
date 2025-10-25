@@ -7,7 +7,7 @@ ogDescription: "Experimente o grão-de-bico crocante assado. Temperado e versát
 focusKeyphrase: "grão-de-bico crocante"
 date: 2025-10-15
 draft: false
-image: grao-de-bico-crocante.png
+image: grao-de-bico-crocante.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT43M

@@ -7,7 +7,7 @@ ogDescription: "Experimente o Portonic Refrescante com Twist, uma mistura delici
 focusKeyphrase: "Portonic Refrescante"
 date: 2025-07-27
 draft: false
-image: portonic-refrescante-com-twist.png
+image: portonic-refrescante-com-twist.jpg
 author: "Julia"
 prepTime: PT5M
 cookTime: PT0M

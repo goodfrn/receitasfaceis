@@ -7,7 +7,7 @@ ogDescription: "Experimente o delicioso Baguete Prosciutto Figo, um sanduíche r
 focusKeyphrase: "Baguete Prosciutto Figo"
 date: 2025-09-16
 draft: false
-image: baguete-prosciutto-figo.png
+image: baguete-prosciutto-figo.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT0M

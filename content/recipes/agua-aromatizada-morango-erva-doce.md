@@ -7,7 +7,7 @@ ogDescription: "Experimente Água Aromatizada Morango Erva-doce. Uma bebida leve
 focusKeyphrase: "água aromatizada"
 date: 2025-08-13
 draft: false
-image: agua-aromatizada-morango-erva-doce.png
+image: agua-aromatizada-morango-erva-doce.jpg
 author: "Julia"
 prepTime: PT7M
 cookTime: PTN

@@ -7,7 +7,7 @@ ogDescription: "Experimente Croquetes de Atum com Molho Marinara, uma combina√ß√
 focusKeyphrase: "Croquetes de Atum"
 date: 2025-08-10
 draft: false
-image: croquetes-de-atum.png
+image: croquetes-de-atum.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT25M

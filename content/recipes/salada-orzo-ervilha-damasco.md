@@ -7,7 +7,7 @@ ogDescription: "Experimente a salada de orzo com ervilha e damasco; refrescante 
 focusKeyphrase: "salada de orzo"
 date: 2025-08-19
 draft: false
-image: salada-orzo-ervilha-damasco.png
+image: salada-orzo-ervilha-damasco.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT12M

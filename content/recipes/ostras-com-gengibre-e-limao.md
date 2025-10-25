@@ -7,7 +7,7 @@ ogDescription: "Experimente ostras frescas com gengibre e limão. Entrada rápid
 focusKeyphrase: "Ostras com gengibre e limão"
 date: 2025-07-27
 draft: false
-image: ostras-com-gengibre-e-limao.png
+image: ostras-com-gengibre-e-limao.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

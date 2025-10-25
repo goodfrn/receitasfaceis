@@ -7,7 +7,7 @@ ogDescription: "Explore a salada rústica de feijão e frango. Fresca, apimentad
 focusKeyphrase: "salada de feijão e frango"
 date: 2025-08-10
 draft: false
-image: salada-rustica-de-feijao-e-frango.png
+image: salada-rustica-de-feijao-e-frango.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT25M

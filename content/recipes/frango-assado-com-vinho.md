@@ -7,7 +7,7 @@ ogDescription: "Frango assado perfeito com vinho e tomilho. Suculência garantid
 focusKeyphrase: "frango assado"
 date: 2025-09-27
 draft: false
-image: frango-assado-com-vinho.png
+image: frango-assado-com-vinho.jpg
 author: "Julia"
 prepTime: PT1H15M
 cookTime: PT1H10M

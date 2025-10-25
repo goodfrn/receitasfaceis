@@ -7,7 +7,7 @@ ogDescription: "Experimente o Sablé com Crocante de Balas; um biscoito com mist
 focusKeyphrase: "sablé com crocante de balas"
 date: 2025-08-17
 draft: false
-image: sable-com-crocante-de-balas.png
+image: sable-com-crocante-de-balas.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT10M

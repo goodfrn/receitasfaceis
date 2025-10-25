@@ -7,7 +7,7 @@ ogDescription: "Delicie-se com ostras e uma mignonnette agridoce de legumes. Um 
 focusKeyphrase: "Ostras com mignonnette de legumes"
 date: 2025-07-29
 draft: false
-image: ostras-com-mignonnette.png
+image: ostras-com-mignonnette.jpg
 author: "Julia"
 prepTime: PT20M
 cookTime: PT15M

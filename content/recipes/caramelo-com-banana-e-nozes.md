@@ -7,7 +7,7 @@ ogDescription: "Descubra como fazer caramelo com banana e nozes. Texturas crocan
 focusKeyphrase: "Caramelo com Banana e Nozes"
 date: 2025-09-23
 draft: false
-image: caramelo-com-banana-e-nozes.png
+image: caramelo-com-banana-e-nozes.jpg
 author: "Julia"
 prepTime: PT15M
 cookTime: PT11M

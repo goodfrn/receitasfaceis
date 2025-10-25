@@ -7,7 +7,7 @@ ogDescription: "Experimente a Salada de Pepino com Toque de Gergelim. Refrescant
 focusKeyphrase: "salada de pepino"
 date: 2025-09-29
 draft: false
-image: salada-de-pepino.png
+image: salada-de-pepino.jpg
 author: "Julia"
 prepTime: PT22M
 cookTime: PT0M

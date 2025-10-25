@@ -7,7 +7,7 @@ ogDescription: "Rolinhos de Pecan uma explosão de sabor e textura. Para quem am
 focusKeyphrase: "Rolinhos Crocantes de Pecan"
 date: 2025-10-08
 draft: false
-image: rolinhos-crocantes-pecan.png
+image: rolinhos-crocantes-pecan.jpg
 author: "Julia"
 prepTime: PT35M
 cookTime: PT0M

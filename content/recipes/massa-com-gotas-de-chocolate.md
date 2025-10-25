@@ -7,7 +7,7 @@ ogDescription: "Experimente a Massa com Gotas de Chocolate com Toque de Pimenta,
 focusKeyphrase: "massa com gotas de chocolate"
 date: 2025-10-09
 draft: false
-image: massa-com-gotas-de-chocolate.png
+image: massa-com-gotas-de-chocolate.jpg
 author: "Julia"
 prepTime: PT12M
 cookTime: PT4M

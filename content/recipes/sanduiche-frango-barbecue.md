@@ -7,7 +7,7 @@ ogDescription: "Sanduíche Frango Barbecue com maionese picante. Uma combinaçã
 focusKeyphrase: "Sanduíche Frango Barbecue"
 date: 2025-07-20
 draft: false
-image: sanduiche-frango-barbecue.png
+image: sanduiche-frango-barbecue.jpg
 author: "Julia"
 prepTime: PT25M
 cookTime: PT18M
