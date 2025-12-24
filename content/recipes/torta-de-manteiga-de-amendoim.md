@@ -1,0 +1,95 @@
+---
+title: "Torta de Manteiga de Amendoim"
+slug: "torta-de-manteiga-de-amendoim"
+description: "Uma torta cremosa e aerada com base crocante de biscoitos graham, combinando a doçura da manteiga de amendoim com chantilly delicado. Para garantir textura, pedacinhos crocantes de amendoim são adicionados por cima, junto a um toque final com calda de chocolate ou caramelo. Serve cerca de 10 pessoas. Receita adaptada para trazer pequenos ajustes que evito errar e uma versão mais prática que ficou show."
+metaDescription: "Torta de Manteiga de Amendoim é um doce cremoso com crocância incrível. Ideal para festas e encontros."
+ogDescription: "Delicie-se com a Torta de Manteiga de Amendoim. Equilíbrio perfeito entre cremosidade e crocância."
+focusKeyphrase: "torta de manteiga de amendoim"
+date: 2025-12-24
+draft: false
+image: torta-de-manteiga-de-amendoim.jpg
+author: "Julia"
+prepTime: PT20M
+cookTime: PT10M
+totalTime: PT4H30M
+recipeYield: "10 porções"
+categories: ["Sobremesas"]
+tags:
+- "torta"
+- "sobremesa"
+- "amendoim"
+keywords:
+- "torta"
+- "manteiga de amendoim"
+- "sobremesa"
+breadcrumb: ["Home", "Recipes", "Sobremesas"]
+nutrition: 
+ calories: "440"
+ fatContent: "32g"
+ carbohydrateContent: "28g"
+ proteinContent: "8g"
+ingredients:
+- "Para a farofa crocante opcional"
+- "150g de biscoito estilo graham, quebrados"
+- "70g de amendoim torrado sem sal"
+- "3 colheres (sopa) de açúcar de confeiteiro"
+- "3 colheres (sopa) de manteiga sem sal, derretida"
+- "Para a base"
+- "180g de biscoito tipo graham moído (ou bolacha maisena), processado"
+- "50g de açúcar de confeiteiro"
+- "1 pitada generosa de sal"
+- "4 colheres (sopa) de manteiga derretida"
+- "Para o recheio"
+- "200g manteiga de amendoim cremosa (troque por manteiga de castanha de caju para versão diferente)"
+- "4 colheres (sopa) de manteiga derretida"
+- "1 pitada de sal"
+- "50g de açúcar de confeiteiro"
+- "300ml de creme de leite fresco gelado"
+- "50g de açúcar de confeiteiro para o chantilly"
+- "1 colher (chá) de extrato de baunilha"
+- "Para finalizar"
+- "Chantilly reservado"
+- "Farofa crocante"
+- "Calda de chocolate ou caramelo (opcional)"
+instructions:
+- "=== Farofa crocante opcional ==="
+- "O forno já ligado em 180ºC (forno a gás). Junte biscoito graham, amendoim e açúcar em processador; controlando o tempo: pulsar até virar pedaços grandes e quebradiços. Cuidado pra não virar pó fino demais, a textura faz diferença."
+- "Adicionar manteiga derretida; mais pulsos rápidos para juntar tudo. Separar numa forma com papel manteiga. Com as mãos, apertar formando um quadrado de uns 0,8cm; não exagera na pressão, a farofa deve ser firme mas solta."
+- "Assar por cerca de 8-9 minutos até dourar levemente e soltar aroma tostado dos amendoins. Tirar, esperar esfriar; caso quente demais, fácil despedaçar errado. Depois de frio, quebrar em lascas ou pedaços irregulares para decorar."
+- "=== A base ==="
+- "Processar biscoitos com açúcar e pitada de sal até virar uma areia grossa. Se não tiver processador, zona, colocar em saco plástico e passar rolo forte — o método velho que uso quando falta equipamento."
+- "Misturar manteiga derretida e dar pulsos até parecer uma areia molhada, grudando quando apertar, mas não encharcada. Se muito seca, adicionar mais manteiga aos poucos (essas variações dependem dos biscoitos, clima, umidade)."
+- "Transferir essa massa para forma de torta de 22-23cm. Com dedos, espalhar e apertar a mistura por todo fundo e laterais; usar fundo de copo com a base arredondada ajuda a compactar direito e uniformemente. Importante para não desmanchar ao cortar."
+- "Levar ao freezer por pelo menos 25 minutos. Congelador sólido evita que a base quebre e mantém o formato durante o preenchimento."
+- "=== Recheio de manteiga de amendoim ==="
+- "Coloque a tigela da batedeira no freezer uns 10-15 minutos para esfriar bem — ingrediente secreto para chantilly firme e volumoso."
+- "Enquanto isso, numa tigela separada, misture manteiga de amendoim, manteiga derretida (não quente, use morna), pitada de sal, e o açúcar. Bata com batedor manual até virar uma pasta homogênea, macia, sem grumos de manteiga ou açúcar. Queria ajustar: na versão anterior puxava texture um pouco pesada, aqui ficou leve e cremosa."
+- "Tirar a tigela da batedeira do freezer. Colocar creme de leite fresco bem gelado, açúcar e baunilha. Bater na velocidade média até formar picos médios e firmes — o famoso chantilly, mas sem exagerar senão vira manteiga. Quando a tigela cogitar fazer baião ou se formar pico duro demais, erro."
+- "Reservar 120ml do chantilly para decorar, cobrir com filme filme e ir para a geladeira."
+- "Com o restante, 150 ml, incorporar metade ao creme de manteiga de amendoim. Misturar delicadamente com espátula, movimentos de baixo para cima, atenção para não perder o ar do chantilly. Repetir com o restante do chantilly até ficar cremoso e fofo; homogêneo mas ainda aerado."
+- "Despejar o recheio na base congelada; espalhar para nivelar. A textura deve ser leve, mas não líquida; se estiver escorrendo, sinal de chantilly batido demais ou manteiga muito mole."
+- "Levar para o freezer por pelo menos 55 minutos a 1 hora. Se preferir, geladeira 4 horas; não menos que isso para firmar o recheio e facilitar na hora de cortar."
+- "=== Finalização e servir ==="
+- "Quando for servir, espalhar o chantilly reservado por cima — use colher ou saco de confeitar pra dar charme. Polvilhar as lascas crocantes de amendoim feitas primeiro."
+- "Final opcional: regar com um fio de calda de chocolate amargo ou caramelo salgado, bem fininho. Isso dá um contraste intenso de sabor."
+- "Cortar com faca afiada e limpa; para cada corte, limpar a faca com pano úmido para fatias mais bonitas. Se quiser fazer antes, deixar coberto com plástico na geladeira até 3 dias —se congelar, embrulhar bem, dura 2 semanas, mas perde um pouco da leveza do creme."
+- "Dicas práticas: se manteiga de amendoim for muito grossa, passar antes um pouco no micro-ondas só para amolecer um tico. Cuidado no açúcar: açúcar de confeiteiro evita grumos aparentes no creme e no chantilly."
+- "Se não achar biscoito graham, mistura bolacha de maisena com uma pitada de canela vira base parecida e até mais saborosa para mim."
+- "Cuidado com a temperatura dos ingredientes: creme e tigela gelados são a chave do chantilly perfeito — já patrulhei muita receita que falhou nisso."
+- "Receita rende um doce cremoso, com contraste crocante e visual interessante. Vale investir algum tempo no preparo da base e da farofa crocante."
+introduction: "Sempre achei intrigante a textura da torta de manteiga de amendoim com seu equilíbrio entre o denso e o leve. Lembro da primeira vez que tentei fazer, achei que a base ficaria mole demais, e o recheio desandou porque não bati o chantilly na temperatura certa. Com o tempo, aprendi que congelar a forma e usar utensílios gelados mudam tudo. Esse doce tem aquela pegada americana, mas com uns ajustes que deixei aqui pra dar uma cara brasileira: usar bolachas maisena se não achar os famosos biscoitos graham, e trocar a manteiga de amendoim por castanha de caju deixa a receita com outra profundidade. Também testei versões com farofinha crocante de amendoim; o croc-croc na boca é essencial pra equilibrar a cremosidade, senão fica canseira. Serve muito bem em festas e encontros, por ser fácil de montar mas com resultado que impressiona. Fique de olho nos sinais: a farofa dourada no ponto, o chantilly batido levíssimo, a base firme e compacta."
+ingredientsNote: "Não despreze o poder de ingredientes na temperatura certa. Manteiga de amendoim cremosinha é o que vai garantir textura uniforme; pode trocar por pasta de castanha de caju para um sabor diferente, mais suave e sofisticado. Açúcar de confeiteiro funciona melhor para dissolver rápido e evitar granulosidade no creme ou chantilly. Creme de leite fresco precisa estar bem gelado, assim como a tigela e batedores; sem isso, o chantilly não vai 'pegar'. A escolha do biscoito para a base é importante: o graham cracker tradicionalmente é doce e aromático, mas bolacha maisena misturada a um pouco de canela pode funcionar como substituto local e dar um toque especial. A manteiga precisa estar derretida, mas nunca quente — pode cozinhar os ingredientes ou deixar o creme pesado. Sal é mais do que tempero aqui; ajuda a equilibrar o doce e dar profundidade ao sabor."
+instructionsNote: "O segredo está na sequência e no tato. Preparar a farofa crocante antes evita correria na hora da montagem e rende um detalhe visual e crocante que traz outra vida ao doce. Pressionar a base com firmeza garante que ela não desmanche quando colocar o recheio cremoso; usar o fundo arredondado do copo como compactador é truque que em casa aprendi e funciona melhor que colher ou coisa dura. Nunca pule o descanso da base no freezer — deixa a massa estável e firme para receber o recheio. Bater chantilly é uma arte: usar tigela gelada e creme gelado faz toda a diferença para formar volume leve, sem virar manteiga, que destrói a receita. A incorporação do chantilly ao creme de amendoim deve ser delicada e em etapas, para preservar a aeração e evitar um recheio pesado. A finalização é hora de caprichar na apresentação: chantilly, farofa crocante e um toque de calda são o gran finale visual e gustativo. Cuidado ao cortar para preservar a estrutura e a apresentação dos pedaços. Se sobrar, armazenar bem tampado na geladeira mantém o sabor e textura, mas evite deixar muito tempo no congelador para não endurecer em excesso."
+tips:
+- "A temperatura dos ingredientes é crucial. Creme e tigela bem gelados garantem chantilly perfeito. Aprendi isso da pior forma. Compreendo o quão frustrante é quando ele não pega. Não subestime esse detalhe."
+- "A farofa crocante traz uma textura irresistível. E quando a assar, fique atento ao cheiro. É o aroma dos amendoins tostando. Cuidado para não passar do ponto. Fica amarga e seca."
+- "Substitutos são sempre uma boa ideia. Se não achar biscoito graham, misture bolacha maisena com canela. O sabor é excelente e o aroma confortante. Uso essa troca quando não consigo encontrar os graham."
+- "Aprendi que batendo chantilly deve-se evitar exagerar. Picos médios firmes são o que você quer. Não deixe muito tempo; senão, vira manteiga. E o resultado não é o esperdo."
+- "Cuidar ao armazenar é imprescindível. Frigorífico é o melhor lugar para deixar por mais tempo. Se for congelar, embrulhe bem. Embora conserve, a leveza vai embora rapidamente."
+faq:
+- "q: Como consertar recheio muito mole? a: Adicione mais chantilly batido. Misture com cuidado. Se ainda escorrer, leve ao freezer por um tempo para firmar. Essa dica muda tudo."
+- "q: O que fazer se a base ficar quebradiça? a: Aperte um pouco mais ao colocar na forma. A massa precisa ficar compacta. Aprendi essa lição depois de ver minha base desmoronando."
+- "q: Posso usar outra manteiga? a: Sim, manteiga de castanha de caju é uma opção incrível. Mas a textura muda. Cada um tem seu preferido. Testar é sempre bom."
+- "q: Quanto tempo posso conservar a torta? a: Na geladeira até 3 dias, bem coberta. Se congelar, duas semanas, mas deve ser bem embrulhada. Perderá um pouco de cremosidade, mas ainda é deliciosa."
+
+---
