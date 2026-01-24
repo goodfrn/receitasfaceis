@@ -1,0 +1,98 @@
+---
+title: "Bolo Cookie Chips"
+slug: "bolo-cookie-chips"
+description: "Bolo estilo cookie com gotas de chocolate, macio por dentro e crocante nas bordas. Massa cremosa de manteiga e açúcar mascavo, ovos para dar liga, farinha combinada com aveia em flocos para textura, substituindo parte da farinha tradicional. Chocolate meio amargo para um sabor intenso. Assado lentamente para evitar queimar, ficando ligeiramente dourado com textura pegajosa. Cobertura de creme de manteiga batida com açúcar de confeiteiro e essência de baunilha, decorado com granulado colorido. Serve 8 fatias generosas, ótimo para festas e pauses doces no dia a dia."
+metaDescription: "Bolo Cookie Chips é uma mistura deliciosa. Crocante por fora, macio por dentro, ideal para festas e momentos doces."
+ogDescription: "Experimente o Bolo Cookie Chips. Uma combinação perfeita de bolo e cookie, com chocolate meio amargo e cobertura leve de creme."
+focusKeyphrase: "Bolo Cookie Chips"
+date: 2026-01-24
+draft: false
+image: bolo-cookie-chips.jpg
+author: "Julia"
+prepTime: PT20M
+cookTime: PT22M
+totalTime: PT42M
+recipeYield: "8 fatias"
+categories: ["Sobremesas"]
+tags:
+- "bolo"
+- "chocolate"
+- "festas"
+- "receitas"
+keywords:
+- "bolo cookie"
+- "cookie cake"
+- "doces caseiros"
+breadcrumb: ["Home", "Recipes", "Sobremesas"]
+nutrition: 
+ calories: "350"
+ fatContent: "18g"
+ carbohydrateContent: "40g"
+ proteinContent: "4g"
+ingredients:
+- "170g manteiga sem sal em temperatura ambiente"
+- "150g açúcar mascavo claro"
+- "90g açúcar cristal"
+- "2 ovos grandes"
+- "1 colher de chá extrato de baunilha natural"
+- "160g farinha de trigo"
+- "50g aveia em flocos finos (substituição para textura)"
+- "1/2 colher de chá bicarbonato de sódio"
+- "1/4 colher de chá sal fino"
+- "180g gotas de chocolate meio amargo (pode usar chocolate picado)"
+- "Para o creme de manteiga:"
+- "113g manteiga sem sal amolecida"
+- "200g açúcar de confeiteiro peneirado"
+- "1 colher de chá extrato de baunilha"
+- "1 a 2 colheres de sopa de leite integral (para ajustar textura)"
+- "Granulado colorido para decorar (opcional)"
+instructions:
+- "=== Preparo inicial ==="
+- "Forno pré-aquecido a 175 graus Celsius. Use uma forma redonda de 25cm - pode ser forma de bolo comum, forma de torta ou forma com aro removível. Pulverize generosamente spray antifader e cubra com papel manteiga circular, ajuda a desenformar depois, especialmente com massa grudenta."
+- "=== Mistura dos secos ==="
+- "Em tigela média, peneire farinha, aveia, bicarbonato e sal. Bata com um fouet para distribuir e evitar bolo com textura irregular."
+- "=== Creme manteiga e açúcares ==="
+- "Na batedeira, coloque manteiga em temperatura ambiente. Comece em velocidade média para não espirrar açúcar. Adicione os dois tipos de açúcar e bata por 2-3 minutos, até ficar mais claro e homogêneo - textura semelhante a pomada, não derretida."
+- "=== Ovos e baunilha ==="
+- "Coloque um ovo de cada vez, batendo até incorporar bem. Raspe as laterais para evitar pockets de manteiga. Finalize com a baunilha, misturando só até incorporar, evitar perder volume."
+- "=== Agregando ingredientes secos ==="
+- "Reduza a velocidade para baixa (ou misture delicadamente com espátula). Adicione os secos aos poucos, parando quando a massa formar um conjunto homogêneo, sem trabalhar demais para não endurecer."
+- "Por fim, incorpore as gotas de chocolate com movimentos suaves, asso para que elas não afundem."
+- "=== Moldagem e cobertura extra ==="
+- "Espalhe a massa uniformemente na forma preparada, nivelando com uma espátula pequena para evitar bolhas de ar. Se quiser, polvilhe mais gotas de chocolate por cima para visual e sabor variado."
+- "=== Assando ==="
+- "Coloque no forno entre 20 a 25 minutos. Por volta dos 12-15 minutos, cubra com papel alumínio se as bordas estiverem dourando rápido demais. O topo deve parecer firme nas bordas e ainda levemente mole no centro, como cookie macio recém-saído."
+- "Teste do palito não funciona tão bem aqui, melhor confiar na textura ao toque e visual - centro brilhando um pouco e bordas firmes significa quase pronto."
+- "=== Resfriamento ==="
+- "Retire do forno e deixe esfriar na forma sobre uma grade por aproximadamente 30 minutos. Fica meio mole ainda - isso é bom."
+- "Depois disso, leve à geladeira por mais uma hora para firmar a estrutura, facilitando desenformar sem quebrar."
+- "=== Creme para cobertura ==="
+- "Na batedeira, bata a manteiga amolecida em velocidade média até ficar cremosa. Adicione o açúcar de confeiteiro aos poucos em velocidade baixa, depois aumente para média e bata por 2 minutos até obter creme leve e fofo."
+- "Se o creme estiver muito espesso, adicione 1 a 2 colheres de leite e bata para ajustar."
+- "=== Finalizando ==="
+- "Com uma faca de manteiga, solte delicadamente as bordas da massa assada para facilitar o desmolde. Desenforme a cookie cake."
+- "Coloque o creme em saco de confeitar com bico de estrela grande (como o Wilton 1M). Faça um contorno ao redor da borda, criando relevo."
+- "Decore com granulados coloridos ou seus coberturas favoritas, não exagere pra não perder a rusticidade."
+- "Fatia, sirva, espere meia hora fora da geladeira se quiser mais maciez na boca."
+- "=== Dicas extras ==="
+- "Se faltou aveia, pode substituir por farinha integral, mas vai perder um pouco na textura. Vale trocar açúcar cristal por açúcar demerara também, o sabor fica mais profundo."
+- "Use manteiga realmente em temperatura ambiente pra evitar pedaços na massa e garantir cremosidade nos açúcares batidos."
+- "Se gosta do bolo mais assado e crocante, deixe passar uns minutos a mais no forno, mas cuidado para não ressecar."
+- "Armazene na geladeira se fizer com antecedência, e retire para temperatura ambiente antes de servir."
+- "Granulados podem ser substituídos por nozes picadas, castanhas ou até raspas de laranja pra um toque mais autoral."
+introduction: "Misturar bolo e cookie num só prato. Essa ideia ronda minha cabeça há tempos, testei várias vezes, até chegar num ponto onde textura e sabor não brigam. Encontrei equilíbrio com aveia pra dar mastigação e chocolate meio amargo pra dar caráter — nada de doce enjoativo. Essa massa pede cuidado pra não bater muito, manteiga em temperatura boa faz toda a diferença. Assar com olho na cor, no toque, no cheiro - nada de forno só no timer. Depois vem a precisão do creme, leve, não açucarado em excesso, para dar o toque final, diferente daquele cookie seco que todo mundo conhece. Servido em rodadas, compartilho histórias, passos e a bagunça que virou a cozinha nesse processo — vem comigo nessa mistura."
+ingredientsNote: "A aveia entra para dar textura mastigável, porque o excesso de farinha deixa tudo duro. Quando não tenho aveia em casa, uso parte da farinha integral para similar efeito, mas nada de trocar tudo porque ai vira outra receita. Trocar o chocolate ao leite por meio amargo evita um doce exagerado, que não deixa apreciar os outros sabores. Manteiga em temperatura ambiente é fundamental para incorporar ar e evitar bolinhas, aliás, já vi gente usando margarina e o bolo desanda, não faça isso. Açúcar mascavo traz umidade e cor, misturado ao cristal evita o bolo ficar muito denso, sutil, mas faz diferença. Na cobertura, se não tiver extrato natural, dá pra usar essência, mas menos é mais."
+instructionsNote: "Começo sempre pelo pré-aquecimento, para o forno estar na temperatura certa quando massa pronta. A mistura dos secos peneirada evita grumos e deixa a massa mais leve. Bater manteiga e açúcares direito, dá cremosidade e textura, músculos cansaram uma vez tentando fazer isso manual também. O cuidado em misturar os secos devagar evita ativar glúten demais (massa dura no fim). Uso espátula para as gotas de chocolate incorporar, evitando precisar bater e perder ar. O sal no final ressalta os sabores, não rouba atenção. No forno, cubro com papel alumínio para não queimar nas bordas — massa densa queima rápido. A textura do centro deve ficar levemente brilhante, se deixar passar vira um biscoito duro. O resfriamento ajuda na consistência, não pule essa etapa - a manteiga volta a dar liga. O creme é batido aos poucos, açúcar peneirado evita grumos, bater demais vira manteiga, atenção. O saco de confeitar permite decoração simples e bonita, dá personalidade e cuidado ao prato final."
+tips:
+- "Use manteiga em temperatura ambiente. Isso garante que você obtenha a cremosidade adequada. A bateria de manteiga e açúcar precisa de textura certa. Combine os açúcares bem. Se não misturar direito, pode ficar granulado. O açúcar mascavo dá umidade, enquanto o cristal deixa leve."
+- "Cuidado com a aveia. Se não tiver, farinha integral funciona. Mas não troque tudo. A textura deve ser mastigável. Adicionar menos farinha evita um bolo duro. É tudo sobre o equilíbrio entre crocante e macio. Testei várias combinações até chegar aqui."
+- "Se seu forno não assa uniformemente, fique de olho. A cor é muito importante. Quando as bordas estão douradas, mas o centro ainda levemente mole, é o ponto ideal. Cobrir com papel alumínio ajuda a não queimar as bordas."
+- "O creme deve ser leve. Bata a manteiga primeiro. Cada adição de açúcar deve ser aos poucos. Se o creme ficar muito pesado, adicione leite. Mas cuidado – não bata demais ou vira manteiga. Use saco de confeitar para um visual bonito, mas não exagera."
+- "Armazenar? O bolo deve ir pra geladeira se sobrar. Retire antes de servir. Volta à temperatura ambiente. Isso ajuda na textura macia. Opções de cobertura variadas também podem ser. Nozes ou raspas de laranja oferecem personalidade."
+faq:
+- "q: Como saber se o bolo está pronto? a: Olhe para as bordas douradas e o centro mole. Firme nas laterais e ainda brilhante. Isso é crucial. Teste do palito não funciona bem aqui."
+- "q: Posso usar chocolate ao leite? a: Sim, mas vai mudar o sabor. Evita um toque doce demais. O meio amargo equilibra melhor. Se puder, prefira o amargo."
+- "q: O que fazer se a massa grudar na forma? a: Usar papel manteiga ajuda. E spray antiaderente garante fácil desenforme. Não pule isso, salva o bolo."
+- "q: Como armazenar? a: Geladeira é o melhor lugar. Mas retire um tempo antes de servir. Isso ajuda a maciez voltar. Respeitar essa etapa é fundamental."
+
+---
