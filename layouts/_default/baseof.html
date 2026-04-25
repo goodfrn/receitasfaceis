@@ -33,6 +33,7 @@
   {{ else }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ end }}
+  <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_40297.js" async> </script>
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
   {{/* ---------- Google Analytics - Placé juste après <body> ---------- */}}
@@ -76,6 +77,7 @@
     {{ if $mainJS }}
       <script src="{{ $mainJS.RelPermalink }}" defer></script>
     {{ end }}
+  
   {{ end }}
 </body>
 </html>
