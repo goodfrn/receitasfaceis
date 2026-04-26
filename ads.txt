@@ -2,7 +2,7 @@
 # info@hbagency.it
 managerdomain=hbagency.it 
 ownerdomain=receitas-faceis.org 
-google.com, pub-5849238611809526, RESELLER, f08c47fec0942fa0
+google.com, pub-5849238611809526, RESELLER, f08c47fec0942fa0 
 teads.tv, 17052, DIRECT, 15a9c44f6d26cbe1
 onetag.com, 3212c3d46a04676, DIRECT
 onetag.com, 3212c3d46a04676-OB, DIRECT
