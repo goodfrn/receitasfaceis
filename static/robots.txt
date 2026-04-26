@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: {{ .Site.BaseURL }}sitemap.xml
+Sitemap: https://receitas-faceis.org/sitemap.xml
