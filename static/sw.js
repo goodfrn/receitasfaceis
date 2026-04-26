@@ -1,30 +1,40 @@
 /* Service Worker universel pour sites Hugo */
 
-// ✅ NOM DYNAMIQUE basé sur le domaine
 const SITE_NAME = self.location.hostname.replace(/\./g, '-');
-const CACHE_NAME = `hugo-site-${SITE_NAME}-v1`;
+const CACHE_NAME = `hugo-site-${SITE_NAME}-v2`;
 
 const urlsToCache = [
-  '/', 
+  '/',
   '/css/style.compiled.css',
   '/js/main.compiled.js',
   '/fonts/Inter-400.woff2',
   '/fonts/Inter-600.woff2'
-  // ✅ SUPPRIMÉ: offline.html
+];
+
+const BYPASS_PATHS = [
+  '/ads.txt',
+  '/robots.txt',
+  '/sitemap.xml',
+  '/sitemap_index.xml',
+  '/feed.xml',
+  '/rss.xml',
+  '/sellers.json',
+  '/app-ads.txt',
+  '/.well-known/',
 ];
 
 // Installation
 self.addEventListener('install', event => {
   event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then(cache => {
-        console.log(`Cache ouvert: ${CACHE_NAME}`);
-        return cache.addAll(urlsToCache);
-      })
+    caches.open(CACHE_NAME).then(cache => {
+      console.log(`Cache ouvert: ${CACHE_NAME}`);
+      return cache.addAll(urlsToCache);
+    })
   );
+  self.skipWaiting();
 });
 
-// Activation et nettoyage des anciens caches
+// Activation
 self.addEventListener('activate', event => {
   const cacheWhitelist = [CACHE_NAME];
   
@@ -40,20 +50,36 @@ self.addEventListener('activate', event => {
       );
     })
   );
+  self.clients.claim();
 });
 
-// Stratégie de cache
+// Fetch
 self.addEventListener('fetch', event => {
   const { request } = event;
   const url = new URL(request.url);
   
-  // ✅ NOUVEAU: Skip requêtes non-GET
+  // Bypass fichiers SEO/ads
+  if (BYPASS_PATHS.some(p => url.pathname === p || url.pathname.startsWith(p))) {
+    return;
+  }
+  
+  // Bypass tous les .txt, .xml, .json
+  if (url.pathname.match(/\.(txt|xml|json)$/i)) {
+    return;
+  }
+  
+  // Bypass cross-origin
+  if (url.origin !== self.location.origin) {
+    return;
+  }
+  
+  // Skip non-GET
   if (request.method !== 'GET') {
     event.respondWith(fetch(request));
     return;
   }
   
-  // Cache-first pour les assets statiques
+  // Cache-first pour assets statiques
   if (request.destination === 'style' || 
       request.destination === 'script' ||
       request.destination === 'font' ||
@@ -62,23 +88,21 @@ self.addEventListener('fetch', event => {
     return;
   }
   
-  // Network-first pour le HTML
+  // Network-first pour HTML
   if (request.mode === 'navigate') {
     event.respondWith(networkFirst(request));
     return;
   }
   
-  // Network-only pour les API
+  // API
   if (url.pathname.startsWith('/api/')) {
     event.respondWith(fetch(request));
     return;
   }
   
-  // Par défaut: network-first
   event.respondWith(networkFirst(request));
 });
 
-// Stratégies de cache
 async function cacheFirst(request) {
   const cache = await caches.open(CACHE_NAME);
   const cached = await cache.match(request);
@@ -90,7 +114,6 @@ async function cacheFirst(request) {
   try {
     const response = await fetch(request);
     
-    // ✅ CORRIGÉ: Vérifier que c'est GET avant de cacher
     if (response.ok && request.method === 'GET') {
       cache.put(request, response.clone());
     }
@@ -106,7 +129,6 @@ async function networkFirst(request) {
   try {
     const response = await fetch(request);
     
-    // ✅ CORRIGÉ: Vérifier que c'est GET avant de cacher
     if (response.ok && request.method === 'GET') {
       const cache = await caches.open(CACHE_NAME);
       cache.put(request, response.clone());
@@ -119,7 +141,6 @@ async function networkFirst(request) {
       return cached;
     }
     
-    // ✅ SIMPLIFIÉ: Pas de page offline, juste throw l'erreur
     throw error;
   }
 }
