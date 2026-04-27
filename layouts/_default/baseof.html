@@ -8,9 +8,8 @@
   <link rel="canonical" href="{{ .Permalink }}">
   {{ partial "head-meta.html" . }}
 
+  {{/* 🏦 hbagency PREBID - DOIT ÊTRE LE PLUS HAUT POSSIBLE */}}
   <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_40297.js" async></script>
-
-
 
   {{/* 🎯 IMAGE ORIGINALE POUR PINTEREST */}}
   {{ if .Params.image }}
@@ -23,8 +22,8 @@
       <link rel="image_src" href="{{ $img.Permalink }}">
     {{ end }}
   {{ end }}
-  
-  {{/* ---------- CSS via Hugo Pipes (BLOQUANT – Fix CLS) ---------- */}}
+
+  {{/* ---------- CSS via Hugo Pipes (BLOQUANT – Fix CLS) ---------- */}}
   {{ $css := resources.Get "css/style.compiled.css" | resources.ExecuteAsTemplate "main.processed.css" . }}
   {{ if hugo.IsProduction }}
     {{ $css = $css | resources.Fingerprint "sha512" }}
